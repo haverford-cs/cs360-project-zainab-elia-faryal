@@ -1,54 +1,79 @@
 """
-Authors: Zainab Batool
-Date: 10/22/2020
-Description: A class to compute logistic regression solution
+File with main function.
+Author: Faryal Khan
+Date: 10/20/20
 """
-import util
-import numpy as np
 from LogisticRegression import *
+import util
 
 
 def main():
-    total=0
-    correct=0
-    confusion_matrix=np.zeros((2,2))
+
+    # load data
+
     opts = util.parse_args()
-    #read train and test files
-    train_partition = util.read_csv(opts.train_filename)
-    test_partition  = util.read_csv(opts.test_filename)
-    #create model and train it
-    model = LogisticRegression()
-    model.fit_SGD(train_partition.X,train_partition.y,opts.alpha)
 
-    n=test_partition.y.shape[0]
-    X = model.generate_logistic_features(test_partition.X)
-    #iterate through each test example, make prediction then check and compute accuracy
-    for i in range(0,n):
-        y_pred=model.predict(X[i])
-        if y_pred>=0.5:
-            y_pred=1
+    train_data = load_data('headlines_train.csv')
+    test_data = load_data('headlines_test.csv')
+
+    alpha = opts.alpha
+
+    test_x = []
+    test_y = []
+    train_x = []
+    train_y = []
+
+    for x_entry in train_data.X:
+        train_x.append(x_entry)
+
+    for y_entry in train_data.y:
+        train_y.append(y_entry)
+
+    for x_entry in test_data.X:
+        test_x.append(x_entry)
+
+    for y_entry in test_data.y:
+        test_y.append(y_entry)
+
+    test_X = np.array(test_x)
+    test_Y = np.array([test_y])
+    train_X = np.array([train_x]).reshape((590606, 1))
+    train_Y = np.array([train_y]).reshape((394,))
+
+    model = LogisticRegression(alpha)
+
+    model.fit_SGD(train_data.X, train_data.y)
+    weights = model.weights_
+
+    model_predictions = (model.predict(weights, test_X))
+    predictions = []
+    for value in model_predictions:
+        prediction = 0.0
+        if value > 0.5:
+            predictions.append(1)
         else:
-            y_pred=0
-        #check accuracy and fill in matrix
-        y = int(test_partition.y[i])
-        if check_accuracy(y_pred,test_partition.y[i]):
-            confusion_matrix[y,y]+=1
-            correct+=1
+            predictions.append(0)
+
+    incorrect = 0
+    correct = 0
+    for i in range(0, len(predictions)):
+        if test_data.y[i] != predictions[i]:
+            incorrect += 1
         else:
-            confusion_matrix[y,y_pred]+=1
-        total+=1
-    accuracy=calculate_accuracy(correct,total)
-    print(f"{correct} out of {total} correct\n accuracy = {accuracy}")
-    print("Prediction")
-    print(confusion_matrix)
+            correct += 1
 
-def check_accuracy(num1,num2):
-    """Check if our label matches real label"""
-    return num1==num2
+    print("Accuracy: " + str(correct/(correct+incorrect)) + " " +str(correct) + " out of " + str(correct+incorrect)  + " correct.")
 
-def calculate_accuracy(correct, total):
-    """Calculate accuracy of the nb_model"""
-    return (correct/total)
+
+    result = np.zeros((2, 2))
+
+    for i in range(len(test_data.y)):
+        result[int(test_data.y[i])][int(predictions[i])] += 1
+
+    print(result)
+
+
+
 
 if __name__ == "__main__" :
     main()
