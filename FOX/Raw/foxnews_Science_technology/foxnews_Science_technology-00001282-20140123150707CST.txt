@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO>1282</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/36AgBwpV_pE/</URL>
+<TITLE>GlassesOff app claims to eliminate need for reading glasses</TITLE>
+<TIME>Thu, 23 Jan 2014 21:07:07 GMT</TIME>
+<ABSTRACT>
+Like death and taxes, reading glasses are almost inevitable, caused by the aging of your eye known as presbyopia. Fortunately, there may be a way to correct it.
+</ABSTRACT>
+<TEXT>
+The GlassesOff app cdan train your brain to improve your vision.GlassesOff
+The GlassesOff app cdan train your brain to improve your vision.GlassesOff
+Like death and taxes, reading glasses can seem almost inevitable -- perhaps until now.
+A new app called GlassesOff claims to be able to improve your vision, eliminating the need for reading glasses for sufferers of the near universal condition called presbyopia (from the Greek for aging eyes). The condition hits nearly everyone -- an estimated 1.2 billion sufferers are predicted by 2020, according to one study.
+The GlassesOff app also claims it may even give you "super-vision" beyond the 20/20 standard your optometrist shoots for.
+“Super-vision is a side effect,” said Nimrod Madar, president and CEO of the Israeli app-maker.
+- Nimrod Madar, president and CEO of GlassesOff
+It sounds impossible -- yet it’s real, and based on a very simple yet groundbreaking discovery, Madar explained. “Vision actually happens in the brain,” he told FoxNews.com.
+Eyes may be windows to the soul, but like a window, they’re simply panes of glass. You don’t see with your eyes, Madar explained. Eyes are the lenses on a digital camera; your brain is the computer chip that interprets the light signals and translates them into a picture.
+The eye captures light, the brain interprets that data -- and the app can in theory alter how the brain does that.
+“We’re changing the way the brain interprets that information,” he said.
+The GlassesOff app works by presenting special designs called Gabor patterns -- fuzzy, vertical bars that look vaguely like elbow macaroni or jail cell bars (such images are widely used in vision research). In sessions that last 12 to 15 minutes, the app trains the user to look for these patterns as they flash on-screen for a fraction of a second. By varying the size, orientation shape and contrast of the patterns, neurons in the brain are stimulated, he explained.
+Beyond that, what exactly the app is doing to the brain is a topic up for debate, explained Uri Polat, chief science officer for the company and the brains behind the brain trainer. It may make neurons more efficient, by building new synapses. Or it may stimulate them to release more chemicals, strengthening the signals they send.
+Regardless, it seems to work.
+In a 2012 paper published in the prestigious journal Nature, Polat and Dennis Levy, chief of optometry at University of California, Berkeley, described the effectiveness of the procedure for training the brain.
+“We show that perceptual learning (repeated practice on a demanding visual task) results in improved visual performance in presbyopes, enabling them to overcome and/or delay some of the disabilities imposed by the aging eye,” they wrote. “This improvement was achieved without changing the optical characteristics of the eye.”
+Polat has spent 20 years studying neuroscience and vision; he detailed the process first in a 2004 paper in the journal Proceedings of the National Academy of Sciences.
+The technology holds promise for the future as well, potentially improving reading speed for children, reaction times for athletes or depth perception. The company is in the early stages of testing a version with diagnostic potential as well.
+The app isn’t cheap, though it starts out so. It’s free for a few weeks testing. If a consumer decides it works, he’ll have to buy the full app, which costs $59. Then there’s a subscription price to maintain the brain’s newfound visual acuity.
+Madar defended the cost of the app, which is among the more expensive apps in a market dominated by $0.99 downloads.
+“This isn’t just another game. This is a very sophisticated scientific application,” he said.
+The first effects of presbyopia occur in the early 40s. The app is ideally suited for people aged 40 to 60, he explained. But a quick 8 to 10 minute test will forecast expected improvements for anyone curious about how it will work.
+The app is for the iPhone and iPad only at present, but it doesn’t hinge on the “Retina” display in that device -- an Android version should be released in the next few months.
+Jeremy A. Kaplan is Science and Technology editor at FoxNews.com, where he heads up coverage of gadgets, the online world, space travel, nature, the environment, and more. Prior to joining Fox, he was executive editor of PC Magazine, co-host of the Fastest Geek competition, and a founding editor of GoodCleanTech.
+</TEXT>
+</DOC>

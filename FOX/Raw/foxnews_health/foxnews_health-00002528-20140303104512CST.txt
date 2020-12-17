@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>2528</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/zy_RIDc-_mQ/</URL>
+<TITLE>Vaccination messages may backfire, study finds</TITLE>
+<TIME>Mon, 03 Mar 2014 16:45:12 GMT</TIME>
+<ABSTRACT>
+Although public health researchers have worked to counter misinformation about vaccines and raise vaccination rates, a number of the methods they are using may be ineffective, according to a new study.
+</ABSTRACT>
+<TEXT>
+Although public health researchers have worked to counter misinformation about vaccines and raise vaccination rates, a number of the methods they are using may be ineffective, according to a new study.
+In the study, researchers focused on the now-debunked idea that the vaccine for measles, mumps and rubella (or MMR) caused autism. Surveying 1,759 parents, researchers found that while they were able to teach parents that the vaccine and autism were not linked, parents who were surveyed who had initial reservations about vaccines said they were actually less likely to vaccinate their children after hearing the researchers messages.
+"The first message of our study is that the messaging we use to promote childhood vaccines may not be effective, and in some cases may be counterproductive," said Brendan Nyhan, an assistant professor in the department of government at Dartmouth College, who researches misconceptions about health care. "We need more evidence-based messaging about vaccines. We don't know what works, and we need to learn more, rather than relying on hunches or intuition."
+The myth that the MMR vaccine can cause autism grew out of a small, 1998 British study that has since been retracted. The paper's author was later found guilty of misconduct and can no longer practice medicine in the UK. A number of large-scale studies conducted since then have showed no connection. [7 Medical Myths Even Doctors Believe]
+In the new study, researchers looked at four methods designed to counter the myth that the MMR vaccine can cause autism. They gave people either information from health authorities about the lack of evidence for a connection, information about the danger of the three diseases the MMR vaccine protects against, pictures of children who had one of those three diseases, or a story about an infant who almost died from measles.
+At the study's start, the group of parents who were most opposed to vaccination said that on average, the chance they would vaccinate a future child against MMR was 70 percent.
+After these parents had been given information that the MMR vaccine does not cause autism, they said, on average, the chance they would vaccinate a future child was only 45 percent even though they also said they were now less likely to believe the vaccine could cause autism.
+In other words, giving the parents new information made them more opposed to vaccinating a future child.
+Nyhan said the exact reason for this phenomenon is unclear, but past research gives some hints.
+"We suggest that people are motivated to defend their more skeptical or less favorable attitudes towards vaccines," Nyhan told Live Science.
+In the face of evidence that one of their notions about vaccines is incorrect, he explained, people may recall other objections or concerns they have, and as a result they become less likely to say they would vaccinate, rather than more.
+To counter this, he said, public health strategies will need to target opposition to vaccines by keeping in mind that there are a number of reasons parents may be opting not to vaccinate.
+One limit, Nyhan said, is that the study merely looked at parents' intentions. As the actual concern is vaccination, it's important for researchers to consider vaccination rates, he said.
+Also, as vaccination rates are currently high, it's important to keep in mind that any strategies should focus on retaining these numbers and not raise more concerns, tipping parents who are willing to vaccinate away from doing so.
+The positive takeaway, Nyhan said, is that researchers have the tools to learn more about what messages do work, and can hopefully develop strategies that will lift vaccination rates higher.
+But given the range of groups with some impulse against vaccination, it likely won't be simple to find a message that works for everyone.
+"We shouldn't put too much weight on the idea that there's some magic message out there that will change people minds," he said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO>2090</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/fI2__SpUvt8/</URL>
+<TITLE>Meditation may help with anxiety, depression and pain</TITLE>
+<TIME>Tue, 07 Jan 2014 12:48:27 GMT</TIME>
+<ABSTRACT>
+Mindfulness meditation may be useful in battles against anxiety, depression and pain, according to a fresh look at past research.
+</ABSTRACT>
+<TEXT>
+Mindfulness meditation may be useful in battles against anxiety, depression and pain, according to a fresh look at past research.
+Using data from 47 earlier studies, researchers found moderate evidence to support the use of mindfulness meditation to treat those conditions. Meditation didn't seem to affect mood, sleep or substance use.
+"Many people have the idea that meditation means just sitting quietly and doing nothing," wrote Dr. Madhav Goyal in an email to Reuters Health. "That is not true. It is an active training of the mind to increase awareness, and different meditation programs approach this in different ways."
+Goyal led the study at The Johns Hopkins University in Baltimore.
+He and his colleagues write in JAMA Internal Medicine that meditation techniques emphasize mindfulness and concentration.
+So-called mindfulness meditation is aimed at allowing the mind to pay attention to whatever thoughts enter it, such as sounds in the environment, without becoming too focused. Mantra meditation, on the other hand, involves focusing concentration on a particular word or sound.
+Approximately 9 percent of people in the U.S. reported meditating in 2007, according to the National Institutes of Health. About 1 percent said they use meditation as some sort of treatment or medicine.
+For the new report, the researchers searched several electronic databases that catalog medical research for trials that randomly assigned people with a certain condition - such as anxiety, pain or depression - to do meditation or another activity. These randomized controlled trials are considered the gold standard of medical research.
+The researchers found 47 studies with over 3,500 participants that met their criteria.
+After combining the data, Goyal said his team found between a 5 and 10 percent improvement in anxiety symptoms among people who took part in mindfulness meditation, compared to those who did another activity.
+There was also about a 10 to 20 percent improvement in symptoms of depression among those who practiced mindfulness meditation, compared to the other group.
+"This is similar to the effects that other studies have found for the use of antidepressants in similar populations," Goyal said.
+Mindfulness meditation was also tied to reduced pain. But Goyal said it's hard to know what kind of pain may be most affected by meditation.
+The benefits of meditation didn't surpass what is typically associated with other treatments, such as drugs and exercise, for those conditions.
+"As with many therapies, we try to get a moderate level of confidence that the therapy works before we prescribe it," Goyal said. "If we have a high level of confidence, it is much better."
+But he noted that the researchers didn't find anything more than moderate evidence of benefit from meditation for anxiety, depression and pain.
+There was some suggestion that meditation may help improve stress and overall mental health, but the evidence supporting those findings was of low quality.
+There was no clear evidence that meditation could influence positive mood, attention, substance use, eating habits, sleep or weight.
+"Clinicians should be prepared to talk with their patients about the role that meditation programs could have in addressing psychological stress, particularly when symptoms are mild," Goyal said.
+Dr. Allan Goroll, who wrote an editorial accompanying the new study, told Reuters Health the analysis is an example of an area of much-needed scientific study, because many people make treatment decisions based on beliefs - not data.
+"That is particularly the case with alternative and complimentary approaches to treating medical problems," he said. "It ranges from taking vitamins to undergoing particular procedures for which the scientific evidence is very slim but people's beliefs are very great."
+Goroll is professor at Harvard Medical School and Massachusetts General Hospital in Boston.
+Goyal said people should remember that meditation was not conceived to treat any particular health problem.
+"Rather, it is a path we travel on to increase our awareness and gain insight into our lives," he wrote. "The best reason to meditate is to gain this insight. Improvements in health conditions are really a side benefit, and it's best to think of them that way."
+</TEXT>
+</DOC>

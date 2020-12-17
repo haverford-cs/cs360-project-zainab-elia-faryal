@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2621</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/uWXBysUduEg/</URL>
+<TITLE>Autism disorders greatly linked with environmental factors, study claims</TITLE>
+<TIME>Fri, 14 Mar 2014 14:14:21 GMT</TIME>
+<ABSTRACT>
+A new meta-analysis has revealed that toxins in the environment may play a much more significant role in the formation of autism spectrum disorders and intellectual disabilities than previously thought.
+</ABSTRACT>
+<TEXT>
+REUTERS/Chaiwat Subprasom
+While the underlying causes of autism are still not fully understood, many health experts believe that genetics, environmental factors or a combination of the two are to blame.
+Now, a new meta-analysis has revealed that toxins in the environment may play a much more significant role in the formation of this neurodevelopmental disorder than previously thought.
+In a new study published in the journal PLOS Computational Biology, researchers from the University of Chicago examined medical records from more than 100 million people living in the United States.  Their analysis revealed that autism and intellectual disability (ID) rates correlated at the county level with incidences of genital malformations in newborn males.
+According to the researchers, this association is an indicator of exposure to harmful environmental factors during congenital development.
+“Essentially what happens is during pregnancy there are certain sensitive periods where the fetus is very vulnerable to a range of small molecules – from things like plasticizers, prescription drugs, environmental pesticides and other things,” study author Andrey Rzhetsky, a professor of genetic medicine and human genetics at the University of Chicago, told FoxNews.com. “...And some of these small molecules essentially alter normal development.  It’s not really well known why, but it’s an experimental observation, especially in boys and especially in the reproductive system.”
+For their research, Rzhetsky and his team analyzed data from insurance claims that covered more than a third of the U.S. population. They looked at data from individual states and more than 3,100 counties, comparing autism rates and cases of congenital malformations of the male reproductive system – such as micropenis, hypospadias (urethra on the underside of the penis), undescended testicles and more. The team studied congenital malformations in the female population, as well.
+After adjusting for gender, ethnic, socioeconomic and geopolitical factors, the researchers found that autism rates increased by 283 percent for every 1 percent increase in frequency of congenital malformations. Intellectual disability rates increased by 94 percent for every 1 percent increase.
+“Malformations predict very strongly the rates of autism, and the rate of malformation per person varies significantly across the country,” Rzhetsky said. “Some counties have low rates and some have very high.  And rate of malformations is higher in counties with higher rates of autism.”
+The association was much stronger in boys, as male children with autism were almost six times more likely to have congenital malformations. Incidence of autism in females was also linked with increased malformation rates, but the association was much weaker.
+Rzhetsky acknowledged that his results do not directly implicate environmental factors as a cause for autism; but because he and his team controlled for so many other potential factors, and congenital malformations varied so widely within the United States, Rzhetsky believes the environmental interpretation is particularly strong.
+“Yes, the population is heterogeneous and some counties for whatever reason have subpopulations that are genetically more ‘loaded,’ but it seems less likely than an explanation that environment differs from county to county…It would be strange to see those differences if [autism was only caused by] genetics, and it was several fold differences in rates from county to county.”
+According to the Centers for Disease Control and Prevention, approximately 1 in 88 children suffer from an autism spectrum disorder (ASD), and the condition is nearly five times more likely to occur in boys than in girls. As of yet, there is no definitive cause for autism, but Rzhetsky hopes his study will spark a shift in the scientific community from researching mostly genetic causes to researching more environmental factors.
+“The takeaway is that the environment may play a very significant role in autism, and we should be paying more attention to it,” Rzhetsky said. “It really shifts the emphasis from genetics to more of an environmental side. We should definitely take into account environmental factors.”
+</TEXT>
+</DOC>

@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO>957</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/B2nVgkTCccU/index.html</URL>
+<TITLE>New treatment may offer hope for peanut allergy</TITLE>
+<TIME>Fri, 31 Jan 2014 14:57:06 EST</TIME>
+<ABSTRACT>
+A group of researchers in the United Kingdom is making strides with treating peanut allergies in children.
+</ABSTRACT>
+<TEXT>
+(CNN) -- When you live in fear of you or your child accidentally ingesting peanut crumbs, any hope of undoing severe food allergy is welcome.
+A large clinical trial published this week in the Lancet confirms what smaller studies have shown in the past: Oral immunotherapy -- swallowing tiny, increasing amounts of peanut over time -- has the ability to desensitize allergic individuals to peanuts.
+Peanuts are one of the leading causes of food allergy reaction, and 400,000 school-aged children in the United States have this allergy, according to the American College of Allergy, Asthma and Immunology. Symptoms may occur from any contact with the peanut protein, which is why cross-contamination of foods can be very dangerous.
+The new results in the Lancet are a "very positive finding" because peanut-allergic people who become able to tolerate peanuts don't have to worry about any accidental exposure or trace amounts of contamination, said Dr. Anna Nowak-Wegrzyn, associate professor of pediatrics at Mount Sinai Hospital in New York, who was not involved in the study.
+Still, this is not a cure, she noted. The current thinking is that people who undergo oral immunotherapy need to continue eating peanuts every day in order to maintain tolerance.
+Further research is needed to confirm the new results in more patients, and to see just how long the peanut allergy protection lasts, said Nowak-Wegrzyn.
+How it works
+Researchers at Duke University Medical Center and Arkansas Children's Hospital found in 2009 that giving small doses of peanut protein over time could allow allergic children to tolerate eating peanuts.
+A 2011 study from Duke University Medical Center found that 11 children who had peanut allergy could tolerate the equivalent of six to seven peanuts after a year of treatment.
+Ninety-nine children ages 7 to 16 took part in the recent Lancet study.
+Participants were divided as follows: 49 were randomly assigned to the peanut immunotherapy treatment and 50 were placed in the control group, which received no treatment.
+Learn more about the study
+In the first phase of the trial, lasting 26 weeks, researchers found that 84% of participants receiving the oral immunotherapy could tolerate a daily dose equivalent to about five peanuts. Rick Martin is a husband and father to two young girls. Researchers determined that 24 out of 39 participants who got the treatment -- but none of the control group -- had become desensitized. They measured "desensitization" as having no reaction during a peanut "challenge" of eating the equivalent of about 10 peanuts.
+In the second phase, control group participants received the immunotherapy intervention, too, and 45 of them completed the treatment. The result here was that 54% of participants were able to eat the equivalent of 10 peanuts and 91% tolerated a daily intake equivalent to about five peanuts.
+Most participants had only mild side effects. Some experienced gastrointestinal symptoms -- 31 with nausea, 31 with vomiting and one with diarrhea.
+It appears that the treatment's protection lasts if children eat peanuts daily for up to two years, Clark said. After that, researchers are increasing the time between peanut consumptions every week. Initial studies show that this regimen is well tolerated for another two to three years, he said.
+"We expect children to have to take peanut for many years," Clark said.
+Despite shots, peanut allergy kills teen
+Genetic change
+But what if you forget to eat your peanuts?
+To maintain desensitization after experiments that involve oral immunotherapy, patients are usually asked to continue eating peanuts on a daily basis for the rest of their lives. But researchers at Stanford University School of Medicine and Lucile Packard Children's Hospital Stanford wanted to see if there was a way to figure out whether some patients could manage without doing that.
+Their report, published Friday in the Journal of Allergy and Clinical Immunology, found that the DNA in patients' immune cells gets altered with immunotherapy. This genetic change could be used in the future to create a blood test to assess whether peanut allergy immunotherapy has worked in a given person, researchers said.
+Dr. Kari Nadeau and colleagues looked at 20 children and adults who were allergic to peanuts and underwent immunotherapy for two years. They were able to eat a serving of four grams of peanuts every day without major allergic symptoms.
+Researchers instructed participants to stop eating peanuts for three months, after which they ate a small amount of peanut powder. Seven of the patients did not show allergic reaction, while 13 did.
+Blood samples from all participants were analyzed, and compared with samples from peanut-allergic patients who had never had oral immunotherapy.
+Researchers found differences in the DNA of regulatory T cells among the groups of people analyzed.
+Study authors said this could be the basis of a blood test that evaluates just how desensitized patients who have received immunotherapy treatment have become to peanuts.
+Monitoring DNA in allergic patients with this kind of blood test is not expensive and requires only common lab equipment. But the U.S. Food and Drug Administration would have to approve the test for this purpose outside of an experimental setting.
+If you suspect that you or your children have food allergies, talk to an allergist.
+Follow Elizabeth Landau on Twitter at @lizlandau
+</TEXT>
+</DOC>

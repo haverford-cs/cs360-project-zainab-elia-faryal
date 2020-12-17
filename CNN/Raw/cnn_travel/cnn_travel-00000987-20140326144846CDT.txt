@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>987</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_travel/~3/dSMHLaMiY6g/index.html</URL>
+<TITLE>TSA recommends checkpoint changes</TITLE>
+<TIME>Wed, 26 Mar 2014 15:48:46 EDT</TIME>
+<ABSTRACT>
+The Transportation Security Administration is recommending beefed-up police presence at TSA checkpoints and ticket counters during busy times at airports, the agency said in a report released Wednesday.
+</ABSTRACT>
+<TEXT>
+(CNN) -- The Transportation Security Administration is recommending a beefed-up police presence at TSA checkpoints and ticket counters during busy times at airports, the agency said in a report released Wednesday.
+The review, which was compiled after a deadly November 2013 shooting at Los Angeles International Airport (LAX), listed 14 recommendations to improve safety and security at the nation's airports.
+In addition to the call for an increased law enforcement presence, the report's recommendations include more active-shooter training, the reinforcement of emergency procedures and briefing TSA employees on actions taken to improve security.
+Paul Anthony Ciancia, 23, has been charged with murder in the shooting death of TSA officer Gerardo Hernandez at the airport's Terminal 3. He faces 10 other charges, including attempted murder. Two other officers and a passenger were wounded in the shooting on November 1.
+"Following the incident at LAX last year, which shocked and saddened us all, I ordered a comprehensive review of policies and procedures at LAX and airports across the country," said TSA Administrator John S. Pistole, in a news release.
+"The report released today outlines the actions TSA took immediately following the shooting and new procedures to enhance the safety and security of TSA employees nationwide, especially those who work on the frontlines each and every day to protect the traveling public."
+The agency didn't go far enough in its recommendations, failing to recommend an armed law enforcement unit within the agency, a TSA employees union said.
+"The current patchwork of local law enforcement agencies across the country inevitably leaves gaps in security, as we saw at LAX," David Cox, national president of the American Federation of Government Employees said in a statement. "Only an armed law enforcement unit within TSA can ensure the constant and consistent presence of sufficient law enforcement resources needed in the immediate area of the checkpoints and other key locations in order to prevent another tragedy like the one that occurred at LAX."
+A high-level TSA team was assigned the task of developing recommendations to improve employee safety and security. As part of that effort, the team met with outside stakeholders, including airport operators, law enforcement agencies and the TSA employees union.
+According to the report, Pistole delivered video messages to the TSA workforce to update them on the agency's response to the shooting. Pistole and his senior staff held over 100 town hall meetings with the TSA workforce, and employee suggestions were taken through the Idea Factory, a web-based tool.
+LAX shooting reignites debate over TSA workers' role in security
+While the airport's response and restoration of Terminal 3 operations was applauded, a report released March 18 by the Los Angeles Board of Airport Commissioners found serious problems hampered airport personnel that day.
+More than 20 law enforcement and other agencies responded to the shooting, and the lack of radio compatibility among agencies hindered communication, according to the March 18 report.
+The agencies' lack of radio compatibility delayed the creation of a unified command structure until 45 minutes after the arrival of the first law enforcement personnel on the scene. That caused gaps in interagency coordination, the Airport Commissioners' report said.
+The commissioners report provided "a clear-eyed, detailed look at every aspect of the incident" and identified actions airport staff might "undertake that could prevent a similar occurrence, enable us to better manage emergency events, and harness all available resources to ensure appropriate customer care during prolonged operational disruptions." said Gina Marie Lindsey, executive director of Los Angeles World Airports, which operates LAX.
+Airport security must constantly drill in preparation for an active-shooter scenario to successfully respond to shootings in the future, said Richard Bloom, Embry-Riddle Aeronautical University's director of terrorism, intelligence and security studies and chief academic officer.
+"They must practice, practice, practice in real life-like situations as much as possible, come back together to analyze what went right or wrong, and make adjustments accordingly," said Bloom. The TSA also needs to analyze other shootings to learn more about how to respond to real events, he said.
+The TSA's Pistole will testify on Friday before the U.S. House of Representatives Committee on Homeland Security's subcommittee on transportation security, which is holding a special hearing in Los Angeles on responses to the shooting. He can expect to be asked about radio incompatibility by the members of Congress in attendance, including Rep. Bennie Thompson, D-Mississippi.
+"I have lingering concerns about the ability of TSA personnel to communicate with first responders during emergencies," said Thompson, ranking member of the Homeland Security Committee, in a statement. "As we learned last week from the Los Angeles World Airports report, first responders could still not effectively communicate on the day of the shooting, despite the investment of $13 billion since 9/11 towards achieving interoperable communications capabilities."
+</TEXT>
+</DOC>

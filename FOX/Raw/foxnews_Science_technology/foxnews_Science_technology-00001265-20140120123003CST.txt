@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO>1265</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/M0VxszG2AFs/</URL>
+<TITLE>Phone home! European Space Agency hears sign of life from comet-chasing spacecraft</TITLE>
+<TIME>Mon, 20 Jan 2014 18:30:03 GMT</TIME>
+<ABSTRACT>
+Europe's Rosetta probe woke up from years of hibernation Monday and phoned home, a signal that traveled half a billion miles back to scientists waiting on pins and needles after hours of agonizing wait.
+</ABSTRACT>
+<TEXT>
+Jan. 20, 2014: Scientists with the European Space Agency rejoice upon hearing from the Rosetta spacecraft, which has slumbered in deep space for 31 months.ESA
+Employees work in the control room of ESA in Darmstadt, Germany. Scientists at the European Space Agency are expecting their comet-chasing probe Rosetta to wake from almost three years of hibernation on Monday Jan. 20, 2014.AP Photo/ESA, Juergen Mai
+An artists impression of the Rosetta orbiter deploying the Philae lander to comet 67P/ChuryumovGerasimenko.AP Photo/ESA, C.Carreau
+Jan. 20, 2014: A scientist with the European space agency stands at an airworthy copy of space probe 'Rosetta' in the ESA control center in Darmstadt, Germany.AP Photo/dpa, Daniel Reinhardt
+DEEP SPACE –  Talk about a long-distance phone call! 
+Europe's Rosetta probe woke up from years of hibernation Monday and phoned home, a signal that traveled half a billion miles back to scientists waiting on pins and needles after hours of agonizing wait.
+Dormant systems on the unmanned spacecraft were switched back on at 11 a.m. (1000 GMT; 5 a.m. EST) in preparation for the final stage of its decade-long mission to rendezvous with comet 67P/Churyumov-Gerasimenko. They had been powered down in 2011 to conserve energy, leaving scientists in the dark about the probe's fate -- until now.
+Rosetta is awake! RT @ESA_Rosetta: “Hello, world!"
+— ESA (@esa) January 20, 2014
+Rosetta's mission control team at the European Space Agency (ESA) said they were readying pre-defined telecommands to upload to the ship with further orders. But those signals will take about 45 minutes to get to the spacecraft, meaning at least an hour and a half wait for health reports.
+Prior to receiving the communication, scientists were nervous about the status of the distant probe.
+"We don't know the status of the spacecraft," said Paolo Ferri, head of mission operations at the European Space Agency. "There is a possibility that we're not going to hear anything. Two-and-a-half years are a long time. We're talking about sophisticated electronics and mechanics. We've taken all possible precautions for this not to happen but of course we cannot exclude that problems may have happened."
+Rosetta is named after a block of stone that allowed archeologists to decipher ancient Egyptian hieroglyphs. Scientists hope the probe's findings will help them understand the composition of comets and thereby discover more about the origins and evolution of our solar system.
+Comets are regarded as flying time capsules because they are essentially unchanged for 4.6 billion years. Scientists have speculated that comets -- which are essentially giant, dirty snowballs -- may be responsible for the water found on some planets. And like asteroids, comets also pose a theoretical threat to life on Earth.
+- Paolo Ferri, head of mission operations at the European Space Agency
+"Over the millennia comets have actually affected our evolution," said Ferri. "There are many theories about comets hitting the Earth and causing global catastrophes. So understanding comets is also important to see in the future what could be done to defend the Earth from comets."
+If all goes as planned, Rosetta will reach 67P in the coming months and fly a series of complicated maneuvers to observe the comet -- a lump of rock and ice about 2.5 miles in diameter -- before dropping a lander onto its icy surface in November.
+The Philae lander will dig up samples and analyze them with its on-board instruments.
+The probe and its lander will keep sending back data until their batteries die or the debris streaming off the comet irreparably damages their sensitive instruments.
+The mission is different from NASA's Deep Impact probe that fired a projectile into a comet in 2005 so scientists could study the resulting plume of matter. NASA also managed to land a probe on an asteroid in 2001, but comets are much more volatile places because they constantly release dust and gas that can harm a spacecraft.
+NASA is planning another space rock mission between 2019 and 2021. The agency is looking into sending a robotic spaceship to lasso a small asteroid and haul it close to the moon, where spacewalking astronauts would explore it.
+The Associated Press contributed to this report.
+Scientists hope to reboot hibernating probe in deep space
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>2662</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/tVjLbQ9ClmY/</URL>
+<TITLE>Fried foods may cause more weight gain for people with genetic risk for obesity</TITLE>
+<TIME>Wed, 19 Mar 2014 13:30:23 GMT</TIME>
+<ABSTRACT>
+A serving of French fries may have a more significant impact on your weight if you have certain genetic risk factors for obesity, new research reveals.
+</ABSTRACT>
+<TEXT>
+REUTERS/Lucy Nicholson
+A serving of French fries may have a more significant impact on your weight if you have certain genetic risk factors for obesity, new research reveals.
+In a new study published in the British Medical Journal, researchers analyzed the interactions between fried food consumption and genetic risk associated with obesity, using data from over 37,000 men and women taking part in three large health trials.
+They identified 32 genes related to obesity and body mass index (BMI) to create a genetic risk score to evaluate a person’s overall genetic risk for obesity. A higher score indicated that an individual carried more risk genotypes and had a higher risk of obesity. A low score meant the individual had a lower risk of obesity.
+Using food frequency questionnaires, researchers assessed participants’ fried food consumption as categorized into three groups: less than once a week, one to three times a week, and four or more times a week. They found that among people with the highest genetic risk score for obesity, those who consumed fried foods the most frequently had a higher BMI than those who consumed the least amount of fried food.
+“It’s a pretty significant difference,” lead study author Lu Qi, an assistant professor at the Harvard School of Public Health and Brigham and Women's Hospital and Harvard Medical School told FoxNews.com. “High genetic risk may amplify the adverse effect of fast food. On the other hand, high consumption of fried food may also amplify the genetic effect of obesity.”
+Researchers carefully controlled for lifestyle factors including physical activity and sugar-sweetened beverage intake.
+This was the first study supporting the theory that fried food may impact genetic factors in determining obesity. However, they have yet to determine why exactly this interaction occurs.
+“The reason [the study] is important is that this is the first step in a complex disease like obesity,” Alexandra Blakemore, a professor of human molecular genetics in the division of diabetes, endocrinology and metabolism at the Imperial College London, told FoxNews.com. “It’s really one of the early proofs of gene and environment interaction. [It was] known to exist but difficult to prove on a human scale.”
+Blakemore, who wrote an editorial accompanying the study, points out that there are an increasing number of single gene inherited forms of obesity that are passed from generation to generation similarly to diseases like cystic fibrosis or Huntington’s disease. These rare gene variants have a much stronger effect, compared to than the 32 genetic markers used in the study, on a person’s obesity risk and should be studied.
+“Like any other genetic disease, if you have variants then other family members might want to know. [This may] explain to people why they have so much more difficulties with obesity than other people seem to,” Blakemore said. “Obesity can be very difficult to live with…there’s a lot of blame and guilt and shame associated with obesity, which is not the situation with heart disease.”
+Moving forward, Qi plans to further the team’s analysis by looking at the impact of healthy foods, like whole grains, vegetables, nuts and fruits on genetic risk factors for obesity.
+</TEXT>
+</DOC>

@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO>1030</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/m8bgRlmwmVg/index.html</URL>
+<TITLE>W. Va. tap water test results expected in 1-3 weeks</TITLE>
+<TIME>Fri, 21 Feb 2014 15:15:53 EST</TIME>
+<ABSTRACT>
+Tap water test results in 10 West Virginia homes -- part of a state-commissioned study into whether the water is safe to drink after a chemical spill last month -- will be known in one to three weeks, scientists leading the effort said Friday.
+</ABSTRACT>
+<TEXT>
+(CNN) -- Tap water test results in 10 West Virginia homes -- part of a state-commissioned study into whether the water is safe to drink after a chemical spill last month -- will be known in one to three weeks, scientists leading the effort said Friday.
+The project also is close to assembling a panel that will try to make its own determination -- by examining the limited data available -- on how much of the little-studied chemical can remain in the water and still be safe for consumption, said University of South Alabama professor Andrew Whelton, one of the effort's leaders.
+The team will for now look at already-available data, because new animal or human studies can't be completed in the short term. But it also will recommend how more data can be collected, said another project leader, Jeffrey Rosen of Corona Environmental Consulting.
+"Our project will clarify at what levels (the chemical) should be ingested at," though there's no timetable yet for those findings, Whelton told reporters at a news conference.
+The effort -- called the West Virginia Testing Assessment Project -- comes after the chemical 4-methylcyclohexane methanol, or MCHM, was discovered leaking from a storage tank into the Elk River and into Charleston's water supply last month. The state's health bureau set up the testing this month at Gov. Earl Ray Tomblin's direction.
+A licorice-like smell alerted residents to the contamination and led to a do-not-use order for 300,000 West Virginians, some of whom could not drink or bathe in their water for more than a week.
+Officials lifted the do-not-use order last month, saying the chemical was found at very low levels. But Tomblin ordered the in-depth studies after questions persisted.
+West Virginians: We don't drink the water
+Whelton said sample collection at 10 homes started last week and finished Wednesday. Six hundred samples were sent to laboratories in three states.
+Little is known about the health effects of the chemical, which is used to wash coal before market to reduce ash.
+An expert panel that will explore how much of the chemical can safely be consumed "will be finalized in the coming weeks," Rosen said.
+An independent water test conducted early this month at CNN's request found trace levels of MCHM, both in untreated river water and in tap water from two homes in Charleston. The amounts ranged from less than 0.5 parts per billion to 1.6 parts per billion, well below the 1 part per million that the Centers for Disease Control and Prevention has said it considers unlikely to be associated with any adverse health effects.
+In its official guidance, the CDC does not use the word "safe." It merely says that based on animal studies, levels of the chemical were calculated at levels where "a person could likely ingest without resulting in adverse health effects."
+Rosen said the limited data from which the CDC made its guidance was not ideal, but the guidance was justifiable based on the information the CDC had. Rosen said the new panel will try to obtain data the CDC didn't have, but still said the information pool wouldn't be ideal.
+Asked if the Charleston-area public should stop drinking the water until the new panel made its determination, Rosen said that "has to be a personal decision."
+Earlier this week, Dr. Rahul Gupta, health officer and executive director of the Kanawha-Charleston and Putnam County health departments, told CNN that "the official agencies are saying (the water is) OK to drink," but "they're not saying it's safe to drink."
+"That's the word. People are looking for that word (safe)," Gupta said.
+After the spill, two waves of patients sought treatment from private doctors and 10 emergency rooms in a nine-county area for nonspecific symptoms such as rashes, nausea, vomiting and coughing, Gupta said.
+West Virginia asks feds to study possible health effects of chemical spill
+The first peak -- about 250 patients -- happened in the first three days after the spill was reported on January 9, he said.
+A lull ensued during the several days of the do-not-use advisory, followed by a second peak -- about the same number -- during the first few days after the advisory was lifted January 13, he said.
+Gupta acknowledged his findings were "nonscientific" and he did not know what the baseline incidence would be of patients appearing at an emergency room with such symptoms but said the anecdotes point to the need for further studies.
+"Those two peaks are undeniable," he said. "Perhaps there is something going on here."
+He's called for a long-term study to be carried out "in a manner able to capture any long-term impact."
+CNN's Elizabeth Cohen and Tom Watkins contributed to this report.
+</TEXT>
+</DOC>

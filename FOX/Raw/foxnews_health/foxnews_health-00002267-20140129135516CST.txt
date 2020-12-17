@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>2267</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/kDZ4PMcn8iQ/</URL>
+<TITLE>Antioxidants speed up lung cancer growth, study shows</TITLE>
+<TIME>Wed, 29 Jan 2014 19:55:16 GMT</TIME>
+<ABSTRACT>
+Testing the popular theory that antioxidants prevent cancer, Swedish researchers find that they may actually speed up tumor growth in certain patients
+</ABSTRACT>
+<TEXT>
+Antioxidant supplements are often marketed for their disease-preventing potential. Supposedly, they can eliminate free radicals and lower a person’s risk of cancer.
+But much of the evidence supporting these claims is mixed, and a new study published today in the journal Science Translational Medicine suggests that popular antioxidants may actually speed up a cancerous tumor’s growth.
+A team of Swedish researchers experimented on the effects of vitamin E, which has antioxidant properties, and a drug called N-acetylcysteine (NAC). NAC is a popular inhaled treatment for people with chronic obstructive pulmonary disease (COPD) because of its ability to reduce phlegm.
+See How COPD Affects the Lungs
+Testing their effects in mouse models of lung cancer and in human lung cancer cells, the team discovered that the presence of antioxidants caused a three-fold increase in tumor growth, and also caused mice to die twice as fast. The more antioxidants the mice were given, the more quickly they died. When tested on human cancer cells in the laboratory, the cells responded in the same way.
+Though researchers only examined the effects of vitamin E and NAC, they cited a body of evidence that suggests that other antioxidants may also fuel cancer cells, not thwart them. According to the National Center for Complimentary and Alternative Medicine (NCCAM), clinical trials of antioxidant supplements have repeatedly failed to prove claims that they help prevent conditions like heart attacks, strokes, dementia, or cancers.
+“If anything, if you look at all of them, antioxidants do not protect against cancer. They may increase the risk,” lead researcher Martin Bergo of the Sahlgrenska Cancer Center told reporters this week.
+Timeline: What Happens to Your Body When You Quit Smoking
+Antioxidants, which include vitamins, carotenes, and minerals, are found naturally in fruits and vegetables, and act to neutralize free radicals—cells that can damage human DNA.
+“Because DNA can be damaged by cancer, we expect antioxidants to hurt cancer, but it may actually help it,” researcher Per Lindahl of the Institute of Biomedicine at the University or Gothenburg said.
+It’s Not Always Cancer: See Other Potential Causes of Spots on the Lungs 
+The researchers say their findings suggest that antioxidant therapy is unsafe for smokers, patients with early-stage lung cancer, and people with COPD. However, they said their study only addressed the impact of antioxidants on tumor progression, not initiation or prevention.
+Though the study only looked at lung cancer cells, Bergo said the results are “suggestive it might be applicable to other types of cancer.” He cited one study from 2011 that found that men aged 50 or older had a 17 percent increased risk of prostate cancer if they took selenium and vitamin E supplements.
+Learn More: 9 Early Signs of Lung Cancer 
+Acknowledging that more studies are needed, Bergo and Lindahl agreed that antioxidants should be used with care in persons with lung cancer or those at a high risk of developing it.
+“You can walk around with undiagnosed lung tumors for a long time,” Bergo said. "It is still not clear whether or not antioxidants in healthy people may reduce their future risk of lung cancer.”
+</TEXT>
+</DOC>

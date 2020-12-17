@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2437</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/Ek3keeOTJ84/</URL>
+<TITLE>Lung cancer drug improves survival in late-stage trial</TITLE>
+<TIME>Wed, 19 Feb 2014 18:06:13 GMT</TIME>
+<ABSTRACT>
+An experimental cancer drug developed by Eli Lilly and Co, touted by some to be the company's next blockbuster, significantly improved survival rates in lung cancer patients. 
+</ABSTRACT>
+<TEXT>
+An experimental cancer drug developed by Eli Lilly and Co, touted by some to be the company's next blockbuster, significantly improved survival rates in lung cancer patients, sending the company's shares up 3 percent in early trading.
+Lilly needs new drugs to offset declining sales of its older drugs as they lose patent protection.
+Ramucirumab, designed to treat multiple cancers, has the potential to generate annual sales of $1.5 billion by 2020, according to some analysts.
+The drug has already been shown be successful in treating stomach cancer, and Lilly is waiting for approval from the U.S. Food and Drug Administration to market it for that disease.
+The latest results could help allay some concerns about the drug after it failed to delay the progression of breast cancer in a late-stage trial last year.
+The late-stage lung cancer trial compared a combination of ramucirumab and a common chemotherapy drug, docetaxel, with a combination of a placebo and docetaxel in treating patients with non-small cell lung cancer.
+The trial, known as Revel, showed that ramucirumab significantly improved overall survival rates as well as improving survival rates without the cancer worsening.
+Lilly did not provide details of the trial results, which it said would be presented at a scientific meeting.
+The company said on Wednesday that it planned to submit the first application for marketing approval later this year.
+Data from two other studies to test the drug's effectiveness to treat liver and colorectal cancer are expected later this year, Lilly said.
+BMO Capital Markets analyst Alex Arfaei expressed caution about the latest results.
+"We believe Revel needs to show at least (a) 2-3 month improvement in overall survival to be considered clinically meaningful," he said in a note.
+Ramucirumab, which Lilly acquired through its $6.5 billion purchase of ImClone Systems Inc in 2008, works by blocking development of blood vessels that feed tumors - a process known as angiogenesis.
+Lilly's shares were up 3 percent at $56.96 in early trading on the New York Stock Exchange. The company's shares had risen just 3 percent in the 52 weeks up to Tuesday's close.
+</TEXT>
+</DOC>

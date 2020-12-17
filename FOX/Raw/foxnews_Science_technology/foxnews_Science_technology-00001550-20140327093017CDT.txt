@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO>1550</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/QtgtazIl9Lo/</URL>
+<TITLE>Glow-in-the-dark plants go on sale</TITLE>
+<TIME>Thu, 27 Mar 2014 14:30:17 GMT</TIME>
+<ABSTRACT>
+Glowing trees will take awhile to make, but you can already preorder seeds of a glow-in-the-dark Arabidopsis, a little flowering plant of a mustard family.
+</ABSTRACT>
+<TEXT>
+Glow-in-the-dark plants like this one -- an actual photo -- are coming to your house this fall.DIYsect
+Like the glowing forests from the film “Avatar,” glow-in-the-dark plants are coming to your home. Growing a glowing tree may take a while, but you can order glow-in-the-dark seeds for Arabidopsis, a small flowering plant in the mustard family, right now.
+According to the Kickstarter campaign that launched the company last year, Glowingplant.com planned to start shipping the seeds next week. But the company says it has postponed the release until the fall – not due to production glitches or a failure to shine, but because it has raised more money than it expected.
+“We asked our backers a few months ago whether they wanted us to ship on time or to use the rest of the funds to improve the luminosity,” said Anthony Evans, CEO of the synthetic biology startup that has created the bioluminescent flora. “The overwhelming advice was to improve.”
+To create a bioluminescent plant, scientists synthetically crossbred Arabidopsis and the glowing marine bacterium Vibrio fischeri. Simply inserting the bacterium’s DNA into the plant wouldn’t work – the genes required modifications to work correctly in the plant – so the team used the synthetic approach.
+First, they assembled the genes virtually, using software called a genetic compiler, which lets scientists assemble DNA for new life forms on their computers. Then they sent the gene specs to DNA-assembling companies, which built the actual DNA.
+To import the freshly built genes into Arabidopsis, the team used a bacterium -- Agrobacterium tumefaciens. In nature, A. tumefaciens is a pathogen that inserts its genes into plant cells, causing tumorous growths. But its neutralized version can deliver the synthesized DNA into the host plant without hurting it.
+The team inserted the genes into the leaves and assessed how well the plant adjusted and how much light it produced. Thanks to that extra funding, they’re now experimenting with a gamut of slightly varied DNA sequences to achieve the best glow.
+“We plan to test about 1,500 sequences,” Evans said.
+When they settle on the best DNA sequence, they will create the commercial glow-in-the-dark Arabidopsis using a tool called a “gene gun, which will bombard the plant with nanoparticles that deliver the DNA inside.
+When the Arabidopsis blooms, it will produce seeds that will retain the new genes, and its offspring will glow in the dark. Right now the team is testing the second-generation Arabidopsis’ glowing aptitude.
+When the seeds are finally sold to the public, it will become the world’s biggest release of a genetically engineered plant – a concept that doesn’t bode well with some environmentalists. Synthetic biology and genetically modified organisms (GMOs) are highly disputed concepts in modern science. There are concerns that GMOs pose risks to humans or may become invasive species.
+When Glowing Plant first put its project on Kickstarter, an anti-synthetic biology group in Canada launched a “kickstopper” campaign to stop it. The effort amassed only $2,274. Evans’ team stopped a few bucks short of half a million, beating his original goal more than sevenfold.
+Christina Holmes, who studies implications of biotechnology and plant breeding innovations on humanity at Dalhousie University in Canada, said that the risks are case-specific.
+“Bluntly put, not all GMOs are equal,” Holmes said. “It depends on what plant you’re using, what genes you’re using, and what you’re using it for.”
+The risks are higher, she said, when plants in question are intended for human consumption. But Arabidopsis is just a weed. In terms of invasive species danger, risks are also plant-specific. “This depends partly on how easy it is for the plant involved to spread its pollen and therefore its genes to other plants,” Holmes said.
+In the case of Arabidopsis, the concerns are unfounded because it is primarily a self-pollinating herb, said Kyle Taylor, the molecular and plant biologist at Glowing Plant. “Ask any Arabidopsis biologist how hard it is to get them cross-pollinated, and they will tell you that it’s a non-trivial thing to do.”
+Taylor added that it will be harder for the hybrid to survive, because light production takes extra energy, which weakens the plant. The hybrid may even confuse its own light with sunlight, which may negatively affect its metabolism. “If you put a regular Arabidopsis next to a glowing one,” Taylor said, “the glowing one looks less happy.”
+Holmes says one may never know in advance how the new species will behave, but the luminous modification “won’t give it any better weed power” – compared to, say, canola that’s genetically modified to resist herbicide.
+Evans predicts the glowing plant will make the concept of synthetic biology exciting and relatable to people. “The reason people have such mistrust in biotechnology is that they don’t understand it,” he said. “We believe that we can change the resistance to biotechnology by creating something tangible, something people can understand.”
+So will we live to see Pandora’s forest-like trees that will replace street lamps, cut down on electricity usage and CO2 emissions?
+“It’s gonna take a lot of work to get to that level,” Taylor says. “It’s biology, so things can pop up that we don’t fully understand.” But he adds, “We have some ideas how to get there.”
+Art of science: 2013 science and engineering visual contest winners
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2094</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/6GrMQcZPiYQ/</URL>
+<TITLE>A medicine that can turbocharge learning?</TITLE>
+<TIME>Wed, 08 Jan 2014 18:40:04 GMT</TIME>
+<ABSTRACT>
+Medical researchers have reported a truly astounding discovery.  Giving the medication valproic acid (trade name, Depakote) to adults may allow the brain to assimilate new skills and learn new concepts at the same astounding rate that children pick them up.
+</ABSTRACT>
+<TEXT>
+Medical researchers have reported a truly astounding discovery.  Giving the medication valproic acid (trade name, Depakote) to adults may allow the brain to assimilate new skills and learn new concepts at the same astounding rate that children pick them up.
+Valproic acid is usually used to treat seizure disorders and bipolar disorder.  It is thought to enhance neuronal plasticity—helping the brain remodel its connections and perhaps recover from acute or chronic injuries.
+Takao Hensch, professor of molecular and cellular biology at Harvard University, divided volunteers into one group that received doses of valproic acid for two weeks and another that received placebo. Both groups were asked to perform online tasks to train their ears and identify various tones—to have, in essence, perfect pitch.
+The results showed that those individuals who had received the valproic acid scored significantly higher on the difficult learning task.
+In fact, prior to Hensch’s experiment, there were no known reports of adults acquiring perfect pitch.  But some of those who received valproic acid did.
+This finding opens up the amazing possibility that valproic acid, and perhaps other medicines like it, could allow adults to have the same learning capacity as kids for new languages, new math skills and new artistic skills.  It also makes one wonder how those suffering with dementia might fare if treated with valproic acid.
+The side effects of valproic acid can include liver damage.  Hence, when the medicine is used clinically to treat seizures or bipolar disorder, liver function tests must be performed regularly, and blood levels of the medication must be monitored to keep its concentration from rising to toxic levels.  There are other potential side effects too, including drosiness, hair loss and tremor.  But millions of people take valproic acid today without serious side effects.
+Much more research needs to be done, and I would not recommend people trying out valproic acid now to enhance learning.  But that day may come.  
+Dr. Keith Ablow is a psychiatrist and member of the Fox News Medical A-Team. Dr. Ablow can be reached at info@keithablow.com.
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>2387</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/iD1FGMgCMHQ/</URL>
+<TITLE>Moderate exercise may prevent age-related blindness</TITLE>
+<TIME>Wed, 12 Feb 2014 15:43:08 GMT</TIME>
+<ABSTRACT>
+New research suggests that exercise could slow the progression of retinal degenerative diseases like age-related macular degeneration - one of the leading causes of blindness in the elderly.
+</ABSTRACT>
+<TEXT>
+New research suggests that exercise could slow the progression of retinal degenerative diseases like age-related macular degeneration - one of the leading causes of blindness in the elderly.
+In a new animal study published in The Journal of Neuroscience, researchers studied the effects of exercise on vision using two groups of mice. One group was placed on rodent treadmills set at a moderate pace for one hour, five days a week. The second, inactive, group was placed on treadmills that did not move. After two weeks, researchers exposed the mice to a toxic light that killed their photoreceptors – the light-sensing cells in their retinas – to induce macular degeneration.
+After two more weeks of treadmill observations, researchers evaluated retinal function in each group of mice and found that in the exercising group, animals had retained twice as much retinal function as the inactive group.
+“We were surprised,” researcher Machelle T. Pardue, an associate professor of opthamology at Emory University School of Medicine and research career scientist at Atlanta VA Medical Center, told FoxNews.com. “This is as much protection as we’ve seen with other types of neuroprotectives we’ve worked with in the past.”
+Currently, the primary form of treatment for patients with macular degeneration involves injections of anti-VEGF drugs – which stop the growth of abnormal blood vessels, which leak and cause damage - directly into the eye. This is typically done in the later stages of the disease.
+Researchers hope that if people with macular degeneration could begin exercise intervention programs after experiencing the first signs of disease, they might be able to avoid having to endure repeated eye injections.
+Machelle and his team believe exercise interventions appear to be effective in part because it triggers an increase in brain-derived neurotrophic factor (BDNF) – a protein that supports nerve growth.
+“BDNF promotes the survival of [nerve] cells,” Pardue said.
+In the active group, BDNF levels were increased by 20 percent, compared to the inactive group.
+For aging adults, losing their vision can be devastating. And while age can hinder a person’s ability to work out, Pardue believes the prospect of persevering vision could be strong enough to motivate older adults to find a way to exercise.
+“Our data would certainly indicate that [exercise] would benefit the eyes and other things too, [such as] cognitive function,” Pardue said. “You could hardly go wrong signing up for the gym!”
+</TEXT>
+</DOC>

@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO>1509</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/RWBWEbb6_rI/</URL>
+<TITLE>Scientists find cosmic ripples from birth of universe</TITLE>
+<TIME>Mon, 17 Mar 2014 16:30:34 GMT</TIME>
+<ABSTRACT>
+Astronomers have found the first direct evidence of cosmic inflation, the theorized dramatic expansion of the universe that put the "bang" in the Big Bang 13.8 billion years ago, new research suggests.
+</ABSTRACT>
+<TEXT>
+This NASA graphic shows the universe as it evolved from the big bang to now. Goddard scientists believe that the universe expanded from subatomic scales to the astronomical in a fraction of a second after its birth.NASA/WMAP
+Gravitational waves from inflation generate a faint but distinctive twisting pattern in the polarization of the cosmic microwave background, known as a "curl" or B-mode pattern. For the density fluctuations that generate most of the polarization of the CMB, this part of the primordial pattern is exactly zero. Shown here is the actual B-mode pattern observed with the BICEP2 telescope, which is consistent with the pattern predicted for primordial gravitational waves. The line segments show the polarization strength and orientation at different spots on the sky. The red and blue shading shows the degree of clockwise and anti-clockwise twisting of this B-mode pattern.BICEP2 Collaboration
+The tiny temperature fluctuations of the cosmic microwave background (shown here as color) trace primordial density fluctuations in the early universe that seeded the later growth of galaxies. These fluctuations produce a pattern of polarization in the CMB that has no twisting to it. Gravitational waves from inflation are expected to produce much a fainter pattern that includes twisting ("B-mode") polarization, consistent with the pattern observed by BICEP2, which is shown here as black lines. The line segments show the polarization strength and orientation at different spots on the sky.BICEP2 Collaboration
+The sun sets behind BICEP2 (in the foreground) and the South Pole Telescope (in the background).Steffen Richter (Harvard University)
+Astronomers have discovered what they believe is the first direct evidence of the astonishing expansion of the universe in the instant following the Big Bang -- the scientific explanation for the birth of the universe some 13.8 billion years ago.
+Scientists believe that the universe exploded from a tiny speck and hurled itself out in all directions in the fraction of a second that followed, beginning just 10 to the minus 35 seconds (roughly one trillionth of a trillionth of a trillionth of a second) after the universe's birth. Matter ultimately coalesced hundreds of millions of years later into planets, stars, and ultimately us.
+And like ripples from a ball kicked into a pond, that Big Bang-fueled expansion caused ripples in the ancient light from that event, light which remains imprinted in the skies in a leftover glow called the cosmic microwave background.
+Scientists still don’t know who kicked the ball.
+But if confirmed, the newfound ripples would be amazing proof of what has long been mere theory about what happened in those first millionths of a second.
+- John Kovac, of the Harvard-Smithsonian Center for Astrophysics
+“The implications for this detection stagger the mind,” said Jamie Bock, professor of physics at Caltech, laboratory senior research scientist at the Jet Propulsion Laboratory (JPL) and project co-leader. “We are measuring a signal that comes from the dawn of time.”
+"It would be the most important discovery since the discovery, I think, that the expansion of the universe is accelerating," Harvard astronomer Avi Loeb, who is not a member of the study team, told Space.com. He compared the finding to a 1998 observation that opened the window on mysterious dark energy and won three researchers the 2011 Nobel Prize in physics.
+The groundbreaking results came from observations by BICEP2, a telescope at the South Pole, of the cosmic microwave background -- a faint glow left over from the Big Bang.
+Beginning a fraction of a fraction of a second after the universe's birth, according to the current theory, space-time expanded incredibly rapidly, ballooning outward faster than the speed of light. The afterglow from that expansion is called the cosmic microwave background, and tiny fluctuations in it provide clues to conditions in the early universe.
+For example, small differences in temperature across the sky show where parts of the universe were denser, eventually condensing into galaxies and galactic clusters.
+Since the cosmic microwave background is a form of light, it exhibits all the properties of light, including polarization. On Earth, sunlight is scattered by the atmosphere and becomes polarized, which is why polarized sunglasses help reduce glare. In space, the cosmic microwave background was scattered by atoms and electrons and became polarized too.
+“Our team hunted for a special type of polarization called ‘B-modes,’ which represents a twisting or ‘curl’ pattern in the polarized orientations of the ancient light,” said Bock.
+The team presented their work at a press conference Monda at Harvard -- the discovery of that characteristic pattern of polarization in the skies, which they called proof of the gravitational waves across the primordial sky.
+“This work offers new insights into some of our most basic questions: Why do we exist? How did the universe begin? These results are not only a smoking gun for inflation, they also tell us when inflation took place and how powerful the process was,” Harvard theorist Avi Loeb said.
+A brief history of invisibility
+Art of science: 2013 science and engineering visual contest winners
+101 more must-have tech toys
+</TEXT>
+</DOC>

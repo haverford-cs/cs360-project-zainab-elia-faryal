@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>1512</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/f4My_-nVuDM/</URL>
+<TITLE>Mercury is shrinking, NASA photos reveal</TITLE>
+<TIME>Mon, 17 Mar 2014 12:16:03 GMT</TIME>
+<ABSTRACT>
+The scorched first rock from the sun has contracted into itself even more than previously thought -- losing more than 4 miles of elevation in some parts, according to new research using data from NASA's Messenger spacecraft.
+</ABSTRACT>
+<TEXT>
+Mercury's surface is replete with cliff-like fault scarps. Here, one such scarp, Fram Rupes (image center), lies near the terminator (the divide between day and night). The Fram Rupes scarp is almost 1.5 kilometers high.NASA/Johns Hopkins University Applied Physics Lab/Carnegie Institution of Washington
+The planet Mercury is the solar system's shrunken head.
+The scorched first rock from the sun has contracted into itself even more than previously thought -- losing more than 4 miles of elevation in some parts, according to new research using data from NASA's MESSENGER spacecraft.
+PHOTOS: Messenger: First Photos from Mercury Orbit
+"It solves a mystery that's been lingering for a while," commented planetary scientist William McKinnon of Washington University in Saint Louis. "Mariner 10 (in the 1970s) first saw these giant cliffs. So we knew it was shrinking." But it didn't appear to have shrunk enough.
+- Paul Byrne of the Carnegie Institution of Washington
+The researchers knew the small planet was shrinking because Mercury was conforming to a theory of mountain building that was first applied (incorrectly) to our own planet about 200 years ago. In that theory, the Earth's mountains were thought to be a lot like the wrinkles that form on an apple's skin when it dries out and shrinks. But the idea just didn't fit the geology of Earth particularly well. Now a modern theory -- plate tectonics -- explains our planet's features far more accurately.
+Mercury, on the other hand, has only one solid shell for a crust, rather than Earth's many plates that shift about. As Mercury's molten iron core has cooled over the billions of years since the planet formed, it has contracted and the shell of rock surrounding it has cracked and shifted to accommodate the smaller size. Today, the signs of those changes are written all over the face of Mercury.
+NEWS: Spacecraft Raises Mercury Mysteries
+"Some of these things are really, really big," said Paul Byrne of the Carnegie Institution of Washington and the Lunar and Planetary Institute. "There are some truly gargantuan cliffs on Mercury." Bryne is the lead author of a paper presenting the results in the March 16 issue of the journal Nature Geoscience.
+The greater shrinkage corresponds to a model of the planet with a much larger iron core, said McKinnon.
+"It's really a giant iron planet" with a thin rock crust, McKinnon said.
+As for when all this shrinking happened, that's harder to figure out, said Byrne. Craters now seen on Mercury correspond to what scientists call the Late Heavy Bombardment -- a violent time in the history of the solar system that ended about 3.8 billion years ago. Any shrinkage features that happened before that were likely wiped out by asteroid impacts during that time.
+NEWS: Mercury: The Little Planet Full of Surprises
+"So Mercury surface has taken a beating," said Byrne. "It's possible that Mercury started contracting before that but we don't expect to see it."
+But there are signs that some shrinking happened later. One example is a giant cliff face at what's called Carnegie Rupes that runs right through a large crater. It implies that the cliff came first, was smashed by an asteroid impact, and then the cliff continued to grow after the impact.
+"We don't know if it's slowly slipping or Mercury-quakes," said Bryne. But it does feed into the idea that Mercury's shrinking has been going on a long time.
+</TEXT>
+</DOC>

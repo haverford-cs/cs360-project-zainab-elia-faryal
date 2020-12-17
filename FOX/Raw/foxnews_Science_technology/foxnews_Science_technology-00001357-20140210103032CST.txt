@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>1357</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/KmIjGe9-rKQ/</URL>
+<TITLE>Australian scientists discover oldest known star</TITLE>
+<TIME>Mon, 10 Feb 2014 16:30:32 GMT</TIME>
+<ABSTRACT>
+A team of Australian astronomers say they have identified the oldest known star in our universe -- one that formed a mere 200 million years after the Big Bang.
+</ABSTRACT>
+<TEXT>
+(L to R) lead researcher Dr Stefan Keller and team member Professor Mike Bessell.ANU
+Dr Stefan Keller with the SkyMapper telescope.ANU
+A team of Australian astronomers say they have identified the oldest known star in our universe -- one that formed a mere 200 million years after the Big Bang.
+"This is the first time that we've been able to unambiguously say that we've found the chemical fingerprint of a first star," lead researcher, Stefan Keller of the Australian National University (ANU) research school of astronomy and astrophysics said in a press release.
+The star, named SMSS J031300.36-670839.3, is estimated to be 13.6 billion years old and is much older than previous stars found in 2007 and 2013, which were believed to be 13.2 billion years old.
+- astronomer Stefan Keller
+The astronomers analyzed the light from the star to determine its chemical makeup, and extrapolated its age from there.
+"The telltale sign that the star is so ancient is the complete absence of any detectable level of iron in the spectrum of light emerging from the star," explained Keller.
+The star was first spotted on January 2 in the Milky Way, 6,000 light years away from the Earth using the ANU Skymapper telescope.
+"The stars we are finding number one in a million," team member Professor Mike Bessel said in a press release. "Finding such needles in a haystack is possible thanks to the ANU SkyMapper telescope that is unique in its ability to find stars with low iron from their color."
+The newly discovered star was formed in the wake of a primordial star and had a mass 60 times that of our Sun.
+"To make a star like our Sun, you take the basic ingredients of hydrogen and helium from the Big Bang and add an enormous amount of iron – the equivalent of about 1,000 times the Earth's mass," Keller said.
+Keller explained that primordial stars were previously thought to have died in violent explosions which polluted space with iron. But his discovery shows signs of pollution of lighter elements like carbon and magnesium with no traces of iron.
+"To make this ancient star, you need no more than an Australia-sized asteroid of iron and lots of carbon," Keller continued. "It's a very different recipe that tells us a lot about the nature of the first stars and how they died."
+Keller and his team hope that their discovery will help resolve long-standing discrepancies between observations and predictions of the Big Bang.
+"This is one of the first steps in understanding what those first stars were like," said Keller. "What this star has enabled us to do is record the fingerprint of those first stars."
+The discovery was published in the latest edition of the journal Nature.
+SpaceShots: The best new 84 photos of our universe
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO>1340</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/HMs5b89m1Lg/</URL>
+<TITLE>The North Star Polaris is getting brighter</TITLE>
+<TIME>Wed, 05 Feb 2014 13:00:42 GMT</TIME>
+<ABSTRACT>
+After dimming for the last few decades, the is beginning to shine brightly again. And over the last two centuries, the brightening has become rather dramatic.
+</ABSTRACT>
+<TEXT>
+This long-exposure photo (left) shows how the North Star, Polaris, stays fixed in the night sky as other stars appear to move during the night due to Earth's rotation. At right, a close-up of the multi-star Polaris system.Left image: M. Menefee; Right: N. Carboni; Assembly: D. Majaess
+Tenth century observations by Al-Sufi depict stellar brightness is depicted by size. In his catalog, Beta Kochab is shown as larger—and thus brigher—than Polaris, a change that is obvious to the naked eye.Rogelio Bernal Andreo
+Ancient drawing showing Polaris, the North Star.National Library of France (Bibliothèques nationale de France).
+The North Star has remained an eternal reassurance for northern travelers over the centuries. But recent and historical research reveals that the ever-constant star is actually changing.
+After dimming for the last few decades, the North Star is beginning to shine brightly again. And over the last two centuries, the brightening has become rather dramatic.
+"It was unexpected to find," Scott Engle of Villanova University in Pennsylvania told SPACE.com. Engle investigated the fluctuations of the star over the course of several years, combing through historical records and even turning the gaze of the famed Hubble Space Telescope onto the star. [Top 10 Star Mysteries]
+(In)constant as the North Star Scientists have known since the early 20th century that the familiar star was part of a pulsating class known as Cepheid variables; its variations were suspected as early as the mid-1800s. But unlike most Cepheid variables, the pulses of Polaris are very small.
+"If it had not been so popular as the North Star, we likely wouldn't have known it was a Cepheid until modern times," Engle said.
+In the early 1990s, scientists realized that the oft-lauded brightness of Polaris was beginning to decline. Engle and his group began to research the star around the beginning of 2000, when they found that the dropping brightness was on the rise again.
+"It started increasing rather rapidly," Engle said.
+Curious, the team began to search historical records to see what other measurements they could find. Combing through data from the past century, they compared the information on Polaris with observations of other celestial bodies from the same telescopes and details about the instruments to compare the relative brightness of Polaris over the years. They found that the star had grown brighter over the past hundred years.
+The next step was to determine just how far back the increasing brightness went. Engle pursued observations by Danish astronomer Tycho Brahe in the 16th century and Persian astronomer Abd al-Rahaman al-Sufi in the 10th century, using information from historical texts to determine just how bright the star was in the ancient sky.
+According to Engle, if we take the measurements of al Sufi and Ptolemy at face value, the North Star has brightened by about two and a half times over the last two centuries. Modern interpretations of the historical data indicate that it could be as much as 4.6 times brighter than it was in ancient times.
+Too bright to handle As they pursued the historical documents, Engle and his team continued to monitor the increasing brightness of Polaris. But they were stymied when a modern CCD device —essentially a very sensitive digital camera—replaced the older imaging device on their telescope. The newer technology was too sensitive to image the bright North Star.
+The team relied on observations from amateur astronomer Richard Wasatonic, whose backyard telescope still utilized the less-sensitive imaging equipment. They also obtained observations from astronomers in Croatia and the Czech Republic who still utilized older equipment.
+"We have to beg, borrow and steal to find people who use older photoelectric equipment," Engle said, acknowledging the irony of wanting to use older equipment.
+The team ran into similar difficulties when they sought to image Polaris with the Hubble Space Telescope. Even after receiving approval, he said that the HST team was very hesitant to let Engle and his colleagues image the bright star, concerned that the sensitive Cosmic Origins Spectrograph (COS) might suffer.
+"They basically said, we know you've been approved, but you really have to convince us you aren't going to damage our instrument," Engle said.
+The HST observations provided insights into the atmosphere of Polaris, which is changing along with its brightness.
+Engle presented the results of his ongoing research in a poster session at the American Astronomical Society meeting in Washington, D.C., earlier this month.
+A less-than-standard candle Polaris isn't the only Cepheid variable changing over time. Engle described an ongoing study of 15 other Cepheids, most of which have shown unexpected long-term changes in their average brightness.
+"For a long time, Cepheids have been prized because, even though they pulsate, they're consistent," Engle said.
+Such consistency has led to them being dubbed as one of the 'standard candles' of the universe. Standard candles are objects whose known brightness allows them to accurately measure distances across space.
+"It is possible that a good bit of Cepheids are undergoing these changes," Engle said. "They might be very, very complex stars, much more than we originally thought."
+</TEXT>
+</DOC>

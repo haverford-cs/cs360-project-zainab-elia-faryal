@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>1389</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/34uf_MVGN4A/</URL>
+<TITLE>Russian reconnaissance satellite to hit Earth Sunday</TITLE>
+<TIME>Sat, 15 Feb 2014 16:46:41 GMT</TIME>
+<ABSTRACT>
+Portions of Russia’s defunct Kosmos-1220 satellite will come crashing back to the planet on Sunday following a fiery, uncontrolled descent through the Earth’s atmosphere, Russian officials said.
+</ABSTRACT>
+<TEXT>
+Portions of Russia’s defunct Kosmos-1220 satellite will come crashing back to the planet on Sunday following a fiery, uncontrolled descent through the Earth’s atmosphere, Russian officials said.
+Fragments of the former reconnaissance satellite are expected to survive the high-speed re-entry and will most likely plunge harmlessly into the Pacific Ocean, Colonel Alexei Zolotukhin told Russian news agency Ria Novosti.
+“As of February 7, 2014 the fragments are expected to fall on February 16. The exact impact time and location of the fragments from the Kosmos-1220 satellite may change due to external factors,” Zolotukhin said.
+That uncertainty means the satellite could potentially fall anywhere on Earth. Similar uncontrolled descents – such as the November 2013 re-entry of the European Space Agency’s GOES satellite – have crashed harmlessly into the ocean. But in 1978, a different decommissioned Kosmos satellite crashed into an unoccupied part of Canada, spreading radioactive debris and leading to a lengthy clean-up. And in 2009, a third Kosmos satellite crashed at over 26,000 miles per hour with a U.S. Iridium telecommunications satellite, sending thousands of bits of space junk into orbit.
+The exact size and weight of the Kosmos-1220 satellite is unknown, Ria Novosti reported, adding to the uncertainty of the upcoming event.
+“Much of it will burn up in Earth’s atmosphere, but no doubt fragments of Kosmos-1220 will reach Earth,” David Eicher, editor of Astronomy magazine, told FoxNews.com in an e-mail.
+“What we have going for us is that most of the planet is covered with water, and highly populated areas are in the minority of our planet’s surface area. So it is unlikely that satellite debris will cause injuries or major damage. Still, with such a reentry, we are playing the odds.”
+“This is a very real danger, given that a decaying orbit will carry this satellite down onto the planet,” Eicher said.
+You can track the location of the satellite here.
+A scientist with NASA’s Orbital Debris Program Office did not immediately respond to FoxNews.com emails for details about the Kosmos satellite, nor did officials with the ESA’s Space Debris Office.
+As of October 2013, more than 800 floating bits of space debris posed a potential threat to the International Space Station, according to NASA. Of these, 10 percent were spacecraft, either functional or non-operational, a third were rocket bodies, and the remainder were miscellaneous debris, the  Orbital Debris Program Office noted in a recent newsletter. Some weigh several metric tons.
+Alex Donohue, spokesman for British gambling giant Ladbrokes, told FoxNews.com his agency wasn’t taking bets on the descent of this satellite, as it had when the GOES satellite came crashing down last November.
+But he offered some odds anyway: Pacific Ocean: 2/1 North & South American: 3/1 Russia: 4/1 Asia: 5/1 Australiasia: 5/1 Atlantic: 8/1 Europe: 10/1
+Jeremy A. Kaplan is Science and Technology editor at FoxNews.com, where he heads up coverage of gadgets, the online world, space travel, nature, the environment, and more. Prior to joining Fox, he was executive editor of PC Magazine, co-host of the Fastest Geek competition, and a founding editor of GoodCleanTech.
+</TEXT>
+</DOC>

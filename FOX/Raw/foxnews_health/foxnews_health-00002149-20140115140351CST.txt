@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO>2149</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/9P96CoV9IDc/</URL>
+<TITLE>Troubling outbreak of drug-resistant bacteria a growing threat</TITLE>
+<TIME>Wed, 15 Jan 2014 20:03:51 GMT</TIME>
+<ABSTRACT>
+With an outbreak of “nightmare bacteria” in a Chicago suburb hospital that has infected 40 people in the last year, the threat of drug-resistant bacteria is growing. 
+</ABSTRACT>
+<TEXT>
+With an outbreak of “nightmare bacteria” in a Chicago suburb hospital that has infected 40 people in the last year, the threat of drug-resistant bacteria is growing.
+The bug, known as carbapenem-resistant enterobacteriaceae (CRE), bears a rare enzyme that breaks down antibiotics. According to The Centers for Disease Control and Prevention (CDC), 2 million people have been infected and 23,000 have died from various kinds of drug-resistant bacteria over the last year.
+How does bacteria build resistance? The overuse of antibiotics is a major contributing factor. Because we often use antibiotics when they are not necessary, bacteria are able to evolve and even become stronger. It’s important that doctors and other health care workers take every precaution when prescribing antibiotics to make sure they are absolutely necessary.
+In hospitals, the problem is a lack of quality cleaning and disinfecting. CRE in particular grows on respirators, cystoscopies and catheters, making it harder to detect it early. But early detection is vital when it comes to protecting patients because tainted equipment must be segregated, and steps taken to ensure the cleanliness and sanitization of the surrounding area.
+Once the problem is recognized, isolating the patient or minimizing his or her outside contact is key. By diminishing contact or having whoever comes into the room wear protective gowns, we can decrease the spread of bacteria. Removing catheters and getting patients off ventilators that they don’t need to be on will also help decrease the spread. Mainly, people need to stop using antibiotics when they are not needed, which is causing a reaction by helping the bacteria to evolve.
+Should we be worried? The good news is, this is only a “pocket” infection in Chicago and has not yet become a systemic problem across the nation. But other, more common bacteria are becoming problematic. E. coli is a kind of enterobacteriaceae that is made up of a family of 70 organisms that are becoming smarter and smarter.
+If you are a relatively healthy person who doesn't not visit the hospital often, you don’t really need to be concerned. This superbug threat is more worrisome for patients that have been hospitalized in long-term facilities on ventilators and with long-term catheters.
+What can I do to protect myself? Sterilization is very important. Cidex is a common name for a variety of antimicrobial and disinfecting solutions that I use in my own practice and operating room. It’s used on some of our most invasive equipment - but the sanitization shouldn’t stop there. The more we sterilize, the more the patients will be protected.
+Be vigilant during your next appointment with your doctor or dentist. Make sure that all sterilized packages are opened in front of you. If you see a physician using unsterile practices, don’t be afraid to say something. Being aware of these situations and making sanitization a priority, will keep the people around us healthy and the spread of bacteria to a minimum.
+Dr. David B. Samadi is the Chairman of the Department of Urology and Chief of Robotic Surgery at Lenox Hill Hospital in New York City. He is a board-certified urologist, specializing in the diagnosis and treatment of urological disease, with a focus on robotic prostate cancer treatments. Dr. Samadi joined Fox News Channel in 2009 as a medical contributor. To learn more please visit his websites RoboticOncology.com and SMART-surgery.com. Find Dr. Samadi on Facebook.
+</TEXT>
+</DOC>

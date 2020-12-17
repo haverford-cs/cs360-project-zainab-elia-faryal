@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2116</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/98MkWphu9d4/</URL>
+<TITLE>Hot tubs, spas can spread illness in winter</TITLE>
+<TIME>Fri, 10 Jan 2014 15:45:34 GMT</TIME>
+<ABSTRACT>
+Disease outbreaks tied to swimming happen even in the winter, often after people go in hot tubs or spas, according to a new report from the Centers for Disease Control and Prevention.
+</ABSTRACT>
+<TEXT>
+Disease outbreaks tied to swimming happen even in the winter, often after people go in hot tubs or spas, according to a new report from the Centers for Disease Control and Prevention.
+Between 2009 and 2010, there were 81 outbreaks and 1,326 cases of illness in the United States linked to recreational water exposure (in pools, lakes, hot tubs, etc.), according to information reported from 28 states and Puerto Rico. (An outbreak is defined as two or more people who visited the same location, around the same time, getting sick.)
+Eighteen of these outbreaks (22 percent) were linked with hot tubs or spas, and about 40 percent of the outbreaks occurred in February or March, according to the report. Many of the winter outbreaks occurred in hotels.
+One of the most common illnesses linked with hot tub/spa outbreaks is infection with the bacterium Pseudomonas aeruginosa. Healthy people can develop Pseudomonas aeruginosa infections, including ear infections or skin rashes, after exposure to hot tubs that have not been properly chlorinated, according to the CDC. Called "hot-tub rash," the infection often appears in the shape of the bathing suit a person is wearing, because the suit holds the contaminated water, said Michele Hlavsa, an epidemiologist at the CDC's Waterborne Disease Prevention Branch.
+Because of the high temperature in hot tubs, it can be hard to keep the level of disinfectant as high as it needs to be, Hlavsa told LiveScience.
+As might be expected, most recreational-water outbreaks occurred in the summer months: Of the 57 outbreaks that occurred in treated facilities (such as pools), 25 occurred in July or August.
+An additional 24 outbreaks occurred in untreated water (lakes, rivers, etc.), almost all of which occurred in the spring or summer.
+The most common cause of illness was Cryptosporidium, a parasite that causes diarrhea.
+Awareness of recreational-water outbreaks is "important all year round," Hlavsa said.
+Swimmers can protect themselves and others by taking a preswim shower, or not swimming if they have diarrhea, Hlavsa said.
+Another tip is to try not to swallow the water in which you're swimming or wading, Hlavsa said. "We all think that chorine kills germs instantly, but it doesn't," Hlavsa said. Most germs are killed in a few minutes, but if someone swallows the water that has been contaminated with germs, they can become sick, Hlavsa said.
+The report is published this week in the CDC's Morbidity and Mortality Weekly Report.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

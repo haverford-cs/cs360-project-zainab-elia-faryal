@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>1561</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/KYKINOy6Evo/</URL>
+<TITLE>2018 mission: Mars rover prototype unveiled in 'Mars Yard' testing ground in UK</TITLE>
+<TIME>Fri, 28 Mar 2014 12:00:27 GMT</TIME>
+<ABSTRACT>
+It looks like a giant sandbox — except the sand has a reddish tint and the "toys" on display are very expensive prototypes designed to withstand the rigors of landing on Mars.
+</ABSTRACT>
+<TEXT>
+March 27, 2014: A robotic vehicle on the 'Mars Yard Test Area', a testing ground for the robotic vehicles of the European Space Agencys ExoMars program scheduled for 2018, moves in Stevenage, England.AP Photo/Lefteris Pitarakis
+March 27, 2014: Engineer Ben Nye walks past a robotic vehicle on the 'Mars Yard Test Area', a testing ground for the robotic vehicles of the European Space Agencys ExoMars program scheduled for 2018, in Stevenage, England.AP Photo/Lefteris Pitarakis
+March 27, 2014: Engineer Ben Nye stands next to a robotic vehicle on the 'Mars Yard Test Area', a testing ground for the robotic vehicles of the European Space Agencys ExoMars program scheduled for 2018, in Stevenage, England.AP Photo/Lefteris Pitarakis
+STEVENAGE, England –  It looks like a giant sandbox -- except the sand has a reddish tint and the "toys" on display are very expensive prototypes designed to withstand the rigors of landing on Mars.
+The European Mars rover unveiled Thursday at a "Mars Yard" testing ground in Britain is designed to drill beneath the surface of the Red Planet searching for signs of life. It's been dubbed 'Bryan' by its creators -- earlier versions were named Bridget (clad in gold material that makes it look like a garish dune buggy) and Bruno.
+The plan is to develop an autonomous robotic vehicle that can be launched in 2018 as part of the European Space Agency's ExoMars program, an ambitious plan that begins in 2016 with the launch of a Mars orbiter and demonstrator landing module.
+The goal is to bring samples of Mars back to Earth by the 2020s.
+The rovers being developed at the Airbus Defense and Space facility will be able to drill for samples and "feed" them into an onboard laboratory. The information gleaned can then be sent back to Earth.
+The data transmissions could even contain proof that living organisms on Mars had been found, said Abbie Hutty, an engineer charged with helping to make the rover tough enough. The rover's drill is designed to penetrate 6 feet beneath the surface, probing an area shielded from radiation and containing water deposits.
+"If there was life, that's where we would expect to find it," she said.
+The rover will be in communication with controllers on Earth twice a day and be able to use transmitted information to navigate to new destinations on Mars. It has a complex navigation system that relies on a pair of cameras mounted on a mast. These map the safest and fastest navigation route, determining which rocks the rover can handle and which must be avoided.
+But the rover won't be fast -- its maximum range is about 210 feet per day.
+</TEXT>
+</DOC>

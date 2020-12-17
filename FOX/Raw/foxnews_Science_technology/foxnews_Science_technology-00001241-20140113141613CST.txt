@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>1241</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/TmvKN6ELeig/</URL>
+<TITLE>Time machines could also clone objects, researcher says</TITLE>
+<TIME>Mon, 13 Jan 2014 20:16:13 GMT</TIME>
+<ABSTRACT>
+Why we need time machines: Access to the past would open all sorts of new possibilities of more than travel, scientists say.
+</ABSTRACT>
+<TEXT>
+Access to the past would open all sorts of new possibilities of more than travel.Rodger C. Evans / flickr
+Time travel is often a way to change history in science fiction such as "Back to the Future" and "Looper." Now researchers suggest a certain kind of time machine could also possess another powerful capability — cloning perfect copies of anything.
+However, scientists noted the way these findings violate what is currently known about quantum physics might instead mean such time machines are not possible.
+We are all time travelers in that we all move forward in time. However, scientists have suggested it might be possible to move back in time by manipulating the fabric of space and time in our cosmos. All mass distorts space-time, causing the experience of gravity, a bit like how a ball sitting on a rubber sheet would make nearby balls on the sheet roll toward it. Physicists have proposed time machines that could bend the fabric of space and time so much that timelines actually turn back on themselves, forming loops technically known as "closed timelike curves."
+These space-time warps can develop because of wormholes — tunnels that can in theory allow travel anywhere in space and time, or even into another universe. Wormholes are allowed by Einstein's general theory of relativity, although whether they are practically possible is another matter.
+A key limitation of this kind of time machine would be that any traveler using it cannot go back to a time before the device was built. It only permits travel from the future back to any point in time after the machine was constructed.
+Scientists have for decades explored what closed timelike curves are capable of if they are possible.
+One complication they would encounter is the no-cloning theorem in quantum physics, which basically forbids the creation of identical copies of any particle one does not know everything about to begin with.
+In classical physics, one can generate a perfect copy of anything by finding out every detail about it and arranging the same components in the same order. However, in the bizarre world of quantum physics — the best description so far of how reality behaves on its most fundamental levels — one cannot perfectly measure every detail of an object at once. This is related to Heisenberg's uncertainty principle, which notes that one can perfectly measure either the position or the momentum of a particle, but not both with unlimited accuracy.
+Nearly 25 years ago, theoretical physicist David Deutsch at the University of Oxford in England suggested closed timelike curves might actually violate the no-cloning theorem, allowing perfect copies to be constructed of anything. Now scientists reveal this might be true in findings detailed in the Nov. 8 issue of the journal Physical Review Letters.
+To understand this research, imagine one builds a time machine in the year 2000. One could place a letter into the device in the year 3000 and pick it up within this box in 2000 or any year between then and 3000. From the perspective of the letter, it goes inside this time machine into one mouth of a wormhole in the future and comes out the other mouth of the wormhole in the past.
+However, theoretical physicist Mark Wilde at Louisiana State University, in Baton Rouge, and his colleagues found this scenario may be more complex than previously thought. Instead of the time machine containing just one wormhole, it could possess many wormholes, each at some point in time between the future and the moment of its creation. A letter entering the box in 3000 might exit from a wormhole in 2999, instantaneously go back into that wormhole and emerge in 2998, and so on.
+"It's like there are 1,000 different particles emerging from all the wormholes, but in fact they're all the same particle you sent in the beginning," Wilde said. "You just have all these temporary copies emerging from and going back into these wormholes."
+The researchers discovered it was possible to scan the quantum details of whatever is traveling inside a time machine with enough accuracy to create a perfect copy of it.
+The accuracy of the facsimile one can make of an object traveling in a time machine is related to the number of the time machine's wormholes one has access to from different points in time. The more wormholes one has access to, the more temporary copies of that object one can take from the time machine for analysis. With enough temporary copies of the object, one can make as many perfect facsimiles of it outside the time machine as desired.
+However, these findings might not suggest time machines can violate the no-cloning theorem. Instead, this could mean closed timelike curves according to Deutsch's model are not possible, Wilde said. Closed timelike curves that behave according to other models do not violate the no-cloning theorem and would not allow perfect copies to be made, Wilde noted.
+"To me, all these results simply give us additional indications of how hard it is to fit closed timelike curves into everything else we know and believe about the laws of physics," theoretical computer scientist Scott Aaronson at MIT, who did not take part in this research. "My guess would be that they're hinting to us that closed timelike curves should not be physically possible."
+Nature's fury: See Mount Sinabung erupt
+A brief history of invisibility
+</TEXT>
+</DOC>

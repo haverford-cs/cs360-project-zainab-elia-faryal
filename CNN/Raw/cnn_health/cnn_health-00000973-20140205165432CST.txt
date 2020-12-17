@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO>973</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/590IAjhmfQw/index.html</URL>
+<TITLE>Artificial hand lets amputee feel</TITLE>
+<TIME>Wed, 05 Feb 2014 17:54:32 EST</TIME>
+<ABSTRACT>
+An experimental bionic hand allowed an amputee to feel the shape and composition of objects, a new study says.
+</ABSTRACT>
+<TEXT>
+(CNN) -- Ten years ago on New Year's Eve, Dennis Aabo Sorensen was launching fireworks when a defective rocket blew up. He was rushed to the hospital, and his left hand was amputated.
+Thanks to an international research project, Sorensen, 36, a native of Denmark, was able to feel sensation by using an experimental bionic hand last year. The device uses special sensors that communicate with electrodes inserted in Sorensen's nerves.
+This is the first time that an amputee has been able to feel real-time sensations through an artificial hand using this method, researchers said.
+"I could tell if it was a hard object or a soft one," Sorensen said. "It was really amazing to suddenly have the ability to distinguish the different objects from each other."
+The project is called Lifehand 2, and the clinical trial took place in Rome in February 2013. Paolo Maria Rossini at Gemelli Hospital supervised the experiment. Results were published Wednesday in the journal Science Translational Medicine.
+When you grasp an object with your natural hand, your nerve endings detect sensory information that is relayed back to the brain. That is the same principle of this experiment, said Silvestro Micera, senior author of the study and director of the Translational Neural Engineering Laboratory at Ecole polytechnique fédérale de Lausanne in Switzerland.
+"Maybe we were able to restore in some way something close to the natural sensation, which makes the job of the brain to understand what is happening easier," Micera said.
+Mind control? Brain controls brain in new demonstration
+How they did it
+Scientists added sensors that detect information about touch to an artificial hand. Measurements of tension in the tendons of this bionic hand allowed the sensors to produce an electrical signal.
+But that signal could not be understood by the nervous system because it is too coarse. Using computer algorithms, researchers turned the electrical signal into an impulse that sensory nerves could interpret.
+To be able to take that signal and experience it as feeling, Sorensen underwent surgery to have electrodes implanted into nerves in the upper part of his left arm. The electrodes, developed at Freiburg University in Germany, were very thin and precise, so that they could deliver weak electrical signals to the nervous system.
+Researchers asked Sorensen to squeeze objects in three different ways: First, with his natural right hand, then with the prosthesis only looking at the object, and then using the prosthesis without looking.
+When relying on visual cues alone, Sorensen could not gradually change how hard he squeezed an object -- he could only apply no force or maximum force.
+But when focusing on tactile sensory information, Sorensen's grasping was more natural and continuous. This shows how effective the approach is, and how similar it is to natural hand movements, Micera said.
+Sorensen could also sense how strongly he grasped the objects, in addition to the shape and composition of the different objects he handled, even while wearing a blindfold and earplugs.
+"He was squeezing the object, controlling the prosthesis, more or less according to sensory information he was getting," Micera said. "It is the first time that somebody is able to do it, relying on only sensory information provided by the prosthesis, by this neural stimulation."
+A show of hands to explore disability
+From Sorensen's perspective, using the beefed-up bionic hand wasn't identical to his natural hand, but he did experience similar sensations.
+"It was quite natural, and amazing to have the communication between my left hand again, and my brain," Sorensen said.
+Next steps
+The technology cannot yet be taken outside of the laboratory setting. Sorensen's bionic hand was connected by wires to computing equipment the whole time. He can't use it at home.
+But Micera and colleagues are hoping to do a longer-term study in the future where the technology is entirely wireless, with "everything in the prosthesis or the person."
+Instead of using a computer with an encoding algorithm, they would like to use a small chip. They are aiming to try this in a couple of years, Micera said.
+Sorensen used to be a house painter, but with the loss of his left hand he changed careers and became a real estate developer.
+As research continues on the artificial hand, Sorensen said he would be "more than happy" to participate again.
+If he could take the sensory-enhanced bionic hand out of the laboratory, he would probably want to go cycling.
+He can ride a bike now, but "I don't have the same feeling," he said.
+Bionic arm gives hope for amputees
+Follow Elizabeth Landau on Twitter at @lizlandau
+</TEXT>
+</DOC>

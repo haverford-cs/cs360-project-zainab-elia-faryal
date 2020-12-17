@@ -1,0 +1,67 @@
+<DOC>
+<DOCNO>1136</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/f8JM_FiUV1k/index.html</URL>
+<TITLE>Right, wrong and your brain</TITLE>
+<TIME>Wed, 26 Mar 2014 12:02:36 EDT</TIME>
+<ABSTRACT>
+Science is still trying to work out how exactly we reason through moral problems. It's a field that's "waiting for a big revolution," experts say.
+</ABSTRACT>
+<TEXT>
+(CNN) -- Imagine a CEO wants to profit from a venture that, by the way, involves emitting pollution toxic to the environment, but she doesn't care because the goal is profit.
+Is the CEO intentionally harming the environment? What if, instead, the CEO is pushing a project that happens to help the environment -- is the benefit any more or less intentional than the harm in the other scenario? How do you morally judge each of these situations?
+Science is still trying to work out how exactly we reason through moral problems such as these, and how we judge others on the morality of their actions, said Walter Sinnott-Armstrong, professor of practical ethics at Duke University.
+Researchers interested in the neuroscience of morality are investigating which brain networks are involved in such decisions, and what might account for people's individual differences in judgments. Studies on the topic often involve small samples of people -- functional magnetic resonance imaging is time-intensive and expensive -- but patterns are emerging as more results come in.
+"It's a field that's waiting for a big revolution sometime soon," Sinnott-Armstrong said.
+A moral network?
+Scientists have shown that there is a specific network of brain regions involved in mediating moral judgment. An influential study on this topic was published in 2001 and led by Joshua D. Greene, associate professor at Harvard University, author of "Moral Tribes: Emotion, Reason, and the Gap Between Us and Them."
+Adrian Raine and Yaling Yang, in a 2006 review article, described this study as a breakthrough. It focused "on the specific difference between making judgments (i.e. 'appropriate' or 'inappropriate') on 'moral personal' dilemmas (e.g. throwing a person out of a sinking life-boat to save others), and 'moral impersonal' dilemmas (e.g. keeping money found in a lost wallet)," they wrote.
+Greene's study suggested that three brain structures -- the medial prefrontal cortex, the posterior cingulate and angular gyrus on the left and right sides -- "play a central role in the emotional processes that influence personal moral decision-making," Raine and Yang wrote.
+Opinion: Unlocking crime using biological keys
+Other studies have since confirmed that these areas are important in processing information about moral decisions, as well as an area called the ventral prefrontal cortex.
+Several researchers have additionally suggested that the brain areas involved in moral judgment overlap with what is called the "default mode network," which is involved in our "baseline" state of being awake but at rest. The network is also active during "internally focused tasks including autobiographical memory retrieval, envisioning the future, and conceiving the perspectives of others," Randy Buckner and colleagues wrote in a 2008 study.
+To further understand which brain networks are essential for moral judgment, scientists study people whose behavior suggests that their relevant neural circuitry may be damaged.
+What goes wrong in psychopaths
+Psychopaths, particularly those who are also convicted criminals, have been the subject of much interest among scientists exploring moral judgment.
+"They're not scared of punishment, they don't feel empathy towards other people, they don't respect authorities that told them not to do things, and so there's nothing stopping them from doing what other people would dismiss in a nanosecond," Sinnott-Armstrong said.
+Raine and Yang suggest, based on research, that "antisocial groups" such as psychopaths may know what is moral, but they may lack a feeling of what is moral.
+A moral "feeling," which seems to be related to the brain's prefrontal cortex and amygdala, is what takes the recognition that an act is immoral and translates that recognition into behavioral inhibition, Raine and Yang wrote. "It is this engine that functions less well in antisocial, violent and psychopathic individuals."
+Jesus Pujol of the Hospital de Mar, Barcelona, Spain, and colleagues did a study published in 2012 to analyze how psychopaths' brain responses to moral dilemmas might contrast with that of non-psychopaths.
+Researchers used functional magnetic resonance imaging on 22 criminal psychopathic men and 22 healthy men who were not offenders. They found that most participants gave similar responses to moral dilemmas used in the study, whether they were psychopathic or not.
+But their brains told a different story: The psychopaths tended to show less activation in the medial frontal and posterior cingulate cortices in response to moral dilemmas. Researchers also found differences in the psychopaths' brains in an analysis of functional connectivity -- that is, they found impairment in the connections between some brain regions involved in morality and other areas.
+Pujol's group's more recent study, published this month in the journal Biological Psychiatry, also found weakened connections in psychopaths' brains that may affect their moral reasoning. Specifically, they found that structures associated with emotion showed reduced connectivity to prefrontal areas, and enhanced connectivity in an area associated with cognition.
+The results suggest that, in criminal psychopaths, the brain does not adequately use emotional information to control behavioral responses.
+Good intentions, bad outcome?
+Autism is another neurological condition that is being explored with regard to moral judgment.
+Rebecca Saxe at Massachusetts Institute of Technology has collaborated in research looking at how people with autism may weigh intentions and outcomes differently.
+Saxe was the co-author on a 2011 study showing that autism may be related to a different way of thinking about accidental harms. An example of this kind of scenario would be: If a person tries to kill someone else, but doesn't succeed, how do you judge them?
+A typical cognitively healthy person tends to judge targeted efforts at harming people as more morally wrong than accidental harms.
+"What determines moral blame is not how bad the outcome is, but mostly what was going on in the minds of the actors," she said at the American Association of the Advancement of Science annual meeting last year.
+Researchers compared people with high-functioning autism to those who do not have the condition on a variety of scenarios.
+Study authors found that people with autism did not consistently say that accidental harms and attempted harms are morally different, appearing to more heavily weight the negative outcome and less on the intention in making the judgment. Typically developing 4-year-old children also show this pattern, other research has found.
+On average, individuals with autism tended to place less importance on intention and beliefs, the study said, which could translate into difficulties in everyday social situations.
+There was also some variation in judgments among people without autism, Saxe said.
+Studies generally show that almost everyone puts some emphasis on both the consequences and the intentions of the person who brought them on, Sinnott-Armstrong said.
+But given that different people make different moral judgments, the question becomes, he said, "Whose moral judgments are affected by which factors in which circumstances?"
+Manipulation of judgment
+Scientists have also shown that it's possible to manipulate moral judgment by directly intervening in brain processes. Saxe was the senior author on a 2010 study in the journal Proceedings of the National Academy of Sciences on this topic.
+The study, involving with eight people in the first part and 12 in the second, looked at a brain area called the right temporoparietal junction. Researchers used a noninvasive technique called transcranial magnetic stimulation (TMS) to disrupt the activity of neurons in this brain region.
+TMS involves applying a magnetic field to a small area of the head, creating weak electric currents that hamper brain cells' normal firing. It produces a temporary effect.
+Researchers applied TMS in two experiments. First, before participants made a moral judgment, they received 25 minutes of TMS. In the second, they experienced TMS in 500-millisecond bursts while making a moral judgment. Then they compared these judgments to those participants made while receiving TMS to a different brain region, as well as to the responses of people who did not receive TMS.
+Study authors found that TMS to the right temporoparietal junction was associated with distinct response patterns. It appears that TMS to this brain region biased judgments, compared to people who received TMS in a different brain region, or no TMS at all.
+Specifically, participants who received TMS in this area were more likely to say that a person's attempts to inflict harm -- for instant, a failed murder attempt -- were more morally permissible and less forbidden.
+But don't worry, Saxe said -- TMS couldn't be used secretly for nefarious purposes. Its effect lasted about 10 minutes; ideology and persuasion would be more powerful and sneaky for changing someone's mind.
+"TMS is not subtle," she said. "You can't be TMSed without knowing it. It's a huge heavy loud machine and its effects are small."
+But wait -- could TMS be used for good, to help people whose neural networks are not functioning well in making rational moral judgments?
+Sinnott-Armstrong thinks one day there could be treatments directly developed for the brain in extreme cases, such as criminal psychopaths.
+"It's possible that if we understand the neural circuits that underlie psychopaths and their behavior, we can use medications and magnetic stimulation to change their behavior," he said.
+Such techniques might not work as well as behavioral training programs, however, he said.
+More unanswered questions
+Existing studies tend to only look at how the brain responds to one kind of moral question: Circumstances in which a hypothetical person in some way causes harm, Sinnott-Armstrong said.
+But there are many other areas to explore, such as disloyalty to friends, "impure" sexual acts, and procedural injustice. How does the brain respond to a good outcome achieved by questionable means, such as a good leader coming to power in an unjust process? These topics are all ripe for future study.
+"I think we have strong evidence that different brain systems are involved in different kinds of moral judgments," he said.
+And what about cross-cultural differences? How about judging people in your national, cultural or political group vs. outsiders? Those could be other areas of exploration, Saxe said.
+Saxe is specifically planning to look at how people in particular groups perceive the thoughts and perspectives of "enemies."
+"Thinking about how these kinds of moral and psychological processes plug into intergroup dynamics and exacerbate intergroup conflict, and also how you could use them to defuse intergroup conflict, is one of the directions we're going in the lab," she said.
+Follow Elizabeth Landau on Twitter at @lizlandau
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>1422</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/XcvEd-0PWs8/</URL>
+<TITLE>Animals move alike, via 'magic formula', says study</TITLE>
+<TIME>Sun, 23 Feb 2014 16:47:53 GMT</TIME>
+<ABSTRACT>
+When it comes to movement, human engineering has much to learn from Mother Nature, says a new study in Nature Communications.
+</ABSTRACT>
+<TEXT>
+A bald eagle flies in Utah.AP Photo/Utah Division of Wildlife Resources, Lynn Chamberlain
+When it comes to movement, human engineering has much to learn from Mother Nature, says a new study in Nature Communications. Researchers found that animals of all kinds use the same essential mechanics to move whether on land, air, or water, reports the Houston Chronicle, which likens it to a "magic formula." In other words, "the fin of a fish moves just like the wing of a bird," explains Texas A&M's Tamu Times.
+And it's no accident: "The best reason we can think that these similarities are there in nature is that they are the most energy efficient," says an A&M researcher.
+The team looked at everything from insects to birds to whales to fish to molluscs, and found that the secret is in their flexible wings, fins, and tails.
+It's all about the bend, which always falls into a range of 30% to 60%. It's not that they can't bend further, it's that it doesn't make aerodynamic sense.
+Compared with how we get around on our man-made contraptions, animals show "a potentially perfect universal design," the Chronicle notes—and scientists hope they can steal some wisdom to help technology catch up.
+Maybe someday, then, fixed-wing aircraft will be replaced by planes with bendable wings. (Elsewhere in the animal kingdom, researchers found that your dog really does know when you're happy.)
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO>1612</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/14ZHL8LGVbg/index.html</URL>
+<TITLE>5 takeaways on Obama's NSA changes</TITLE>
+<TIME>Fri, 17 Jan 2014 13:30:29 EST</TIME>
+<ABSTRACT>
+President Barack Obama talked in sometimes lofty, often technical tones Friday about changing how the government does its anti-terror snooping. That includes how it collects records on many of your phone calls, emails and online chats.
+</ABSTRACT>
+<TEXT>
+(CNN) -- President Barack Obama talked in sometimes lofty, often technical tones Friday about changing how the government does its anti-terror snooping. That includes how it collects records on many of your phone calls, emails and online chats.
+Here's what it all meant:
+1. The public will get a voice before the secret intelligence court -- sort of
+The way things work now at the Foreign Intelligence Surveillance Court, the government asks a judge in secret for permission to collect, say, phone records. No one gets to argue the other side.
+Obama said he wants to open the court's doors to advocates from outside the government who can "provide an independent voice in significant cases."
+Obama announces changes at NSA
+The idea is to make sure outside voices have a say -- voices that might not always buy into the intelligence community's arguments -- but who knows what that panel will end up looking like.
+2. New limits on telephone records
+If you've been paying attention the last few months, you know the National Security Agency has been slurping up details on millions of phone calls placed in the United States. The agency isn't recording the actual conversation -- they're after stuff like the phone numbers involved and the time and length of each call.
+Blog: What others are saying
+That won't end, exactly, but Obama says big changes are coming. First, fewer calls will be cataloged. And analysts will now have to get a judge's approval to dip into the records. Later, the government will stop collecting and storing those records. Where they'll go is still up in the air, though.
+3. Super-secret "we want your stuff" letters are changing
+Remember the movie, "Fight Club?" Remember the line, "First rule of fight club is you do not talk about Fight Club?" Well, the government has something like that called the National Security Letter program. It requires tech companies to cough up info about suspected terrorists and others without so much as a peep.
+Obama wants to change it so those letters don't always stay secret. He also wants to give tech companies more latitude to reveal information about what the government asks for. He didn't say exactly what they'll be able to reveal, but at least maybe they'll be able to finally acknowledge "Security Club."
+4. People living outside the U.S. get some love, too
+Revelations sparked by former NSA contractor Edward Snowden's leaks didn't just rile up Americans. We learned the United States had been monitoring leaders of some of its allies, such as Germany. The United States also doesn't extend the kind of privacy protections to your everyday Italian or Peruvian living outside the United States.
+So Obama says the United States will take what he calls the "unprecedented step" of developing some privacy safeguards for citizens of other nations living abroad. That might include limits on how long the government keeps personal information and taking steps to make sure it's used only in very limited circumstances.
+5. So this ends all the drama, right?
+Hardly. Critics of U.S. intelligence practices barely waited for the speech to end before pouncing.
+WikiLeaks founder Julian Assange said he thinks Obama's speech amounted to little. "I think it's embarrassing for a head of state like that to go on for almost 45 minutes and say almost nothing," he said.
+Another privacy advocate called the reforms "mere window dressing."
+"Rather than dismantling the NSA's unconstitutional mass surveillance programs, or even substantially restraining them, President Obama today has issued his endorsement of them," said Mara Verheyden-Hilliard, executive director of the Partnership for Civil Justice Fund, an anti-surveillance organization.
+Snowden is expected to speak up about the changes next week, Assange told CNN.
+CNN's Ashely Fantz contributed to this report.
+</TEXT>
+</DOC>

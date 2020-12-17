@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>1238</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/isSez0AWSDs/</URL>
+<TITLE>Would time travelers leave online traces?</TITLE>
+<TIME>Fri, 10 Jan 2014 12:30:09 GMT</TIME>
+<ABSTRACT>
+Scientists searched a corner of the Internet for evidence of time travel into the past. They found no evidence that this fantastical form of travel exists.
+</ABSTRACT>
+<TEXT>
+In the movie "Back to the Future," Doc Brown builds a time machine into a Delorean.Universal
+Scientists searched a corner of the Internet for evidence of time travel into the past. They found no evidence that this fantastical form of travel exists.
+Time travel into the future is physically possible: Einstein's theory of special relativity predicts that the time between two events is slower for faster-moving objects. This has been experimentally proven by measuring clocks on commercial planes. But time travel into the past is trickier.
+Although many scientists have proposed the possibility of time travel into the past using the equations and concepts of Einstein's subsequent theory of general relativity, few scientists have conducted experiments to test these theories.
+This is because the theories include mysterious concepts like wormholes and cosmic strings. Scientists have yet to confirm these things exist at all, let alone prove that they enable time travel into the past. But this is not for lack of trying. One of the few experimental studies that has searched for evidence of time travelers from the future includes a party hosted by the famous physicist Stephen Hawking. 
+In 2012, Hawking invited any and all time travelers to a party, but the invitations were only made public after the party had occurred. Seven years prior, Amal Dorai, who at the time was an MIT graduate student, hosted a convention for time travelers, which like Hawking's party, hoped for an attendee from the future. Neither event had any guests.
+Instead of hosting an event, astrophysicist and co-founder of the Astronomy Picture of the Day, Robert Nemiroff and his graduate student Teresa Wilson of the Michigan Technological University, in Houghton, conducted a search for evidence of time travelers using the Internet. They claim it is the first approach of this nature and one of the most comprehensive experimental searches of its kind to date.
+They recently submitted their work to the scientific paper repository arXiv and presented a poster discussing their work Tuesday at a meeting of the American Astronomical Society near Washington D.C.
+Using Twitter and Google Trends, the two researchers looked for any anachronistic mention or search query for Comet ISON before it was first discovered along its suicidal mission toward the Sun on September 21, 2012 and for Pope Francis before his election on March 13, 2013. They also looked for mentions of Comet ISON on Nemiroff's Astronomy Picture of the Day website. Their search for posts and queries reached as far back as January 2006.
+The authors argue that if detected, the terms would suggest that a time traveler from the future had traveled to a time before either of these events, and deliberately or accidentally posted or searched for the information. Both terms were unique enough to prevent confusion with similar references and important enough to, in theory, persist into future pop culture.
+"One of the good things about this study is that it is reproducible," Nemiroff said. "There are surely other search terms that could be thought up."
+There's a catch to this tricky business of searching for travelers from the future, however, said Princeton astrophysics professor Richard Gott and author of the book Time Travel in Einstein's Universe. Gott explained that if a time machine could transport you into the past, you could not travel to a time before you built the time machine, according to analyses based on accepted physics principles. Since no known time machines exist today, it is unlikely that any time travelers existed in the year 2012 or any prior year. Despite this caveat, Gott remarked that the paper is "a fascinating idea."
+It was no surprise to Nemiroff or Wilson that they came up empty handed. The research was a fun look at how one might search for evidence of time travelers using current technology, Nemiroff said.
+</TEXT>
+</DOC>

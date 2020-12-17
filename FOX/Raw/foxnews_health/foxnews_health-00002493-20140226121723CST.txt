@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>2493</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/pyb39-tiG_k/</URL>
+<TITLE>New autism guidelines may reduce diagnoses by nearly one-third</TITLE>
+<TIME>Wed, 26 Feb 2014 18:17:23 GMT</TIME>
+<ABSTRACT>
+New guidelines for defining autism spectrum disorder (ASD) may reduce the number of people being diagnosed with the condition by nearly one-third.
+</ABSTRACT>
+<TEXT>
+New guidelines for defining autism spectrum disorder (ASD) may reduce the number of people being diagnosed with the condition by nearly one-third.
+According to a new study published in the Journal of Autism and Developmental Disorders, researchers from Columbia University have concluded that the updated guidelines, released by the American Psychiatric Association (APA) in 2013, may result in thousands of children with developmental delays no longer qualifying for the social and medical services they need.
+The guidelines are listed in the Diagnostic and Statistical Manual of Mental Disorders (DSM), often touted as the psychiatrist’s “bible” for diagnosing mental health disorders. The manual’s previous version, the DSM-IV-TR, listed three distinct subgroups for ASD: autistic disorder (AD), Asperger’s disorder and pervasive development disorder-not otherwise specified (PDD-NOS).   
+But in the manual’s latest edition, the DSM-5, these subgroups were eliminated and replaced with one broad diagnosis of ASD, which places individuals on a continuum depending on the severity of their symptoms.  Additionally, another category called social communication disorder (SCD) was added for people with verbal and nonverbal communication impairments, and the APA noted that many individuals with PDD-NOS might now fall under this category.
+After conducting a systematic literature review and meta-analysis of diagnostic rates, researchers found a 31 percent decrease of ASD diagnoses under the new DSM-5 guidelines, compared with cases of ASD identified by the DSM-IV-TR.  They also found a decrease in AD diagnoses of 22 percent and a decrease of PDD-NOS by 70 percent.  Furthermore, many of the people who failed to meet the criteria for ASD under the DSM-5 failed to qualify for SCD as well.
+According to the Centers for Disease Control and Prevention (CDC), 1 in 88 children suffer from ASD – a statistic the researchers think will soon change.
+"We are potentially going to lose diagnosis and treatment for some of the most vulnerable kids who have developmental delays," lead author Kristine Kulage, director of the office of scholarship and research development at Columbia Nursing, said in a press release. "In many instances, children require a diagnosis of ASD to receive medical benefits, educational support and social services."
+</TEXT>
+</DOC>

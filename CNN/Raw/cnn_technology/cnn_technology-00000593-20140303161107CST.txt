@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO>593</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_tech/~3/otn1nfmqfHE/index.html</URL>
+<TITLE>Social apps trade in gripes, gossip</TITLE>
+<TIME>Mon, 03 Mar 2014 17:11:07 EST</TIME>
+<ABSTRACT>
+If Facebook is sipping champagne during an après-ski selfie, Secret is letting it all hang out with a cheap beer and no makeup in your parents' basement.
+</ABSTRACT>
+<TEXT>
+(CNN) -- "I admit that I secretly crave attention so I lie that I have ulcers and that I have gotten surgery on my knees."
+"I'm quitting in May and will drive across the country."
+"Sometimes I secretly wish I would catch my bf cheating just so I'd have a legit reason to break up with him."
+These are just a few of the confidential posts on a growing number of social apps that encourage nameless users to post anonymous confessions, gripes and gossip. These networks, which include Whisper, Secret, Confide and the forthcoming Rumr, make it possible to share thoughts anonymously with strangers, friends or friends of friends.
+Unlike Facebook, Twitter or LinkedIn, there's no need to worry about offending your friends, harming your career or tarnishing your online persona.
+"Anonymity can help people be themselves and share what they really feel or think," said David Byttow, co-founder of Secret, which launched in January.
+Unburdened by the consequences that come with posting under real identities, posters on these apps can be brutally honest. For many people, anonymity can mean a freedom from maintaining their personal brand, the "self" they carefully edit for their friends and family on Facebook and Twitter.
+If Facebook is sipping champagne during an après-ski selfie, Secret is letting it all hang out with a cheap beer and no makeup in your parents' basement.
+Secrets among friends
+These startups have taken cues from the original secret sharing service, PostSecret. That blog anonymously publishes select postcards, decorated with images and words, that people mail to founder Frank Warren. The twin barriers of needing a stamp and having to make it past a human curator has kept its confessions interesting without being cruel.
+But when PostSecret tried branching out in 2011 with an iPhone app that let anyone publish their own secrets, it had to be shut down less than three months later due to abusive and malicious content.
+Fast forward a few years, and social apps are trying again -- this time with a few variations on the formula.
+Two-year-old Whisper is a popular service for posting anonymous messages that anyone can read. They can be sorted by most recent or nearby, which will display Whispers from anyone within a certain number of miles.
+Of course, as with all these apps, there's no way to tell what posts are true. Many are about sex or love, and some are offensive. Most Whisper users are young, between 17 and 28.
+Secret also lets people post a sentence or two on top of an image or colored background. But in an interesting twist, Secret only shares your posts -- anonymously, of course -- within your circle of friends. The app combs through your contacts to determine which of your friends are also on the service. It won't tell you who it finds, so you can only guess who in your circle is posting to the app or commenting on your confession.
+When people click a heart indicating that they "love" a post, it is shared with their circle, and so on. Only people within two degrees of separation can comment on posts. Because Secret has drawn many of its early users from the Silicon Valley and New York tech scenes, many posts so far are tech-industry rumors and jokes.
+Secret has already had its first viral falsehood. In early February a user claimed that Evernote, the popular note-taking app, was about to be acquired. The post gained some traction in social media, forcing Evernote CEO Phil Libin to deny the report.
+Fighting the trolls
+One big challenge for these services, which mix social networks with Internet commenting, is to strike a balance between juicy gossip and cruel, abusive posts. Anyone who has glanced at an Internet commenting section knows that anonymous chatter can turn nasty, fast.
+To combat this, the official Secret Twitter feed re-posts many of positive Secret messages about friendship, heartbreak and overcoming adversity, but ignores mean-spirited ones.
+Because Secret posts are shared with people in the same networks, there's always the tantalizing -- or frightening -- possibility that other users could puzzle out who you are based on your writing style, image choice or subject matter.
+"Secret users always have the benefit of plausible deniability," said Byttow. "Sometimes guessing who a secret is from is part of the fun. It certainly sparks a lot of entertaining offline conversations."
+To fight trolls, these apps typically include features that let users report bullying or flag posts as inappropriate. On Whisper, a team of employees scans posts for offensive content. Whisper has also launched Your Voice, a nonprofit resource for college students struggling with mental health problems.
+Secret's first incarnation was as a web app for sending anonymous messages directly to people over text or e-mail.
+"It was fun, but proved to be something that could be used for evil in the wrong hands," said Byttow. "We didn't want to give that to the world.We set out to help people convey thoughts and feelings with their friends."
+These anonymous apps seem to be popular for now. But only time will tell if they flame out, like the much-hyped "social discovery" apps from two years ago, or gain traction like Snapchat, the popular app that lets users exchange self-destructing photos and messages.
+Secret isn't sharing any user numbers yet, but Whisper has reported some impressive statistics. In December, the company said it was nearing 3 billion page views a month. In September, it raised $21 million in funding.
+</TEXT>
+</DOC>

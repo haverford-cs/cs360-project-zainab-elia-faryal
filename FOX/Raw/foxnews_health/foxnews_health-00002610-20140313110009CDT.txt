@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO>2610</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/-P9xXILIopU/</URL>
+<TITLE>Common pain reliever could be key to fighting antibiotic-resistant infections</TITLE>
+<TIME>Thu, 13 Mar 2014 16:00:09 GMT</TIME>
+<ABSTRACT>
+A type of commonly used pain medication may be capable of fighting off bacterial infections – paving the way for new strategies to combat the growing number of antibiotic-resistant diseases throughout the world, according to a new study.
+</ABSTRACT>
+<TEXT>
+A type of commonly used pain medication may be capable of fighting off bacterial infections – paving the way for new strategies to combat the growing number of antibiotic-resistant diseases throughout the world, according to a new study.
+Every year, 2 million people in the U.S. become infected with antibiotic-resistant bacteria, leading to 23,000 deaths, according to the U.S. Centers for Disease Control and Prevention (CDC). As these drug-resistant infections continue to become more common, researchers are clamoring to find new ways to fight them. 
+Because the overuse of antibiotics has been blamed for the increase in drug-resistant infections, researchers like Dr. Aaron Oakley of the University of Wollongong, in Australia, have been exploring the possibility of developing new classes of drugs to fight bacteria. 
+Specifically, Oakley and his colleagues have been trying to invent a drug that could target a bacteria’s ‘DNA clamp.’ By binding to this clamp, a drug would be able to kill bacteria by preventing it from replicating or repairing its DNA. Existing antibiotics work by interfering with the formation of the bacterium’s cell well, or cell contents, to kill bacteria, but no current antibiotics target the DNA clamp.
+But when Oakley and his team finally discovered a series of chemical compounds capable of sticking to the DNA clamp, they realized that the drug they were looking for may already exist.
+“We hit upon a series of chemical compounds that could stick to this DNA clamp and realized that there was a NSAID called carprofen that had the same shape as our compounds,” Oakley told FoxNews.com in an email. “That led us to test a range of NSAIDs - including carprofen.  And it turned out that quite a few NSAIDs had antibacterial activity.”
+The researchers tested three NSAIDS - bromofenac, carprofen, and vedaprofen – and discovered that all of them had the ability to kill bacteria – though not as effectively as antibiotics. More commonly used NSAIDS including aspirin, ibuprofen, and naproxen were not tested.
+“The antibacterial effects of the NSAIDs are weak, so they may not be quite as effective as existing classes of antibiotics,” Oakley said. “But is important for clinicians to know that some of the NSAIDs they are using have this ‘off target’ effect, especially when NSAIDs are being used to treat inflammation associated with bacterial infection.”
+Oakley and his team have published their research in the journal Chemistry and Biology. They hope to continue their research on NSAIDS – and believe their discovery could lead to a powerful new class of drugs capable of treating infections that no longer respond to traditional antibiotics.
+“The NSAIDs work through a mechanism that is fundamentally different to existing antibiotics, one to which there is no known resistance mechanism in superbugs,” Oakley said. “Through chemistry, we are trying to improve the compounds so that they bind tighter to the target. It is our hope to create a new generation of potent, effective antibiotics from this– antibiotics that are effective against superbugs that are resistant to everything else.”
+</TEXT>
+</DOC>

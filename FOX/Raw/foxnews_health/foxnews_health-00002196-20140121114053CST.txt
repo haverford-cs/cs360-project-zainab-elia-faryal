@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>2196</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/CWu1XonA2Oo/</URL>
+<TITLE>3 cancer patients first to receive proton therapy Tennessee</TITLE>
+<TIME>Tue, 21 Jan 2014 17:40:53 GMT</TIME>
+<ABSTRACT>
+Three prostate cancer patients are among the first to receive proton therapy in Tennessee.
+</ABSTRACT>
+<TEXT>
+Three prostate cancer patients are among the first to receive proton therapy in Tennessee.
+Knoxville-based Provision Center for Proton Therapy treated the patients this week.
+Proton therapy uses a single beam of high-energy protons to treat various forms of cancer, such as prostate, pediatric, brain, lung and breast cancers.
+Unlike conventional radiation therapy, medical experts say proton beams can be fine-tuned to deliver maximum energy within the controlled range of the cancerous tumor.
+Treatment plans will range from 20 to 40 treatments depending on the stage of the cancer.
+The center is one of 14 in the nation.
+Joe Hamby of Knoxville was one of the prostate cancer patients treated this week. He says he's thankful there's a center in Tennessee because the nearest one is about 500 miles away.
+</TEXT>
+</DOC>

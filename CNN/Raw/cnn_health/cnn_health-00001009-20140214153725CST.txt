@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>1009</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/eMKK_RbTdSc/index.html</URL>
+<TITLE>Human lung made in lab for first time</TITLE>
+<TIME>Fri, 14 Feb 2014 16:37:25 EST</TIME>
+<ABSTRACT>
+For the first time, scientists have created human lungs in a lab -- an exciting step forward in regenerative medicine, but an advance that likely won't help patients for many years.
+</ABSTRACT>
+<TEXT>
+(CNN) -- For the first time, scientists have created human lungs in a lab -- an exciting step forward in regenerative medicine, but an advance that likely won't help patients for many years.
+"It's so darn cool," said Joan Nichols, a researcher at the University of Texas Medical Branch. "It's been science fiction and we're moving into science fact."
+If the lungs work -- and that's a big if -- they could help the more than 1,600 people awaiting a lung transplant. Lungs are one of many body parts being manufactured in the lab -- some parts, such as tracheas and livers, are even further along.
+"Whole-organ engineering is going to work as a solution to the organ donor shortage," said Dr. Stephen Badylak, deputy director of the McGowan Institute for Regenerative Medicine at the University of Pittsburgh.
+New transplant technology keeps organs 'alive' outside body
+The researchers in Galveston, Texas, started with lungs from two children who'd died from trauma, most likely a car accident, Nichols said. Their lungs were too damaged to be used for transplantation, but they did have some healthy tissue.
+They took one of the lungs and stripped away nearly everything, leaving a scaffolding of collagen and elastin.
+The scientists then took cells from the other lung and put them on the scaffolding. They immersed the structure in a large chamber filled with a liquid "resembling Kool-Aid," Nichols said, which provided nutrients for the cells to grow. After about four weeks, an engineered human lung emerged.
+Repeating the process, they created another lung from two other children who'd died.
+The lab-made lungs look very much like the real thing, Nichols says, just pinker, softer and less dense.
+Nichols said she thinks it will be another 12 years or so until they'll be ready to try using these lungs for transplants.
+"My students will be doing the work when I'm old and retired and can't hold a pipette anymore," she said.
+3-D printer helps save dying baby
+Before researchers experiment on humans, they'll try out lab-made lungs on pigs, she said.
+Doctors have already had success transplanting patients with synthetic tracheas. The first procedure was done in 2011, and since then, six more have been done.
+Two of the patients have died of causes unrelated to their tracheas, said David Green, CEO of Harvard Apparatus Regenerative Technology, which makes equipment used to make engineered body parts.
+CNN's John Bonifield and CNN intern Arianna Yanes contributed to this report.
+</TEXT>
+</DOC>

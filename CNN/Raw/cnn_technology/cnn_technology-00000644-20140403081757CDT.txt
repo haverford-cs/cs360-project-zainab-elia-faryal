@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO>644</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_tech/~3/jO-bTp7JtD8/index.html</URL>
+<TITLE>Giant basket gathers drinking water</TITLE>
+<TIME>Thu, 03 Apr 2014 09:17:57 EDT</TIME>
+<ABSTRACT>
+A 30 foot tall basket, inspired by an Ethiopian tree, can collect 25 gallons of clean drinking water a day from vapor.
+</ABSTRACT>
+<TEXT>
+(Wired) -- Around the world, 768 million people don't have access to safe water, and every day 1,400 children under the age of five die from water-based diseases.
+Designer Arturo Vittori believes the solution to this catastrophe lies not in high technology, but in sculptures that look like giant-sized objects from the pages of a Pier 1 catalog.
+His stunning water towers stand nearly 30 feet tall and can collect over 25 gallons of potable water per day by harvesting atmospheric water vapor. Called WarkaWater towers, each pillar is comprised of two sections: a semi-rigid exoskeleton built by tying stalks of juncus or bamboo together and an internal plastic mesh, reminiscent of the bags oranges come in.
+The nylon and polypropylene fibers act as a scaffold for condensation, and as the droplets of dew form, they follow the mesh into a basin at the base of the structure.
+Vittori decided to devote his attention to this problem after visiting northeastern Ethiopia and seeing the plight of remote villagers first hand. "There, people live in a beautiful natural environment but often without running water, electricity, a toilet or a shower," he says.
+To survive, women and their children walk for miles to worm-filled ponds contaminated with human waste, collect water in trashed plastic containers or dried gourds, and carry the heavy containers on treacherous roads back to their homes. This process takes hours and endangers the children by exposing them to dangerous illnesses and taking them away from school, ensuring that a cycle of poverty repeats.
+Exposure to this horrific scene motivated Vittori to take action.
+"WarkaWater is designed to provide clean water as well as ensure long-term environmental, financial and social sustainability," he says. "Once locals have the necessary know how, they will be able to teach other villages and communities to build the WarkaWater towers."
+Each tower costs approximately $550 and can be built in under a week with a four-person team and locally available materials.
+A more obvious solution to a water shortage would be digging a well, but drilling 1,500 feet into Ethiopia's rocky plateaus is expensive. Even when a well is dug, maintaining pumps and ensuring a reliable electrical connection makes the proposition unlikely.
+Instead of looking to Western technology for a solution, Vittori was inspired by the Warka tree, a giant, gravity-defying domed tree native to Ethiopia that sprouts figs and is used as a community gathering space.
+"To make people independent, especially in such a rural context it's synonymous of a sustainable project and guaranties the longevity," says Vittori. "Using natural fibers helps the tower to be integrated with the landscape both visually with the natural context as well as with local traditional techniques."
+The design has been two years in the making and though the final product is handcrafted, Vittori has used the same parametric modeling skills honed working on aircraft interiors and solar-powered cars to create a solution that is safe and stunning.
+The 88-pound sculpture is 26-feet wide at its broadest point but swoops dramatically to just a few feet across at its smallest point. Vittori and his team have tested the design in multiple locations and worked in improvements that increase the frame's stability while simultaneously making it easy for villagers to clean the internal mesh.
+Vittori hopes to have two WarkaTowers erected in Ethiopia by 2015 and is looking for financial rainmakers who'd like to seed these tree-inspired structures across the country.
+Read more from WIRED:
+A Startlingly Simple Theory About the Missing Malaysia Airlines Jet
+How to Use Your Google Maps — Offline
+The Quality of 13 Famous TV Shows, Charted Over Time
+Unsettling Images of Patients in Hiding After Plastic Surgery (NSFW)
+How to Create the Perfect Online Dating Profile, in 25 Infographics
+Subscribe to WIRED magazine for less than $1 an issue and get a FREE GIFT! Click here!
+Copyright 2011 Wired.com.
+</TEXT>
+</DOC>

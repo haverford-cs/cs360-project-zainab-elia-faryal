@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2542</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/VqDz6-Juwdk/</URL>
+<TITLE>Heart attack risk rises after angry outbursts</TITLE>
+<TIME>Tue, 04 Mar 2014 14:26:35 GMT</TIME>
+<ABSTRACT>
+Following an outburst of anger, a person’s risk of experiencing a heart attack increases for about two hours. 
+</ABSTRACT>
+<TEXT>
+Following an outburst of anger, a person’s risk of experiencing a heart attack increases for about two hours, Medical News Today reported.
+In a study published in the European Heart Journal, researchers from Harvard University performed a systematic review of nine studies conducted between January 1966 and June 2013 that examined the link between anger and cardiovascular risk.  
+By calculating the annual rate of heart attacks per 10,000 people in the population, researchers were able to determine a person’s risk of experiencing a cardiac event increased depending on his or her cardiovascular risk level and the number of times they became angry in a day.
+"Although the risk of experiencing an acute cardiovascular event with any single outburst of anger is relatively low, the risk can accumulate for people with frequent episodes of anger,” study author Dr. Elizabeth Mostofsky, of Harvard University, said. “This is particularly important for people who have higher risk due to other underlying risk factors or those who have already had a heart attack, stroke or diabetes."
+For people with low cardiovascular risk factors who had angry outbursts only once a month, the annual rate of heart attacks increased by only one heart attack per 10,000 people. For people with several cardiovascular risk factors, the annual rate of heart attacks increased by four per 10,000 people.
+However, for low-risk people who had five angry outbursts per day, there were 158 extra heart attacks per 10,000 people – and for high-risk people who had five episodes of anger per day, there were 657 extra heart attacks per 10,000 people.
+Though the researchers did not study the mechanism behind this connection, they noted that stress can increase heart rate and blood pressure, which could lead to blood clots or trigger an inflammatory response.
+"Given the lessons we have learned from trying to treat depression after [myocardial infarction], treating anger in isolation is unlikely to be impactful. Instead, a broader and more comprehensive approach to treating acute and chronic mental stress, and its associated psychological stressors, is likely to be needed to heal a hostile heart," the study’s authors wrote.
+Click for more from Medical News Today.
+</TEXT>
+</DOC>

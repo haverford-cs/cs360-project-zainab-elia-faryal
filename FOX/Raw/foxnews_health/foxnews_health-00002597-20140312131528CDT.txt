@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>2597</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/7sW9I9G5TOk/</URL>
+<TITLE>New drug can lower salt intake without any dietary changes</TITLE>
+<TIME>Wed, 12 Mar 2014 18:15:28 GMT</TIME>
+<ABSTRACT>
+A new drug may be able to solve America's growing sodium problem – by lowering an individual’s salt absorption without affecting his or her diet.
+</ABSTRACT>
+<TEXT>
+iStock
+Sodium: An important dietary element that the body needs to function.  But too much of the chemical can potentially be deadly.
+Given current diet trends, a significant majority of Americans consume too much sodium from their food, contributing to an overall increase in cardiovascular disease and poor kidney function.  But soon, a new drug may be able to solve this growing problem – by lowering an individual’s salt absorption without affecting his or her diet.
+The medication could potentially help the millions of Americans who suffer from chronic kidney disease (CKD) and hypertension, but who have a hard time adhering to a low-sodium diet.
+Developed by researchers at drug manufacturer Ardelyx, the drug, tenapanor, works by blocking a membrane transporter called NH3, which is responsible for most of the reuptake of sodium in the body.  By inhibiting this protein, the majority of sodium is prevented from seeping into the bloodstream and instead remains in the gut.
+“It’s a small molecule that’s been designed to remain within the gut, acting on this transporter that is expressed in the mucosa in the GI (gastrointestinal) tract,” lead researcher Dominique Charmot, co-founder and chief scientific officer at Ardelyx, told FoxNews.com.  “And in doing so, what it does is divert sodium from going into the blood to going into the stool.  So that increases sodium in the stool and avoids building up too much sodium in the body.”
+According to Charmot, current medications to control sodium include diuretics and antihypertensive drugs, which either increase water excretion or control high blood pressure.  However, these drugs require patients to adhere to a diet very low in sodium – a feat that can be difficult given the high prevalence of the chemical in typical American diets.  But since tenapanor remains in the gut, the drug can remove the sodium while patients continue to eat their normal diet.
+To test the effectiveness of tenapanor, Charmot and lead study author Andrew Spencer, senior director for research and development at Ardelyx, administered the drug to rats that had fractions of their kidneys removed, in order to emulate patients with CKD.  They also continued feeding the rats a high-sodium diet to see how it interfered with the drug’s success.
+“What we’ve shown in this rat model is it protects against hypertension and hypertrophy (an increase in volume) of the heart; and it protects against further damage of the kidney, which is shown by the presence of protein in the urine,” Charmot said.
+Additionally, tenapanor was given to patients with CKD in a phase 1 proof of concept study.  After taking the medication, patients showed an increase of sodium in their stools and no presence of the drug was detected in their bloodstreams – proving the drug adhered to its design and function.
+Charmot and his team hope that their drug will benefit many in the United States, especially given Americans’ widespread consumption of sodium on a daily basis.  The U.S. Dietary Guidelines recommend people should limit their sodium to less than 2,300 milligrams a day, but the Centers for Disease Control and Prevention (CDC) estimates that the average American eats more than 3,300 milligrams daily.  In fact, the CDC found that more than 90 percent of Americans over the age of 2 eat too much sodium.
+Experts believe these dietary trends have contributed to the rising incidence of chronic diseases in the United States.  The CDC states that 26 million Americans suffer from CKD and approximately 67 million people have high blood pressure – equating to 1 in 3 U.S. citizens.
+And the sodium-related health problems don’t simply stop there, according to Charmot.
+“A new body of science is emerging which tells us that sodium, independent of blood pressure, is bad.  There’s a lot of animal data showing salt can induce scar tissue in the kidneys and in the vasculature – something that’s seen, for example, by the thickness of the arteries.”
+Because of sodium’s potential to contribute to so many diseases, the researchers believe tenapanor can help many individuals stay healthy while enjoying a normal dietary routine.
+“It’s fair to say that asking patients to maintain a low-sodium diet is very hard to do,” Charmot said. “…Most of the food additives contain sodium; people who eat in restaurants cannot control sodium; plus, food is bland without sodium.  Also there’s a risk if you go too low in sodium, you also diminish nutrient composition which is needed for you to thrive.  So we believe this drug can help patients comply with a more normal diet.”
+The research on tenapanor was published online in the journal Science.
+</TEXT>
+</DOC>

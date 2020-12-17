@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>2208</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/C0ClPI5oWP4/</URL>
+<TITLE>Antipsychotics helpful in subset of kids with ADHD</TITLE>
+<TIME>Wed, 22 Jan 2014 18:09:27 GMT</TIME>
+<ABSTRACT>
+An increasing number of kids with ADHD are not only taking stimulants to control their attention issues – but are being put on powerful antipsychotics like Abilify and Risperdal to control. The use of these medications in children remains somewhat controversial.
+</ABSTRACT>
+<TEXT>
+An increasing number of kids with ADHD are not only taking stimulants to control their attention issues – but are being put on powerful antipsychotics like Abilify and Risperdal to control. The use of these medications in children remains somewhat controversial.
+Last year a study found that prescriptions of antipsychotics rose seven times between the 1990s and the 2000s, with 1.83 children per 100 being medicated. There are few long-term studies showing their safety, and these drugs have been associated with weight gain and a higher risk of developing type 2 diabetes. Antipsychotics are used off label in kids with ADHD as they are only FDA-approved for the treatment of bipolar disorder, schizophrenia and irritability in children with autism.
+Yet a new study, recently published in the Journal of the American Academy of Child and Adolescent Psychiatry, suggests that the treatment may benefit some children.
+The study looked at 168 children ages 6 to 12 with ADHD, who were also severely aggressive (most kids with ADHD do not have aggressive behavior, but a small percentage do).
+“The disruptive scores of these children were way out there,” said Dr. Michael Aman, director of clinical trials at Ohio State University's Nisonger Center. These children have behavioral issues at home, in school and their communities.
+The children received the ADHD stimulant methylphenidate (Concerta) for three weeks along with parent training, and if children were still aggressive, they were randomized to get either the antipsychotic Risperdal or a placebo.
+In the first three weeks of the trial, the basic treatment with Concerta reduced aggressive behavior overall. But the children who were still aggressive and took the additional medication saw modest improvements in behavior compared to those who received the placebo.
+Though the improvements were moderate, they were significant, and in some children it was very effective.
+“Buried in that group were some kids who showed a lot of improvement, while others didn’t show much improvement,” said Aman.
+The kids who took both drugs also scored better on positive social behavior and had less impulsive or reactive aggression.
+“The results are not surprising as clinicians often combine these medications with highly aggressive children who also have ADHD,” said ADHD expert Dr. Russell A. Barkley, clinical professor of psychiatry and pediatrics at the Medical University of South Carolina.  He was not involved with the research.
+The study was too short to examine long term risks to children on antipsychotics, but experts believe the study provides important evidence of its benefits.
+“You have to look at the risk of not treating aggression across the lifespan versus the risks of the intervention,” said Dr. Daniel F. Connor, chief of the division of child and adolescent psychiatry at the University of Connecticut School of Medicine and Health Care. “There are overwhelmingly negative outcomes for childhood aggression, like higher rates of substance abuse, physical aggression, risky sexual behavior, repeated or serious crime and difficulties in marriage and parenting. Within that context it seems like the addition of Risperdal in these kids is not controversial.”
+But Connor also added that the mental health system in our country favors medication use over other treatments. Access to parent management therapy and cognitive behavioral therapy for the kids is limited and rarely reimbursed by insurance companies. Most children on antipsychotics are not receiving psychotherapy, and their parents aren’t receiving parent management training. Effective use of these therapies may reduce the need for using the medications.
+But even in this study, in which parent management therapy was provided, the medications had an added benefit.
+“It is nice to finally have some good science to back up this practice,” Connor said. “For the small percentage who may require this combination, the results are good news that it works and is reasonably safe.”
+Laurie Tarkan is an award-winning health journalist whose work appears in the New York Times, among other national magazines and websites. She blogs about the Affordable Care Act for the WellBeeFile. Follow her on Twitter and Facebook.
+</TEXT>
+</DOC>

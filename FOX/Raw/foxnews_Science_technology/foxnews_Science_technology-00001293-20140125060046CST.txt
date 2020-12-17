@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO>1293</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/0vKYC2qwhss/</URL>
+<TITLE>How the scorpion got its venom</TITLE>
+<TIME>Sat, 25 Jan 2014 12:00:46 GMT</TIME>
+<ABSTRACT>
+A single mutation may account for the scorpion's lethal toxin.
+</ABSTRACT>
+<TEXT>
+robertpaulyoung / Flickr
+Hundreds of millions of years ago, when the ancestors of land animals crawled out of the seas and flopped on a primordial beach they learned quickly that to survive they were going to have to develop new tools for catching prey. Venom became one of these tools.
+Scientists have found that in most cases all that is required to turn a protein vital for life into a substance that can kill is a mutation in one gene.
+A group of scientists have discovered that is true of scorpions. A team led by Shunyi Zhu of the Institute of Zoology at the Chinese Academy of Sciences found that a common protein used as part of the scorpion's immune system was the origin of the scorpion's venom.
+The work is published online by Molecular Biology and Evolution.
+It is quite likely that a similar process was involved in the evolution of most of the venom in the animal world, Zhu said.
+All scorpions have a tail that delivers venom. Most will only give a human victim a bad few days, but 25 of the 1,700 known species can kill a person.
+Zhu and his colleagues looked at proteins in the scorpions called defensins, compounds found in many plants and animals that fight bacteria. By sequencing the genetics of the amino acids in defensin, they found that all it took was a change in a single gene to turn the defensin into a poison.
+Scientists think that scorpions originated on land and were eventually swept into the ocean, evolved during the time they spent there and then reemerged, perhaps 400 million years ago.
+"I guess the emergence of toxins from defensins is a consequence of adaptation of scorpions to their decreased size that increases difficulty in capturing prey when they emerged from the seas," Zhu said. They were larger in the water but had to shrink physically over the course of their evolution on dry land, and it became harder to kill and catch some prey. So they developed venom.
+"The development of venom allowed them to radiate into new niches," said Bryan Fry, at the Venom Evolution Laboratory at the University of Queensland in Australia. The fossil record shows the marine varieties were quite large.
+"By moving onto the land, they had one form of prey capture," Fry said, their powerful pincer-like claws. But grabbing prey meant they had to hold onto the prey and that put the scorpions at risk. The most ancient and the largest of scorpions still have large claws and small tails.
+The more evolutionarily advanced scorpions have the reverse: large tails and small claws. They traded mechanical means of catching prey for the ability to inflict a chemical death.
+The same holds true of other venomous animal like snakes, said Fry, a simple mutation leading to a toxin. All poisonous snakes evolved from poisonous lizards, he said.
+Huge snakes, like boas and pythons, have lost their venom because they are big and powerful enough to use squeezing and crushing as a means of killing and don't need chemical aids to take large prey, Fry said.
+While the evolutionary process may be the same, the results vary.
+Cobras use venom to catch food and developed an elegant array of chemical toxins and an extremely efficient method of delivering the venom. Cobra venom prevents the nervous system from working, stifling breathing and suffocating the victim while simultaneously paralyzing the muscles so "you can't go anywhere during the period you are suffocating," Fry said.
+Some snakes, such as those found in Australia, play on the ability to produce millions of blood clots causing a human victim to bleed to death.
+The box jellyfish, found off the coast of Australia, kills by inflicting more pain than a body can endure.
+"You have two ways of dying from this," Fry said. "First, the pain is so great your body says, 'that's it, I'm out of here.' You die within two or three minutes from the pain. You go into shock. If you survive the pain, the venom itself can kill you a half hour later."
+The jellyfish use venom for predation and need a high-powered version so their fish prey can't escape. Other animals, such as stingrays or stone fish, use their venom defensively, and cause pain to deter predators.
+Fry, himself, has been bitten by poisonous snakes 26 times, three times by sting rays and was almost killed by a scorpion in the Amazon.
+"I know it's a good day because I'm alive."
+</TEXT>
+</DOC>

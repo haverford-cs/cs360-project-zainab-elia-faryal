@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO>1059</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/rCGIQs8BHts/index.html</URL>
+<TITLE>Baby sound machines: Too loud?</TITLE>
+<TIME>Mon, 03 Mar 2014 08:20:56 EST</TIME>
+<ABSTRACT>
+A new study suggests that some noise machines have the ability to produce sounds so loud that they exceed safe levels for adults, let alone infants, and therefore could potentially damage infants' hearing and hinder auditory development.
+</ABSTRACT>
+<TEXT>
+(CNN) -- Parents: You want your baby to sleep soundly so that you can sleep too, right?
+So maybe you bought a machine that will play soothing sounds in the nursery. And maybe you crank up the volume so that your kid doesn't hear sirens outside or household noises.
+But how loud should these machines be? How long should you keep them running? Should you put them close to your baby's ears, or on the other side of the room?
+A new study in the journal Pediatrics suggests that some noise machines have the ability to produce sounds so loud that they exceed safe levels for adults, let alone infants, and therefore could potentially damage infants' hearing and hinder auditory development.
+However, it's important to note that the goal of the study was to measure the maximum effective output levels -- not to observe direct effects on children. Experts disagree on what recommendations should be given on using these machines.
+"These machines are capable of delivering enough of a dose over a period of time to theoretically cause hearing loss, but that's not been tested," said the study's senior author Dr. Blake Papsin, who is affiliated with the University of Toronto and the Hospital for Sick Children in Toronto.
+Researchers tested 14 infant sleep machines at maximum volume, analyzing the noise level production from distances of 30, 100 and 200 centimeters. The 30-centimeter measurement resembles a typical distance from a baby's head to the crib rail; 100 centimeters would be near a crib and 200 centimeters would be across the room from a crib.
+The particular machines are not named in the study, but researchers said they are "widely available in the United States and Canada." Papsin declined to reveal which products were used.
+These machines play a total of 65 different sounds, including white noise, "nature" sounds, mechanical sounds and heartbeat sounds.
+Hands-off approaches OK for sleepless infants, study says
+Hospital nurseries and neonatal intensive care units have set a noise equivalent of 50 decibels on average over the course of an hour, according to the study. Canadian and U.S. occupational health and safety authorities have recommended a workplace limit of 85 decibels over eight hours for adults.
+Three of the infant sleep machines in this study had outputs greater than 85 decibels, which exceeds that recommendation. Additionally, if these sound devices were played continuously for an eight-hour period, the researchers wrote, "infants would be exposed to sound pressure levels that exceed occupational noise limits" for that time period for adults.
+The study authors recommend manufacturers be required to limit maximum sound output levels of such machines, print warnings about noise-induced hearing loss on the packaging and include a timer that would shut the device off after a given period.
+They also recommend families place these infant sound machines as far away as possible from the infant -- never on the crib rail or in the crib, the study said. The machines should be played at a low volume and for a short time, study authors say.
+But wait a minute! Don't we want unwanted noises blocked from infants' ears all night long?
+Dr. Harvey Karp, pediatrician and author of books including "The Happiest Baby on the Block" and "The Happiest Baby Guide to Great Sleep," says he has concerns about some of the study's conclusions.
+It's true that intensity of sound is important to consider, he said. Concretely, parents should look to make these machines as loud as "a soft shower," he said, and keep them at least a foot (30 centimeters) away from the child's head.
+But as far as only using an infant sleep machine for a short time, that recommendation is misinformed and is" not supported by the data in the study," he said.
+Karp instead recommends keeping the noise going for the entire duration of sleep, because otherwise the baby will have more disturbances in the middle of the night.
+"The white noise is there as a continual presence, just like a teddy bear," Karp said. "It's like a teddy bear of sounds."
+Papsin stands by the opposite recommendation in the study, saying that using infant sleep machines over eight-hour stretches is not supported by scientific evidence.
+Dr. Harvey Karp: Sleeping babies and kids make happy parents
+Karp points out the Pediatrics study did not directly address this question with data, nor does it give an overall assessment of risk. Papsin and colleagues were not able to give an estimate of how those risks would weigh against the benefits of the noise devices, either.
+The Juvenile Products Manufacturers Association, a trade organization representing manufacturers of 95% of prenatal to preschool products, responded to the study in a statement: "JPMA encourages parents to follow manufacturer guidance and instructions, and to use products as designed and intended. The safety and care of children is JPMA's highest priority."
+So what's a parent supposed to do?
+There just hasn't been a lot of research into this question of what effect these infant noise machines have, says Patti Martin, director of audiology and speech pathology at Arkansas Children's Hospital.
+Her bottom line: The issue with the machines is how loud they are, not the amount of time they are used. She also likes the idea of keeping the machines out of the crib because closer noises sound louder to the developing auditory system.
+An infant's ear canal is smaller than an adult's, so in babies higher-frequency sounds are amplified, the study said. Evidence from animal studies suggests that risk for age-relating hearing loss may result from early exposure to noise.
+Low-pitched, rumbly sounds are better for a baby's sleep, Karp says, as they are "reminiscent of the experience in the womb." Exposing the infant to very loud sounds in short spurts is fine -- a baby's own cry is 10 times louder than a hair dryer! -- but for promoting sleep, he says, aim for softer and lower-pitched.
+Of course, there are other ways to soothe your child to sleep, such as swaddling or holding a baby close, Martin says.
+Depression and baby sleep: Vicious cycle?
+No one knows the long-term implications of masking environmental sounds in infants, in terms of how they will learn later in a noisy environment, Martin says.
+On the other hand, a good night's sleep for baby is critical for the health of both parent and child.
+"From a safety issue, from a nutrition issue, from a growth issue, all of those sorts of things -- sleep is critical for them," she says. "There will always be a group of babies that require a little extra something."
+</TEXT>
+</DOC>

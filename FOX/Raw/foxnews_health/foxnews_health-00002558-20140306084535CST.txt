@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO>2558</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/xausmbTi4OA/</URL>
+<TITLE>New contraceptive ring aims to protect against both pregnancy and HIV</TITLE>
+<TIME>Thu, 06 Mar 2014 14:45:35 GMT</TIME>
+<ABSTRACT>
+For decades, the condom has been the only form of contraceptive widely used to prevent both unplanned pregnancies and the transmission of HIV.
+</ABSTRACT>
+<TEXT>
+Researchers at Northwestern University developed this two-inch intravaginal ring which contains both contraceptive medication and an antiretroviral drug that can protect against HIV. (Image courtesy of Northwestern University)
+For decades, the condom has been the only form of contraceptive widely used to prevent both unplanned pregnancies and the transmission of HIV.
+Now, researchers at Northwestern University have come up with a new option: An intravaginal ring that helps prevent pregnancy while simultaneously releasing low doses of an antiretroviral drug that reduces a woman’s risk of contracting both HIV and genital herpes.
+Patrick Kiser, an associate professor of biomedical engineering and obstetrics and gynecology at Northwestern, devised the ring with the hopes that it would offer women more control over both disease and pregnancy prevention.  
+“The field of HIV prevention is really moving towards these long-acting drug delivery systems that require less user intervention, which is great because sex is episodic and exposure to [HIV] is episodic,” Kiser told FoxNews.com. “And because you don’t know when you’re going to be exposed, or even necessarily when you’re going to have sex, it’s better to…have protective measures on board at all time.”
+Kiser and his team at Northwestern spent five years developing the two-inch ring, which releases doses of the contraceptive levonorgestrel and the common antiretroviral HIV medication tenofovir after being inserted in the vagina. Similarly to the NuvaRing, women can insert the device on their own. Women can then leave the ring in for up to 90 days, removing it briefly for cleaning if necessary.
+Creating a device capable of releasing the proper doses of both the contraceptive and antiretroviral drugs posed a unique obstacle to researchers.
+“The dose of contraceptive is very low – 10 micrograms per day, whereas with the antiviral drug we’re delivering is about 10 milligrams a day,” Kiser said. “That’s a thousand times different in terms of the amount being delivered for each drug and that was a real engineering challenge to develop a device that could achieve those extreme ranges of drug delivery.”
+Eventually, they created a ring composed of three types of plastic tubing capable of releasing the appropriate doses of each medication contained within the device.
+The medications used in the device both have a proven history of being both safe and effective. Levonorgestrel, which thickens a woman’s cervical mucus to prevent sperm from reaching the uterus, is widely used in popular forms of birth control like Mirena.
+The ring’s other component, tenofovir, is currently used by 3.5 million HIV-positive people worldwide to prevent the replication and progression of their disease, according to Kiser. Furthermore, in 2012 the drug Truvada, which contains tenofovir, became the first HIV-prevention pill approved by the FDA.  
+“It’s been shown that oral tenofovir is effective at preventing sexual transmission where one partner is HIV positive and the other one isn’t and it is registered by the FDA,” Kiser said. “The oral therapeutic can also be prescribed to prevent HIV transmission.”
+Previous research has indicated that tenofovir is effective at reducing transmission of genital herpes as well.
+Gel forms of tonofovir are also available and have been studied as a way to prevent HIV infection. While earlier studies have indicated that the topical form of the drug may be less effective, Kiser and his team discovered this was largely due to the fact that study participants were neglecting to regularly apply the medication for a variety of reasons.
+“But we do know from studies on primates that if you can deliver the drug at the levels we deliver in the ring, or in the gel and if it’s used correctly, we can completely prevent vaginal transmission of immunodeficiency virus,” Kiser said. “So that really motivates us to make devices that users are highly motivated to use and don’t require a lot of behavioral intervention.”
+Furthermore, because the ring releases tenofovir at the exact site where transmission of the virus would occur, it can use much lower doses than the pill-form of the drug, while still being effective. Consequently, women who use the ring may be able to avoid the side effects seen in the oral form of tenofovir, which can include stomach cramping and diarrhea.
+In rare cases, patients taking oral tenofovir as a preventative measure have gone on to contract drug-resistant strains of HIV. However, Kiser said because the intravaginal ring releases such a low dose of tenofovir, this likely won’t be a risk for users of the device.
+“When you’re giving a small amount topically, locally in vaginal tissue the drug levels are high. But that’s a very small fraction of the total volume of the body – in the blood stream and other tissues in the body the concentrations are exceedingly small,” Kiser said. “If the virus is replicating, there isn’t enough drug around to pressure the virus to develop resistance.”
+The researchers have conducted extensive testing of the ring on both small and large animal models, and are now in the process of submitting an Investigational New Drug Application to the FDA. If approved, they will launch a small clinical human trial in the United States and will then progress to safety and efficacy trials.
+“In a minimum of 5 to 7 years from now, one could conceive of FDA regulation [for the device],” Kiser said.
+Kiser conducted his research in collaboration with colleagues from the University of Utah and CONRAD, an organization that aims to improve reproductive health in developing countries.  
+“We designed the ring for the dire situation of women’s health in low income countries,” Kiser said. “But I think the device really resonates with women everywhere, women who want to control their reproductive status and are concerned about sexually transmitted infections.”
+</TEXT>
+</DOC>

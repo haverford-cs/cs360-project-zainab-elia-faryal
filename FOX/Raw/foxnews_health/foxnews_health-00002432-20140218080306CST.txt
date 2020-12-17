@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO>2432</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/txj-1wZMsd4/</URL>
+<TITLE>Football helmets do little to prevent concussions, study finds</TITLE>
+<TIME>Tue, 18 Feb 2014 14:03:06 GMT</TIME>
+<ABSTRACT>
+Though they are crucial for preventing skull fractures, football helmets may do very little to protect players against concussions.
+</ABSTRACT>
+<TEXT>
+USA-FOOTBALL/CONCUSSIONS REUTERS/Mike Blake
+Though they are crucial for preventing skull fractures, football helmets may do very little to protect players against concussions, Medical News Today reported.
+In a new study to be presented at the American Academy of Neurology’s 66th Annual Meeting in Philadelphia, researchers from Florida State University analyzed the strength and safety of 10 popular football helmet designs.  
+The experiment was set up similarly to a standard drop test system; motion sensors were placed on the heads of crash test dummies – some of which wore football helmets and some of which did not.  The dummies were then subjected to repeated 12 mile-per-hour impacts, as the sensors measured the heads’ linear and rotational responses.
+Overall, wearing a football helmet only reduced mild traumatic brain injury by 20 percent, compared to not wearing a helmet.  Some helmets were shown to be better at preventing concussion than others, but researchers noted that the helmets offering the least amount of protection were also some of the most popular on the playing field.
+The Adams a2000 had the best protection against concussion but also the worst protection against closed head injury.  The Schutt Air Advantage had the worst protection overall.
+However, the football helmets did significantly protect against linear impacts, reducing the risk of skull fracture by 60 to 70 percent.
+While they note that wearing a helmet is important, the researchers hope players better understand how little helmets do to prevent mild traumatic brain injury.
+"Biomechanics researchers have long understood that rotational forces, not linear forces, are responsible for serious brain damage including concussion, brain injury complications and brain bleeds,” said Dr. Frank Condi of the Florida Center for Headache and Sports Neurology and the Florida State University College of Medicine. “Yet generations of football and other sports participants have been under the assumption that their brains are protected by their investment in headwear protection."
+Click for more from Medical News Today.
+</TEXT>
+</DOC>

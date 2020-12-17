@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>2095</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/JIhOQhYnrjk/</URL>
+<TITLE>Roche 'brain shuttle' technology offers Alzheimer's hope</TITLE>
+<TIME>Wed, 08 Jan 2014 18:18:44 GMT</TIME>
+<ABSTRACT>
+Swiss drugmaker Roche has found an efficient way for complex antibody drugs to reach and penetrate the brain, raising the possibility of more effective treatments for diseases such as Alzheimer's.
+</ABSTRACT>
+<TEXT>
+The logo of the Swiss drugmaker Roche is seen on a factory in Burgdorf near Bern, Switzerland.REUTERS/Pascal Lauener
+Swiss drugmaker Roche has found an efficient way for complex antibody drugs to reach and penetrate the brain, raising the possibility of more effective treatments for diseases such as Alzheimer's.
+The innovative brain shuttle technology, which has so far been tested in mice, can cross the blood-brain barrier that has been a key obstacle for researchers working on neurological drugs because it acts as a seal against large molecules such as antibodies.
+Alzheimer's is a fatal brain-wasting disease that affects 44 million people worldwide, with the number set to triple by 2050, campaign group Alzheimer's Disease International says.
+Although there is still no treatment that can effectively modify the disease or slow its progression, a number of companies - including Roche, Eli Lilly, Merck & Co and Johnson & Johnson - are pursuing a variety of approaches to get to the root cause.
+It is proving an uphill battle. Over the past 15 years more than 100 experimental Alzheimer's drugs have failed in tests. Industry analysts believe that the prize for a truly effective drug could be a market worth $10 billion in annual sales.
+Roche's new technology works by hijacking a natural transport mechanism called receptor-mediated transcytosis, which is normally used by the body to transfer proteins inside the brain.
+"We have basically designed this module, called shuttle, that binds to this transport mechanism and shuttles a cargo inside the brain," Luca Santarelli, Roche's head of neuroscience, ophthalmology and rare diseases, said in a telephone interview.
+Antibody boost
+Results of a study published in the journal Neuron on Wednesday found the technology helped to increase the concentration of antibodies in the brains of mice, reducing the amount of amyloid plaque, which is a hallmark of Alzheimer's.
+Roche tested a precursor of its experimental Alzheimer's drug gantenerumab in the pre-clinical trials. The amount of antibody that penetrated the brain increased more than fiftyfold.
+Santarelli said that the brain shuttle technology is not limited to the memory-robbing disease and could be applied to other neurodegenerative disorders such as Huntington's disease. The drugmaker is in the process of evaluating which therapeutic targets and diseases to prioritize.
+Roche has struck a deal with U.S. biotech firm Isis to develop treatments for Huntington's and aims to engineer a shuttle to increase penetration of drugs into the brain. It is also working on a program with Irish company Prothena in Parkinson's disease.
+Santarelli said that all projects are still in pre-clinical testing and the company needs to undertake a few more steps before it can begin clinical trials.
+Turning to Roche's Alzheimer's pipeline, he said that its Phase III trial of gantenerumab in patients who have yet to develop dementia is on track, with results expected in the first half of 2016.
+Roche has two other drugs in clinical testing, including crenezumab, which has been chosen for a U.S. government-backed trial in a group of Colombians with a genetic mutation that leads to Alzheimer's in their forties.
+</TEXT>
+</DOC>

@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO>2419</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/uDEJX7AYGk0/</URL>
+<TITLE>Transient electronics: New medical devices can safely disappear inside the body</TITLE>
+<TIME>Mon, 17 Feb 2014 15:34:30 GMT</TIME>
+<ABSTRACT>
+Rather than removing electronic medical devices through surgery, what if they could simply disappear? This is the concept behind “transient electronics” – newly developed electronic devices that are designed to dissolve inside the body once they have served their purpose.
+</ABSTRACT>
+<TEXT>
+A transient RFID tagDr. John Rogers
+Dr. John Rogers
+Dr. John Rogers
+Millions of patients have benefited from the innovative development of electronic medical devices – gadgets such as pacemakers or medicine dispensing agents implanted in the body for either diagnostic or therapeutic benefit.
+While many of these electronics have revolutionized modern medicine, they oftentimes outlive their purpose in the body and require surgical removal to avoid complication.
+But rather than remove these devices through surgery, what if they could simply disappear?
+This is the concept behind “transient electronics” – newly developed electronic devices that are designed to dissolve inside the body once they have served their purpose.  John Rogers, the pioneer behind these disappearing devices, presented his latest research accomplishments at the American Association for the Advancement of Sciences (AAAS) annual meeting in Chicago.
+Rogers said he was motivated to create this technology as many of today’s current integrated circuits are typically designed to last forever – a feature that he says isn’t always necessary.
+“It occurred to us that that might not be the characteristic you would always want or need in an electronic device,” Rogers, professor of materials science and engineering at the University of Illinois at Urbana-Champaign, told FoxNews.com. “…It’s becoming a lot more apparent that the technology generation’s evolving so rapidly, that although the guts of an iPhone are designed to last 50 years, nobody wants to keep their device more than two.”
+In an attempt to eliminate electronic device waste streams, Rogers and his colleagues began designing integrated circuits out of materials that were biodegradable.  He said that the key to their electronics’ vanishing act lies in the main component employed in most circuits today – silicon.
+When exposed to water, silicon actually begins dissolving at an extremely slow rate.  However, most conventional circuits utilize silicon wafers that are approximately 1 millimeter in thickness – too thick for water exposure to produce a noticeable reaction.  So Rogers and his team decided to make his circuits out of very thin sheets of the material.
+“What we found is you can take a silicon wafer and slice extremely thin sheets of silicon from that wafer.  In those extremely thin film forms – 20 nanometers is the typical thickness of a silicon sheet that we would use – reaction rates with water are actually fast enough to matter. So the silicon dissolves in water at about 1 nanometer per day,” Rogers said.
+For the conducting component of his circuits, Rogers utilizes metals such as magnesium, zinc and tungsten – which are all water soluble, as well as environmentally and biologically benign.  And for an insulating layer, a variety of biologically-based polymers – such as cellulose and rice paper – help to set the time scale for the circuit’s dissolution rate.
+According to Rogers, he can either increase or decrease a circuit’s disappearing time by changing the insulating layer’s thickness – or its density.
+“These are all materials based on polymers, which are bonded collections of atoms that form long stringy chains, and you can control the degree to which the adjacent chains in that polymer are bonded together – how tightly they’re cross linked.  And increasing the cross-link density decreases the dissolution rate."
+After speaking with numerous physicians about how this technology could benefit the health care system, Rogers and his team developed a number of biologically-friendly devices for various health applications.  He noted that these electronics could be particularly beneficial for patients with mild traumatic brain injury.
+“A lot of times when you have a trauma to the head, part of the therapy involves monitoring temperature and pressure in the injured cranial space,” Rogers explained. “They basically have small devices that go through very small holes that you have to drill into the skull… and then they have a wire that comes out that attaches to an external box of electronics.  But, once you’re done, you have to pull the device back out, and that process can cause complications in terms of infection and additional trauma to the brain during that removal process.”
+Since an initial publication of his work in 2012, Rogers has made a number of improvements to his technology.  Not only has he developed circuits with wireless communication capabilities and transient battery technology, he has also invented transient devices that can capture electrical power from the natural motions of the heart.
+And most importantly, Rogers has also shown, through a number of animal models, that the key materials he uses are safe and biocompatible.
+Now, Rogers and his team are focusing on system-level transient devices of military interest, but they are also developing further biomedical implants.  These include nerve stimulators for pain mitigation and bone stimulators for accelerated healing of fractures.
+While transient electronics still have to undergo the long, standard regulatory process, Rogers is hopeful that his technology will be available for clinical use within the next decade.
+“Biology is complicated.  You can engineer a device, but it’s hard to predict the reaction of the body to that device, and there’s a lot of individual variability,” Rogers said. “…So I would say it’s kind of a five-year type time frame to get these things inside the body.”
+</TEXT>
+</DOC>

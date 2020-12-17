@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>1453</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/fU8dx5Fu2jg/</URL>
+<TITLE>Strange state of matter found in chicken eye</TITLE>
+<TIME>Mon, 03 Mar 2014 13:30:43 GMT</TIME>
+<ABSTRACT>
+Never before seen in biology, astate of matter called "disordered hyperuniformity" has been discovered in the eye of a chicken
+</ABSTRACT>
+<TEXT>
+This diagram depicts the spatial distribution of the five types of light-sensitive cells known as cones in the chicken retina. Scientists have proposed that this arrangement could be a new state of matter, called disordered hyperuniformity.Courtesy of Joseph Corbo and Timothy Lau, Washington University in St. Louis
+Never before seen in biology, astate of matter called "disordered hyperuniformity" has been discovered in the eye of a chicken.
+This arrangement of particles appears disorganized over small distances but has a hidden order that allows material to behave like both a crystal and a liquid.
+The discovery came as researchers were studying cones, tiny light-sensitive cells that allow for the perception of color, in the eyes of chickens.[The 9 Biggest Unsolved Mysteries in Physics]
+For chickens and other birds that are most active during the daytime, these photoreceptors come in four different color varieties violet, blue, green and red and a fifth type for detecting light levels, researchers say. Each type of cone is a different size.
+These cells are crammed into a single tissue layer on the retina. Many animals have cones arranged in an obvious pattern. Insect cones, for example, are laid out in a hexagonal scheme. The cones in chicken eyes, meanwhile, appear to be in disarray.
+But researchers who created a computer model to mimic the arrangement of chicken cones discovered a surprisingly tidy configuration.
+Around each cone is a so-called exclusion region that bars other cones of the same variety from getting too close. This means each cone type has its own uniform arrangement, but the five different patterns of the five different cone types are layered on top of each other in a disorderly way, the researchers say.
+"Because the cones are of different sizes it's not easy for the system to go into a crystal or ordered state," study researcher Salvatore Torquato, a professor of chemistry at Princeton University, explained in a statement. "The system is frustrated from finding what might be the optimal solution, which would be the typical ordered arrangement. While the pattern must be disordered, it must also be as uniform as possible. Thus, disordered hyperuniformity is an excellent solution."
+Materials in a state of disordered hyperuniformity are like crystals in that they keep the density of particles consistent across large spatial distances, Torquato and colleagues said. But these systems are also like liquids, because they have the same physical properties in all directions.
+Researchers say this may be the first time disordered hyperuniformity has been observed in a biological system; previously it had only been seen in physical systems like liquid helium and simple plasmas.
+For chicken eyes, the researchers speculate this cone arrangement allows the birds to sample incoming light evenly. Engineers may be able to take inspiration from disordered hyperuniformity in nature to create optical circuits and light detectors that are sensitive or resistant to certain light wavelengths, the researchers say. Their findings were detailed on Feb. 24 in the journal Physical Review E.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+Bees v. beetles: Beekeeper fights beetles with new invention
+</TEXT>
+</DOC>

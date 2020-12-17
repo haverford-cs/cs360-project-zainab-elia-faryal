@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>2172</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/xOleupHSzm8/</URL>
+<TITLE>New drug may help combat PTSD by overriding painful memories</TITLE>
+<TIME>Fri, 17 Jan 2014 16:35:18 GMT</TIME>
+<ABSTRACT>
+Researchers from the Massachusetts Institute of Technology have discovered a drug that may help treat people suffering from post-traumatic stress disorder (PTSD). 
+</ABSTRACT>
+<TEXT>
+Researchers from the Massachusetts Institute of Technology have discovered a drug that may help treat people suffering from post-traumatic stress disorder (PTSD), Counsel and Heal reported.
+In a study published in the journal Cell, a team of neuroscientists examined the effects of a drug known as an HDAC2 inhibitor. When used in rats, the drug appeared to help the rodents overcome traumatic memories.
+“By inhibiting HDAC2 activity, we can drive dramatic structural changes in the brain,” senior author, Li-Huei Tsai, the director of MIT's Picower Institute for Learning and Memory, told Counsel and Heal. “What happens is the brain becomes more plastic, more capable of forming very strong new memories that will override the old fearful memories.”
+The researchers believe this drug could someday help treat people with PTSD – particularly those for whom psychotherapy is not effective. However, the researchers noted that the older the memory, the more difficult it was to overcome – even with the help of the drug.  
+“If you do something within this window of time, then you have the possibility of modifying the memory or forming a new trace of memory that actually instructs the animal that this is not such a dangerous place," Tsai said. "However, the older the memory is, the harder it is to really change that memory. Our experiments really strongly argue that either the old memories are permanently being modified, or a new much more potent memory is formed that completely overwrites the old memory."
+Click for more from Counsel and Heal.
+</TEXT>
+</DOC>

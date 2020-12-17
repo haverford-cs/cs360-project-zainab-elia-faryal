@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>1210</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/QtNjIJ1BzZ8/</URL>
+<TITLE>Age of Saturn's rings revealed</TITLE>
+<TIME>Thu, 02 Jan 2014 15:00:39 GMT</TIME>
+<ABSTRACT>
+Saturn's iconic rings likely formed about 4.4 billion years ago, shortly after the planet itself took shape, a new study suggests.
+</ABSTRACT>
+<TEXT>
+A new mosaic of Saturn and rings made by Cassini spacecraft, brightened version with contrast and color enhanced. Image released Nov. 12, 2013.NASA/JPL-Caltech/SSI
+SAN FRANCISCO –  Saturn's iconic rings likely formed about 4.4 billion years ago, shortly after the planet itself took shape, a new study suggests.
+The origin of Saturn's ring system has long been the subject of debate, with some researchers arguing that it's a relatively young structure and others holding that it coalesced long ago, at roughly the same time as the gas giant's many satellites.
+The new study, conducted using data gathered by NASA's Saturn-orbiting Cassini spacecraft, strongly supports the latter scenario, researchers said Dec. 10 at the annual meeting of the American Geophysical Union. [Photos: Saturn's Glorious Rings Up Close]
+Cassini's measurements imply that "the main rings would be [extremely] old, rather than hundreds of millions of years old," Sascha Kempf, of the University of Colorado in Boulder, said.
+Saturn's main ring system is huge but razor-thin, measuring about 175,000 miles across but just 33 feet or so in the vertical direction. The rings are composed primarily of water ice, but they contain small amounts of rocky material contributed by micrometeoroid bombardment.
+Kempf and his colleagues used Cassini's Cosmic Dust Analyzer instrument to measure just how frequently such tiny particles cruise through the Saturn system.
+They found that a surprisingly small amount of dusty material comes into contact with the rings. On average, just 0.0000000000000000001 grams — or, in scientific notation, 10-19 g — of dust per square centimeter zooms through space every second at a distance of five to 50 Saturn radii from the planet.
+Having measured this low rate of dust recruitment, the team then calculated that the rings have likely existed for about 4.4 billion years.
+"It would be consistent with an old ring system," Kempf said.
+Kempf and his colleagues were also able to reconstruct the orbits of many of these particles, finding that the lion's share likely come from the Kuiper Belt, the ring of icy bodies beyond Neptune's orbit. However, some of the dust probably hails from the even more distant Oort Cloud and some from interstellar space, Kempf said.
+That makes the Saturn-area dust quite different from the stuff seen near Earth and other parts of the inner solar system — a situation caused by Jupiter and its huge gravitational pull.
+"Jupiter is basically splitting the solar system with respect to the dust into an inner and an outer system," Kempf said.
+The $3.2 billion Cassini mission launched in 1997 and reached Saturn in 2004. The mission's operations have been extended through 2017, when the spacecraft will end its life with a dramatic plunge into Saturn's atmosphere.
+Top 13 archaeological discoveries of 2013
+</TEXT>
+</DOC>

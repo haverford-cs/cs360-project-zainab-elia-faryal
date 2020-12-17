@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>1287</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/9SBFloHmKgc/</URL>
+<TITLE>Team of scientists date Monet masterpiece down to the minute</TITLE>
+<TIME>Thu, 23 Jan 2014 08:35:59 GMT</TIME>
+<ABSTRACT>
+A team of art-loving astronomers from Texas State University has worked out the precise moment depicted in one of the best-known works by French impressionist master Claude Monet. 
+</ABSTRACT>
+<TEXT>
+The Cliff, Éretat, Sunset, by Claude Monet
+A team of art-loving astronomers from Texas State University has worked out the precise moment depicted in one of the best-known works by French impressionist master Claude Monet. 
+"We like to use astronomy to show students how science can solve real-world puzzles," physics professor Donald Olson told Britain's Daily Telegraph. The puzzle in question centered around Monet's "The Cliff, Etretat: Sunset," which depicts a rock formation known as the Falaise d'Aval on the coast of Normandy. The painting, one of dozens crafted by the artist during a three-week visit to Normandy in the winter of 1883, is the only one of the set to show the sun.
+Taking that as their starting point, Olson's team got to work. With the help of a topographic map and postcard-sized copies of the Normandy paintings, they worked out the exact location Monet stood when painting "The Cliff." The researchers then used planetarium software to calculate when the sun would have set along the path depicted in the painting. 
+To double-check their answer, the team cross-referenced letters written by Monet during the period in question, as well as weather records and tide tables. By process of elimination, the team discovered that the only day Monet was in the right place, with clear weather and the tide matching the depiction in the painting, was February 5, 1883. 
+To nail down the exact time, the researchers used the height of the rock formation to calculate the altitude of the sun above the horizon and determine the time with a margin of error of plus-or-minus one minute. 
+So, if you ever go to the North Carolina Museum of Art in Raleigh to see "The Cliff, Etretat: Sunset," you now know it depicts 4:53 p.m. on the afternoon of February 5, 1883.
+Click for more from The Daily Telegraph
+Click for more from The Daily Mail
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>1291</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/S-U5rrrMXhc/</URL>
+<TITLE>Mantis shrimp see colors like no other creatue</TITLE>
+<TIME>Fri, 24 Jan 2014 16:00:56 GMT</TIME>
+<ABSTRACT>
+New research finds that the aggressive mantis shrimp is weird in a strange way: They see color like no other animal on the planet.
+</ABSTRACT>
+<TEXT>
+The Odontodactylus cultrifer mantis shrimp shows off its amazing eyes. The unique color vision saves the mantis shrimp energy, which they need in the combative world of coral reefs where they live, say researchers.Image courtesy of Roy L. Caldwell
+The colorful mantis shrimp is known for powerful claws that can stun prey with 200 lbs. of force. Now, new research finds that these aggressive crustaceans are weird in another way: They see color like no other animal on the planet.
+In fact, the 400-million-year-old visual system of the mantis shrimp works more like a satellite sensor than any other animal eye, said study researcher Justin Marshall, a neurobiologist at the University of Queensland in Australia. Instead of processing ratios of stimulation from just a few color receptors, the mantis shrimp has 12 and it seems to use them to recognize color with minimal effort.
+"There is no other animal out there that has anything remotely like this," Marshall told LiveScience. [See Images of the Bizarre Mantis Shrimp Eyes]
+Color vision Mantis shrimp (Stomatopoda) are brightly colored crustaceans that live on reefs. They can grow to be a foot long (30 centimeters), and are known among fisherman as "thumb splitters" because of the wallop their hammer-like claws pack. These claws measure only a few inches long, but can deliver blows that accelerate as fast as a .22-caliber bullet.
+Researchers have long known that the mantis shrimp eye contains 12 color receptors, but they had no idea why. Humans and most other animals use three color-receptors to see the spectrum of light. In these animals, each of the three receptors gets excited by a different hue: red, green or blue light. The eye sends the signals from the receptors to the brain, which weighs the ratio of excitation of each receptor and perceives color based on those ratios.
+- Justin Marshall, a neurobiologist at the University of Queensland in Australia
+It's tempting to think that with 12 color receptors, mantis shrimp see a rainbow humans can't even conceive. But Marshall and his colleagues found the opposite. They trained mantis shrimp to associate certain wavelengths of light with food. As the wavelength of light defines its color, this meant that the shrimp saw certain colors as harbingers of treats.
+They then showed the shrimp two colored-lights and let them choose the one that would get them treats by grabbing or tapping at it with their claws. By altering the wavelength of the lights, the researchers could figure out how good the shrimp were at telling one hue from another.
+Unique eyes As it turned out, the shrimp could differentiate wavelengths that were about 25 nanometers apart, essentially the difference that separates orange and yellow. In comparison, humans can discriminate shades that are as little as 1 nanometer to 4 nanometers apart.
+"They're definitely not seeing the world of color in as much detail as other animals," Marshall said of the shrimp.
+So why keep the 12-receptor system? Marshall and his colleagues aren't sure how it works yet, but they suspect the shrimps process color very quickly by setting up patterns of receptor excitation that correspond to certain colors. Imagine, for example, that every receptor is an empty bucket. If a couple of buckets on one end of the spectrum appear full, the shrimp knows it's seeing red. On the other end of the spectrum, the buckets represent blue.
+In other words, mantis shrimp might not so much process colors in the brain as recognize them in the eye, a technique that could help the animals quickly pick out colors in their brilliant reef environment.
+The shrimp eyes also arrange their color receptors in a band in the middle of the retina, a setup that looks like a line-scan camera or a spectral linear analyzer, a type of remote-sensing tool used in satellites. These devices use a single line of sensors to scan the environment. Each line sends data to a computer processer, which stiches data from all the lines together into a coherent image. Marshall has even worked on a project, dubbed "Prawns in Space," that seeks to improve satellite devices with inspiration from animal eyes.
+The next step, Marshall said, is to figure out how mantis shrimp integrate information from their bizarre color-sensing system. The shrimp have telltale spots on their claws that come in different shades and that indicate their species; it's likely the animals use these spots to tell one another apart.
+"The color messages they're sending each other are something we don't understand, but they definitely use color to talk to each other," Marshall said.
+The researchers reported their results Jan. 23 in the journal Science.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+Nature's Oddities: The strangest creatures on earth
+</TEXT>
+</DOC>

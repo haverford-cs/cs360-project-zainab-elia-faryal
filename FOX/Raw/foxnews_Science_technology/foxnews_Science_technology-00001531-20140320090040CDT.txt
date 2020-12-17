@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO>1531</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/mnHaRiNiR_4/</URL>
+<TITLE>Society is doomed, scientists claim</TITLE>
+<TIME>Thu, 20 Mar 2014 14:00:40 GMT</TIME>
+<ABSTRACT>
+How, exactly, do powerful empires collapse, and why? Researchers now believe they've found an answer, one that has troubling implications for today because we're clearly on the road to ruin.
+</ABSTRACT>
+<TEXT>
+Countless people have predicted countless end-of-the-world scenarios -- and the planet's still here, fortunately. We look back at some of the wackiest forecasts.
+There's never been a shortage of doomsday scenarios. From the dreaded Mayan Apocalypse of 2012 (remember that?) to the havoc wreaked in the movie "The Day After Tomorrow," people have been predicting the end of civilization for as long as there has been a civilization.
+The trouble is, they're sometimes correct: The Roman Empire fell spectacularly, as did the Mayan civilization, the Han Dynasty of China, India's Gupta Empire and dozens of other once-mighty kingdoms.
+But how, exactly, do powerful empires collapse, and why? Researchers now believe they've found an answer, one that has troubling implications for today because we're clearly on the road to ruin. [11 Failed Doomsday Predictions]
+Societal collapse more common than you think The researchers' first task was overturning "the common impression that societal collapse is rare, or even largely fictional," as they wrote in their report, to be published in the journal Ecological Economics.
+In fact, they argue, the rise and fall of great social structures is so common a theme in human civilization recurrent throughout history and worldwide in scope that it's more the rule than the exception. [Photos: Life and Death of an Ancient Civilization]
+Most studies of a society's collapse have looked at the specifics of how one civilization declined, citing individual causes such as a disaster (earthquake, flood), loss of resources (soil erosion, deforestation) or human conflict (war, uprising) that led to the particular society's downfall.
+But the researchers (funded in part by NASA's Goddard Space Flight Center and the University of Maryland, College Park) cast a wider net. They aimed to create a useful mathematical model that could help analyze how any society might fall including our current global, technically advanced, interconnected society.
+The balance of nature The model they arrived at takes inspiration from the classic notion of predator vs. prey, sometimes referred to as the "balance of nature." When a deer population grows, for instance, the wolves that feed on those deer reproduce more successfully, too, and so the wolf population grows.
+Everything is fine until the wolves become too numerous and overreach, eating so many deer that there isn't enough venison to go around. Then, as the number of deer plunges, the wolf population drops due to famine, until equilibrium is reestablished and the cycle begins anew. [Civilization Doomed by Overconsumption, Wealth, Inequality (Infographic)]
+Informed by this paradigm, the researchers developed a relatively simple formula with four factors influencing social collapse: nature and natural resources, the accumulation of wealth, the elite and the commoners. The team calls their model Human And Nature Dynamics, or HANDY.
+A HANDY tool The researchers used the HANDY model to analyze three different social scenarios: an egalitarian society with no elite class; an equitable society with workers and non-workers (students, retirees, disabled persons); and an unequal society with a robust class of elites.
+The egalitarian and equitable societies could produce a sustainable civilization and avoid collapse, even with a high ratio of non-workers. Social collapse was more likely after people overreached and depleted natural resources. Importantly, even without any social stratification, collapse could occur if a society exhausted its natural resources.
+In the unequal society, however, collapse was almost unavoidable and these were the HANDY scenarios that mirrored our current globalized society.
+The income gap "The scenarios most closely reflecting the reality of our world today are found in the third group of experiments, where we introduced economic stratification," the researchers wrote, referring to uneven wealth distribution. "Under such conditions, we find that collapse is difficult to avoid."
+Other recent research backs up the authors' claims: A 2012 study from the journal American Sociological Review shows that the income share of the top 1 percent of Americans grew rapidly after 1980 from 10 percent in 1981 to 23.5 percent in 2007, an increase of 135 percentage points.
+Meanwhile, the bottom three-quarters of the U.S. population has seen slow economic growth, with predictable results: A 2011 study published in the journal Psychological Science found that happiness, trust in others and life satisfaction plummet when income inequality is high.
+Technology won't save you For those who believe that there must be a technological fix to all this despair and destruction, the researchers found that the historical record provides "testimony to the fact that advanced, sophisticated, complex and creative civilizations can be both fragile and impermanent.
+"It may be reasonable to believe that modern civilization, armed with its greater technological capacity, scientific knowledge and energy resources, will be able to survive and endure whatever crises historical societies succumbed to," the authors wrote.
+"But the brief overview of collapses demonstrates not only the ubiquity of the phenomenon, but also the extent to which advanced, complex and powerful societies are susceptible to collapse."
+Not all is lost, however: Societies can moderate the two factors that contribute most to social meltdown: the exploitation of natural resources and the uneven distribution of wealth, the researchers said.
+"Collapse can be avoided and population can reach equilibrium if the per-capita rate of depletion of nature is reduced to a sustainable level, and if resources are distributed in a reasonably equitable fashion," they wrote.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

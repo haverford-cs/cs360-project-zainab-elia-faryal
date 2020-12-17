@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>2317</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/-w-abGsLuY0/</URL>
+<TITLE>Can shivering lead to weight loss?</TITLE>
+<TIME>Tue, 04 Feb 2014 17:00:05 GMT</TIME>
+<ABSTRACT>
+When temperatures drop, you shiver to stay warm – a reaction that mimics some of the effects of exercise, according to researchers at the National Institutes of Health.
+</ABSTRACT>
+<TEXT>
+(REUTERS/Jim Bourg)
+When temperatures drop, you shiver to stay warm – a reaction that mimics some of the effects of exercise, according to researchers at the National Institutes of Health.
+During exercise, your muscles produce the hormone irisin, which stimulates an increase in brown fat in the body’s tissues. Brown fat, which is dispersed within the body’s white fat stores, feeds off food or white fat to produce energy. It is considered to be a “good” fat for the body.
+In a new study published in Cell Metabolism, researchers observed a group of 10 healthy volunteers while they exercised at maximal aerobic capacity, measuring their energy expenditure and taking blood samples. They then had the subjects rest in bed covered with cooling blankets and lowered the blanket temperature to 53.6 F, which, for the majority of participants, triggered a shivering response to warm the body.
+Overall, the researchers found that the levels of irisin produced when study participants exercised were comparable to those seen when participants were shivering.
+“Shivering is as effective as very strong exercise, from the perspective of the release of irisin,” researcher Francesco S. Celi, chair of the division of endocrinology and metabolism at Virginia Commonwealth University, told FoxNews.com.
+Researchers also tested the effects of irisin on adipose tissue (white fat) cultures and found that exposure to the hormone stimulated the production of proteins that are characteristic of brown fat, further confirming their initial experiment’s results.
+These findings allowed researchers to better understand how irisin production occurs in the body and could someday lead to pharmacological substances capable of stimulating irisin production.
+However, researchers said further research is needed into the long-term effects of irisin on a person’s overall health and metabolism. He also cautioned that weight loss intervention through exercise alone is often ineffective because people tend to eat more, which cancels the effects of physical activity.
+“It’s a bit too early to jump to conclusions that this is a cure for obesity,” he said.
+Still, Celi noted that continued research into how brown fat and irisin affect metabolism could benefit public health. For example, for people with diabetes, the activation of brown fat through irisin could potentially allow them to better control glucose levels. Energy expenditure, or moderate exercise, has been shown to improve glucose control for diabetics, even in the absence of actual weight loss. Since brown fat generates energy, it may lead to similar effects.
+“As physicians… we’re really interested in studying the metabolic consequence of [these] effects,” Celi said.
+</TEXT>
+</DOC>

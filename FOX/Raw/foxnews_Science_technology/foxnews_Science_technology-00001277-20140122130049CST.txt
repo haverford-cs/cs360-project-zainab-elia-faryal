@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>1277</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/NEy7WKzGlHU/</URL>
+<TITLE>Matter of mystery: Antimatter beam could help solve physics puzzle</TITLE>
+<TIME>Wed, 22 Jan 2014 19:00:49 GMT</TIME>
+<ABSTRACT>
+A new experiment at a Swiss physics laboratory has, for the first time, successfully produced a stream of antimatter hydrogen atoms that could help answer a fundamental physics question.
+</ABSTRACT>
+<TEXT>
+Equipment in the Antiproton Decelerator at CERN.N. Kuroda
+A new experiment at a Swiss physics laboratory has, for the first time, successfully produced a stream of antimatter hydrogen atoms that could help answer a fundamental physics question.
+The new achievement, which is detailed yesterday in the journal Nature Communications, brings scientists a step closer to understanding why humans, stars and the universe are made of matter, rather than of its strange cousin, antimatter.
+"It's one of the fundamental questions of physics: We just don't know why we exist," said study co-author Stefan Ulmer, a physicist at science research institute RIKEN in Japan.
+The new demonstration will allow for more precise measurements that could then start to answer that question. [The 9 Biggest Unsolved Mysteries in Physics]
+Mystery matter All matter has its antimatter counterparts particles with the same mass, but opposite charges and magnetic spin. When matter and antimatter collide, they annihilate and form energy. In laboratory experiments, matter and antimatter are created in equal amounts, Ulmer said.
+But the universe is made of matter.
+"At a cosmological scale, we never observe antimatter in the universe, like antimatter galaxies or stars," Ulmer told LiveScience.
+So if antimatter is created about as often as matter and behaves identically, why is there so little of it around?
+There are several ways to explain this discrepancy. One possibility is that matter/antimatter symmetry, or the idea that the two types of matter have the same mass but opposite charges and spins, doesn't hold. Another possibility is that a bit more matter existed at the very beginning some 13.8 billion years ago, when the Big Bang formed the universe. As a result, almost all of the antimatter was annihilated, leaving mostly matter behind. But physicists don't see why there would have been more matter than antimatter at the Big Bang, Ulmer said.
+Antimatter beam To understand this enigma, scientists hope they can probe the symmetry between matter and its antimatter partners at incredibly high precision. The symmetry, one of the fundamental tenets of the reigning model of physics, predicts these particles should behave identically.
+However, creating antimatter particles is no easy feat.
+To do so, Ulmer and his colleagues working on the Antiproton Decelerator at CERN, the Geneva-based physics organization that runs large underground accelerators, mixed antielectrons (or positrons) with antiprotons to form antihydrogen molecules. Because hydrogen is the simplest and one of the best-understood atoms, studying its antimatter partner could be useful to reveal any violations of symmetry between matter and antimatter.
+The team then used powerful magnetic traps to pin the antihydrogen atoms long enough to study their properties (as well as to keep them away from matter that could annihilate them). Usually, however, the magnetic fields change the spectroscopic characteristics the frequency and wavelengths of energy emitted by the antiparticles.
+So the team used a magnetic trap that forced antimatter particles to flow farther downstream from the magnetic fields, reducing the distortion caused by the magnetic field. So far, the team has produced 80 antihydrogen particles that could be measured in flight 8.9 feet from the strong magnetic traps where they were produced. (While antihydrogen atoms have been trapped and measured before, this is the first time a beam has been produced and measured away from the magnetic trap, researchers say.)
+The new results pave the way for better spectroscopic measurements of the hyperfine structure, or shifts in energy levels, in the antihydrogen atoms. Scientists have already measured this property in hydrogen atoms with incredibly high precision, so finding any slight differences in the antihydrogen spectra could reveal new physics, Ulmer said.
+Ask a science teacher
+The world, at large: 2013's best microscope shots
+</TEXT>
+</DOC>

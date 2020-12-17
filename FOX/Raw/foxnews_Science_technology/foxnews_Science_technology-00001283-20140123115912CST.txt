@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>1283</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/5dgcBXwmb0Y/</URL>
+<TITLE>NASA launching newest communication satellite</TITLE>
+<TIME>Thu, 23 Jan 2014 17:59:12 GMT</TIME>
+<ABSTRACT>
+An unmanned rocket is set to blast off Thursday night from Cape Canaveral with the latest, third-generation Tracking and Data Relay Satellite.
+</ABSTRACT>
+<TEXT>
+Members of the news media are given an opportunity for an up-close look at the TDRS-L spacecraft undergoing preflight processing inside the Astrotech payload processing facility in Titusville.NASA / Dimitri Gerondidakis
+Members of the news media are given an opportunity for an up-close look at the TDRS-L spacecraft undergoing preflight processing inside the Astrotech payload processing facility in Titusville.NASA / Dimitri Gerondidakis
+CAPE CANAVERAL, Fla. –  NASA's super-high-flying fleet of communication satellites is about to grow.
+An unmanned rocket is set to blast off Thursday night from Cape Canaveral with the latest, third-generation Tracking and Data Relay Satellite.
+NASA uses the TDRS (TEE'-driss) satellites to support the International Space Station and Hubble Space Telescope, among other craft. The network is 22,300 miles high and allows continuous two-way contact with the space station and its six inhabitants.
+This newest satellite is designated "L" in the TDRS series. NASA will rename it TDRS-12 once it's checked out in orbit, by late spring.
+The satellite costs about $350 million.
+NASA launched its first TDRS in 1983 aboard a space shuttle.
+Launch time is 9:05 p.m.
+</TEXT>
+</DOC>

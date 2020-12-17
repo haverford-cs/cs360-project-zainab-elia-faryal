@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>1298</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/WiV4t1Xdegw/</URL>
+<TITLE>China's lunar rover has mechanical problems, may not finish mission</TITLE>
+<TIME>Mon, 27 Jan 2014 12:45:25 GMT</TIME>
+<ABSTRACT>
+China says its first lunar rover is experiencing mechanical problems and may not be able to finish its mission.
+</ABSTRACT>
+<TEXT>
+1st 360 degree color panorama from Chinas Change-3 Lunar Lander.CNSA/Chinanews/Ken Kremer/ Marco di Lorenzo
+In this digitally-combined polar panorama, a 360 degree color view of the moonscape taken from China's Changâe-3 lander can be seen.Chinese Academy of Sciences
+BEIJING –  China says its first lunar rover is experiencing mechanical problems, in a rare setback for its burgeoning space program.
+The six-wheeled Yutu vehicle began operating last month after making the first soft landing on the moon by a space probe in 37 years. It was designed to roam the lunar surface for three months while surveying for natural resources and sending back data, along with its stationary lander, Chang'e 3.
+The mission has been a popular success for China's space program and the rover has attracted more than 150,000 followers on its microblog. It last posted on Saturday saying repairs were underway and hope was not lost.
+"Sorry to make you all sad. The engineers and I haven't given up yet," the posting said.
+- China moon rover Yutu
+The mechanical problems appeared to be related to the solar-powered probe's process for shutting down for the lunar night, which lasts more than two weeks. The temperature during that time drops to minus 292 degrees Fahrenheit.
+The probe had survived its first lunar night shutdown, during which it is unable to generate energy from its solar panels and relies on a radioactive power source to keep its delicate sensors and other equipment intact.
+The 300-pound rover was traversing a relatively flat part of the moon known as Sinus Iridum, or the Bay of Rainbows, at a speed of 200 yards per hour. The landing vehicle, which has already shut down for the lunar night, is designed to conduct scientific examinations for one year.
+Online speculation focused on the possibility of lunar dust having blocked one of the solar panels from folding inward, leaving equipment exposed to the dangerously low temperatures. It won't be known if the probe is able to function again until after the two-week break.
+China's space program has made steady progress since the country launched its first manned spacecraft in 2003. It has launched a lunar orbiter, conducted space walks, and put in orbit a prototype space station, to be replaced by a permanent station at the end of the decade.
+Yutu, or "Jade Rabbit," is named after a mythological Chinese animal said to live on the moon.
+</TEXT>
+</DOC>

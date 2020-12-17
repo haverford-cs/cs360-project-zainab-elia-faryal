@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO>2307</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/tkY8NzUduzc/</URL>
+<TITLE>New cholesterol guidelines: How to make sense of them</TITLE>
+<TIME>Mon, 03 Feb 2014 15:27:25 GMT</TIME>
+<ABSTRACT>
+The new guidelines about who should take cholesterol-lowering statin drugs have spurred ongoing debate and confusion among both physicians and patients since their release in November
+</ABSTRACT>
+<TEXT>
+The new guidelines about who should take cholesterol-lowering statin drugs have spurred ongoing debate and confusion among both physicians and patients since their release in November.
+More than 70 million American adults have high blood cholesterol, which doubles their risk for heart disease, and less than half of people in this group take statins. But the changes to the guidelines would add more people to the group of those who are recommended to get a statin prescription.
+"Some people who were otherwise considered not at-risk might be considered at-risk now," said Dr. Suzanne Steinbaum, a cardiologist and the director of Women's Heart Health at Lenox Hill Hospital in New York.
+But "patients need to empower themselves with knowledge about what their own risks are. Because the doctors themselves are confused. The information is not clear," Steinbaum said.
+What are these changes, and how can people make sense of the new guidelines?
+How big a risk?
+The new guidelines change the way doctors calculate a person's risk of heart disease and stroke.
+For example, high levels of LDL ("bad") cholesterol are a risk factor for heart disease, but in the past, doctors prescribed statins to lower the LDL cholesterol only in people whose levels were above 100 milligrams per deciliter (mg/dL).
+But the new guidelines suggest including other factors in risk calculation for example, blood pressure, weight and gender to decide whether someone should be on cholesterol-lowering drugs or should simply change their lifestyle. [9 Healthy Habits You Can Do in 1 Minute (Or Less)]
+This means under some conditions, people whose LDL levels are lower than 100 mg/dl would be prescribed statins.
+"It's very clear under certain circumstances, like those people who already had a heart attack, or have diabetes, these are the people that we know for sure need statins," Steinbaum said.
+"What these guidelines are saying, if you are at age 45, and you have a family history, or your cholesterol is elevated, you should talk to your doctor, to see if you need statins," Steinbaum said.
+Art of medicine
+Some physicians are arguing that the new risk calculator can overestimate a person's risk. But on the other hand, others warn that risk factors that are unique to women, such as having had blood conditions during pregnancy, have been left out from the new risk calculations, Steinbaum said.
+"Patients should know that these guidelines are controversial, and they should ask their doctor whether or not they are a candidate," she said, noting that guidelines are only part of a doctor's decision-making. "Guidelines give us a general idea about population studies. They don't tell us about the individual."
+Factors that can increase a person's risk for heart disease include having a family member with heart disease, smoking, being overweight, having diabetes and physical inactivity. The risk increases with age, but some younger people are at high risk too because of their genes or their lifestyle.
+"I think it's very important that there's a dialogue," Steinbaum said. Patients should develop a full understanding of their risk factors, and then go see their doctor.
+Under another change in the guidelines, physicians will treat people with fixed-dose statins, prescribing either "high-intensity" or "moderate-intensity" statins, instead of adjusting the dose based on changes in cholesterol levels.
+This change, which has been focus of much debate among doctors, will simplify matters for both patients and doctors with fewer dose adjustments and fewer lab tests, and is more consistent with the way scientific studies are done. On the other hand, not everyone may benefit equally, Steinbaum said from a single treatment.
+Lifestyle change
+It's important to keep in mind that statins are the second option when it comes to treating high cholesterol levels. The first approach is still making changes to lifestyle, Steinbaum said.
+Taking up regular exercise and eating a healthful diet can help lower cholesterol levels. Avoiding saturated fat, trans fats and dietary cholesterol can help prevent levels from rising, whereas eating other types of fats, such as monounsaturated and polyunsaturated fats, can actually lower blood cholesterol levels.
+Statins should be prescribed only when a patient's cholesterol levels don't respond to lifestyle changes, she said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>1301</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/GNnilK3UZNA/</URL>
+<TITLE>Five NASA Earth-science missions blasting off in 2014</TITLE>
+<TIME>Tue, 28 Jan 2014 17:30:03 GMT</TIME>
+<ABSTRACT>
+The launch of a precipitation-measuring satellite next month kicks off a busy year for NASA's Earth-observation program.
+</ABSTRACT>
+<TEXT>
+In 2014 for the first time in more than a decade, five NASA Earth science missions will be launched into space in the same year, opening new and improved remote eyes to monitor our changing planet. The first mission of the year is the Global PNASA
+The launch of a precipitation-measuring satellite next month kicks off a busy year for NASA's Earth-observation program.
+The space agency will launch five Earth-science missions in 2014, starting with the Feb. 27 liftoff of the Global Precipitation Measurement (GPM) Core Observatory from Japan's Tanegashima Space Center.
+The GPM rain-mapping mission, a joint effort between NASA and the Japan Aerospace Exploration Agency, will provide near real-time observations of rainfall and snowfall every three hours all over the world, improving scientists' understanding of climate change and the global water cycle, NASA officials said. [Amazing Photos of Earth from Space]
+"The water cycle, so familiar to all school-age young scientists, is one of the most interesting, dynamic, and important elements in our studies of the Earth’s weather and climate," NASA science chief John Grunsfeld said in a statement. "GPM will provide scientists and forecasters critical information to help us understand and cope with future extreme weather events and fresh water resources."
+The GPM Core spacecraft will orbit Earth at an altitude of 253 miles, about as high up as the International Space Station. From that perch, the satellite will scan our planet from the Arctic Circle in the north to the Antarctic Circle in the south, providing a detailed look at clouds and rain and snow systems.
+Further, the GPM observatory will serve as the powerful anchor of an international constellation of climate satellites, some of which are already aloft, NASA officials said.
+"The GPM, through its core observatory and its constellation of satellites, will dramatically improve our knowledge of global precipitation and our ability to forecast it and its consequences," Steve Neeck, deputy associate director of flight programs for NASA's Earth science division, told reporters Monday.
+The next NASA Earth-science mission to get off the ground this year is ISS-RapidScat, an instrument scheduled to launch to the International Space Station on June 6 aboard private spaceflight company SpaceX's unmanned Dragon cargo capsule. ISS-RapidScat will gather data about ocean winds around the ground, aiding climate research and improving the tracking of storms and hurricanes, officials said.
+Dragon will carry another NASA instrument to the orbiting lab in September. This one, called the Cloud-Aerosol Transport System, will measure small particles in the atmosphere, which can affect human health and influence global climate, agency officials said.
+The other two NASA Earth-observation missions will place free-flying spacecraft in orbit around our planet. In July, the agency plans to launch the Orbiting Carbon Observatory 2, a replacement for a satellite doomed by a launch-vehicle failure in 2009. OCO-2 will make detailed measurements of carbon dioxide, improving researchers' understanding of this greenhouse gas and how it cycles through land, air and sea.
+NASA also aims to launch its Soil Moisture Active Passive mission in November. SMAP is designed to map the planet's soil moisture, helping scientists better predict agricultural productivity, weather and climate, agency officials said.
+'Curiosity' returns photos from surface of Mars
+In pictures: ISON, 'comet of the century' no more?
+</TEXT>
+</DOC>

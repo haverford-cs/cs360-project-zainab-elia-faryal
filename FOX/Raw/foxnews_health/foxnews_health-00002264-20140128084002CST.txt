@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>2264</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/rb-leA5ibXU/</URL>
+<TITLE>Poor sleep quality may accelerate cancer growth, study finds</TITLE>
+<TIME>Tue, 28 Jan 2014 14:40:02 GMT</TIME>
+<ABSTRACT>
+Failing to get a good night’s rest may actually have some serious health consequences.
+</ABSTRACT>
+<TEXT>
+Failing to get a good night’s rest may actually have some serious health consequences.
+Poor quality of sleep marked by frequent waking can speed cancer growth and increase the disease’s aggressiveness, according to new research.
+In a study published in the journal Cancer Research, researchers experimented with genetically engineered mice that had been injected with tumor cells.  As the mice slept during the day, a quiet, motorized brush moved through half of the cages every two minutes – forcing some of the mice to wake up and go back to sleep.  The other mice were not disturbed as they slept.
+After four weeks, the researchers found that the tumors in the mice with fragmented sleep patterns were twice as large as the tumors in the mice who had slept normally.
+According to study director Dr. David Gozal, poor sleep can significantly alter the immune system.
+"It's not the tumor, it's the immune system," said Gozal, chairman of pediatrics at the University of Chicago Comer Children's Hospital. "Fragmented sleep changes how the immune system deals with cancer in ways that make the disease more aggressive."
+</TEXT>
+</DOC>

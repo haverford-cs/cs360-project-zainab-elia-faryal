@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO>1216</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/7RfIUcWWDdU/</URL>
+<TITLE>Hubble telescope spies clouds on nearby alien planets</TITLE>
+<TIME>Fri, 03 Jan 2014 13:15:58 GMT</TIME>
+<ABSTRACT>
+Scientists have found evidence of extraterrestrial clouds blanketing two of the most common types of planets in our Milky Way galaxy, NASA officials say.
+</ABSTRACT>
+<TEXT>
+An artist's illustration of the alien planet GJ 1214b, a 'super-Earth' more than six times the mass of Earth that appears to be covered with high clouds, according to Hubble Space Telescope data. Image released Dec. 31, 2013.NASA, ESA, G. Bacon (STScI)/L. Kreidberg and J. Bean (University of Chicago), and H. Knutson (California Institute of Technology)
+This artist illustration compares the sizes of exoplanets GJ 436b and GJ 1214b with Earth and Neptune. Hubble Space Telescope observations suggest the exoplanets are blanketed with clouds. Image released Dec. 31, 2013.NASA, ESA, and A. Feild and G. Bacon (STScI)
+Scientists have found evidence of extraterrestrial clouds blanketing two of the most common types of planets in our Milky Way galaxy, NASA officials say.
+Two teams of researchers used the Hubble Space Telescope to characterize the atmospheres of the two exoplanets. One of the alien planets is a so-called "super-Earth" larger than the Earth, while the other has been dubbed a "warm Neptune." Studying both types of worlds can help scientists learn to classify the atmospheres on other Earth-like planets in the future. 
+"Both planets are telling us something about the diversity of planet types that occur outside of our own solar system; in this case we are discovering we may not know them as well as we thought," Heather Knutson of the California Institute of Technology said in a statement. [The Strangest Alien Planets (Gallery)]
+Knutson is lead author of the study that analyzed the planet GJ 436b, the Neptune-like world orbiting its parent star every 2.64 days. It is classified as a "warm Neptune" because its orbit is closer to its parent star than the distance between Neptune and the sun in our solar system.
+Exoplanet forecast: clouds and more clouds As GJ 436b and the super-Earth GJ 1214b pass in front of their parent stars, the atmosphere creates a bloated sphere that precedes the body of the planet in the front and follows it in the back. Scientists can study how the light changes to determine the composition of the atmosphere it penetrates.
+- Laura Kreidberg of the University of Chicago
+For the Neptune-like GJ 436b, which is located 36 light-years from Earth in the constellation Leo, the results were more about what the researchers didn't find. The light, or spectra, was featureless, revealing no chemical fingerprints in the planet's atmosphere.
+"Either this planet has a high cloud layer obscuring the view, or it has a cloud-free atmosphere that is deficient in hydrogen, which would make it very unlike Neptune," Knutson said.
+"Instead of hydrogen, it could have relatively large amounts of heavier molecules such as water vapor, carbon monoxide, and carbon dioxide, which would compress the atmosphere and make it hard for us to detect any chemical signals."
+Steamy super-Earth's cloudy weather In a separate study, a different team of researchers examined GJ 1214b, the first super-Earth to have its atmosphere classified. Located 40 light-years away in the constellation Ophiuchus, the massive rocky planet circles its star 70 times closer than Earth orbits the sun. The distance between the Earth and sun is about 93 million miles.
+Previous studies of GJ-1214b provided similar findings to that of GJ 436b—featureless spectra that lead researchers to conclude the atmosphere could be predominately water vapor or hydrogen.
+The Hubble Space Telescope allowed the second team, lead by Laura Kreidberg and Jacob Bean—both of the University of Chicago—to obtain a deeper view of the planet's atmosphere, finding what they considered definitive evidence of high clouds shrouding the planet. The encompassing clouds block views of lower cloud layers or the surface.
+The Hubble revealed no chemical signs in the clouds, but the high-precision instruments allowed the researchers to rule out water vapor, methane, nitrogen, carbon monoxide, or carbon dioxide in the clouds.
+Models of both planets predict clouds made out of potassium chloride or zinc sulfide, both of which could stand up to the extremely high temperatures predicted to be found in the atmospheres.
+"You would expect very different kinds of clouds to form on these planets than you would find, say, on Earth," Kreidberg said in the same statement.
+To obtain these findings, both teams of scientists maximized Hubble's capabilities.
+"We really pushed the limits of what is possible with Hubble to make this measurement—our work devoted more Hubble time to a single exoplanet than ever before," Kreidberg said. "This advance lays the foundation for characterizing other Earths with similar techniques."
+The launch of the James Webb Space Telescope at the close of the decade will allow an even more detailed look at distant planets.
+"The James Webb Space Telescope will be transformative," Kreidberg said. "The new capabilities of this telescope will allow us to peer through the clouds on GJ 1214b and similar exoplanets."
+The two separate papers were published in the Jan. 2 issue of the journal Nature.
+Hubble's Greatest Hits
+Hubble telescope spots a 'space invader'
+NASA Dreams of Alien Worlds
+</TEXT>
+</DOC>

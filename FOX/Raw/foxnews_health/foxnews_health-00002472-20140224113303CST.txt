@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>2472</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/xnFwVJd84RE/</URL>
+<TITLE>Unapproved meningitis vaccine now being used at 2nd US university</TITLE>
+<TIME>Mon, 24 Feb 2014 17:33:03 GMT</TIME>
+<ABSTRACT>
+Swiss drug maker Novartis says a second U.S. university is using its new vaccine against meningitis B.
+</ABSTRACT>
+<TEXT>
+Swiss drug maker Novartis says a second U.S. university is using its new vaccine against meningitis B.
+Novartis said Monday that the vaccine, Bexsero, is being used at the University of California Santa Barbara until March 7 to help protect 20,000 students and staff after an outbreak.
+The vaccine shot for the B strain of the meningitis bacteria is approved for use in Europe, Australia and Canada, but not yet for general use in the United States.
+But the U.S. Food and Drug Administration has now approved the use of Bexsero twice in response to outbreaks at U.S. college campuses. It is the first vaccine against the B strain of meningitis.
+Princeton University says almost 5,300 people got the vaccine last year in an effort to halt an outbreak there.
+</TEXT>
+</DOC>

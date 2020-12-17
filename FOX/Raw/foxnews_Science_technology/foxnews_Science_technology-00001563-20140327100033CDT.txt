@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO>1563</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/d5YielIQnD0/</URL>
+<TITLE>Asteroid found with rings, a first-of-its-kind discovery</TITLE>
+<TIME>Thu, 27 Mar 2014 15:00:33 GMT</TIME>
+<ABSTRACT>
+Scientists have made a stunning discovery in the outer realm of the solar system — an asteroid with its own set of rings that orbits the sun between Saturn and Uranus.
+</ABSTRACT>
+<TEXT>
+An artist's view of the rings surrounding the asteroid Chariklo, which is only 155 miles (250 kilometers) across. The asteroid is the first non-planetary body in the solar system discovered to have its own ring system. Image released March 26,Lucie Maquet
+Scientists have made a stunning discovery in the outer realm of the solar system — an asteroid with its own set of rings that orbits the sun between Saturn and Uranus. The space rock is the first non-planetary object ever found to have its own ring system, researchers say.
+The pair of space rock rings encircle the asteroid Chariklo. They were most likely formed after a collision scattered debris around the asteroid, according to a new study unveiled Thursday. The asteroid rings also suggests the presence of a still-undiscovered moon around Chariklo that's keeping them stable, researchers said.
+"We weren’t looking for a ring and didn’t think small bodies like Chariklo had them at all, so the discovery — and the amazing amount of detail we saw in the system — came as a complete surprise!" study leader Felipe Braga-Ribas, of the National Observatory in Brazil said in a statement today. [Asteroid with Rings: Artist Views of Space Rock Chariklo (Photos)]
+Astronomers used seven telescopes, but just one revealed the pair of rings orbiting the rocky Chariklo. The asteroid's 155-mile diameter is dwarfed by the giant gas planets, the only other bodies known to have rings.
+"This discovery shows that size is not important in order to have — or not have — rings," Felipe Braga-Ribas, of the National Observatory in Brazil, told Space.com by email.
+An asteroid among giants On June 3, 2013, Braga-Ribas led a team of astronomers in observing Chariklo as it passed in front of a distant star — a process known as an occultation. As the asteroid traveled, it blocked light from the star, enabling scientists to learn more about it. [The Strangest Asteroids in the Solar System]
+The astronomers were surprised to discover that a few seconds before and after the main occultation, the light dimmed slightly, indicating that something circled the rocky asteroid. By comparing the data gathered from seven different telescopes, the team was able to identify the shape, size and orientation of the rings.
+The system consists of a dense, 4-mile-wide ring near the planet, and a smaller 2-mile-wide ring farther out.
+From the surface of the asteroid, "they would be two spectacular sharp and really bright rings, crossing all the sky," Braga-Ribas said. "They would be noticeably close, as they are at about 1/1,000 of the moon's distance from us," he added.
+He went on to say that the larger, inner ring would block the view of the outer ring from the ground. The rings are similar to those around Saturn, in that both are very dense, bright and possibly formed by rock and water ice. But their scales are quite different.
+"The whole Chariklo system would fit about 12 times in the Cassini Division," Braga-Ribas said, referring to the largest gap in Saturn's rings.
+Particles orbiting Chariklo also travel more slowly — only tens of meters per second, compared with tens of kilometers per second in the rings of Saturn.
+While Saturn is the most well-known ringed body in the solar system, Jupiter, Neptune and Uranus also have their own, fainter rings. These gas giants significantly dwarf the smaller asteroid. [See Saturn's Glorious Rings Up Close (Photos)]
+Astronomers utilized seven telescopes, most of which were located in South America. Of them, only the European Southern Observatory's La Silla telescope in Chile was able to capture the small gap between the rings.
+"This was possible due to the use of the 'Lucky Imager,' a fast and sensible camera that obtained a sequence of images like a video at a rate of 10 images per second," Braga-Ribas said. "As the stellar occultation by both rings lasted for 0.6 seconds in total, it was able to 'see' the rings in detail."
+The other telescopes had exposure times greater than 0.7 seconds, so they were only able to observe a single gap in the light.
+What's so special about this asteroid to make it have rings? "Chariklo seems to be nothing special, otherwise," Joseph Burns, of Cornell University, told Space.com by email. Burns was not a member of Braga-Ribas' team, but he studies planetary rings and the small bodies of the solar system. He authored a perspective article that appeared alongside the new findings.
+Chariklo may not be the only nonplanetary body to have rings, Braga-Ribas said. "Rings may be a much more common property than we thought," he said.
+The research and Burns' accompanying article were published online Wednesday in the journal Nature.
+Chariklo's 'toy ring' Chariklo is the largest of the centaurs, several bodies in the outer solar system whose orbits cross — and are changed by — the outer planets. The centaurs share characteristics with both asteroids and comets, and are thought to come from the Kuiper Belt region beyond Pluto. Rocky Chariklo appears to be more asteroid than comet in composition, according to the paper.
+This placement may help to explain the presence of Chariklo's rings and their absence in the asteroid belt that lies between Mars and Jupiter. The rocky inner planets and the asteroid belt lie closer to the sun, and experience stronger forces from the solar wind, which can more efficiently blow small particles away from objects they might otherwise orbit, Braga-Ribas said.
+Collisions in the fast-moving asteroid belt are also violent processes due to their faster orbital speeds. Crashes between the nearby rocky bodies may wind up hurling any potential ring material away too quickly. The collision that likely created Chariklo's rings would have had to have been a slow-moving impact. The asteroid's small size means it has very little gravity, allowing fast-moving objects to easily escape from its orbit; the asteroid would only have been able to hold on to slower-traveling objects.
+The presence of a ring system answers questions about why the asteroid has brightened since observations in 2008. Originally viewed edge-on, the rings have become visible over the last five years as their inclination changed.
+Twice in its 29-year orbit, Saturn's rings act the same way, appearing as a thin line to observers on Earth, Burns said. "This behavior confounded Galileo, as viewed through his crude telescope, on his discovery of Saturn's rings," Burns said. "It took many more observers and nearly 50 years before the rings' nature was understood by Christiaan Huygens."
+The age of the rings remains another mystery. Over the course of a few million years, the small pieces of a ring system should spread out. Because they are still contained as a ring, the authors concluded that either the system is very young, or the asteroid hosts a small moon that shepherds and confines the particles in their orbit. The moon would be about as massive as both rings combined, and would easily escape detection given Chariklo's great distance.
+"Shepherds are the preferred — and basically only — explanation," Burns said. "But Saturn's and Uranus' rings have many gaps where we should see shepherds and we don't. Something is missing in our understanding. Maybe studying Chariklo's toy rings will bring us ideas."
+If a missing moon circles the asteroid, keeping the rings in line, then the system could have lasted since the dawn of the solar system, Braga-Ribas said, adding that the disturbance of the gas giant that moved Chariklo to its present-day orbit would require a very close pass to disturb the ring system, indicating that they could have survived the migration.
+Studying the stability of Chariklo's rings can tell astronomers about the environment required to form and maintain them — a process that can be used to understand the dynamics of the early stages of the solar system.
+On a wider scale, the tiny ringed asteroid can also help scientists to understand more about how galaxies form.
+"The shepherd mechanism seems to be universal from the giant planets to the small minor planet," Braga-Ribas said. "This mechanism may be acting in other kinds of debris discs, such as proto-planetary nebulae and galaxies."
+Follow us @Spacedotcom, Facebook and Google+. Original article on Space.com.
+</TEXT>
+</DOC>

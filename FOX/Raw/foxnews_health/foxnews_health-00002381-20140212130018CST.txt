@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>2381</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/W5-eSCo3im0/</URL>
+<TITLE>How peer pressure explains vaccination rates</TITLE>
+<TIME>Wed, 12 Feb 2014 19:00:18 GMT</TIME>
+<ABSTRACT>
+In a purely rational world, vaccination rates would vacillate constantly depending on how much people fear getting sick
+</ABSTRACT>
+<TEXT>
+The nurse in this 2006 photograph was in the process of administering an intramuscular vaccination in the left shoulder muscle of a young girl. The nurse was pinching the overlying shoulder skin, in order to immobilize the injection site.CDC
+In a purely rational world, vaccination rates would vacillate constantly depending on how much people fear getting sick.
+That's what attempts to model vaccination rates mathematically have found. But now, scientists have added in the missing puzzle piece that explains why vaccination rates stay high in the real world or, in some cases, low. The reason, it turns out, is peer pressure.
+Public health officials frequently worry about low levels of childhood vaccination, often driven by debunked concerns that vaccines are linked with autism. But in many nations without mandatory vaccination rules, rates of childhood vaccination remain surprisingly high, said Tamer Oraby, a mathematician at the University of Guelph in Ontario, Canada. [5 Dangerous Vaccination Myths]
+"The question we wanted to answer is, 'Why are we seeing such high vaccination levels in nonmandatory vaccination programs?'" Oraby told Live Science.
+Vaccine decisions
+Mathematical models had predicted that as vaccination eliminates the day-to-day occurrence of measles, mumps, rubella, whooping cough (pertussis) and other childhood diseases, parents would opt out of vaccinating their kids due to a perception that the risk of catching a disease is low. Yet in countries such as Italy, the United Kingdom, Portugal and Finland, vaccination rates remain high enough to keep these diseases down, despite no mandatory vaccination laws, Oraby and his colleagues February 11 in the journal Proceedings of the Royal Society B.
+Drawing on research from public health and sociology, the researchers suspected that social pressures might explain relatively high and steady vaccination rates. They created a mathematical model in which virtual "individuals" could choose to vaccinate their children or not. These individuals constantly surveyed the rest of the actors in the model, and when they saw one making a choice with a greater survival payoff for instance, vaccinating versus not they swapped to the more advantageous strategy.
+Then, the researchers added another factor: The more people chose a strategy, the greater the benefit of that strategy. This addition to the model mimicked peer pressure, in which people benefit from fitting in with their social group.
+Peer-to-peer pressure
+The resulting model fit real-world observations of vaccination choices, Oraby and his colleagues found. Social norms can keep vaccination rates high even in the absence of obvious disease risk.
+But peer pressure is a double-edged sword, Oraby said. After a vaccine "scare," in which people become convinced that vaccines carry a major risk (such as autism), social norms keep vaccination rates depressed long after the scare ends, the model showed. This fits with observations seen in the United Kingdom in the 1970s, when an unsubstantiated scare over the side effects of the whooping-cough vaccine, Oraby said. The scare led to a drop in vaccination that created two whooping-cough outbreaks, each of which affected 400,000 children, according to U.K. health information site Patient.co.uk.
+Fears of autism, driven by a fraudulent 1998 study linking the MMR (measles, mumps and rubella) vaccine to the disorder, have pushed MMR vaccination rates below the ideal 90 percent in 15 U.S. states, according to the Centers for Disease Control and Prevention.
+"In short, it's because people underestimate the risk of the disease and overestimate the risk of the vaccination," Oraby said.
+In the future, Oraby and his colleagues plan to look at what happens when the social pressure not to vaccinate outweighs the pressure to vaccinate, and vice versa. The findings suggest, however, that top-down messages from doctors and public health officials urging people to vaccinate their children may not be enough to keep childhood diseases at bay.
+"The message here might be that we need to encourage people to vaccinate in our social networks," Oraby said. "Showing the actual risks of both vaccination and nonvaccination can raise the vaccine acceptance rate."
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

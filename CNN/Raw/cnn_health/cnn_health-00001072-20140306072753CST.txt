@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>1072</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/6cu6VjrI0hU/index.html</URL>
+<TITLE>With prostate cancer, aggressive surgery saves lives</TITLE>
+<TIME>Thu, 06 Mar 2014 08:27:53 EST</TIME>
+<ABSTRACT>
+When it comes to prostate cancer, aggressive surgery saves lives and leads to a better quality of life, according to a new study that could inflame the debate over how best to treat the disease -- and in some cases, whether to treat it at all.
+</ABSTRACT>
+<TEXT>
+(CNN) -- When it comes to prostate cancer, aggressive surgery saves lives and leads to a better quality of life, according to a new study that could inflame the debate over how best to treat the disease -- and in some cases, whether to treat it at all.
+The paper, published in the New England Journal of Medicine, is an update on a study that was launched in Sweden, Finland and Iceland a quarter-century ago. Nearly 700 men newly diagnosed with prostate cancer were split into two groups: half had their prostate gland fully removed -- a radical prostatectomy -- and half were followed through a protocol of "watchful waiting," where doctors only treated them if symptoms progressed.
+On average, men who underwent immediate surgery lived longer, were less likely to see the cancer spread and had fewer complications from the disease. The longevity benefit was greatest for men in their 50s and early 60s, where over an 18-year period, surgery cut the death rate by more than a third.
+That result might seem obvious, but watchful waiting is frequently recommended because of surgery's side effects and because most prostate cancers grow so slowly that men will die of other causes before the cancer can kill them.
+Hold the salmon: Omega-3 fatty acids linked to higher risk of cancer
+The new study is likely to give pause to some of those patients.
+"Our research suggests that we overtreat many men," says Dr. Peter Carroll, chairman of urology at the University of California, San Francisco. "But at the same time, we may undertreat those with high-risk cancers."
+The authors of the new paper say they aren't looking to overturn current guidelines that recommend active surveillance -- waiting, with regular testing to see if the cancer has progressed -- in men with low-risk disease. "The numbers in each subgroup are low, and the risk categorization is less sophisticated than current standards," they wrote, urging caution in interpreting the results.
+Dr. Otis Brawley, medical director of the American Cancer Society, says the paper generally supports current practice. He notes that patients in the Swedish study likely had more aggressive disease to start with because they were diagnosed after complaining of symptoms.
+According to Brawley, just 12 percent of U.S. prostate cancer patients are found because they show symptoms; the rest are identified through PSA tests and other screening.
+"Those guys with high-grade tumors, those are the guys we ought to be treating," Brawley says. He notes that other studies, including the highly regarded PIVOT trial, have found even fewer benefits from surgery. "They all say the same thing, that radical prostatectomy for men 65 and above seems not to save lives."
+But others are struck by the finding that all groups in the study, even men over 65, suffered fewer side effects when they initially opted for surgery. "This drills down that it's not all about mortality," says Dr. John Davis, director of the prostate surgery program at MD Anderson Cancer Center in Houston.
+More lives being saved: Cancer death rates drop 20%
+Davis explains that many patients who choose a regimen of watchful waiting or its close cousin, "active surveillance," eventually undergo repeated biopsies, radiation therapy or other measures.
+"I would argue that the side effects of surgery are much less than those of long-term hormone therapy," which reduces the level of hormones like testosterone that promote the growth of prostate cancer.
+While surgery often leads to sexual dysfunction and/or urinary incontinence, hormone therapy has its own dangers, including low sex drive, hot flashes, loss of energy, weight gain and an increased risk of heart disease.
+Carroll agrees that mortality is only part of the picture and says the new study underscores a need to better differentiate between high- and low-risk cancers.
+"Although it is often said that there is little benefit (from surgery) to those over 65, this appears not to be the case. It's more a function of the aggressiveness of the tumor and the health of the patient."
+</TEXT>
+</DOC>

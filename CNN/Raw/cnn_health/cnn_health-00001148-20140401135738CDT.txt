@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>1148</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/iwuqmD74LuI/index.html</URL>
+<TITLE>Stem cell scientist guilty of falsifying data</TITLE>
+<TIME>Tue, 01 Apr 2014 14:57:38 EDT</TIME>
+<ABSTRACT>
+Haruko Obokata, a stem cell scientist at the RIKEN Center for Development Biology in Kobe, Japan, has been found guilty of misconduct by a committee of investigators led by her own government-funded institute after other researchers questioned the findings.
+</ABSTRACT>
+<TEXT>
+(TIME.com) -- Haruko Obokata, a stem cell scientist at the RIKEN Center for Development Biology in Kobe, Japan, has been found guilty of misconduct by a committee of investigators led by her own government-funded institute after other researchers questioned the findings.
+In January, Obokata, with colleagues both in Japan and in the U.S., published two papers claiming to describe a surprising new way to generate stem cells from already developed cells.
+The process involved simply stressing the mouse cells, either with an acidic solution or with physical force, to turn back the clock on their development and revert back to an earlier, stem cell stage in which these cells could then be made into any of the body's hundreds of cell types.
+After other researchers could not replicate the results, however, one of the senior scientists on the paper, Teruhiko Wakayama, called for the two papers, which appeared in the journal Nature, to be retracted. Wakayama said he was only able to repeat the experiment successfully with Obokata's help, but wasn't able to do so on his own.
+Scientist wants to withdraw stem cell studies
+More skepticism arose as scientists pointed out discrepancies and irregularities in the images of the stem cells published in the papers, and the RIKEN committee concluded that some of the images were enhanced or falsified to improve the results.
+The committee did not determine whether the actual technique, known as stimulus-triggered activation of pluripotency (STAP), is valid or not. A scientist at Chinese University of Hong Kong reported on ResearchGate that he had partially repeated Obokata's experiment, but that claim hasn't been verified. Officials at Nature are also investigating the study.
+This isn't the first time that falsified data has plagued the stem cell field. In 2006, Korean veterinary scientist Woo Suk Hwang claimed to have successfully used the cloning technique on human cells to generate patient-specific stem cells, but it later emerged that the stem cells came from already existing embryos.
+In a statement in Japanese translated by the journal Science, Obokata said she will appeal the judgment.
+"I am filled with feelings of indignation and surprise," she wrote. "At this stage, considering the STAP cell discovery itself to be fabricated is a misunderstanding; I cannot possibly accept this."
+RIKEN scientists will attempt to replicate her research, along with outside experts in the stem cell field. The institute plans to set up a new committee to determine Obokata's punishment.
+© 2012 TIME, Inc. TIME is a registered trademark of Time Inc. Used with permission.
+</TEXT>
+</DOC>

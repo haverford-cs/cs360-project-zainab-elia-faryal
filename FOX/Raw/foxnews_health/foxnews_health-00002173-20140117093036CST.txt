@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2173</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/TLxzT6IgtaI/</URL>
+<TITLE>New device may put DNA testing in doctors' hands</TITLE>
+<TIME>Fri, 17 Jan 2014 15:30:36 GMT</TIME>
+<ABSTRACT>
+It can take days for doctors to determine if a patient infected with malaria carries a drug-resistant version of the disease.
+</ABSTRACT>
+<TEXT>
+A U.K.-based company, QuantuMDX, has built a working prototype of a device, shown here, that they hope will allow doctors to perform genetic tests within 15 minutes. The "x-ray" section of this image shows the nanowire biosensor chip and electronics.QuantuMDx Group Ltd
+It can take days for doctors to determine if a patient infected with malaria carries a drug-resistant version of the disease. The same is true of tuberculosis.
+But a new testing device could reduce that time lag to 15 minutes, potentially helping to ensure that patients are correctly treated right away, says the company developing this device.
+United Kingdom company QuantuMDX now has a working prototype for a device intended to quickly test a sample of blood, sputum (saliva mixed with mucus) or even tumor cells for genetic markers that provide information to guide a doctor's decisions on how to treat a patient. [7 Diseases You Can Learn About from a Genetic Test]
+"We want to put a full diagnostic test into the palms of health professionals' hands," said Elaine Warburton, chief executive officer of QuantuMDX and the companys cofounder.
+The prototype is about the size of an iPad 5, or 6.6 by 9.4 inches (17 by 24 centimeters), but thicker. In about six months, Warburton said she anticipates the device will be reduced to about the size of an iPad mini, 5.3 by 7.9 in. (13 by 200 cm).
+To use it, a doctor would put a sample from a patient into a credit-card sized, disposable cartridge and pop the cartridge into the device for analysis, she said. So far, the prototype has shown success in producing DNA test results from blood. ..
+The sensor in the device is intended to detect, for example, if a person is infected by the malaria parasite, which species of parasite is responsible for the infection and whether the parasite is resistant to antimalarial medications.
+Detection happens when fragments of parasite DNA from the sample bind to complementary strands, or probes, in the cartridge. These probes are associated with nanowires, thin pieces of silicon etched into a computer chip. The binding produces an electrical change in the wires, which the device interprets as a positive result.
+This basic technique can be applied in many ways. QuantuMDX is developing applications that could one day provide information about tumor cells, or determine if someone has genetic variations that will affect his or her response to the blood-thinning drug warfarin. And the company has received proposals from people interested in using it in everything from veterinary work to forensics, Warburton said.
+The device, currently known as Q-POC (pronounced Q-pock), is still a long way from being used in the clinic. The company still has work to do on the cartridges for use with the handheld prototype, and it needs to run clinical trials testing the device, followed by regulatory approval from bodies such as FDA, Warburton told LiveScience in an email.
+Earlier this month at the Consumer Electronics Show in Las Vegas, Jonathan O'Halloran, inventor of the technology and the company's cofounder, announced plans to launch a crowdfunding campaign. The campaign is expected to begin on Feb. 12 on the site Indigogo.com, to support further development of the Q-POC. The company is also interested in suggestions for a new name and design for the device, Warburton said.
+If all goes well, QuantuMDX anticipates commercially launching the device and malaria test cartridge in Africa in 2015, she said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

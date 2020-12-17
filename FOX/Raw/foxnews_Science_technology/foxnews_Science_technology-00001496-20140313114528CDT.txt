@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO>1496</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/Te_8VMWIV20/</URL>
+<TITLE>Mars rover Opportunity faces new threat: Budget ax</TITLE>
+<TIME>Thu, 13 Mar 2014 16:45:28 GMT</TIME>
+<ABSTRACT>
+NASA’s baseline budget for the year beginning Oct. 1 pulls the plug on the 10-year-old Mars rover Opportunity, newly released details of the agency’s fiscal 2015 spending plan show.
+</ABSTRACT>
+<TEXT>
+NASA
+NASA’s baseline budget for the year beginning Oct. 1 pulls the plug on the 10-year-old Mars rover Opportunity, newly released details of the agency’s fiscal 2015 spending plan show.
+The plan, which requires Congressional approval, also anticipates ending the orbiting Mars Odyssey mission on Sept. 30, 2016.
+“There are pressures all over the place,” NASA’s planetary science division director Jim Green said during an advisory council committee teleconference call on Wednesday.
+Opportunity, along with a now-defunct sister rover Spirit, landed on Mars in January 2004 to look for signs of past water. Its latest discovery not only showed the chemical fingerprints of water in rocks lining the 14-mile diameter Endeavour impact crater, but that the water was not acidic and not too salty, a suitable niche for life.
+NASA’s follow-on Mars rover Curiosity, which includes an onboard laboratory to ferret out details of potentially habitable environments, fares better in NASA’s 2015 budget proposal. The agency’s five-year spending plan shows a budget of $59.4 million to support Curiosity operations next year, and a steady $58 million a year after that. Curiosity landed in August 2012.
+NASA currently spends about $13 million a year to support Opportunity.
+The 2015 budget proposal includes $92 million for work on a new, still-unnamed, Mars rover that is slated to launch in 2020. NASA also plans to contribute to Europe’s life-hunting ExoMars rover, scheduled to launch in 2018.
+NASA could decide to restore funding for Opportunity if Congress approves an Obama Administration requested budget supplement for a so-called “Opportunity, Growth and Security Initiative.” NASA’s share of the $56 billion request is $886 million, with $35 million of that earmarked for planetary science mission extensions.
+'Curiosity' returns photos from surface of Mars
+</TEXT>
+</DOC>

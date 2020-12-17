@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO>1370</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/zdXzBoWV6sw/</URL>
+<TITLE>Could ancient earthquake explain Shroud of Turin?</TITLE>
+<TIME>Wed, 12 Feb 2014 13:00:04 GMT</TIME>
+<ABSTRACT>
+The authenticity of the Shroud of Turin has been in question for centuries and scientific investigations over the last few decades have only seemed to muddle the debate.
+</ABSTRACT>
+<TEXT>
+The Shroud of Turin, the reputed burial shroud of Jesus.
+The authenticity of the Shroud of Turin has been in question for centuries and scientific investigations over the last few decades have only seemed to muddle the debate. Is the revered cloth a miracle or an elaborate hoax?
+Now, a study claims neutron emissions from an ancient earthquake that rocked Jerusalem could have created the iconic image, as well as messed up the radiocarbon levels that later suggested the shroud was a medieval forgery. But other scientists say this newly proposed premise leaves some major questions unanswered.
+The Shroud of Turin, which bears a faint image of a man's face and torso, is said to be the fabric that covered Jesus' body after his crucifixion in A.D. 33. Though the Catholic Church doesn't have an official position on the cloth, the relic is visited by tens of thousands of worshippers at the Turin Cathedral in Italy each year. [Religious Mysteries: 8 Alleged Relics of Jesus]
+Carbon and quakes Radiocarbon dating tests conducted at three different labs in the 1980s indicated the cloth was less than 800 years old, produced in the Middle Ages, between approximately A.D. 1260 and 1390. The first records of the shroud begin to appear in medieval sources around the same time, which skeptics don't think is a coincidence. Those results were published in the journal Nature in 1989. But critics in favor of a much older date for the cloth have alleged that those researchers took a sample of fabric that was used to patch up the burial shroud in the medieval period, or that the fabric had been subjected to fires, contamination and other damaged that skewed the results.
+- Gordon Cook, a professor of environmental geochemistry at the University of Glasgow
+The new theory hinges on neutrons released by a devastating earthquake that hit Old Jerusalem around the same time that Jesus is believed to have died. [Who Was Jesus, the Man?]
+All living things have the same ratio of stable carbon to radioactive carbon-14, but after death, the radioactive carbon decays in a predictable pattern over time. That's why scientists can look at the carbon-14 concentration in organic archaeological materials like fabrics, bones and wood to estimate age. Carbon-14 is typically created when neutrons from cosmic rays collide with nitrogen atoms in the atmosphere (though it can be unleashed by manmade nuclear reactions, too).
+The group of scientists, led by Alberto Carpinteri of the Politecnico di Torino in Italy, suspect high-frequency pressure waves generated in the Earth's crust during this earthquake could have produced significant neutron emissions. (They simulated this by crushing very brittle rock specimens under a press machine.)
+These neutron emissions could have interacted directly with nitrogen atoms in the linen fibers, inducing chemical reactions that created the distinctive face image on the shroud, the scientists say. The reactions also could have led to "a wrong radiocarbon dating," which would explain the results of the 1989 experiments, Carpinteri said in a statement.
+Giulio Fanti, a professor of mechanical engineering at Padua University, published a book last year "Il Mistero della Sindone," translated as "The Mystery of the Shroud," (Rizzoli, 2013), arguing that his own analysis proves the shroud dates to Jesus' lifetime. In an email, Fanti said he is not sure if a neutron emission is the only possible source responsible for creating the body image. (His own theories include a corona discharge.) However, he wrote that he is "confident" the 1980s radiocarbon dating "furnished wrong results probably due to a neutron emission."
+Shaky science? Even if it is theoretically possible for earthquake-generated neutrons to have caused this kind of reaction, the study doesn't address why this effect hasn't been seen elsewhere in the archaeological record, Gordon Cook, a professor of environmental geochemistry at the University of Glasgow, explained.
+"It would have to be a really local effect not to be measurable elsewhere," Cook told Live Science. "People have been measuring materials of that age for decades now and nobody has ever encountered this."
+Christopher Ramsey, director of the Oxford Radiocarbon Accelerator Unit, had a similar issue with the findings.
+"One question that would need to be addressed is why the material here is affected, but other archaeological and geological material in the ground is not," Ramsey wrote in an email. "There are huge numbers of radiocarbon dates from the region for much older archaeological material, which certainly don't show this type of intense in-situ radiocarbon production (and they would be much more sensitive to any such effects)."
+Ramsey added that using radiocarbon dating to study objects from seismically active regions, such as regions like Japan, generally has not been problematic.
+It seems unlikely that the new study, published in the journal Meccanica, will settle any of the long-standing disputes about how and when the cloth was made, which depend largely on faith.
+"If you want to believe in the Shroud of Turin, you believe in it," Cook said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+Seeing isn't believing: Mind-bending optical illusions
+A sci-fi mashup of legends from US history
+Facing history: Facial reconstructions bring ancient history to life
+</TEXT>
+</DOC>

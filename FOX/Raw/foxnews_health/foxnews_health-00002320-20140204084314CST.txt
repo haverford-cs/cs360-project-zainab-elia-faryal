@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>2320</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/nS6cD6i_b_I/</URL>
+<TITLE>At-home stool test can effectively detect colon cancer</TITLE>
+<TIME>Tue, 04 Feb 2014 14:43:14 GMT</TIME>
+<ABSTRACT>
+A new study has revealed that a simple, at-home test is also very effective at detecting most colorectal cancers.  These tests – known as fecal immunochemical tests or “FITs” – require patients to collect a single stool sample in the privacy of their own homes, which they then send to a laboratory for analysis.
+</ABSTRACT>
+<TEXT>
+To best detect the presence of colorectal cancer, patients must undergo a colonoscopy – an invasive procedure that examines the rectum and entire colon.  However, the exam is only performed once every 10 years and is often an intense experience, requiring patients to modify their diets and cleanse their bowels beforehand.
+But now, a new study has revealed that a simple, at-home test is also very effective at detecting most colorectal cancers.  These tests – known as fecal immunochemical tests or “FITs” – require patients to collect a single stool sample in the privacy of their own homes, which they then send to a laboratory for analysis.
+FIT products work by employing specific antibodies that bind to human blood hidden in a patient’s stool – a big indicator of cancer. According to study author Dr. Jeffrey Lee, FITs are relatively new tests and are still being integrated into the national health care system.
+“A lot of health care systems in the U.S. have adopted FIT, particularly at Kaiser Permanente,” Lee, a post-doctoral researcher at the Kaiser Permanente Division of Research in Oakland, Calif., told FoxNews.com.  “Adults over the age of 50 – who are at normal risk for colon cancer – if they haven’t been screened, they would actually get a FIT test mailed to their home.  If they happen to visit a physician’s office and they want to get screened, they also have the option of getting a FIT or colonoscopy.”
+For their study, published in the Annals of Internal Medicine, Lee and his team reviewed 19 studies examining eight different types of FITs.  Each study included between 80 and 27,860 patients, all with an average age ranging between 45 and 63 years old.
+Overall, the researchers found that the tests correctly identified the presence of colorectal cancer 79 percent of the time with just one round of testing.  On average, a single FIT identified 94 percent of patients who did not have cancers in their rectum or colon.
+The review found that no single FIT brand performed markedly better than another, and surprisingly, the brands that required two or three stool samples were no more accurate at detecting cancer than brands requiring just one sample.
+These findings indicate that FITs are much more accurate than another at-home fecal test called the fecal occult blood test (FOBT).  Based on previously published research, the sensitivity of FOBTs ranges from 13 percent to 50 percent for the detection of colorectal cancers after a single round of testing.  
+Additionally, Lee noted that FITs require less preparation than FOBTs.
+“It’s very cumbersome and not very user friendly,” Lee said.  “FOBT also requires dietary and medication restrictions, and it’s three samples versus one.  That’s one of the reasons why you see patients unwilling to complete the FOBT test.”
+Theoretically, Lee said that patients too shy or uncomfortable to visit a doctor’s office for colon cancer screening can have a FIT product mailed to them at their home.  Then, once they’ve finished collecting a sample, they can mail it out to a laboratory for analysis.  The patients who do end up testing positive for cancer under FIT can undergo an additional colonoscopy for further confirmation.
+Lee said that people are much more likely to choose FIT over the recommended colonoscopy.
+“I don’t see any downsides for adopting this screening tool, mainly because we see that if you recommend a colonoscopy, not everyone will say, ‘Yes,’” Lee said. “People have a fear of undergoing an invasive procedure, and they fear there is a slight risk, even though it’s a very accurate screening test. There’s a small perforation rate; some are scared of that, and some don’t have the time because it’s a two-day procedure.”
+According to the most recent statistics from the American Cancer Society, colorectal cancer is the third most common cancer diagnosed in both men and women in the United States. The U.S. Preventive Services Task Force recommends that people at normal risk for colorectal cancer – typically adults over the age of 50 – get screened regularly until the age of 75.
+Despite these recommendations, the Centers for Disease Control and Prevention recently reported that nearly a third of American adults over the age of 50 haven’t undergone any colon cancer screening tests.  Lee hopes that the results of their most recent study will inspire older Americans to change that statistic, since FIT is so easy to use.
+“The goal is to get everyone screened in terms of colon cancer… I say the best test is the one that gets done,” Lee said.
+</TEXT>
+</DOC>

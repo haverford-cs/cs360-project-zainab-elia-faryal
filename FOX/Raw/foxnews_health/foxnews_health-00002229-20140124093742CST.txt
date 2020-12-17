@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2229</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/2FiPN_5HC-k/</URL>
+<TITLE>Health apps, new tech continue to help users live a healthy lifestyle</TITLE>
+<TIME>Fri, 24 Jan 2014 15:37:42 GMT</TIME>
+<ABSTRACT>
+Smartphones and wearable technologies have made living a healthy lifestyle and reaching your fitness goals easier than ever.
+</ABSTRACT>
+<TEXT>
+Smartphones and wearable technologies have made living a healthy lifestyle and reaching your fitness goals easier than ever.
+Training for a marathon or simply increasing your physical activity level is all about motivation, and now it can be as simple as downloading an app to your smartphone or putting on a wearable device like a fitness tracker.  With these integrated technologies, you can learn your heart rate, track your daily steps, log your food intake and more – all while staying in stride with your regular routine.
+According to mobile analytics platform Localytics, which monitors more than 20,000 apps, there was a 19 percent increase in new health and fitness apps in 2013 (compared to 2012).  
+“What we see is that more and more people are interested in having little, effortless influence on their activity,” Raphael Auphan, project manager at Withings, told FoxNews.com. Withings’ new Withings Aura sleep system (available Spring 2014) uses a bedside device and an under-mattress sleep sensor to track sleep patterns and control bedroom noise pollution and light levels.  The invention won the 2014 CES Innovation Award in the health and fitness category.
+“Users are now used to the seamless experience,” Auphan said.  “Even compared to five to six years ago… it’s definitely a trend.”
+For developers, it’s all about making the technology part of users’ everyday lives – without being unnatural. For people who use a scale every day, stepping on a device that seamlessly uploads your weight, body mass index and body fat percentage to an app makes it more likely that you’ll pay attention to these measurements.  
+“We found that [as we] streamline the experience and make it really simple and intuitive for users, the more effective it can become,” Jason Jacobs, founder and CEO of Runkeeper, told FoxNews.com.
+The popular Runkeeper app tracks users’ fitness activity, but also collects data to make the experience more personal for each user. Not only can users see their running routes and mileage, they can also find and set a fitness goal and follow a specific training plan – such as preparing for a marathon.
+“The ultimate goal of most of these apps is to change behavior,” Scott Snyder, co-founder and chief strategy officer of Mobiquity, a mobile engagement provider, told FoxNews.com.  “To do that, we have to treat each user differently to see what moves them. Mobile devices are the most transformative to be able to do that.”
+As developers push toward more personalized programs that use complex data, they’re simultaneously trying to make the user experience simpler.
+Jacobs likens the experience to owning a car.  Everyone can look under the hood to check out the systems, but most people just want to see an alert system on the dashboard to tell them when the mechanic needs to check it out. It’s about getting people to analyze their data and take action toward their goals, he said.
+“When you wear an activity tracker, [it becomes] interesting  when it stops influencing your behavior,” Snyder said. Initially, users check their data frequently, but taper off as healthier habits becomes part of their routine.
+“Small changes are a big overall win for health,” Snyder said.
+</TEXT>
+</DOC>

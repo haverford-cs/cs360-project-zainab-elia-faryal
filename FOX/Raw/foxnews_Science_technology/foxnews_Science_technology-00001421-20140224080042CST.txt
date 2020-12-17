@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>1421</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/yCgYT_smRec/</URL>
+<TITLE>Confirmed: Oldest fragment of early Earth is 4.4 billion years old</TITLE>
+<TIME>Mon, 24 Feb 2014 14:00:42 GMT</TIME>
+<ABSTRACT>
+Ever heard this life advice? When solving a big problem seems impossible, break it into smaller steps.
+</ABSTRACT>
+<TEXT>
+Cathodoluminescence image of a 400-µm Jack Hills zircon.John Valley/University of Wisconsin
+Ever heard this life advice? When solving a big problem seems impossible, break it into smaller steps.
+Well, scientists just took one of geology's biggest controversies and shrunk it down to atomic size. By zapping single atoms of lead in a tiny zircon crystal from Australia, researchers have confirmed the crystal is the oldest rock fragment ever found on Earth 4.375 billion years old, plus or minus 6 million years.
+"We've proved that the chemical record inside these zircons is trustworthy," said John Valley, lead study author and a geochemist at the University of Wisconsin, Madison. The findings were published yesterday in the journal Nature Geoscience.
+Confirmation of the zircon age holds enormous implications for models of early Earth. Trace elements in the oldest zircons from Australia's Jack Hills range suggest they came from water-rich, granite-like rocks such as granodiorite or tonalite, other studies have reported. That means Earth cooled quickly enough for surface water and continental-type rocks just 100 million years after the moon impact, the massive collision that formed the Earth-moon system. [How Was The Moon Formed?]
+"The zircons show us the earliest Earth was more like the Earth we know today," Valley said. "It wasn't an inhospitable place."
+Dubious history Zircons are one of the toughest minerals on the planet. The ancient Australian crystals date back to just 165 million years after Earth formed, and have survived tumbling trips down rivers, burial deep in the crust, heating, squeezing and a tectonic ride back to the surface. The Australian zircons, from the Jack Hills, aren't the oldest rocks on Earth those are in Canada but about 3 billion years ago, the minerals eroded out some of Earth's first continental crust and became part of a riverbed.
+Geologists have carefully sorted out more than 100,000 microscopic Jack Hills zircons that date back to Earth's early epochs, from 3 billion to nearly 4.4 billion years ago. (The planet is 4.54 billion years old.) The crystals contain microscopic inclusions, such as gas bubbles, that provide a unique window into conditions on Earth as life arose and the first continents formed.
+Just three of the very oldest zircons have been found, ones that date back to almost 4.4 billion years ago. Their extreme age always makes the dates suspect, because of possible radiation damage. The radiation damage means the zircons could have been contaminated during their long lifetime.
+Zircons hold minute amounts of two naturally occurring uranium isotopes isotopes are atoms of the same element with different numbers of neutrons. Uranium radioactively decays to lead at a steady rate. Counting the number of lead isotopes is how scientists date the crystals. But as the uranium kicks out lead atoms, the radioactive decay releases alpha particles, which can damage the crystals, creating defects. These defects mean fluids and outside elements can infiltrate the crystals, casting doubt on any conclusions about early Earth based on the zircons.
+More important, uranium and lead can move around within a crystal, or even escape or enter the zircon. This mobility can throw off the lead isotope count used to calculate the zircon ages, and is the source of the decades-long controversy over the Jack Hills zircons' Methuselah lifespan.
+"If there's a process by where lead can move from one part of the crystal to another place, then the place where lead is concentrated will have an older apparent age and the place from where it moves will have a younger apparent age," Valley said.
+Atom by atom Valley and his co-authors hope to end the debate by showing that even though one of the oldest Jack Hills zircons suffered radiation damage, the lead atoms stayed in place. The researchers painstakingly counted individual lead atoms within the oldest-known zircon with a recently developed technique called atom-probe tomography. Inside the zircon, lead atoms clustered together in damage zones just a few nanometers wide. Imagine cliques of teens during high school lunch like teenagers, no lead atoms had left their zones.
+"We've demonstrated this zircon is a closed geochemical system, and we've never been able to do that before," Valley said. "There's no question that many zircons do suffer radiation damage, but I think relative to these zircons, this should settle it once and for all," Valley told Live Science's Our Amazing Planet.
+The key finding, that lead atoms stick close to home inside this primeval zircon, means age estimates based on uranium-lead dating techniques are accurate, the researchers report. The lead hasn't wiggled around enough to throw off the ages. A typical age measurement, made with a machine called an ion probe, zaps zircon segments that are thousands of times larger than the damage clusters.
+"This careful piece of work should settle the debate because it shows that indeed there is some mobility of lead, which was hypothesized to result in dates that were too old, but the scale of mobility is nanometers," said Samuel Bowring, a geochemist at MIT, who was not involved in the study."Even the smallest volumes analyzed with the ion probe average out the heterogeneities," or variations within the zircon.
+The new atom-probe technique, while extremely laborious, can also be used to address questions of reliability at other sites where extremely old rocks have been found, the researchers said. [Have There Always Been Continents?]
+"Good zircons are forever, and what this does is help us separate the wheat from the chaff in a way we could never do before," Valley said.
+2013's top 20 images of planet Earth
+Nature's fury: See Mount Sinabung erupt
+</TEXT>
+</DOC>

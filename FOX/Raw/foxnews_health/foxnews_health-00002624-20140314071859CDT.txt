@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO>2624</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/U8sgbjHYNhw/</URL>
+<TITLE>Is the '5 second rule' for picking up dropped food safe?</TITLE>
+<TIME>Fri, 14 Mar 2014 12:18:59 GMT</TIME>
+<ABSTRACT>
+The ‘five second rule’ suggests that food dropped on the ground is still safe to eat if it is picked up after five seconds.
+</ABSTRACT>
+<TEXT>
+Â© 2014 Logan Bannatyne
+The ‘five second rule’ suggests that food dropped on the ground is still safe to eat if it is picked up after five seconds. Though long dismissed as wishful thinking, researchers at Aston University in England have now demonstrated that this rule may be more than just a myth.
+In a study published in the Journal of Applied Microbiology, researchers dropped various pieces of food – including toast, pasta, ham, a sticky dessert and dried fruit – on the floor and allowed it to sit there for three to 30 seconds. Various floor surfaces were tested including  carpet, laminate and tile. Researchers then analyzed the dropped food to determine whether certain strains of bacteria such as Escherichia coli (E. coli) and Staphylococcus aureus had been transferred from the floor.
+Overall, the researchers concluded that the faster a person picks up dropped food, the safer it will be to eat – provided that he or she reacts within five seconds of dropping the food. Whether the food is dropped on carpet or tile also makes a difference, with carpet emerging as the safer environment for dropped foods compared to tile or laminate. Moist foods that were left on the floor for more than five seconds were most susceptible to becoming contaminated with bacteria.
+"Consuming food dropped on the floor still carries an infection risk, as it very much depends on which bacteria are present on the floor at the time," said Anthony Hilton, a professor of microbiology at Aston. "However, the findings of this study will bring some light relief to those who have been employing the five-second rule for years, despite a general consensus that it is purely a myth. We have found evidence that transfer from indoor flooring surfaces is incredibly poor with carpet actually posing the lowest risk of bacterial transfer onto dropped food."
+Another surprising finding in this study was that women were much more likely to follow the five second rule compared to men.
+“Our study showed that a surprisingly large majority of people are happy to consume dropped food, with women the most likely to do so,” Hilton said in a press release. “But they are also more likely to follow the five second rule, which our research has shown to be much more than an old wives' tale.”
+Click for more from Counsel and Heal.
+</TEXT>
+</DOC>

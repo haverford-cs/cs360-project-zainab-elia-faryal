@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2538</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/Ur3vww4zEQY/</URL>
+<TITLE>Study finds link between BPA and prostate cancer</TITLE>
+<TIME>Tue, 04 Mar 2014 16:15:42 GMT</TIME>
+<ABSTRACT>
+The highly controversial chemical bisphenol A (BPA) has been linked with yet another adverse health condition: prostate cancer.
+</ABSTRACT>
+<TEXT>
+iStock
+The highly controversial chemical bisphenol A (BPA) has been linked with yet another adverse health condition: prostate cancer.
+In a small study published in PLOS ONE, scientists observed the presence of high levels of BPA in men with prostate cancer; they also found that BPA exposure disrupts cell division, potentially affecting cancer’s development.
+The Cincinnati Cancer Center researchers say these findings point to the need for future studies looking into the effects of BPA exposure.
+BPA is used to manufacture hard, polycarbonate plastics and is found in many food product containers such as cans, receipts and plastic water bottles.  It has been linked to cancers, neurological defects, diabetes and obesity. BPA exposure in the U.S. is widespread, with more than 90 percent of the population containing some levels of the chemical.
+For the first part of their study, the team analyzed urine samples from 60 men who visited the urology clinic at the University of Cincinnati Medical Center. They found higher levels of BPA in the men who had prostate cancer than the men who did not.
+“The BPA level found in cancer patients is about two- to four-fold higher than the median level found in larger population studies in America,” lead study author Shuk-mei Ho, director of the Cincinnati Cancer Center and professor at the University of Cincinnati College of Medicine, told FoxNews.com.  She pointed out that occupational exposure, such as working in a polycarbonate manufacturing plant, is usually linked to a 10- to 20-fold increase in BPA exposure levels.
+Prostate cancer typically affects men over the age of 65, but the team also observed higher BPA levels in participants under 65 years old. This higher presence of BPA in younger men suggests the chemical may indeed cause long-term health effects, since widespread use of BPA began about 50 years ago, Ho said. She also noted that their findings suggest the need for earlier prostate cancer screenings.
+Because BPA is excreted from the body quickly – usually within 24 hours – the study only measured a one-time exposure. However, researchers believe high levels of the chemical are reflective of participants’ lifestyles.
+“If a person has high levels [of BPA] in his urine, it suggests they’re pretty consistently exposed to it,” Ho said.
+In a separate cell model study, researchers looked at normal and cancerous prostate cells, as well as biomarkers associated with cancer development. Normally, when a cell divides into two “daughter” cells, the DNA chromosomes are divided equally between the new cells.  But exposing cells to BPA led to abnormal DNA distribution.
+“It seems that BPA, even at very low doses, can disrupt the way DNA is partitioned between two daughter cells – the potential basis for cancer promotion or initiation,” Ho said.
+Overall, the findings point to an association between BPA exposure and prostate cancer, not a cause-and-effect relationship.  But Ho said the connection needs further study.
+“These are very early studies, but I think [their] importance is as a warning sign,” Ho said. “…Because other studies have shown that lifestyle changes can change BPA levels, this really offers… a positive hope of potential ways of diminishing exposure. We think diminishing exposure may be a good idea.”
+</TEXT>
+</DOC>

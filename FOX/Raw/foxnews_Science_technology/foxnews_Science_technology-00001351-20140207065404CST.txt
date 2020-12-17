@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO>1351</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/djSN6dh014A/</URL>
+<TITLE>Do the 'ayes' really have it? Researchers show that voice votes are invalid</TITLE>
+<TIME>Fri, 07 Feb 2014 12:54:04 GMT</TIME>
+<ABSTRACT>
+Except under unrealistic controlled circumstances, voice votes are useless, researchers at the University of Iowa in Iowa City found. Their research suggests that the "ayes" don't necessarily have it.
+</ABSTRACT>
+<TEXT>
+Day 3 of the 2012 Democratic National Convention.Steve Bott / Flickr
+At the Democratic National Convention in 2012, the leadership wanted two resolutions passed and the chairman asked the 22,000 delegates for voice votes on both. Passing the motions required a two-thirds majority.
+He asked for a vote, then two re-votes and even then, the response was ambiguous. The reason, researchers at the University of Iowa in Iowa City found, is that except under unrealistic controlled circumstances, voice votes are useless.
+Their research suggests that the "ayes" don't necessarily have it.
+The chair told the delegates that the motion passed. But Ingo Titze, an authority on voice and speech, thought the result was unclear at best, and probably predetermined. He decided to run an experiment at one of his undergraduate classes in Iowa City. The results are published in the current issue of the Journal of the Acoustical Society of America.
+His conclusion was that unless the vote is overwhelming -- something like a two-thirds majority -- no one can really tell the difference between a winning motion and a losing one. He also found that it doesn't matter whether you call for the "yeas" and "nays" or the "yes" and "no." And, if you have a quiet voice, don't bother -- your vote won't be heard; the loudest voices will carry the day even if they are in the minority, he found.
+Voice votes, which are sanctioned by a widely used guide to parliamentary procedure called Robert's Rules of Order, are a quick way to determine a majority, especially when an actual count would be difficult, certainly the case at the 2012 Democratic convention, held in a huge arena in Charlotte, North Carolina.
+"In a house like that, I don't think there is an alternative," Titze said. "You can't use buttons or another electronic vote and you can't pass out pieces of paper to 5,000-10,000 people."
+The issues at the convention were amendments to the party's platform. One would assert that Jerusalem was the recognized capital of Israel, the other was a reference to "God-given potential," both of which the party's leaders wanted but met resistance from the delegates.
+The chair, Los Angeles mayor, Antonio Villaraigosa, called for a voice vote, a vocal "aye" or "no." The motion required a two-thirds majority and by sound, the result seemed to be a tie.
+"Let me do that again," he said.
+The second time was the same. Villaraigosa looked totally confused. He called for a third vote, which again sounded uncertain. He simply declared the motions had carried, as was typed into his Teleprompter. This, Titze said, made it clear the results were phony.
+This bothered Titze so he set up a series of experiments in a class of about 70 students.
+The overwhelming majority of the students were women so to alleviate the gender imbalance, he had only the woman participate. Titze said he doubted the fact he used no men altered the results. Women actually are typically perceived as louder than men because their voices sound at a higher frequency, he said, "so they have an automatic guarantee of louder voices."
+They were instructed in a series of tests to say "yes," "no," "nay," "aye," or "yea" at various levels. A team of five people sitting with their eyes closed so they could not get visual clues judged how the votes turned out.
+Through the stages of the experiment, the group changed its loudness and the number of people speaking at different volumes. The students were told at which volume to speak: "as if across a table," "teaching a class of about 40 students," or "shouting to someone across the street."
+Determining a simple majority was impossible. The percentage had to get up to 60-40 before the judges could accurately determine a winner.
+"The vote is very, very biased toward loud voices," he said. "Soft voices are like no voices in a vote."
+"Soft voices are abstentions," said Amee Shah, director of the Research Laboratory in Speech Acoustics and Perception at Cleveland State University, who did not participate in the research. "Softer voices do not get through."
+She said voice votes would work in a small group if the chair took into consideration who might have the loudest voice and moderated the results accordingly. Otherwise, even recognizing a two-thirds vote would be difficult.
+Titze said the conditions necessary to rely on an accurate voice vote -- no one shouting, no outside noise, everyone speaking at the same volume -- are unlikely in the real world.
+The nays apparently have it.
+ 
+</TEXT>
+</DOC>

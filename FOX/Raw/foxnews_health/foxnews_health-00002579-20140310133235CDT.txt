@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>2579</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/cpXG8g0H6gY/</URL>
+<TITLE>Scientist urges withdrawal of his own 'breakthrough' stem cell research</TITLE>
+<TIME>Mon, 10 Mar 2014 18:32:35 GMT</TIME>
+<ABSTRACT>
+A Japanese scientist called on Monday for his own headline-grabbing study on stem cells to be withdrawn from publication, saying its findings had now been thrown into too much doubt.
+</ABSTRACT>
+<TEXT>
+A Japanese scientist called on Monday for his own headline-grabbing study on stem cells to be withdrawn from publication, saying its findings had now been thrown into too much doubt.
+The research - hailed when it came out in January as a breakthrough that could herald a new era of medical biology - was covered widely in Japan and across the world after it was published in the highly reputable science journal Nature.
+But since then, there have been reports that other scientists have been unable to replicate the Japanese team's results and that there may have been problems with its data and images.
+"It is no longer clear what is right," Teruhiko Wakayama, a professor at Japan's University of Yamanashi who was part of the researcher team, told public broadcaster NHK.
+The study, described as game changing by independent experts asked to comment on it when it was published, appeared to show a simple way to reprogram mature animal cells back into an embryonic-like state that would allow them to generate many types of tissue.
+The results appeared to offer a promise that human cells might in future be simply and cheaply reprogrammed back into embryonic cell-like cells - in this case cells dubbed Stimulus-Triggered Acquisition of Pluripotency, or STAP, cells - suggesting a simple way to replace damaged cells or grow new organs for sick and injured people.
+"When conducting the experiment, I believed it was absolutely right," Wakayama said.
+"But now that many mistakes have emerged, I think it is best to withdraw the research paper once and, using correct data and correct pictures, to prove once again the paper is right. If it turns out to be wrong, we would need to make it clear why a thing like this happened."
+A Nature spokesperson said "issues relating to this paper" had been brought to the journal's attention and it was conducting an investigation, but made no further comment.
+"OPEN MIND"
+Robin Lovell-Badge, a stem cell expert at Britain's National Institute for Medical Research, cautioned against premature assumptions on whether the research was flawed.
+"I have an open mind on this," he told Reuters. "I'm waiting to hear from several serious stem cell labs around the world on whether they have been able to reproduce the methods."
+Wakayama's co-researcher Haruko Obokata, became an instant celebrity in Japan after she spoke during a Nature media briefing to science reporters all over the world about her eye-catching findings.
+The Japanese researchers, joined by others from Brigham and Women's Hospital and Harvard Medical School in the United States, took skin and blood cells, let them multiply, then subjected them to stress "almost to the point of death", they explained, by exposing them to various events including trauma, low oxygen levels and acidic environments.
+One of these "stressful" situations was simply to bathe the cells in a weak acid solution for around 30 minutes. Within days, the scientists said they had found that the cells had not only survived but had also recovered by naturally reverting into a state similar to that of an embryonic stem cell.
+Yet no other research team has yet been able to replicate the findings, and the RIKEN Center for Developmental Biology in Japan, where Obokata works, said last week it had "launched an independent inquiry into the content of the paper.
+That inquiry would be conducted by a panel of experts from within and outside RIKEN, it said, and would be published as soon as it was concluded.
+A RIKEN spokesman declined to comment on Wakayama's call for the paper to be withdrawn.
+</TEXT>
+</DOC>

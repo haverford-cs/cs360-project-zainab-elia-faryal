@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO>646</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_tech/~3/mVwReb7T5YQ/index.html</URL>
+<TITLE>5 biometric alternatives to the password</TITLE>
+<TIME>Fri, 04 Apr 2014 17:09:24 EDT</TIME>
+<ABSTRACT>
+The next wave in security will be biometric authentication -- the futuristic-seeming practice of using unique behavioral and biological traits such as fingerprints, gait and even ear shape to confirm your identity.
+</ABSTRACT>
+<TEXT>
+(CNN) -- There are many things that make you special: Your sense of humor, your dance moves, your personal style, the shape of your ear.
+That's right, your ear.
+The password has had its moment, but those hard-to-remember strings of number and letters are increasingly insecure and clumsy to manage. The next wave in computer security will be biometric authentication, the futuristic practice of using unique behavioral and biological traits such as fingerprints, gait and yes, even ear shape to confirm your identity.
+You might already have the necessary equipment to detect some of these your pocket.
+Smartphones are packed with powerful sensors that can be used to make sure you are really, well, you. They have accelerometers, gyros, sensitive touchscreens, microphones and high-resolution cameras, all of which can gather information about physical traits and behaviors that make each person unique.
+Fingerprints are the most well-known biometric identifier. Apple took an early stab at this technology by embedding a fingerprint sensor into the home button of its iPhone 5S, with mixed results.
+Biometrics are still a long way from replacing the password -- they have kinks that must be ironed out, and making them work with current systems will take some time. There are also serious privacy concerns to consider when it comes to collecting information in databases that would identify people.
+But these changes are coming. Here are five biometrics that are part of the next wave of identification technologies.
+Heartbeat
+Your heart's activity and its electrical signals are distinct and very difficult to replicate. The technology for reading an individual's electrocardiographic signals (ECG) has been around for many years, but recent advancements have shrunk the sensing devices to small sizes and made them less invasive.
+Something as common as a wearable fitness device or subtle as a flat pad embedded on to the side of a smartphone can detect a person's heart rate. Apple has even applied for a patent on an embedded heart rate monitor for the iPhone.
+One interesting product in development is the Nymi wristband. It looks like a typical fitness band, but instead of tallying steps it detects your heartbeat to confirm your identity.
+The twist is that it isn't using your cardiac rhythm to unlock one device. The Nymi is designed to act like a replacement for physical keys and passwords by wirelessly confirming your identity to your smartphone, computer, front door, vehicle and even stores. It can also recognize gestures, so you can unlock your home with a wave.
+Similar technology will likely find its way directly into other devices, including smartphones. Fitness devices are already including heart rate monitors as part of their health tracking, so it's a small jump to using them for security.
+Ear shape
+Sensitive touchscreens can pick up much more than a finger tap or swipe. With the right software and phone, they can detect the shape of a human ear.
+That's the idea behind the Ergo Android app by Descartes Biometrics. When an ear is pressed against the screen, the points where it makes contact with the glass are mapped out and compared to a stored ear print. If it matches, the user is authenticated. The app is adjustable and can require multiple scans for the highest levels of security, or just one for people who feel they have a low risk of losing their phones.
+For now, it's limited to unlocking a phone, but in theory the ear could be used to identify people for any number of uses on the phone, such as making purchases in app stores or signing into services.
+There are a couple of potential advantages to using ear prints over fingerprints. For one, the size of the ear means it can be scanned using existing technology. There's no need to pay for a dedicated fingerprint sensor. It is also possible to figure out an ear shape from an image, something that could benefit law enforcement working with surveillance photos or videos.
+Fingerprints can also change over time as people work with their hands, get injured and age. Advocates for ear biometrics claim that ears don't change nearly much over the course of a lifetime (unless they happen to belong to an MMA fighter).
+Walk
+If you've ever listened to someone walking past in the office and immediately known who it was, or spotted a friend from a distance by the way they moved, you've already seen the power of gait recognition.
+For 30 years, researchers have tinkered with gait-recognition technology using high-resolution videos and specialized floors that sense pressure. The recent boom in inexpensive motion sensors like accelerometers and gyros have given new life to the field.
+A wearable fitness device or smartphone moves along with your body when you walk. Many are already counting steps and speed. With the right software and sensors, they should be able to analyze a person's walk and determine if they are the rightful owner of those devices.
+The benefit of gait recognition is that it can gather the necessary information in the background while people go about their normal routines. There's no need for the subject to touch their device or look into a camera.
+Typing speed
+Typing, like walking, varies from person to person. Keystroke biometrics record how a person types and calculates their unique pattern, speed and rhythm. It determines how long they hold down each key and the space of time between different letters.
+Online learning site Coursera offers "Signature track" to students who want to get verified certificates for the courses they've taken. When classes are online, anyone could be playing the role of student. So Coursera set up a profile that requires a student to type in a sample phrase. When they need to prove their identity, say when turning in homework, they retype the phrase.
+Keystrokes could be used to authenticate anyone working on a computer, so the system could appeal to companies that are watching out for unauthorized users on their internal systems.
+Face recognition
+Like fingerprints, face recognition is already being used in popular technology. Law enforcement and other entities are building databases to take advantage of recent advancements in facial recognition.
+For facial recognition to succeed, devices need a clear, sharp image to work with. The cameras in smartphones and tablets have improved drastically and are on par with what you'll find in many point-and-shoot cameras. The software looks for patterns on the human face, such as distance between eyes, to identify people.
+Samsung is one company that has taken advantage of improved camera technology and it now has a face-recognition unlock feature on its Galaxy smartphones. The feature is more of a novelty for now, because factors like lighting and camera angle often give false negatives.
+Security is great for consumers, but it's not the primary goal of most facial-recognition tools. Law enforcement is building facial recognition databases. Identifying one person using their trail of selfies left online and in surveillance footage from stores could be a huge business. Some stores already use facial recognition to build profiles on repeat customers and collect data about how they shop.
+Facebook recently bragged that its own facial recognition project -- the unfortunately named DeepFace -- was almost as accurate at detecting people as the human brain. More recently, it also claimed to be able to recognize faces from the side as well as the front.
+</TEXT>
+</DOC>

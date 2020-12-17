@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>2253</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/DoXNorBiEeY/</URL>
+<TITLE>Marijuana use during pregnancy affects baby's brain</TITLE>
+<TIME>Mon, 27 Jan 2014 16:00:13 GMT</TIME>
+<ABSTRACT>
+Using marijuana during pregnancy could affect a baby's brain development by interfering with how brain cells are wired, a new study in mice and human tissue suggests
+</ABSTRACT>
+<TEXT>
+Using marijuana during pregnancy could affect a baby's brain development by interfering with how brain cells are wired, a new study in mice and human tissue suggests.
+Researchers studied marijuana's effects on mice and brain tissue from human fetuses, and found that the active ingredient in marijuana, THC, interferes with the formation of connections between nerve cells in the cerebral cortex, the part of the brain responsible for higher thinking skills and forming memories.
+"Our advice is that [pregnant] mothers should avoid marijuana,"said neuroscientist Tibor Harkany of the Karolinska Institute in Sweden, and the Medical University of Vienna, in Austria, who led a study detailed today (Jan. 27) in the EMBO Journal. [11 Facts Every Parent Should Know About Their Baby's Brain]
+Harkany added that the effects of prenatal marijuana exposure could even last into adulthood. The drug could have direct effects, or it could sensitize the brain to future drug exposure or neuropsychiatric illnesses.
+Pot during pregnancy
+Previous studies have found that exposure to marijuana during pregnancy can increase a child's risk of having cognitive deficits or psychiatric disorders.
+While it is not exactly clear how marijuana may affect the fetal brain at a molecular level, it seems the brain may be particularly sensitive to THC (delta-9-tetrahydrocannabinol) during early development, when neurons are forming critical connections. Any drug that interferes with this development could be detrimental to the child, Harkany said.
+In the study, Harkany and his colleagues tested marijuana's effects in three ways: They grew brain cells from mice in the presence of THC, they injected pregnant mice with THC, and they studied the brains of electively aborted human fetuses whose mothers had used marijuana during pregnancy.
+The researchers identified a specific protein in nerve cells, called Superior Cervical Ganglion 10 (SCG10), which is essential for normal brain wiring. They found lower levels of this protein in the brains of both human and mouse fetuses exposed to THC compared with individuals who weren't exposed to THC, suggesting that marijuana exposure has a specific effect on the developing brain.
+Marijuana and brain development
+"Prenatal cannabis disrupts synapses [nerve connections] critical for higher order executive and cognitive function," study researcher Yasmin Hurd, a neuroscientist at Mount Sinai Hospital in New York, told LiveScience in an email.
+An increasing number of women of childbearing age are using marijuana, and this group should be made aware of the potential impact on the brain development of their children, she said.
+Harkany added that pregnant women should avoid using marijuana use for medical purposes.
+Previous long-term studies have shown that children exposed to marijuana in the womb may have an increased risk of showing cognitive effects, seeking out drugs, or having attention deficit disorder, anxiety or depression, according to the study.
+Harkany and his colleagues didn't study the effects of marijuana use prior to pregnancy, but he said the drug is cleared from the body in a period days, not months, and using it prior to conception is more likely to affect the likelihood of becoming pregnant than the fetus itself.
+So far, Harkany said, no studies have compared the effect of marijuana to that of other drugs, such as alcohol, on fetal brain development.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>2711</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/eyWwG2dihgg/</URL>
+<TITLE>Researchers find new drug target for treating mitochondrial disease</TITLE>
+<TIME>Thu, 27 Mar 2014 16:55:55 GMT</TIME>
+<ABSTRACT>
+Experts have long been searching for a way to effectively treat mitochondrial disease – and now, new research points to a potential drug target that can rescue cells suffering from mitochondrial dysfunction.
+</ABSTRACT>
+<TEXT>
+A human cell
+Mitochondrial diseases: A mysterious, and often deadly, set of disorders that have no known cure.
+Experts have long been searching for a way to effectively treat these complex conditions – and now, new research points to a potential drug target that can rescue cells suffering from mitochondrial dysfunction.
+These findings could possibly lead to new therapies for a disease that is nearly untreatable.
+Often referred to as the “cellular power plants,” mitochondria are responsible for generating adenosine triphosphate (ATP) – the cell’s primary energy source.  But for patients suffering from mitochondrial disease, their cells’ mitochondria do not function properly, leading to cell injury and even cell death.  
+“With mitochondrial diseases, there are a variety of different outcomes, but there is consistency in terms of muscle degeneration, metabolic changes in the blood, drop in blood pH, and neuronal effects.  But really all tissues can be affected,” lead researcher David Sabatini, of the Whitehead Institute and Massachusetts Institute of Technology, told FoxNews.com.
+Mitochondrial disorders range in severity, and many individuals can expect to live ordinary lives.  However, some children with more severe forms of the disease cannot see, hear or walk, and many may not survive past their teenage years.
+Hoping to find a method for treating this condition, MIT graduate student Walter Chen and postdoctoral researcher Kivanc Birsoy mimicked mitochondrial dysfunction by giving cells a small molecule drug called antimycin that inhibited the mitochondrial electron transport chain – the method by which ATP is generated.
+After suppressing mitochondrial function, Chen and Birsoy found that cells with mutations inactivating the ATPIF1 gene showed substantial resistance against mitochondrial toxins and were often saved from cell death.   The ATPIF1 gene acts somewhat like a backup system by preventing starving cells from consuming too much of their ATP, but in return, this actually worsens the mitochondrion’s membrane potential.  So for patients with mitochondrial disease, the activation of the ATPIF1 gene is actually harmful.
+Since liver cells are frequently affected in patients with mitochondrial disease, the researchers suppressed mitochondrial function in mice with genetically inhibited ATPIF1 and a group of control mice.  As expected, the liver cells in the mice without ATPIF1 dealt much better with mitochondrial dysfunction than the control mice.
+These findings indicate that suppression of ATPIF1 in patients with mitochondrial disorders may slow or stop symptoms of the disease.  However, Sabatini noted that inhibiting the protein encoded by ATPIF1 protein may not be a feasible option for future treatments.                            “ATPIF1 – while its loss does not seem to be overtly toxic to the cell, theoretically making it a good drug candidate – the problem is this protein coded by this gene is not a traditional drug target,” Sabatini said. “…So making a small molecule inhibitor of this will be challenging.”
+Instead, Sabatini said potential therapies could utilize genome editing to target the gene itself.  Genome editing involves using genetically modified nucleuses to alter specific sequences in the genome.  
+While this is a complex technique needed for future treatment, Sabatini hopes that other researchers will be open to finding a viable translation for patient use.
+“The question is: How would you interfere with the function of this gene in an animal or a person, when it’s not druggable in a traditional sense?” Sabatini said.  “But then again, what chemists consider druggable is constantly changing.”
+This research was supported by the National Institutes of Health and published in Cell Reports.
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>2536</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/O52eBZgetc4/</URL>
+<TITLE>Eating large amounts of meat, cheese may be as deadly as smoking, study shows</TITLE>
+<TIME>Tue, 04 Mar 2014 17:47:21 GMT</TIME>
+<ABSTRACT>
+New research from the University of Southern California indicates that consuming high levels of animal proteins could be detrimental to a person’s health.
+</ABSTRACT>
+<TEXT>
+A McDouble burger is pictured at a McDonald's restaurant in the Fillmore District of San Francisco, California January 30, 2013. (REUTERS/Robert Galbraith)
+Could a diet rich in meat and cheese be just as deadly as smoking cigarettes? New research from the University of Southern California indicates that consuming high levels of animal proteins could be detrimental to a person’s health, according to a study published in the journal Cell Metabolism.
+Eating a hamburger, or other forms of animal protein, elevates levels of the growth hormone IGF-1 in the human body. In children, IGF-1 helps promote growth and development – but in adulthood, high levels of the hormone have been linked to an increased risk for cancer and other age-related disease, according to study author Vance Longo, director of the University of Southern California’s Longevity Institute.
+Knowing that IGF-1 was linked to increased mortality, Longo and his fellow researchers began to look for ways to naturally reduce levels of the hormone in the human body.
+“We asked, ‘Would it be enough to reduce the proteins [consumed]?’” Longo told FoxNews.com.
+In order to analyze the effects of animal-based protein consumption on mortality, researchers utilized data gathered from 6,381 adults over age 50 from the National Health and Nutrition Examination Survey (NHANES).  They split the population into three groups: those who consumed 20 percent of their daily calories from protein, those who consumed 10 to 19 percent of their daily calories from protein, and those who consumed a diet comprised of less than 10 percent protein.
+“The effects we saw were about as good as we imagined,” Longo said. “We saw a big difference with low protein intake and reduction in overall mortality, cancer and diabetes.”
+Overall, people who consumed high-protein diets were four times more likely to die from cancer and 74 percent more likely to die of any cause during the study period compared to people who ate a low-protein diet.
+Researchers also studied the effects of a low-protein diet in a group of mice, analyzing how well high- or low-protein diets protected against both melanoma and breast cancer progression in the animals.
+“We started with an established cancer and yet the low-protein [diet] was able to prevent the cancer from progressing in 10 to 30 percent of animals, something we really didn’t even expect,” Longo said. “We expected reduced progression but not necessarily the ability—even having 20,000 cancer cells injected— to make sure that in 30 percent of these mice the cancer never really appeared but went away.”
+They also noted that a low-protein diet resulted in reduced levels of IGF-1 among the mice, which the researchers believe may be responsible for explaining the diet’s protective effects.
+“If you have low IGF-1… then the cell is protected against DNA damage,” Longo said.
+But while a diet high in animal-based proteins seems to have detrimental effects on health, plant-based proteins, like legumes, don’t seem to carry as much of a risk. While people who ate diets high in plant-based proteins still had a three-fold increase in mortality from cancer, an increase in overall mortality was not evident.
+“The plant proteins have a different profile of amino acids, and not all are the same, but each plant has a different [profile],” Longo said. “We know that for some of them, that profile reduces IGF-1…and other genes that promote aging or age-related diseases.”
+However, Longo noted that as people progress past middle-age, some may see a protective effect from consuming diets rich in animal proteins. Starting at age 64, a person’s IGF-1 levels begin to decrease naturally, which can result in decreases in weight and increases in frailty – something that could be dangerous for someone already consuming a low-protein diet.
+“We think that after age 65, particularly for individuals starting to lose weight, who had low levels of IGF-1 to begin with, increasing protein intake for those that have low protein may be a good idea,” Longo said, noting that as people age the body may not process protein as efficiently. “But people [who already had] a moderate to high intake, they are fine.”
+Generally, Longo recommends people should consume nine to 10 percent of their daily calories from protein – or .36 grams for every pound they weigh. For example, a 100-pound person can safely consume 36 grams of protein per day, while a 200-pound person could consume 72 grams of protein per day without elevating their risk for cancer or general mortality. According to the USDA, one cup of chicken contains about 43 grams of protein. 
+And for those who continue to consume excessive amounts of animal protein, Longo warned that they could be putting themselves at as much risk as if they were smoking cigarettes.
+“Cancer mortality was higher for high-protein [eaters] compared to current smokers,” Longo said.  
+</TEXT>
+</DOC>

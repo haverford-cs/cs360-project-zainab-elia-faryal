@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>1342</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/fzOj8_EH--g/</URL>
+<TITLE>NASA plans to make coldest spot in universe</TITLE>
+<TIME>Tue, 04 Feb 2014 14:50:10 GMT</TIME>
+<ABSTRACT>
+NASA is working on making things a lot colder on the International Space Station—as in, about as cold as physically possible.
+</ABSTRACT>
+<TEXT>
+This May 23, 2010 image provided by NASA shows the International Space Station.AP Photo/NASA
+NASA is working on making things a lot colder on the International Space Station—as in, about as cold as physically possible. Scientists are building a "Cold Atom Lab," which would be able to bring matter within down as low as 0.0000000001 degrees above absolute zero, the Christian Science Monitor reports.
+(The lab itself will be a "fridge-sized box," it notes.) Absolute zero, which is equivalent to −459.67 Fahrenheit, is the theoretical point at which matter loses all thermal energy.
+As matter approaches it, things get weird; it begins acting like a wave, and can be in two places at once. NASA will be studying in particular Bose-Einstein condensates, which are created when millions of atoms begin coalescing into a single wave.
+Building the lab in zero gravity will make it a lot easier to generate these low temperatures, allowing particles to sit comfortably within a force field.
+The effort is piggybacking on a broader microgravity lab, the Tech Times adds, and like that lab, isn't expected to launch until 2016. But once it's live, it'll be the coldest place in the known universe—even deep space between galaxies only reaches 3 Kelvin, or -454.27 degrees Fahrenheit, Geek.com points out, compared to the lab's 100 pico-Kelvin.
+(In other chilly news, scientists have identified the coldest spot on Earth.)
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>1540</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/_eEFhvik9xY/</URL>
+<TITLE>Top quark: Mass of world's heaviest elementary particle found</TITLE>
+<TIME>Mon, 24 Mar 2014 14:00:21 GMT</TIME>
+<ABSTRACT>
+In the first joint result from the world's two leading particle colliders, scientists have determined the mass of the heaviest elementary particle, the top quark.
+</ABSTRACT>
+<TEXT>
+In the first joint result from the world's two leading particle colliders, scientists have determined the mass of the heaviest elementary particle, the top quark.
+The measurement was made using the Large Hadron Collider (LHC) at CERN in Geneva, Switzerland, and the Tevatron at Fermilab in Batavia, Ill. Four separate experiments found a joint value for the top quark of 173.34 (+/- 0.76) gigaelectronvolts divided by the speed of light squared, scientists announced Wednesday (March 19) at a physics conference in Italy.
+"The combining together of data from CERN and Fermilab to make a precision top quark mass result is a strong indication of its importance to understanding nature,"Fermilab director Nigel Lockyer said in a statement, adding, "It's a great example of the international collaboration in our field." [Wacky Physics: The Coolest Little Particles in Nature]
+The four LHC and Tevatron experiments ATLAS, CDF, CMS and DZERO, respectively are the only ones that have observed top quarks, which are 100 times the mass of a proton. In addition to top quarks, there are five other types, or flavors, of quarks: bottom, up, down, charm and strange. (For instance, protons are made of two up quarks and one down quark, whereas neutrons contain two down quarks and one up quark.)
+The new particle mass will allow scientists to test the mathematics of quantum connections among the top quark, the Higgs particle the particle detected by the LHC in 2012, which explains how other particles get their mass and the W boson, the carrier of the electroweak force.
+Theoretical physicists can now investigate how the mass of the top quark will affect predictions of the stability of the Higgs field (the field associated with the Higgs particle), and the effects on the evolution of the universe. In addition, the new value will allow scientists to test for inconsistencies in the Standard Model of particle physics and discover new physics to describe the nature of the universe.
+More than 6,000 scientists from more than 50 countries were involved in the research. The CDF and DZero experiments first detected the top quark in 1995, based on about 300,000 quark events produced by Fermilab's Tevatron (which was shut down in 2011). The LHC at CERN has produced the world's most top quark events, almost 18 million since it began running in 2009.
+The four experiments at Fermilab and CERN used different methods to measure the top-quark mass, and each experiment had released their results previously. By collaborating closely to understand each other's methods and uncertainties, the teams were able to combine the measurements into a single robust value.
+"Collaborative competition is the name of the game," CERN's Director General Rolf Heuer said in a statement. "Competition between experimental collaborations and labs spurs us on, but collaboration such as this underpins the global particle physics endeavor and is essential in advancing our knowledge of the universe we live in."
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+Backerjack presents: The technology in-crowd
+</TEXT>
+</DOC>

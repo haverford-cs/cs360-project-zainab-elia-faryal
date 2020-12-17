@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2709</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/kQBpaMerIWw/</URL>
+<TITLE>CDC: 1 in 68 children diagnosed with autism</TITLE>
+<TIME>Thu, 27 Mar 2014 17:06:37 GMT</TIME>
+<ABSTRACT>
+According to the most recent statistics from the Centers for Disease Control and Prevention (CDC), approximately 1 in 68 children have been identified as having autism spectrum disorder (ASD) in the United States. 
+</ABSTRACT>
+<TEXT>
+The rates of autism continue to rise.
+According to the most recent statistics from the Centers for Disease Control and Prevention (CDC), approximately 1 in 68 children have been identified as having autism spectrum disorder (ASD) in the United States. The new statistics represent a 30 percent increase from the 2012 estimates of 1 in 88 children with ASD.
+“Community leaders, health professionals, educators and childcare providers should use these data to ensure children with ASD are identified as early as possible and connected to the services they need,” Coleen Boyle, director of CDC’s National Center on Birth Defects and Developmental Disabilities, said in a press release.
+The findings were reported Thursday in the CDC’s Morbidity and Mortality Weekly Report.  To get their statistics, researchers utilized community records regarding diagnoses, treatment and services provided to children with disabilities.
+The report also found that rates varied widely between communities, ranging from 1 in 175 children in Alabama to 1 in 45 children in New Jersey.  Additionally, the condition continues to affect more boys than girls: 1 in 42 versus 1 in 189 respectively.
+Given this sharp increase in ASD incidence, CDC officials are urging parents to have their children screened for developmental delays as soon as possible.
+“The most important thing for parents to do is to act early when there is a concern about a child’s development,” said Dr. Marshalyn Yeargin-Allsopp, chief of the CDC’s Developmental Disabilities Branch. “If you have a concern about how your child plays, learns, speaks, acts, or moves, take action. Don’t wait.”
+Dr. Manny Alvarez, senior managing health editor for FoxNews.com, said these numbers are shocking and are an indication of a major public health issue.
+"Even if you take into consideration the more aggressive screenings, where in some cases, there might have been a misdiagnosis, I still feel that this continues to be a wake up call for parents, teachers, pediatricians and the federal government to better identify children on the spectrum, since the only effective tool for treatment we have is early intervention. Also, the discrepancy from state to state might give more weight to environmental factors as a cause."
+</TEXT>
+</DOC>

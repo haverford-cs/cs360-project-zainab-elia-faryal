@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>1114</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/5Jzg4gKxuJU/index.html</URL>
+<TITLE>Shift workers beware: Sleep loss may cause brain damage</TITLE>
+<TIME>Wed, 19 Mar 2014 07:23:43 EDT</TIME>
+<ABSTRACT>
+Are you a truck driver or shift worker planning to catch up on some sleep this weekend?
+</ABSTRACT>
+<TEXT>
+(CNN) -- Are you a truck driver or shift worker planning to catch up on some sleep this weekend?
+Cramming in extra hours of shut-eye may not make up for those lost pulling all-nighters, new research indicates.
+The damage may already be done -- brain damage, that is, said neuroscientist Sigrid Veasey from the University of Pennsylvania.
+The widely held idea that you can pay back a sizeable "sleep debt" with long naps later on seems to be a myth, she said in a study published this week in the Journal of Neuroscience.
+Long-term sleep deprivation saps the brain of power even after days of recovery sleep, Veasey said. And that could be a sign of lasting brain injury.
+Veasey and her colleagues at the University of Pennsylvania medical school wanted to find out, so, they put laboratory mice on a wonky sleep schedule that mirrors that of shift workers.
+They let them snooze, then woke them up for short periods and for long ones.
+Then the scientists looked at their brains -- more specifically, at a bundle of nerve cells they say is associated with alertness and cognitive function, the locus coeruleus.
+They found damage and lots of it.
+"The mice lose 25% of these neurons," Veasey said.
+This is how the scientists think it happened.
+When the mice lost a little sleep, nerve cells reacted by making more of a protein, called sirtuin type 3, to energize and protect them.
+But when losing sleep became a habit, that reaction shut down. After just a few days of "shift work" sleep, the cells start dying off at an accelerated pace.
+The discovery that long-term sleep loss can result in a loss of brain cells is a first, Veasey said.
+"No one really thought that the brain could be irreversibly injured from sleep loss," she said. That has now changed.
+More work needs to be done on humans, she said. And her group is planning to study deceased shift workers to see if they have the same kind of nerve damage.
+They hope their research will result in medicines that will help people working odd hours cope with the consequences of irregular sleep.
+How dangerous is sleep deprivation?
+</TEXT>
+</DOC>

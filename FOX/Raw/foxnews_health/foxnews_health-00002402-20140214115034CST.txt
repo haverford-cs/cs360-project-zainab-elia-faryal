@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2402</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/vpABVj-_T0A/</URL>
+<TITLE>Study suggests video games may improve learning skills in people with dyslexia</TITLE>
+<TIME>Fri, 14 Feb 2014 17:50:34 GMT</TIME>
+<ABSTRACT>
+For people with dyslexia, playing action video games may help them better manage shifting attention between audio and visual cues, new research reveals.
+</ABSTRACT>
+<TEXT>
+iStock
+For people with dyslexia, playing action video games may help them better manage shifting attention between audio and visual cues, new research reveals.
+Dyslexia affects five to ten percent of the population and is a learning disability in reading, writing and spelling. One well-documented side effect is difficulty processing and switching between visual and audio sensory cues– for example, looking at an image and then shifting attention to a sudden noise.
+In a new study published in Cell Biology, researchers tested the reaction times of 34 participants by asking them to press a button each time they heard a sound, saw a dim flash or experienced both together during the experiment.  Half the group had dyslexia and half did not.
+Overall, they found that people with dyslexia had slower reaction times when a sound cue followed a visual cue, compared to the control group.
+“This fits into the attention model of dyslexia – being slower to shift attention from one thing to another,” study author Vanessa Harrar, junior research fellow at the University of Oxford, told FoxNews.com.
+However, researchers noted the dyslexic group experienced similar response rates to the control group  when it came to reacting to a visual cue following a sound cue – an asymmetry that had not previously been observed among dyslexics. They believe this may have been because the sound cues came from the same location as the visual cues– a screen surrounded by speakers so the sound appeared to come from the middle of the screen– as opposed to a different location.
+“We already knew that dyslexics have difficulty shifting from one place or another. [In previous research] having headphones in the ears, but seeing the visual on a screen was a confound. This is the first to really control location so everything is exactly perceived as coming from the same place,” Harrar said.
+Their findings lead researchers to hypothesize that video games may be valuable for people with dyslexia – helping them train to shift more easily between auditory and visual stimuli. Harrar cited the example of children learning to read– when a teacher says the sound of a letter, then shows the letter, says the next sound, then shows the next letter. There’s a constant shift between sound and visual stimuli and location that, if one is unable to shift attention that way, makes it difficult to learn the sound associated with the letter and the word.
+“The idea is to train with some kind of video game that trains the eye movements to different locations to add in that multisensory component,” Harrar said.
+While their research is still preliminary, researchers suggest future dyslexia training programs should take into account their asymmetry finding.
+Eventually, they’d like to be able to match different characteristics of dyslexia with video games that target specific deficits.
+“For me, it’s more about… finding the right training for each person,” Harrar said.
+</TEXT>
+</DOC>

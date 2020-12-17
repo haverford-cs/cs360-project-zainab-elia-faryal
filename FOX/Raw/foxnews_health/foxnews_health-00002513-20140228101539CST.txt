@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO>2513</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/jF62cCNkgWA/</URL>
+<TITLE>Experimental psoriasis treatment shows promise</TITLE>
+<TIME>Fri, 28 Feb 2014 16:15:39 GMT</TIME>
+<ABSTRACT>
+The chronic skin condition psoriasis could be treated with a compound that targets a small piece of genetic material in cells, new research in animals suggests. 
+</ABSTRACT>
+<TEXT>
+The chronic skin condition psoriasis could be treated with a compound that targets a small piece of genetic material in cells, new research in animals suggests.
+Researchers found that blocking a type of genetic material called micro-RNA lowered the inflammation in mice that were grafted with skin from people with psoriasis.
+A drug that could be made from this compound is years away from being commercially available, the researchers said, and it is not clear whether the experiments in mice will translate to people.
+Still, the findings suggest that there are several mechanisms to target the disease, as well as shed light on the role of micro-RNA in health, the researchers said.
+Flaky, itchy skin
+Psoriasis is an autoimmune disease (in which the immune system attacks the body's own tissues), and is one of the most common skin conditions worldwide, affecting about 3 percent of the human population. According to the National Psoriasis Foundation, the condition affects about 7.5 million Americans, including celebrities such as Kim Kardashian and country singer LeAnn Rimes.
+Although the exact cause of psoriasis remains unknown, it's likely a combination of genetics and environmental factors, experts say. [8 Strange Signs You're Having an Allergic Reaction]
+The disease shows up as itchy rashes, and flaky skin and scalp. In severe cases, it can cover large portions of the body, or even lead to arthritis. Psoriasis occurs when the immune system attacks the skin, causing the cells to reproduce more quickly than they ordinarily would.
+The condition can be treated with steroid ointments, light therapy and immune suppressants, but there's no cure.
+In the new study, researchers looked at a way to target one type of RNA which is similar to DNA, and can also carry genetic information called micro-RNA, which is a shorter-than-usual piece of RNA that biologists think regulates genes' expression. Micro-RNAs link up with other RNAs and can make them produce or stop producing certain proteins.
+Juan Guinea-Viniegra and his co-authors at the Spanish National Cancer Research Centre (CNIO) in Madrid found that a compound called antagomir can block a micro-RNA called miR-21 from linking with and regulating other RNAs.
+When the miR-21 is blocked with antagomir, the inflammation of psoriasis seems to slow down, the researchers said.
+"We found in previous studies that one of the targets of miR-21 seems to be responsible for the inflammation," said Erwin Wagner, a co-author of the study. The earlier studies showed that in people with psoriasis, there were elevated levels of miR-21.
+In their experiments, the scientists grafted samples of tissue from the lesions of people with psoriasis onto genetically modified mice. They then applied antagomir, and found that the inflammation faded.
+Why it works
+The theory is that stopping miR-21 prevents a chain of molecular steps from happening, which seems to prevent the rapid growth of skin cells and, with it, psoriasis lesions.
+Still, it isn't clear what function miR-21 normally has in the body, or what blocking it could do over the long term. Wagner noted that mice that are genetically engineered to have no miR-21 don't seem any different from normal mice.
+Dr. Mark Lebwohl, chairman of the Department of Dermatology at the Icahn School of Medicine at Mount Sinai Hospital in New York City, said he doubts the study will result in new psoriasis drugs anytime soon. Since the molecule is a biological one, it will be costly to make, he said.
+In addition, miR-21 acts in an early part of the chain of steps that lead to psoriasis, which means a drug that stops it will be less specific than some protein-based drugs in the pipeline, Lebwohl said.
+However, the mechanism of blocking a micro-RNA to treat psoriasis is interesting, he said.
+Along with further testing, it's necessary to devise a way to deliver the compound in a drug, Wagner said. A mi-RNA treatment would likely need to be applied to the skin, perhaps by using nanoparticles to deliver the antagomir.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>1412</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/Boxoo3329y4/</URL>
+<TITLE>New planet-hunting space telescope coming in 2024</TITLE>
+<TIME>Thu, 20 Feb 2014 18:45:57 GMT</TIME>
+<ABSTRACT>
+Europe will launch a space observatory a decade from now to hunt for Earth-like planets circling distant stars, officials announced Wednesday.
+</ABSTRACT>
+<TEXT>
+The PLAnetary Transits and Oscillations of stars (PLATO) mission will identify and study thousands of exoplanetary systems, with an emphasis on discovering and characterising Earth-sized planets and super-Earths.ESA/C. Carreau
+Europe will launch a space observatory a decade from now to hunt for Earth-like planets circling distant stars, officials announced Wednesday.
+The European Space Agency has selected a space telescope called PLATO — short for Planetary Transits and Oscillations of stars — as its newest medium-class science mission. The observatory, which is slated to blast off in 2024, will scan up to a million stars for signs of orbiting planets, with an emphasis on worlds that could be similar to our own.
+"PLATO will begin a completely new chapter in the exploration of extrasolar planets," mission leader Heike Rauer, of the German Aerospace Center, said in a statement. "We will find planets that orbit their star in the life-sustaining habitable zone — planets where liquid water is expected, and where life as we know it can be maintained." [The Search For Another Earth (Video)]
+- Heike Rauer, of the German Aerospace Center
+Like NASA's prolific Kepler space telescope, PLATO will detect planets by noticing the tiny brightness dips they cause when they cross in front of, or transit, their parent stars from the spacecraft's perspective. But PLATO's design is significantly different than that of Kepler, relying on a system of 34 small telescopes and cameras rather than one relatively large instrument.
+PLATO will also characterize its target stars in detail from its position at sun-Earth Lagrange point 2, a gravitationally stable region about 930,000 miles from our planet. This information, combined with observations from ground-based instruments, will allow researchers to calculate newfound exoplanets' densities, revealing whether they're rocky like Earth or primarily gaseous like Saturn and Jupiter.
+The new mission will likely find and study thousands of new exoplanet systems, shedding light on the distribution and composition of alien worlds throughout the Milky Way galaxy, researchers said.
+"In the last 20 years, more than one thousand exoplanets have been discovered, with quite a few multi-planetary systems among them," Rauer said. "But almost all of these systems differ significantly from our solar system in their properties, because they are the easiest-to-find examples. PLATO firmly will establish whether systems like our own solar system and planets like our own Earth are common in the galaxy."
+PLATO was one of five finalists for the 2024 medium-class mission launch opportunity. The other four were EChO (the Exoplanet Characterization Observatory), LOFT (the Large Observatory For X-ray Timing), MarcoPolo-R (a near-Earth asteroid sample-return mission) and STE-Quest (Space-Time Explorer and QUantum Equivalence principle Space Test).
+Medium-class missions cost ESA a maximum of €470 million, or about $647 million. The space agency has selected two other missions in this category, both in 2011: Solar Orbiter, which will launch in 2017 to study the sun and solar wind; and Euclid, which will blast off in 2020 to investigate mysterious dark energy and dark matter.
+ESA will likely launch a smaller exoplanet mission before PLATO — the $137 million (€100 million) CHEOPS (short for CHaracterizing ExOPlanets Satellite) spacecraft, which is targeted to lift off in 2017. The main goal of CHEOPS will be to characterize known exoplanets rather than to discover new worlds.
+10 bizarre real-life alien worlds
+11 mysteries attributed to aliens
+</TEXT>
+</DOC>

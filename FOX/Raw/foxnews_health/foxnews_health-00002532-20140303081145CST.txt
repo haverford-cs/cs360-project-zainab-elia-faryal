@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2532</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/FyFDd-4qj3I/</URL>
+<TITLE>Insomniacs may have more 'excitable' brains compared to good sleepers</TITLE>
+<TIME>Mon, 03 Mar 2014 14:11:45 GMT</TIME>
+<ABSTRACT>
+People who suffer from insomnia may have more active brains compared to people who sleep soundly. 
+</ABSTRACT>
+<TEXT>
+People who suffer from insomnia may have more active brains compared to people who sleep soundly,  Medical Daily reported.
+In a small study, researchers at the Johns Hopkins University School of Medicine studied the brain activity of 28 participants – 18 insomniacs and 10 normal sleepers – in hopes of gaining more insight into the sleep disorder.
+Utilizing a series of tests, researchers measured the adaptability of each person’s motor cortex – the area of the brain that controls movement. In the first portion of the experiment, researchers used electrodes and an accelerometer to measure the speed and direction of each participant’s thumb movements.
+The researchers then used transcranial magnetic stimulation (TMS) to painlessly send electromagnetic currents to the motor cortex, safely disrupting brain activity. During TMS, the researchers monitored participants for involuntary thumb movements.
+Finally, researchers trained each participant to move their thumb in the opposite direction of the involuntary movements observed during TMS. Afterwards, the participants underwent TMS again in order to measure the adaptability of each participant’s motor cortex in adjusting to the newly learned movements.
+Overall, people with chronic insomnia showed more adaptability, or plasticity, in their motor cortex compared to the group of good sleepers. People with insomnia also showed more excitement among the neurons in the motor cortex, indicating a constant state of heightened information processing.
+“It’s like a car that’s always running or a light switch that’s always on,” study author Dr. Rachel E. Salas, an assistant professor of neurology at the Johns Hopkins University School of Medicine told Medical Daily. “With each person, there may be different factors causing and perpetuating it, so that makes it very difficult to treat. There’s a big need for research in this area.”
+Approximately one-quarter of people in the U.S. will suffer insomnia at some point and researchers hope studies of the brain may lead to future treatment options.
+Click for more from Medical Daily.
+</TEXT>
+</DOC>

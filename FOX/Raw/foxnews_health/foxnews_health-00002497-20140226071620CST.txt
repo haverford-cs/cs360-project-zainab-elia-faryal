@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO>2497</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/y5wy0CLdEtg/</URL>
+<TITLE>MMR vaccine linked to lower risk of serious infections</TITLE>
+<TIME>Wed, 26 Feb 2014 13:16:20 GMT</TIME>
+<ABSTRACT>
+The MMR vaccine, which protects against measles, mumps and rubella, may also protect against other serious infections, Medical Daily reported.
+</ABSTRACT>
+<TEXT>
+The MMR vaccine, which protects against measles, mumps and rubella, may also protect against other serious infections, Medical Daily reported.
+In a study published in the Journal of the American Medical Association, researchers tracked the immunization rates of nearly half a million Danish children born between 1996 and 2006.
+The recommended vaccine schedule includes an MMR shot at 15 months, shots for diphtheria, tetanus, pertussis, polio, and Haemophilus influenzae type b (DTaP-IPV-Hib) administered at three, five and 12 months.
+Researchers found that on-time administration of the MMR vaccine after the DTaP-IPV-Hib shot corresponded to a lower risk of hospital admission for general infections – especially for lower respiratory tract infections and complications requiring longer hospitalizations.
+“MMR may have a general immune stimulating effect preventing hospital admissions for unrelated infections,” lead author Dr. Signe Sørup wrote in an email to Medical Daily. “It highlights the importance of receiving the MMR vaccine on time.”
+While some parents worry about vaccines, lowered use of the MMR vaccine can potentially lead to new outbreaks of the infection, the study’s authors pointed out.
+“Our study suggests that parents should be very happy with MMR, because it reduces a lot more severe infections than just measles, mumps and rubella,” Sørup said.
+Click for more from Medical Daily.
+</TEXT>
+</DOC>

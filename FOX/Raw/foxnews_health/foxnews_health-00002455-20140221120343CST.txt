@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>2455</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/qfbumiee4yo/</URL>
+<TITLE>Researchers discover potential cure for noise-induced hearing loss</TITLE>
+<TIME>Fri, 21 Feb 2014 18:03:43 GMT</TIME>
+<ABSTRACT>
+Noise-induced hearing loss has the potential to be reversed, according to a new study from Harvard Medical School.
+</ABSTRACT>
+<TEXT>
+Noise-induced hearing loss has the potential to be reversed, according to a new study from Harvard Medical School.
+Hearing loss affects close to 50 million people in the United States and prolonged exposure to very loud noises is one of the most common forms of auditory loss. Currently, there are no known treatments to restore noise-related hearing loss, which is caused by the destruction of sensory hair cells in the cochlea - the auditory component of the inner ear.
+However, in an animal study published in Stem Cell Reports, researchers found that by applying an enzyme-inhibiting drug to the cochlea of deaf newborn mice, they were able to induce supporting cells in the ear to transform into hair cells.                 “The finding that newborn hair cells regenerate spontaneously is novel,”  senior study author Dr. Albert Edge, a professor at Harvard Medical School, said in a press release.
+The study results are the first demonstration of hair cell regeneration in an adult mammal and they hope these findings may someday lead to treatments that could induce hair cell regeneration in the humans, to treat noise-related hearing loss.
+“We’re excited about these results because they are a step forward in the biology of regeneration and prove that mammalian hair cells have the capacity to regenerate,” Edge said. “With more research, we think that regeneration of hair cells opens the door to potential therapeutic applications in deafness.”
+</TEXT>
+</DOC>

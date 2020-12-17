@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2502</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/Z81V-jDdPTM/</URL>
+<TITLE>Differences in a single gene may influence recovery from traumatic brain injury</TITLE>
+<TIME>Thu, 27 Feb 2014 15:38:05 GMT</TIME>
+<ABSTRACT>
+New research has revealed that differences in a single gene may predict how well a person recovers from a TBI, compared to others with similar injuries.
+</ABSTRACT>
+<TEXT>
+After an individual suffers from a traumatic brain injury (TBI), such as a stroke or concussion, the subsequent treatment can be highly variable depending on the severity of the patient’s symptoms.
+Now, new research has revealed that differences in a single gene may predict how well a person recovers from a TBI, compared to others with similar injuries.
+In a new study published in the journal PLOS ONE, researchers focused on the role of the brain-derived neurotrophic factor (BDNF) gene and how it related to the post-TBI recovery process.
+“It’s a basic growth factor in the brain that supports neurogenesis, which is the formation of new neurons,” lead researcher Aron Barbey, a professor of neuroscience and of psychology at the University of Illinois, told FoxNews.com. “One of the hypotheses is that BDNF would be critical for recovering from TBI and the formation of new neurons following an injury.”
+According to Barbey, there are two different polymorphisms of the BDNF gene: the Met variant and the Val variant.  The variants (or alleles) dictate whether the amino acids methionine (Met) or valine (Val) are incorporated in the BDNF protein.  Since people inherit two copies of each gene from their parents, individuals can have one of three combinations of the BDNF variants: Val/Val, Val/Met or Met/Met.
+The researchers focused on the BDNF genetic variants of 156 Vietnam War veterans who had suffered penetrating head wounds during combat.  All of the study’s participants had focal injuries that impacted the prefrontal cortex, an area of the brain found to be important for planning, problem-solving and complex analysis.
+After controlling for size and location of the subjects’ brain injuries, Barbey and his team collected blood samples of the veterans for genetic analysis, in order to determine which BDNF variant they possessed.  They also gave the study participants a series of cognitive tests to understand how they performed after their injuries.  Prior to combat, the veterans had undergone the Armed Forces Qualifications Test, which measured for intelligence.
+Through their testing, the researchers found that a single polymorphism accounted for a significant difference in cognitive function. Veterans with the Val/Val combination performed an average of eight I.Q. points lower than veterans with either the Val/Met or the Met/Met combination.
+“These groups were highly similar in terms of pre-injury I.Q. scores and injuries; they were very precisely controlled, so the conclusions drawn from this study are very strong,” Barbey said. “And the main conclusion we drew from the study is if the patient had the Val/Val combination, their performance was remarkably lower.  That suggests individuals with a Val/Val combination are highly sensitive to traumatic brain injury.”
+Though the research team did not study the underlying mechanisms of the BDNF gene, Barbey said there is some evidence to suggest that the Met allele may impair intracellular trafficking.  Following a TBI, this impairment may be protective against cell death and improve recovery.
+Knowing that these variants play a key role in recovery from a brain injury, Barbey said physicians could potentially use this genetic information to guide their treatments for TBIs in the future.
+“It would be possible for individuals with TBI to draw their blood and perform this genetic analysis to identify which polymorphism of BDNF is present and use that to guide the nature of their therapy,” Barbey said.  “If they have the Val/Val combination, it means this patient is likely to face significant challenges and impairments and maybe we should redirect additional resources to helping them after TBI.  [For] individuals with the Met/Met combination, it suggests they have much greater potential to have preserved cognitive function.”
+Barbey said that this research also provides a better understanding of how the brain reorganizes and repairs itself following an injury.
+“The mechanisms that underlie this process have not been fully understood, but [this gene] plays a role in neural plasticity,” Barbey said.  “So this is going to contribute to this much larger picture that incorporates molecular genetics, cognitive neuroscience, psychology, and other disciplines that converge in understanding the mechanisms that occur during TBI.”
+</TEXT>
+</DOC>

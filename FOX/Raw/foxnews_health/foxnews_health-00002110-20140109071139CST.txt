@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>2110</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/AMZKMQK_MBg/</URL>
+<TITLE>Positive thinking may increase effectiveness of migraine drugs</TITLE>
+<TIME>Thu, 09 Jan 2014 13:11:39 GMT</TIME>
+<ABSTRACT>
+Talk about mind over matter: A quirky new study suggests patients' expectations can make a big difference in how they feel after treatment for a migraine.
+</ABSTRACT>
+<TEXT>
+Talk about mind over matter: A quirky new study suggests patients' expectations can make a big difference in how they feel after treatment for a migraine.
+Boston researchers recruited 66 migraine patients in an attempt to quantify how much of their pain relief came from a medication and how much was due to what's called the placebo effect, the healing power of positive belief.
+More than 450 headaches later, they reported Wednesday that it's important for doctors to carefully choose what they tell patients about a powerful medicine - because the message could help enhance its benefits, or blunt them.
+"Every word you say counts, not only every gram of the medication," said Harvard professor Ted Kaptchuk, who led the new study with a team at Boston's Beth Israel Deaconess Hospital.
+Here's how it worked. First, the patients who suffer regular migraines agreed to forgo pain relievers for several hours during one attack, recording their symptoms for comparison with later headaches.
+Then for each of their next six migraines, the patients were given a different pill inside an envelope with a different message. Sometimes they were told it was an effective migraine drug named rizatriptan, a positive message. Other times they were told it was a placebo, a dummy pill, suggesting no benefit. Still other times they were told the pill could be either one, a neutral message.
+Sometimes the doctor's message was true - they were told they got rizatriptan and they really did. Sometimes it was false because researchers had secretly switched the pills.
+Mixing up the possibilities allowed researchers to tease out how the same person's pain relief differed from migraine to migraine as his or her expectations changed.
+Of course the real migraine drug worked far better than the dummy pill. But remarkably, people who knew they were taking a placebo still reported less pain than when they'd left their migraine untreated, the researchers found.
+The surprise: Patients' reports of pain relief more than doubled when they were told the migraine drug was real than when they were told, falsely, that it was a fake, the team reported Wednesday in the journal Science Translational Medicine.
+In fact, people reported nearly as much pain relief when they took a placebo that they thought was the real drug as they did when they took the migraine drug while believing it was a fake.
+"The more we gave a positive message to the patient, the bigger the placebo effect was," Kaptchuk said.
+He said that effect probably isn't purely psychological, saying the ritual of taking a medication may trigger some subconscious memory that could leave people feeling better even if they knew they'd taken a fake drug.
+Scientists have long known that some people report noticeable improvements in pain and certain other symptoms when they're given a placebo, which can be a sugar pill or sham surgery or some other benign intervention. Some studies even have documented that a placebo actually can spark a biological effect.
+But scientists don't know why the placebo effect works or how to harness its potential benefit.
+The new research is an interesting attempt to answer some of those questions, at least for one kind of pain, said Dr. Mark Stacy, vice dean for clinical research at Duke University Medical Center, who wasn't involved with the work. And learning how much of an impact it makes could help design better studies of new drugs, to ensure the phenomenon doesn't skew the results, he added.
+For now, it shows "the power of positive thinking may be helpful in taking care of your migraine," he said.
+</TEXT>
+</DOC>

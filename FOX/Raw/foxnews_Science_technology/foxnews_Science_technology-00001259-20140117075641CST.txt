@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO>1259</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/hTNHTUWcElk/</URL>
+<TITLE>Mystery rock appears in front of Mars rover</TITLE>
+<TIME>Fri, 17 Jan 2014 13:56:41 GMT</TIME>
+<ABSTRACT>
+After a decade of exploring the Martian surface, the scientists overseeing veteran rover Opportunity thought they’d seen it all. That was until a rock mysteriously “appeared” a few feet in front of the six-wheeled rover a few days ago.
+</ABSTRACT>
+<TEXT>
+A comparison of two raw Pancam photographs from sols 3528 and 3540 of Opportunity's mission (a sol is a Martian day). Notice the "jelly doughnut"-sized rock in the center of the photograph to the right. Minor adjustments for brightness and contrast were made to these images.NASA / JPL-Caltech
+After a decade of exploring the Martian surface, the scientists overseeing veteran rover Opportunity thought they’d seen it all. That was until a rock mysteriously “appeared” a few feet in front of the six-wheeled rover a few days ago.
+News of the errant rock was announced by NASA Mars Exploration Rover lead scientist Steve Squyres of Cornell University at a special NASA Jet Propulsion Laboratory “10 years of roving Mars” event at the California Institute of Technology (Caltech), Pasadena, Calif., on Thursday night. The science star-studded public event was held in celebration of the decade since twin rovers Spirit and Opportunity landed on the red planet in January 2004.
+PHOTOS: Alien Robots That Left Their Mark on Mars
+- Mars Exploration Rover lead scientist Steve Squyres
+While chronicling the scientific discoveries made by both rovers over the years, Squyres discussed the recent finding of suspected gypsum near the rim of Endeavour Crater — a region of Meridiani Planum that Opportunity has been studying since 2011 — and the discovery of clays that likely formed in a pH-neutral wet environment in Mars past. While these discoveries have been nothing short of groundbreaking, Squyres shared the Mars rover’s team’s excitement for that one strange rock, exclaiming: “Mars keeps throwing new stuff at us!”
+In a comparison of recent photographs captured by the rover’s panoramic camera, or Pancam, only bare bedrock can be seen on sol 3528 of the mission (a sol is a Mars day, which is slightly longer than an Earth day). But on sol 3540, a fist-sized rock had appeared (raw Pancam images can be found in the mission archive). MER scientists promptly nicknamed the object “Pinnacle Island.”
+“It’s about the size of a jelly doughnut,” Squyres told Discovery News. “It was a total surprise, we were like ‘wait a second, that wasn’t there before, it can’t be right. Oh my god! It wasn’t there before!’ We were absolutely startled.”
+But the rover didn’t roll over that area, so where did Pinnacle Island come from?
+NEWS: Opportunity Breaks NASA’s 40-Year Roving Record
+Only two options have so far been identified as the rock’s source: 1) The rover either “flipped” the object as it maneuvered or, 2) it landed there, right in front of the rover, after a nearby meteorite impact event. The impact ejecta theory, however, is the least likely of the two.
+“So my best guess for this rock … is that it’s something that was nearby,” said Squyres. “I must stress that I’m guessing now, but I think it happened when the rover did a turn in place a meter or two from where this rock now lies.”
+Opportunity’s front right steering actuator has stopped working, so Squyres identified that as the possible culprit behind the whole mystery.
+Each wheel on the rover has its own actuator. Should an actuator jam or otherwise fail, the robot’s mobility can suffer. In the case of this wheel, it can no longer turn left or right. “So if you do a turn in place on bedrock,” continued Squyres, “as you turn that wheel across the rock, it’s gonna kinda ‘chatter.’” This jittery motion across the bedrock may have propelled the rock out of place, “tiddlywinking” the object from its location and flipping it a few feet away from the rover.
+NEWS: Opportunity Finds More Hints of Mars Habitability
+Never missing a scientific opportunity, Opportunity scientists hope to study the bright rock. “It obligingly turned upside down, so we’re seeing a side that hasn’t seen the Martian atmosphere in billions of years and there it is for us to investigate. It’s just a stroke of luck,” he said.
+“You think of Mars as being a very static place and I don’t think there’s a smoking hole nearby so it’s not a bit of crater ejecta, I think it’s something that we did … we flung it.”
+Although this is the leading theory behind the case of the random rock, Squyres pointed out that the investigation is still under way and it will be a few days before his team can definitively say where Pinnacle Island came from.
+Opportunity has outlived its 3-month primary mission by ten years, notching up nearly 23 miles on the odometer so far. Sister rover Spirit succumbed to the Martian elements in 2009 when it became stuck in a sand trap in Gusev Crater. Spirit’s mission was declared lost when it stopped transmitting in March 2010, likely drained of energy. Although Spirit had the rougher time on Mars and was the first to die, it was also a huge success, aiding our understanding of of Mars’ geological history and outliving its warranty by 5 years. But now it’s just Opportunity and Mars’ new arrival Curiosity that soldier on to reveal more than we ever dreamed about our neighboring red planet.
+As the NASA Jet Propulsion Laboratory rover drivers, scientists and engineers recounted stories of their beloved robots on Thursday, it became very clear that they aren't just machines of discovery, they are family.
+SpaceShots: The best new 84 photos of our universe
+Mars revealed: A stunning look at the red planet
+'Curiosity' returns photos from surface of Mars
+</TEXT>
+</DOC>

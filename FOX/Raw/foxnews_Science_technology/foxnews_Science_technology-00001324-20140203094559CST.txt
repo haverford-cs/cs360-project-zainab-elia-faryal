@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>1324</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/cPpggTspSxo/</URL>
+<TITLE>Next military camouflage inspired by 'sea chameleons'</TITLE>
+<TIME>Mon, 03 Feb 2014 15:45:59 GMT</TIME>
+<ABSTRACT>
+Cuttlefish are sometimes known as the "chameleons of the sea," for their ability to change colors rapidly and blend in to their surroundings. They could could help researchers build better protective gear for soldiers in battle.
+</ABSTRACT>
+<TEXT>
+Cuttlefish can rapidly change their colors to blend in.© François Sichel.
+Cuttlefish are sometimes known as the "chameleons of the sea," for their ability to change colors rapidly and blend in to their surroundings. Now, researchers have uncovered the three types of "light makers" on the skin that enable this sophisticated camouflage system. The results could lead to better protective gear for soldiers in battle.
+Researchers at Harvard University in Cambridge, Mass., and the Marine Biological Laboratory in Woods Hole, Mass., studied the chemical, biological and optical mechanisms that enable the cuttlefish to disguise itself from predators. Understanding how these squidlike creatures cleverly camouflage themselves could lead to military innovations, as well as inspire new materials in cosmetics, paints and consumer electronics, the scientists said.
+"Nature solved the riddle of adaptive camouflage a long time ago," study co-author Kevin Kit Parker, a professor of bioengineering and applied physics at the Harvard School of Engineering and Applied Sciences, said in a statement. "Now, the challenge is to reverse-engineer this system in a cost-efficient, synthetic system that is amenable to mass manufacturing." [Cuttlefish Cuties: Photos of Color-Changing Cephalopods]
+Crafty cuttlefish The cuttlefish (Sepia officinalis) is a cephalopod, a class of marine animal that includes squid and octopus. These creatures are mollusks, not fish, which means they are closely related to slugs and snails.
+- Kevin Kit Parker, a professor of bioengineering and applied physics
+Cuttlefish have special pigment-containing cells, called chromatophores, which allow them to change the color and pattern of their skin in response to visual information, the researchers said. By studying these neurally controlled cells, the scientists uncovered the nanoscale photonic devices behind the cuttlefish's color-changing ways.
+It turns out the cuttlefish's skin consists of three vertically arranged optical components that enable it to absorb or reflect different colors: the leucophore, which reflects light uniformly over the entire visible spectrum; the iridophore, a reflector made up of a stack of thin films; and the chromatophore.
+"Chromatophores were previously considered to be pigmentary organs that acted simply as selective color filters," study co-author Leila Deravi, a research associate in bioengineering at the Harvard School of Engineering and Applied Sciences, said in a statement. "But our results suggest that they play a more complex role: They contain luminescent protein nanostructures that enable the cuttlefish to make quick and elaborate changes in its skin pigmentation."
+Coat of many colors When a cuttlefish changes color to blend in to its environment, each chromatophore expands, sometimes increasing its surface area by as much as 500 percent, the researchers said. Within the chromatophores, tethered pigment granules absorb, reflect and even emit, light, effectively changing the creature's appearance.
+"Cuttlefish skin is unique for its dynamic patterning and speed of change," Roger Hanlon, a senior scientist at the Marine Biological Laboratory, said in a statement. "Deciphering the relative roles of pigments and reflectors in soft, flexible skin is a key step to translating the principles of actuation to materials science and engineering."
+These mechanisms could prove valuable for soldiers in battle, where poor patterns of camouflage could jeopardize human lives, the researchers said.
+"Throughout history, people have dreamed of having an 'invisible suit,'" Parker said. "Nature solved that problem, and now it's up to us to replicate this genius so, like the cuttlefish, we can avoid our predators."
+Yet, mimicking these processes with synthetic materials is still a challenge, said Evelyn Hu, study co-author and a professor of applied physics and electrical engineering at Harvard.
+"It is extremely challenging for us to replicate the mechanisms that the cuttlefish uses," Hu said in a statement. "For example, we cannot yet engineer materials that have the elasticity to expand 500 times in surface area.
+"And were we able to do so, the richness of color of the expanded and unexpanded material would be dramatically different think of stretching and shrinking a balloon," she added. "The cuttlefish may have found a way to compensate for this change in richness of color by being an 'active' light emitter (fluorescent), not simply modulating light through passive reflection."
+The detailed findings were published Jan. 29 in the Journal of the Royal Society Interface.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

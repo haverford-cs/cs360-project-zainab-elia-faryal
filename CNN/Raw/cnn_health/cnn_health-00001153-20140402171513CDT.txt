@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO>1153</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/iVNbQ9Nz1G0/index.html</URL>
+<TITLE>New brain maps show connections, genes</TITLE>
+<TIME>Wed, 02 Apr 2014 18:15:13 EDT</TIME>
+<ABSTRACT>
+Two brain map studies released Wednesday in the journal Nature describe the brain in different ways.
+</ABSTRACT>
+<TEXT>
+(CNN) -- The many connections between different parts of the brain have no street signs or trail markers.
+But in order to better explore this complicated organ that enables us to be conscious, thinking, alert beings, scientists need maps. Big maps.
+Two studies released Wednesday in the journal Nature showcase brain maps that could have implications for understanding both healthy and impaired brains.
+One study reveals the most complete map ever of how parts of the brain are connected in a mouse. The other illuminates the developing human brain in terms of genetic expression -- specifically, which genes are responsible for generating different types of neurons, and how brain circuits are formed.
+The leaders of both studies likened their respective brain maps to "Google Maps." The studies represent different, complementary ways of understanding the brain.
+This research was published one year after President Barack Obama announced the $100 million BRAIN Initiative, which "aims to help researchers find new ways to treat, cure, and even prevent brain disorders, such as Alzheimer's disease, epilepsy, and traumatic brain injury."
+The mouse brain, as never before
+The issue of brain connectivity has been an important research topic for the last century, said Hongkui Zeng, senior director of research science at the Allen Institute for Brain Science in Seattle. But it has been hard to gain insights about the entire brain by combining individual studies, because particular researchers have focused on different parts of the brain.
+"Now is the time for us to generate a comprehensive map in a systematic way because of the advancements of imaging technology and advancements of computing power," she said.
+Zeng and colleagues took on this daunting task. They standardized data about connectivity in the whole brain of a mouse.
+Full study from Nature
+Researchers say their map is the first ever detailing the connectivity of neurons in a whole brain of any mammal. Scientists have made this vast expanse of data -- hundreds of terabytes -- publicly available.
+"This kind of database would facilitate the study of many, many different researchers in almost any area of brain research," Zeng said.
+There are several important uses for this brain map. Scientists looking at disease models could compare Zeng's group's descriptions of brain wiring to brains that are impaired in various ways, to see what effects different conditions have on brain connectivity. This could open new avenues in the study of Parkinson's, Alzheimer's, autism, schizophrenia and other brain abnormalities.
+"This really sets the stage for us now to be able to compare a normal animal versus a disease model, to gain fuller understanding of what is going on in the diseased brain," she said.
+Researchers who are interested in finding out what functions specific brain regions have could use this map to see how different areas are connected. Looking at the circuitry of the brain could help guide their studies, Zeng said.
+Scientists building computational models of the brain, seeking to understand how networks operate in the brain, can also benefit from looking at these maps.
+It's important to note that mouse and human brains are similarly structured, but they are nowhere near the same in size or capability.
+With about 86 billion neurons, the human brain contains more than 1,000 times more of these cells than the mouse brain. Our brains are also 2,000 times bigger than a mouse brain, Zeng said.
+Fundamental insights about brain circuitry and impairment often begin with rodent models before being expanded to humans. But we need to also explore the human brain for a fuller picture of behavior and disease.
+Zeng and colleagues are in talks with the Human Brain Project, the European initiative that aims to computationally simulate the entire human brain. The Nature paper on connectivity will be "an important foundation for them," Zeng said.
+Human brain development
+While the mouse brain study showed connections, a second study from scientists at the Allen Institute explored genetics in the developing human brain. This report unveils a map showing where various genes are turned off and on in a fetus in the middle of pregnancy, which may help explore the origins of brain problems.
+"We can really use that now to pinpoint where a set of genes associated with a disease may have a common action," said senior study author Ed Lein.
+Full study from Nature
+This is the first big study incorporating data from the BrainSpan Atlas of the Developing Human Brain, an effort aiming to study the role of gene expression in the brain during all of human development, including adulthood.
+To generate the genetic blueprint of the developing brain in this study, scientists used four human fetus brains, between 15 and 21 weeks gestation, which had been donated.
+This is thought to be a critical period for the emergence of neurodevelopmental disorders such as autism, Lein said. Impacts to a brain region called the neocortex as it is forming could have long-lasting effects, he said.
+Researchers used information from the maps to look at genes that previously had been linked to autism in the developing brain. They found that genes associated with autism tended to be particularly active in newly generated excitatory neurons of the cortex. These cells send information from one part of the brain to another, he said.
+"This provides a place to focus more research," Lein said. "It suggests on the one hand that these genes may be (activated) prenatally, and on the other hand we actually have a place to look in the brain, which is the development and maturation of these new neurons."
+Taking the new maps, researchers studying other developmental disorders can take a similar approach.
+This map can also reveal ways in which humans are genetically different from other species. For one thing, it's important to understand the differences between mice and humans, since mice are used so often in biomedical research and neuroscience.
+But what about what makes us genetically special? Lein and colleagues found that genes that appear unique to humans tend to be expressed particularly in the frontal cortex, which is a part of the neocortex, and is responsible for many higher cognitive capabilities. This also may provide clues that future research can follow.
+READ: How your brain makes moral judgments
+CNN's Alex Mooney contributed to this report.
+</TEXT>
+</DOC>

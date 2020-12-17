@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>2153</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/AzBsLVkXDi8/</URL>
+<TITLE>Some banned chemicals being replaced by harmful substitutes, study shows</TITLE>
+<TIME>Wed, 15 Jan 2014 16:21:12 GMT</TIME>
+<ABSTRACT>
+You may not be familiar with phthalates, but odds are you come into contact with them every day – in products like plastics, nail polishes and fragrances.
+</ABSTRACT>
+<TEXT>
+You may not be familiar with phthalates, but odds are you come into contact with them every day – in products like plastics, nail polishes and fragrances.
+Widely used in the United States, some forms of the chemical were banned in 2008 after research revealed that phthalate exposure was associated with harmful health effects. While human exposure to the now-banned forms of phthalates has decreased, a new study from Environmental Health Perspectives reveals that exposure to other forms of the chemical has increased – possibly because manufacturers are swapping out one harmful chemical for another.
+Previous studies have identified phthalates as endocrine-disrupting chemicals, meaning they interfere with hormone secretion in the body.  This can lead to serious long term health consequences, including DNA damage in men’s sperm and lower sperm quality overall.
+Furthermore, when pregnant women are exposed to high levels of phthalates, studies have shown that they their children may go on to develop cognitive and behavioral problems.
+“Given how much concern and scrutiny there has been regarding phthalates, and anecdotal information regarding phasing out of phthalates in various uses, I thought it would be interesting to see if we could use data from the CDC to quantitatively assess that,” lead study author Dr. Ami Zota told FoxNews.com.
+Zota, an assistant professor of environmental and occupational health at the George Washington University School of Public Health and Health Services, utilized health data collected from 11,000 U.S. citizens between 2001 and 2010 as part of the National Health and Nutrition Examination Survey by the U.S. Centers for Disease Control and Prevention to conduct her analysis.  
+Overall, the researchers studied human exposure to eight forms of phthalates – BBzP, DnBP, DEH, DnOP, DiDP, DiNP, DEP and DiBP.
+“Three of them (BBzP, DnBP and DEHP) were banned…in children’s toys only so it wasn’t a full-on ban on it,” Zota said. “These three have been under scrutiny due to their potential toxicity and have also been targeted by advocacy groups as well.”
+Overall, levels of exposure to the three banned phthalates had all decreased over the nine-year period analyzed – news that the researchers found encouraging.
+However, levels of some other phthalates continued to increase. Despite being partially banned by Congress, three other forms of phthalates studied – DnOP, DiDP and DiNP – had all increased in levels of exposure. Levels of DnOP and DiDP grew by 15 to 25 percent, while levels of DiNP increased by nearly 150 percent.
+Zota noted that DiNP has been used by some manufacturers to replace the banned DEHP, which may explain the increase.
+“That was quite striking, and it was concerning because it suggests as a society, perhaps we’re getting better at identifying individual chemicals of concern and replacing those.  But there is still the bigger problem of identifying safer alternatives –  and before they enter the marketplace,” Zota said.
+Additionally, the researchers examined two chemicals – DEP and DiBP – that had not been subjected to any federal bans. One of the chemicals, DEP, decreased by 42 percent since 2001. Researchers believe this may be the result of work by advocacy groups, like the Campaign for Safe Cosmetics.  
+However, exposure to DiBP tripled – likely because it has become a popular substitute for another banned substance.
+“(DiBP) is a suspected replacement for certain phthalates such as DNBPB, one of the ones that has been phased out, although it is also a suspected endocrine-disruptor,” Zota said.
+Overall, the researchers noted that more needs to be done in terms of identifying and managing the risks related to phthalate exposure – particularly because early research has now linked these chemicals to chronic diseases like obesity and diabetes.
+People can attempt to limit their exposure to phthalates by shopping for phthalate-free and fragrance-free products, in addition to seeking out non-packaged, non-processed foods.  However, phthalates can ultimately be difficult to avoid.
+“Unfortunately, I think the long-term approach to prevention of environmental health risks will involve individual action combined with collective action,” Zota said. “I don’t think you can just shop your way out of this problem.”
+</TEXT>
+</DOC>

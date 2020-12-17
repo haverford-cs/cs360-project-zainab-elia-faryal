@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>2256</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/CjDlejvrByo/</URL>
+<TITLE>New drug in development to reverse spread of breast cancer</TITLE>
+<TIME>Mon, 27 Jan 2014 14:26:31 GMT</TIME>
+<ABSTRACT>
+Researchers at Cardiff University in Cardiff, Wales, are working on a novel compound that targets a well-studied protein called Bcl3, which has been shown to play a crucial role in breast cancer’s spread throughout the body – a deadly process known as metastasis.
+</ABSTRACT>
+<TEXT>
+This image shows metastasized human breast cancer cells (magnified 400 times, stained brown) in lymph nodes.National Cancer Institute
+A new drug is being developed that could potentially stop the spread of breast cancer in its tracks.
+Researchers at Cardiff University in Cardiff, Wales, are working on a novel compound that targets a well-studied protein called Bcl3, which has been shown to play a crucial role in breast cancer’s spread throughout the body – a deadly process known as metastasis.
+“People thought Bcl3 would be involved perhaps with the growth of tumors,” lead author Dr. Richard Clarkson, from Cardiff University’s European Cancer Stem Cell Research Institute, told FoxNews.com. “What we found was that wasn’t true.  It didn’t affect the primary tumor’s growth, but it seemed to have an important role in the subsequent spread of that tumor to other parts of the body.”
+A substantial majority of cancer deaths are caused by metastasis, since cancer is much easier to treat when it’s localized in the body.  Nearly 12,000 breast cancer patients will develop metastasis each year – sometimes even several years after initial discovery of a breast lump.
+Through a recent series of studies in Clarkson’s lab, researchers confirmed that Bcl3 plays a critical role in the development of metastatic breast cancer.  They revealed that by suppressing the Bcl3 gene in mice, the spread of cancer was suppressed by more than 80 percent.
+Given their findings, Clarkson and his team believe that, by targeting the protein, they can ultimately halt cancer’s progression to other organs and even ‘reverse’ its spread outside of the original tumor.
+“By suppressing Bcl3, you can actually prevent or drastically prevent the ability of any primary tumor from then spreading around to other parts of the body,” Clarkson said.  “But not only that, we think that you can also slow down the ability of any tumor that might have already gone off to another part of the body and slow down the subsequent spread.”
+With this idea in mind, Clarkson started looking for ways to suppress the Bcl3 gene pharmacologically.  He teamed up with researchers Dr. Andrew Westwell and Dr. Andrea Brancale from the Cardiff University School of Pharmacy and Pharmaceutical Sciences to develop chemicals that inhibit the Bcl3 gene through the use of computer modeling.
+“What we have is some very nice computational design and lab software, which allows us to model on the computer the structure of proteins and the ability to design virtual drug molecules which bind to this [protein] in silico (via computer simulation),” Westwell told FoxNews.com.
+Through their computer models, Westwell and Brancale discovered a pocket on the surface of Bcl3 that is essential for its function.  After screening a virtual compound library for chemicals that could fit into this pocket, they were then able to identify a drug candidate that could potentially inhibit Bcl3 by filling in the space and disrupting the gene function.
+To test its efficacy, the drug candidate was then used on mice with metastatic cancer.  The researchers found that the drug effectively halted the development of the mice’s tumors.
+While the drug has only shown to be effective in rodent models, Clarkson is optimistic that such a compound could drastically alter the way breast cancer is treated in humans.
+“I envisage, if all goes to plan, a breast cancer patient arrives at clinic with lump, and the first thing the GP will do is put them on a drug like this to prevent any further progression of the disease,” Clarkson said.  “….If a patient arrives at clinic with lump, but they already have some metastatic disease, it’s possible this drug could also help slow down the further expansion of the tumor while clinicians decide what to do for treatment.”
+With financial backing from Tiziana Pharmaceuticals, the researchers are hoping to soon test this drug in human clinical trials with the next two years.  However, they stress there is still a long way to go before it can be used in routine cancer treatment.
+“We have to stress its early stage, but the reason we at the university are excited, is it’s targeting a novel process which previous attempts to treat cancer really haven’t tackled,” Clarkson said, “this problem of metastasis – the process that ultimately kills the majority of cancer patients.”
+</TEXT>
+</DOC>

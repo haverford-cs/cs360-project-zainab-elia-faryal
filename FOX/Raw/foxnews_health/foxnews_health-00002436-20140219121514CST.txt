@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO>2436</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/_zEc0xJ5LLE/</URL>
+<TITLE>Fecal transplant regulations too strict, some say</TITLE>
+<TIME>Wed, 19 Feb 2014 18:15:14 GMT</TIME>
+<ABSTRACT>
+Physicians use fecal transplants to treat certain intestinal infections, but the procedures recently came under strict regulations, with the Food and Drug Administration managing the transplants as though they were a drug treatment
+</ABSTRACT>
+<TEXT>
+Clostridium difficile bacteriaCDC
+Physicians use fecal transplants to treat certain intestinal infections, but the procedures recently came under strict regulations, with the Food and Drug Administration managing the transplants as though they were a drug treatment.
+This regulation has made it harder for patients to receive fecal transplants, and in a new paper, some researchers are calling for the transplants to instead be regulated as a tissue, akin to blood donations.
+The raw material for fecal transplants isn't hard to come by, and so in the face of what some see as current over-regulation, an underground market for the transplants will likely spring up, the researchers argued today (Feb. 19) in the journal Nature.
+At the same time, they said, more research is needed on the long-term effects of fecal transplants.
+Regulating fecal transplants as a tissue may allow for better research on their possible uses in treatments, while protecting patients from harm, the researchers, from MIT and Brown University, wrote. [9 Most Interesting Transplants]
+"I think regulating it as a tissue product would both provide access as needed and the research that could bring some pretty exciting new treatments on the scene," said Mark B. Smith, an author of the article and a doctoral candidate at MIT.
+Fecal transplants have been tested since the 1950s, and last year the first randomized controlled trial showed a strong benefit in helping patients with recurrent C. difficile, a bacterial infection that causes painful diarrhea, often following the use of antibiotics, and kills 14,000 people yearly in the United States.
+But following the treatment's success, some doctors began offering fecal transplants for other conditions as well including those for which any potential benefit remains unproven. The FDA took action in 2013, regulating the treatment, but also granting an exemption for its continued use in patients who had C. difficile infections. This use would not require special permissions.
+However, the result may be a case of both under- and over-regulation, today's editorial argues. While medical societies have issued guidelines for using the treatment, there are no hard and fast rules for screening fecal matter, as there are with blood donations.
+And while other treatments remain unproven, Smith said there needs to be more research into what other conditions the procedure may be able to treat.
+"It's not like the FDA has to worry about someone manufacturing Lipitor in their basement," he told Live Science. "[But] everyone's manufacturing this, everyday."
+Smith said he became interested in the topic when a family friend, frustrated with not being able to find a physician to provide a fecal transplant, got a donation and performed an enema on himself.
+For now, Smith has attempted one solution, by cofounding a stool bank near MIT, called OpenBiome.
+"For the short term, we really need to make sure this material is available for patients who have recurring Clostridium difficile infection, who are literally dying without" the treatment, said Dr. Tom Moore, an infectious disease specialist at the University of Kansas, Wichita, who was not involved in writing the editorial. "I certainly endorse the reclassification or regulation of stool as a tissue product, rather than a drug."
+A key step going forward will be finding donors who don't have infections, and who have never taken antibiotics, either, Moore said. Antibiotics can kill the "good" bacteria within a healthy gut.These individuals may have more ideal bacterial communities in their guts, he said.
+"This is an agent which varies significantly from person to person in terms of its makeup of various microbes," Moore said. "We know to some extent what's in it, [but] we don't know what's in it from person to person."
+Dr. Ravi Kamepalli, an infectious disease physician in Lima, Ohio, expressed some skepticism about further regulation from the FDA on transplants for C. diff., noting that as long as current guidelines are followed, more review might prevent patients from getting needed treatment. However, he added, more research needs to be done to evaluate the long-term risks.
+For now, he said, a major problem is finding a knowledgeable physician willing to perform the treatment.
+"It is physician acceptance that is the wider obstacle," Kamepalli said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

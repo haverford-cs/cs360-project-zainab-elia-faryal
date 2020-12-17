@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO>1624</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiSIaf2Q8io/index.html</URL>
+<TITLE>What is the FISA court?</TITLE>
+<TIME>Fri, 17 Jan 2014 14:21:29 EST</TIME>
+<ABSTRACT>
+It may be the most powerful court you have never heard of -- operating out of a bunker-like complex blocks from the Capitol and the White House -- sealed tightly to prevent eavesdropping.
+</ABSTRACT>
+<TEXT>
+Washington (CNN) -- It may be the most powerful court you have never heard of -- operating out of a bunker-like complex blocks from the Capitol and the White House -- sealed tightly to prevent eavesdropping.
+Its a tribunal that is secret (or supposed to be). Its structure is largely one-sided and its members are unilaterally chosen by one unelected person.
+The Foreign Intelligence Surveillance Court -- or FISA Court for short -- is a panel that critics contend rubber-stamps nearly every National Security Agency request to snoop that it receives.
+Court officials, naturally, object to that characterization. But concerns remain that without reforms, like President Barack Obama's call for an independent "privacy advocate" to monitor its actions, civil liberties might be at risk.
+Bottom line: 5 takeaway messages on Obama's NSA changes
+Who's on the court?
+The court is housed in a room in a windowless and secure area of the U.S. District Court on Constitution Avenue. Government sources say it's a courtroom with a judge's bench, tables for lawyers, and support staff. Officials won't divulge its exact location in the building.
+The court is made up of 11 judges who sit for seven-year terms. All are federal district judges who agree to take on the additional duties on a rotating basis. They are appointed by Chief Justice John Roberts, without any supplemental confirmation from the other two branches of government. Roberts has named every member of the current court, as well as a separate three-judge panel to hear appeals known as the Court of Review.
+How does the surveillance court work?
+The FISA Court's larger mission is to decide whether to grant certain types of government requests-- wiretapping, data analysis, and other monitoring for "foreign intelligence purposes" of suspected terrorists and spies operating in the United States.
+The once-secret approval of collecting bits and pieces of information from electronic communications -- called metadata -- comes quarterly from judges at the court. To collect the information, the government has to demonstrate to a judge that it is "relevant" to an international terrorism investigation.
+There were 1,856 applications in 2012 to the FISA Court for electronic surveillance and physical searches for "foreign intelligence purposes," the Justice Department said.
+None were denied, but 40 were modified to some extent. Only one such request was withdrawn by the FBI.
+Obama announces modest changes to NSA data collection
+Criticism
+NSA leaker Edward Snowden last June revealed a secret surveillance court order approving government collection of mass amounts of metadata from telecom giant Verizon and leading Internet companies, including Microsoft, Apple, Google, Yahoo and Facebook.
+The metadata orders were shocking, because it confirmed the scope of the NSA's efforts and the court's original mission had greatly expanded. No longer were FISA judges approving individual surveillance requests-- now they were in essence reinterpreting the Constitution, expanding, say critics, the limits of privacy and due process.
+Some members of Congress worry the surveillance court-- at the urging of the Obama administration-- is interpreting the surveillance law too broadly-- something lawmakers say they did not intend.
+And because it only hears the government's side, it has been criticized as a body that too easily accedes to a request.
+Those on the court worry the President's push for a privacy advocate might prove counter-productive and might lead to public "confusion and misunderstanding" of judicial rulings, former surveillance court Judge John Bates wrote in a letter this week to Sen. Dianne Feinstein, chairman of the Senate Intelligence Committee.
+How did we get here?
+In 1978, the United States was still deeply engaged in the Cold War and foreign spying was the main concern, not terrorism.
+So Congress created the surveillance court and it began issuing warrants the next year in the wake of a series of intelligence-related scandals earlier that decade and the one before, including the FBI's spying on the Rev. Martin Luther King Jr.
+Laws passed in the wake of the 9/11 terror attacks made it easier for the government to request electronic records, harder for telecom companies to refuse and nearly impossible for them to voice their concerns publicly.
+And 2008, revisions in surveillance laws gave the attorney general and the director of national intelligence greater authority to order "mass acquisition" of electronic traffic, if it is related to a terror or espionage investigation.
+The administration says amassing a telecommunications company's entire phone records database is relevant to counterterrorism, and something a surveillance court judge can authorize.
+The law that created the surveillance court isn't due to be renewed for another four years.
+NSA and your phone records: What should Obama do?
+</TEXT>
+</DOC>

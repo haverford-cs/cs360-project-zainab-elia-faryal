@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2280</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/J0leuvZpyuQ/</URL>
+<TITLE>Johnson and Johnson to release clinical trial data in pact with Yale</TITLE>
+<TIME>Thu, 30 Jan 2014 15:49:57 GMT</TIME>
+<ABSTRACT>
+Johnson & Johnson has selected the Yale School of Medicine to review requests from investigators and physicians looking for access to clinical trial data involving the diversified healthcare company's pharmaceuticals.
+</ABSTRACT>
+<TEXT>
+REUTERS/Rick Wilking
+Johnson & Johnson has selected the Yale School of Medicine to review requests from investigators and physicians looking for access to clinical trial data involving the diversified healthcare company's pharmaceuticals.
+Under the agreement, the "Yale Open Data Access Project," will independently review and make final decisions regarding all requests for information on the company's drug clinical trials, including anonymous patient data.
+The action comes amid growing pressure from outside scientists for access to raw data from clinical trials, reflecting general concerns that too many studies cannot be independently confirmed and may well be wrong.
+J&J, which sells drugs including blood thinner Xarelto and prostate cancer treatment Zytiga, said it is in the process of determining how best to share trial data from its other two areas of operation: medical devices and consumer products.
+"This is a multi-year effort on our part to try to contribute to advancing medical knowledge and science," Joanne Waldstreicher, J&J's chief medical officer, said in a telephone interview.
+Others drugmakers have made similar moves. Britain's GlaxoSmithkline Plc has set up an online system to provide researchers with access to anonymous patient-level data about its medicines.
+Pfizer Inc said in December it would broaden access to information from its clinical trials to independent researchers and to patients who take part in the studies.
+Pfizer also set up an independent review panel of academic scientists to decide which researcher requests it would answer.
+</TEXT>
+</DOC>

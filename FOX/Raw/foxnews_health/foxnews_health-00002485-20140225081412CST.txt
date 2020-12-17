@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2485</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/Jibj4o3kvUk/</URL>
+<TITLE>Simple paper urine test may detect cancer, blood clots</TITLE>
+<TIME>Tue, 25 Feb 2014 14:14:12 GMT</TIME>
+<ABSTRACT>
+Similar to a pregnancy test, a simple paper strip urine test may help indicate the presence of cancerous tumors and blood clots in the body.
+</ABSTRACT>
+<TEXT>
+Andrew Warren
+Similar to a pregnancy test, a simple paper strip urine test may help indicate the presence of cancerous tumors and blood clots in the body, New Scientist reported.
+In a new study published in the Proceedings of the National Academy of Sciences (PNAS), researchers detailed how they developed their cancer-detecting paper and showed its success in revealing certain tumors and blood clots in mice.  
+According to the researchers, detecting signals from tumor proteins can be a difficult process. To bypass this problem, the scientists created injectable nanoparticles, which were engineered to seek out the proteins produced by cancer cells.  When the proteins and nanoparticles meet in the body, they produce small fragments of synthetic biomarkers, which can then be identified in the urine. In order to detect the blood clots, the nanoparticles were designed to seek out thrombosis instead of cancer proteins.
+The newly developed test paper strip is coated with antibodies that can detect these biomarker fragments.  All a patient needs to do is urinate on the strip, and the paper will display a line if cancer or thrombosis is present in the body.
+To verify their paper’s accuracy, the researchers used the test on a group of mice, showing that it accurately detected both colon cancers and blood clots in the rodents.  
+Lead researcher Andrew Warren, a graduate student at the Massachusetts Institute of Technology, hopes that this test will provide an affordable way to diagnose some cancers at an early stage.
+"Something I think that's really shocking is the prevalence of cancer and cardiovascular disease in both the developed world and the developing world," said Warren. "Diagnostics are really a great way to help a lot of people as quickly as possible."
+Click for more from New Scientist.
+</TEXT>
+</DOC>

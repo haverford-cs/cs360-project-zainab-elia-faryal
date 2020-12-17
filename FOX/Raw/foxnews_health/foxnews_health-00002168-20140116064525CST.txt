@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>2168</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/oRP2goPus54/</URL>
+<TITLE>New genital herpes treatment shows promise</TITLE>
+<TIME>Thu, 16 Jan 2014 12:45:25 GMT</TIME>
+<ABSTRACT>
+A new drug appears to combat the virus that causes genital herpes, suggesting it could one day be used as a treatment for people with the condition, according to a new study
+</ABSTRACT>
+<TEXT>
+A new drug appears to combat the virus that causes genital herpes, suggesting it could one day be used as a treatment for people with the condition, according to a new study.
+In the study, the drug pritelivir reduced the replication of herpes simplex virus type 2 (which causes genital herpes) in patients with the condition, as well as the number of days patients experienced genital lesions.
+Those who took 75 milligrams of the drug each day for about a month experienced viral shedding (which indicates the virus is active and replicating in the body) on just 2.1 percent of days, compared to 16.6 percent of days in those who took a placebo. [Quiz: Test Your STD Smarts]
+And those who took pritelivir at this dose experienced genital lesions on just 1.2 percent of days, compared with 9 percent of days for those who took a placebo.
+More studies are needed to further assess the effectiveness of pritelivir, and compare it with existing drugs for genital herpes, the researchers said.
+The new findings are good news, said Dr. Richard Whitley, a professor of pediatric infectious diseases at the University of Alabama at Birmingham, who was not involved in the study. "This is the first drug in 30 years that has a different mechanism of action" than existing drugs, Whitley said.
+New treatments for genital herpes are needed because current drugs do not work well for certain complications of genital herpes, including brain infections, and infections that can occur in babies who contract the virus at birth, Whitley said.
+And while current drugs reduce symptoms, they don't eliminate them, and they only partly reduce the risk of spreading herpes through sexual activity, said study researcher Dr. Anna Wald, a professor of allergy and infectious diseases at the University of Washington School of Public Health in Seattle.
+"There's clearly room for improvement" with genital herpes drugs, Wald said.
+Wald noted that older drugs are active only in cells that are infected with the herpes virus.
+"Thats one of the reason why the drugs are so safe. But [it] may limit the efficacy of the drug," Wald said. On the other hand, pritelivir is active even in cells unaffected by the virus.
+In rare cases, people with immune system problems have developed resistance to the current drugs used to treat herpes. Alternative drugs for genital herpes could offer a solution to this problem, Whitley said.
+No serious side effects linked to pritelivir were seen in the current study, which looked at 156 people.
+However, in May last year, the Food and Drug Administration placed development of pritelivir on hold because high doses of the drug given to monkeys were linked with toxic effects. Researchers are investigating the cause of these toxic effects.
+Whitley said he suspects the hold will be lifted, and studies in people can continue.
+The study was funded by AiCuris, the pharmaceutical company that is developing pritelivir.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

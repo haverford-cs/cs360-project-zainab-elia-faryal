@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>2265</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/LPy3CYUEOvw/</URL>
+<TITLE>Exposure to DDT pesticide may increase Alzheimer's risk, study finds</TITLE>
+<TIME>Tue, 28 Jan 2014 14:23:56 GMT</TIME>
+<ABSTRACT>
+Exposure to the synthetic pesticide DDT may increase both the risk and severity of Alzheimer’s disease in some individuals – especially those over the age of 60.
+</ABSTRACT>
+<TEXT>
+REUTERS/Chaiwat Subprasom
+Exposure to the synthetic pesticide DDT may increase both the risk and severity of Alzheimer’s disease in some individuals – especially those over the age of 60.
+DDT was introduced to the United States as a pesticide during World War II and was utilized for insect control in crops and livestock, as well as to combat insect-borne diseases such as malaria.
+For more than 40 years, scientists and health experts have known that DDT is harmful to the environment and can also lead to a number of chronic health effects in humans.  But while the chemical was banned in the United States in 1972, it is still used as a pesticide in other countries and is found in 75 to 80 percent of blood samples collected from people by the Centers for Disease Control and Prevention.
+“It hangs out in the environment in exceptionally long periods of time, and it can accumulate in the food chain, where the top predators, such as fish, birds and humans, can actually get higher doses [of DDT] than the original amount that was put in [the environment],” lead author Jason Richardson, associate professor in the department of environmental and occupational medicine at Robert Wood Medical School at Rutgers University, told FoxNews.com.  “…And not only do we have a legacy contamination, it’s still used around the world both legally and illegally.”
+Richardson became interested in analyzing the association between DDT and Alzheimer’s in 2009 when he and other colleagues were looking at pesticide exposure in relation to Parkinson’s disease.  When they found a strong association between the two, the researchers decided to study Alzheimer’s patients as well, to see if DDT had a connection to other types of neurodegenerative diseases.
+After finding elevated levels of DDT in 20 blood samples from Alzheimer’s patients, the researchers decided to look into the association further.  For this latest study, Richardson and his team collected blood samples from 86 Alzheimer’s patients at the Emory University Alzheimer’s Disease Research Center and the University of Texas Southwestern Medical School’s Alzheimer’s Disease Center.  On average, the patients were around 74 years old.
+Of the 86 patient samples, 74 showed extremely elevated levels of DDE – the chemical compound left when DDT breaks down.
+“What we found was that in the Alzheimer’s patients, the DDE levels in the serum were about fourfold higher than in the corresponding control serum,” Richardson said.  “And this increase was associated with about a fourfold increase of having a diagnosis of Alzheimer’s disease.”
+Additionally, Richardson and his team found an interesting side effect of DDE exposure in patients who possessed a version of the ApoE gene (ApoE4) – an allele that has been shown to significantly increase an individual’s risk of developing Alzheimer’s.  Using a mini mental state examination as measurement, the researchers found that patients with ApoE4 were much more sensitive to higher levels of DDE, displaying worse cognitive function overall.
+“We did find [that] if you have the ApoE4 allele, your cognitive function is worse,” Richardson said.  “…We also found that if you had high levels of DDE, you had lower scores.  But if you had both DDE and the ApoE4 gene, your scores were even lower.  So there could be some sort of mechanistic interaction.  Right now, we’re not at that point to say for sure, but there definitely needs to be more study.”
+Further brain cell studies suggested that DDT and DDE may increase the amount of a specific protein associated with amyloid plaques – one of the major hallmarks of Alzheimer’s.  This research implies that DDT and DDE may have a direct contribution to the development of the disease.
+More than 5 million Americans are currently living with Alzheimer’s, and it is the sixth leading cause of death in the United States.  With so many people suffering from this neurodegenerative disorder, Richardson said it’s important that scientists and health experts take their study’s findings into account and consider all the ways people can develop the condition.
+“Traditionally when researchers have studied Alzheimer’s, most of the effort goes into finding genes that contribute to the disease,” Richardson said.  “Our data suggest it’s a complex disease with many things that contribute, including environmental exposures.  And really, we need to focus future studies [on] how genetic susceptibility and the environment work together to contribute to Alzheimer’s.”
+The research was published in JAMA Neurology.
+</TEXT>
+</DOC>

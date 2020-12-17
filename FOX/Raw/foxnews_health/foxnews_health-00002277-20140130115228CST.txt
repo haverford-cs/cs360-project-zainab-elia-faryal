@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO>2277</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/vOsHO_2Owdo/</URL>
+<TITLE>US pig virus cases see biggest weekly rise since PEDv found</TITLE>
+<TIME>Thu, 30 Jan 2014 17:52:28 GMT</TIME>
+<ABSTRACT>
+Confirmed cases of a deadly pig virus spreading across the U.S. Hog Belt jumped by 215, its highest weekly increase since it was discovered in the United States in April 2013.
+</ABSTRACT>
+<TEXT>
+Reuters
+Confirmed cases of a deadly pig virus spreading across the U.S. Hog Belt jumped by 215, its highest weekly increase since it was discovered in the United States in April 2013, according to the USDA's National Animal Health Laboratory Network (NAHLN).
+Porcine Epidemic Diarrhea virus (PEDv), which causes diarrhea, vomiting and severe dehydration is transmitted orally and through pig faeces. While older pigs have a chance of survival, the virus kills 80 to 100 percent of piglets that contract it.
+The total number of confirmed cases has increased to 2,692 in 23 states as of the week ended January 25. Nearly 40 percent of the cases, 1,006, were confirmed in Iowa, the top U.S. pork producing state.
+As defined by the USDA, each diagnostic case could represent multiple animals at either a single farm site or several locations. The USDA's NAHLN released its latest PEDv data on Wednesday. (here)
+There are no official figures for pigs lost to the PEDv - which does not affect humans - but up to 4 million pigs may have died from the virus, according to industry analyst estimates. Additionally, the virus was confirmed in Canada last week.
+PEDv has spread to a fourth farm in the Canadian province of Ontario, the provincial government said on Wednesday, despite the hog industry's efforts to stop it by disinfecting delivery trucks and clothing used on farms.
+PEDv has forced the U.S. hog industry to increase its biosecurity measures and has fueled concerns hog supplies will slump in the spring and summer.
+</TEXT>
+</DOC>

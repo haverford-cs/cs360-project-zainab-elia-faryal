@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>2309</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/Hg9P7s48b_8/</URL>
+<TITLE>California college to offer non-approved meningitis vaccine</TITLE>
+<TIME>Mon, 03 Feb 2014 13:09:02 GMT</TIME>
+<ABSTRACT>
+Students at a California public university where meningococcal disease broke out in the fall will be offered a vaccine not approved for use in the United States, public health officials said on Friday.
+</ABSTRACT>
+<TEXT>
+Students at a California public university where meningococcal disease broke out in the fall will be offered a vaccine not approved for use in the United States, public health officials said on Friday.
+Officials in the most populous U.S. state had sought permission from the federal government to use the European vaccine, which inoculates against a strain of the disease that has struck four students at the University of California, Santa Barbara.
+The outbreak, which resulted in a student having his feet amputated, is similar to the one that struck eight students at Princeton University in New Jersey, where students won approval to use the same foreign vaccine in the fall.
+Bexsero, made by the Swiss pharmaceutical company Novartis AG, is the only vaccine to protect against serotype B of the meningococcal bacteria, which can attack the nervous system as meningitis or cause a deadly blood condition.
+California health officials sought access to the vaccine for the Santa Barbara students in December amid renewed concern about meningococcal disease, which is highly contagious among people who live in close quarters, such as college students.
+Most strains of the bacteria can be controlled with a vaccine that is widely available in the United States.
+But Bexsero has not been submitted for approval for use in the United States, according to the U.S. Centers for Disease Control and Prevention.
+Students at Princeton began receiving that vaccine after the CDC intervened on their behalf. But when the California outbreak was announced, the CDC said it wanted to wait, in part to see if the disease spread to more students.
+In a statement released to students, parents and employees on Friday, officials at UC Santa Barbara said they would make the vaccine available to students free of charge next month.
+No additional cases have been reported at the university, health director Dr. Mary Ferris said in the statement.
+Novartis said in a statement that it would coordinate with the CDC, the university and the California Department of Health to make Bexsero available to the students.
+The company said it had submitted to U.S. officials documentation from its European studies to show that the vaccine was effective and safe, and was working on a version for eventual use in the United States.
+</TEXT>
+</DOC>

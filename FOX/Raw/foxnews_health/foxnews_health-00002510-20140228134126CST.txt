@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>2510</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/Hh-sT_q8G1k/</URL>
+<TITLE>Blood test may predict if you will die in the next 5 years</TITLE>
+<TIME>Fri, 28 Feb 2014 19:41:26 GMT</TIME>
+<ABSTRACT>
+In a new study published in , researchers revealed that certain levels of four biomarkers circulating in the blood stream may strongly indicate when death is on the horizon.
+</ABSTRACT>
+<TEXT>
+Would you take a test that predicted how many years you had left?
+According to a report in the Los Angeles Times, such an option may one day be available to the public.  In a new study published in PLOS Medicine, researchers revealed that certain levels of four biomarkers circulating in the blood stream may strongly indicate when death is on the horizon.
+To identify these “deathly” chemicals, the researchers analyzed blood samples from more than 17,000 people living in Estonia and Finland, screening them for 106 different types of proteins.  After a median follow-up period of five years, the researchers identified which study participants had died and compared their blood samples to those of the living.
+They found that four biomarkers – alpha-1-acid glycoprotein, albumin, very low-density lipoprotein (VLDL) particle size and citrate – were all unusually high in the deceased patients, five years prior to their deaths.  Additionally, the researchers created an index of the four chemicals, and individuals whose biomarker index was in the top 20 percent were 19 times more likely to die within the five years after the blood samples were taken.
+The four proteins were associated with various types of mortality – including death from cardiovascular disease, cancer and other nonvascular diseases – but they were even predictive of death in people considered healthy, as well.
+According to the researchers, these four biomarkers may be indicators of deadly underlying conditions that may go unnoticed by many patients.
+Click for more from the Los Angeles Times.
+</TEXT>
+</DOC>

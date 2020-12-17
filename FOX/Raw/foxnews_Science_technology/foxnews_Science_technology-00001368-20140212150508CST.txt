@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>1368</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/64x9zBdHaOo/</URL>
+<TITLE>National Ignition Facility announces promising results for nuclear fusion</TITLE>
+<TIME>Wed, 12 Feb 2014 21:05:08 GMT</TIME>
+<ABSTRACT>
+Scientists say they've taken a key step toward harnessing nuclear fusion as a new way to generate power, an idea that has been pursued for decades.
+</ABSTRACT>
+<TEXT>
+A deuterium and tritium capsule, sphere in window at center, inside a cylindrical hohlraum container about 0.4 inches tall. In research reported Wednesday, Feb. 12, 2014 by the journal Nature, scientists say they've taken a key step toward harnessing nuclear fusion as a new way to generate power.AP Photo/Lawrence Livermore National Laboratory, Eddie Dewald
+A cylindrical hohlraum container about 0.4 inches tall containing a deuterium and tritium capsule, held by cryogenically-cooled positioning arms. In research reported Wednesday, Feb. 12, 2014 by the journal Nature, scientists say they've taken a key step toward harnessing nuclear fusion as a new way to generate power.AP Photo/Lawrence Livermore National Laboratory, Eddie Dewald
+NEW YORK –  Scientists say they've taken a key step toward harnessing nuclear fusion as a new way to generate power, an idea that has been pursued for decades.
+They are still a long way from that goal. The amount of energy they got out of their experimental apparatus was minuscule compared to what they put into it.
+Still, the new work reached some significant milestones along the path to a cleaner and cheaper source of electricity, the researchers and experts said.
+Fusion is the merging of hydrogen atoms, the process that powers the sun. That's different from nuclear fission, which is the breaking apart of atoms that lies at the heart of today's nuclear power plants.
+Both processes release energy, but scientists have been pursuing fusion power because of several advantages. The supply of hydrogen for fuel is virtually unlimited, available from seawater, for example, in contrast to the uranium used in nuclear power plants. Fusion power would avoid the need for long-term storage of radioactive waste. And unlike fossil fuels like coal, it would not produce greenhouse gases that cause global warming.
+In the new work, reported online Wednesday by the journal Nature, scientists from the Lawrence Livermore National Laboratory near San Francisco, report results from two experiments done at the lab's National Ignition Facility
+In each trial, 192 laser beams briefly fired into a half-inch-long gold cylinder. The cylinder held a tiny ball that contained the fuel, which was a mix of two kinds of hydrogen, called deuterium and tritium. The energy from the lasers kicked off a process that compressed the ball by an amount akin to squeezing a basketball down to the size of a pea, said Debbie Callahan, an author of the paper.
+That created the extremely high pressure and temperatures needed to get the hydrogen atoms to fuse. It was all over in the blink of an eye, with the reaction confined to a space smaller than the width of a human hair.
+Nuclear fusion would be worthwhile only if it produces more energy than it uses, and the results were far from that. The hydrogen fuel did emit more energy than it absorbed from the lasers, an experimental goal. But the fuel took in only about 1 percent of all the energy produced by the lasers. So the apparatus is still far short of producing more energy than it requires to operate.
+Another key finding was evidence that energy created by the fusion reaction was going back into the remaining fuel, a "bootstrapping" process that is key to boosting the energy output.
+"Seeing that kick in is quite exciting, and it does show that there is promise" for increasing the energy output, said Omar Hurricane, lead author on the Nature paper. It's not clear when researchers will be able to get more energy out of the reaction than the lasers pour into it, he said, but "we are working like mad ... in that direction."
+The sign of bootstrapping is "really a wonderful result," said fusion expert Robert McCrory of the University of Rochester, who was not involved in the research. "There's a lot more that needs to be done" to reach the point where the reaction produces more energy than the lasers deliver, but "this was absolutely necessary."
+Scientists elsewhere are working on a different approach to fusion power, one that uses magnetic fields to contain super-heated hydrogen fuel. Several nations are cooperating to build a huge experimental device to explore that approach in France.
+</TEXT>
+</DOC>

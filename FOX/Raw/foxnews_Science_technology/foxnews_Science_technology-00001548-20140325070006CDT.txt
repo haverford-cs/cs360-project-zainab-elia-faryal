@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>1548</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/TB6HBSG1lro/</URL>
+<TITLE>Secret spy satellite to launch Tuesday</TITLE>
+<TIME>Tue, 25 Mar 2014 12:00:06 GMT</TIME>
+<ABSTRACT>
+A powerful Atlas 5 rocket is being readied for launch Tuesday afternoon to place a clandestine payload into space, possibly headed for geosynchronous orbit 22,300 miles above the Earth.
+</ABSTRACT>
+<TEXT>
+The logo for the latest secret mission by the National Reconnaissance Office has raised a few eyebrows.NRO
+A United Launch Alliance Atlas V 5-meter diameter payload fairing, with the National Reconnaissance Office's (NRO) NROL-67 payload encapsulated inside, is mated to its Atlas V booster at Space Launch Complex-41 at Cape Canaveral Air Force StatiUSAF/K. Allen
+Editor's Note: The Atlas 5 rocket's launch has been delayed at least 24 hours, officials announced Monday. The rocket will now launch no earlier than Wednesday.
+A powerful Atlas 5 rocket is being readied for launch Tuesday afternoon to place a clandestine payload into space, possibly headed for geosynchronous orbit 22,300 miles above the Earth.
+The United Launch Alliance operated vehicle is capable of delivering 7,800 pounds directly into this type of orbit used by eavesdropping intelligence spacecraft.
+Liftoff from Complex 41 at Florida's Cape Canaveral Air Force Station is planned for 2:48 p.m. EDT Tuesday. The day's launch period extends to 3:35 p.m. EDT.
+There is a 40 percent chance of acceptable weather due to cloud cover.
+The launch is known simply as NROL-67, a classified satellite-delivery flight for the U.S. National Reconnaissance Office. The NRO is the secretive government agency that controls the country's spy satellites.
+"From developing and acquiring new capabilities to launching and operating the most technically advanced systems, the NRO remains the premier space reconnaissance organization in the world," said NRO Director Betty Sapp.
+The specific version of the Atlas 5 being used on this launch has been flown once before, to lob NASA's Curiosity rover to Mars.
+It is the 44th Atlas launch and the 9th for the NRO. It will be ULA's 80th launch overall and third of 15 this year.
+"On behalf of the men and women of United Launch Alliance and the entire EELV (evolved expendable launch vehicle) supplier team, we are honored to be entrusted with the responsibility of safely delivering critical national security satellites to orbit," said ULA CEO Michael Gass.
+"I am pleased to report that ULA and the government team have consistently delivered 100 percent mission success over 68 launches since the inception of the program," Gass added. "We are currently at a tempo of about one launch every month."
+The NRO has launched six times in the past two years using both Atlas and Delta rocket families.
+"These successful launches are a visible testament to the diligent efforts of our program teams who successfully acquire and deliver these complex systems, and each one signifies that a new system will soon be providing enhanced intelligence capabilities to the warfighter," Sapp said.
+Copyright 2013 SpaceflightNow.com, all rights reserved.
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>1211</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/tprDajDJqqY/</URL>
+<TITLE>Museum scans dinosaur, mammoth -- in 3D</TITLE>
+<TIME>Thu, 02 Jan 2014 14:06:04 GMT</TIME>
+<ABSTRACT>
+America's prestigious Smithsonian museum is using the revolutionary technology to document its artifacts but also to share them through 3D printers and online.
+</ABSTRACT>
+<TEXT>
+A 3D scan of a fossilized whale, one of several items that have been scanned as part of an ambitious new program by the Smithsonian museum.FoxNews.com / Smithsonian
+The Smithsonian museum has launched an ambitious project to 3D scan its collection.FoxNews.com / Smithsonian
+One of the world's largest museums has launched an ambitious project to 3D scan its collection.
+America's prestigious Smithsonian museum is using the revolutionary technology to document its artifacts but also to share them through 3D printers and online. 
+3D scanning bounces lasers off objects using the echo to map them in space. The process is used to build up 3D digital images of almost anything, regardless of size or complexity. Adam Metello, 3D digitization program officer, demonstrated the technology in action.
+He used a laser gun, mounted on an articulated arm, and manually scanned the surface of an Osage Indian face mask.
+"As I'm painting the laser across the surface it's picking up hundreds and hundreds of points, soon to be thousands and thousands of points, of measurements of the surface of this object," he said.
+The Smithsonian has now 3D scanned a mammoth skeleton, the Wright Brother's aircraft, an entire dinosaur exhibit hall and several fossilized whales.
+Read more about the Smithsonian's new tech at SkyNews.com.
+</TEXT>
+</DOC>

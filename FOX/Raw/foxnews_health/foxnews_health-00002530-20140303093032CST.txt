@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO>2530</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/MGJZ4DA0TU4/</URL>
+<TITLE>Fitness trackers could boost kids' health, but face challenges, experts say</TITLE>
+<TIME>Mon, 03 Mar 2014 15:30:32 GMT</TIME>
+<ABSTRACT>
+With fitness trackers all the rage, some technology companies and health researchers are looking at whether the devices could benefit a particular group kids
+</ABSTRACT>
+<TEXT>
+With fitness trackers all the rage, some technology companies and health researchers are looking at whether the devices could benefit a particular group kids.
+Interest in tracking children's activity has blossomed in the past year, with some researchers wondering whether fitness trackers could be effective tools to combat childhood obesity.
+But few studies have looked at the best way for children to use the trackers, said Michelle Garrison, an epidemiologist at Seattle Children's Research Institute and the University of Washington School of Medicine. And the trackers out there aren't an ideal fit for the needs of children and their families, other experts say.
+Studies have shown that fitness trackers can motivate adults to become more active in the short term, but that effect wanes over time. That's probably because people using them rely on external goals such as weight loss, or the fitness "points" that some activity trackers tally to motivate their behavior change, Garrison said.
+For children and modern fitness trackers, hardly any data is available. But there are some reasons to think trackers could be effective in children. [The Best Fitness Tracker Bands]
+"Monitors like this are actually good for what people refer to as the game-ification of health, where almost everything can be turned into what is essentially a video game," Garrison said. "We know that kids really respond to that."
+Picture of activity
+In addition, the newest trackers go beyond counting steps to monitoring sleep duration and quality, as well as creating a graph of active and sedentary time. Those features could help families become more aware of their kids' activity levels, Garrison said.
+"Some things that increase physical activity in the day aren't always what we expect," Garrison said. "It may not be soccer practice, it may be helping dad and mom with chores around the house."
+Garrison is conducting a small pilot study to see whether a FitBit device can help obese children and their families become more aware of when children are most active. The hope is that by focusing on mindfulness, as well as having family members work together to improve their fitness, the trackers can have more long-lasting effects on health, she said.
+Using a fitness tracker doesn't require extensive commitment or sophisticated knowledge, which could be a hurdle for families where obesity or inactivity are problems, said Bethany Soule, the chief technology officer and co-founder of Beeminder, an app aimed at motivating people to change their behavior that works with multiple fitness trackers.
+Unlike counting calories or manually tracking activity with a paper chart, "you don't have to know anything about sports or how to exercise or use a gym, you just need to move and here's a little device that tells you how active you are," Soule said.
+No perfect device
+Despite several startups focusing on fitness trackers for kids, companies are still struggling to come up with the best way to design them, Garrison said.
+Soule and Daniel Reeves, the CEO and co-founder of Beeminder, for instance, have found that none of the fitness trackers are a perfect fit for their children, ages 5 and 6.
+Given how pricy the devices are often costing more than $100 it can be hard to justify the expense for children, who are likely to lose them, Reeves said.
+Many trackers must be charged frequently, and some require users to physically connect the tracker to a phone or computer to see their data, which is hard for children to remember, he said.
+Ideally, a tracker should have a way for kids to instantly see the data, while also giving parents access to it, Reeves said.
+Data issues
+Trackers may also underestimate children's sleep, said Lisa Meltzer, a pediatrics professor at National Jewish Health in Denver, Colo.
+Most fitness trackers use tiny accelerometers that measure motion, and label any period where a person is holding still as sleep.
+"The problem with this is that children are very active sleepers, moving a lot during the night," Meltzer told Live Science.
+So although sleep data from these devices might provide some insight for instance, letting parents know if a late bedtime is affecting a child's mood the next day, or if children are getting up earlier than thought they shouldn't take the total number of hours of sleep as accurate, she said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

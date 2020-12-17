@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>2319</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/PJRCvAWwc30/</URL>
+<TITLE>Excess sugar consumption from soda, desserts leads to higher rates of cardiovascular death</TITLE>
+<TIME>Tue, 04 Feb 2014 15:00:44 GMT</TIME>
+<ABSTRACT>
+A new study -- the biggest of its kind -- is warning that America's love affair with sugary food and drink is also doubling our risk of a heart-related premature death.
+</ABSTRACT>
+<TEXT>
+AP
+A new study -- the biggest of its kind -- is warning that America's love affair with sugary food and drink is also doubling our risk of a heart-related premature death.
+While previous research has indicated that consumption of added sugars can negatively affect health, the new study -- published in JAMA Internal Medicine -- is the first nationally-representative study examining how added sugars affect rates of death from cardiovascular disease (CVD).
+Unlike the natural sugars existing in fruits and some vegetables, added sugars are introduced to foods during their processing and preparation. Sugar-sweetened beverages like soda are the leading source of added sugar consumption in the U.S., followed by grain-based desserts, like cookies and cake.  
+For their research, study author Quanhe Yang, of the Centers for Disease Control and Prevention, and his colleagues used national health survey data to examine how added sugar consumption affected rates of cardiovascular death among the population.
+They divided the population into segments: those who consumed the least amount of added sugars – less than 10 percent of daily calories consumed – and those who consumed at least 25 percent of their daily calories from added sugar. Overall, they found that people who consumed the highest amounts of added sugars were more than twice as likely to die from cardiovascular disease.
+“If you are consuming in the medium quintile, compared to lowest, you increase risk [of cardiovascular death] by 18 percent,” Yang said. “[But for] the fourth quintile versus the lowest quintile, the risk is [increased] 38 percent. So highest to lowest it is more than doubled.”
+Though previous studies had indicated that consumption of added sugars was harmful to health, the researchers hadn’t expected to see such a large increase in risk of death between the highest- and lowest-consuming groups.   
+“It’s not entirely surprising because we already have emerging evidence to show high consumption of added sugar is linked to obesity and type 2 diabetes, hypertension and instance of CVD,” Yang said. “But what was a little unexpected is the appearance of risk is not linear, meaning when you have the higher consumption of added sugar your risk increases exponentially.”
+Previous research has indicated that between 2005 and 2010, 10 percent of U.S. adults consumed 25 percent or more of their daily calories from added sugars. While recommended levels of added sugar intake vary, the CDC adheres to the 2010 Dietary Guidelines for Americans, which recommends limiting added sugar intake to 5 to 15 percent of daily total calories.
+It’s still not fully understood why added sugars increases risk of CVD.
+“There are different explanations why it increases cardiovascular disease, probably the higher intake of added sugar may play a role in multiple pathways,” Yang said. “Some studies suggest suggest it will increase your risk of hypertension, a leading risk factor of cardiovascular disease; [it will also increase] accumulation of fat in your liver and promotes dyslipidemia; it’s also associated with increase of the inflammation markers, so those are the possible mechanics but we do not know why at a certain point your risk [becomes] accelerated.”
+Next, Yang and his colleagues hope to study how the risk of cardiovascular death changes among people who have made efforts to improve their eating habits, including lowering consumption of added sugars. They are also interested in studying the effects of added sugar consumption among children – and how that affects their risk of death and disease later in life.
+Overall, Yang said he hopes people will start to pay more attention to the amount of added sugars in their diet.
+“Our study shows most of us are consuming too much added sugar, and higher added sugar [consumption] is associated with increased risk of cardiovascular disease,” Yang said. “If someone can…[they should] read [food] labels to see how much added sugar is in there and try to choose the lowest added sugar and reduce consumption of sugar-sweetened beverages, which is number one contributor [to added sugar consumption].”
+</TEXT>
+</DOC>

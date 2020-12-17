@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2584</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/77cS6oAKJs8/</URL>
+<TITLE>Traffic pollution exposure may alter heart structure</TITLE>
+<TIME>Mon, 10 Mar 2014 12:55:00 GMT</TIME>
+<ABSTRACT>
+Exposure to high levels of traffic pollution may alter the structure of a person’s heart
+</ABSTRACT>
+<TEXT>
+Reuters
+Exposure to high levels of traffic pollution may alter the structure of a person’s heart, Counsel and Heal reported.
+In a new study, researchers from the University of Washington Medical Center in Seattle found that high amounts of pollution caused by car traffic were associated with changes in the heart’s right ventricle – an alteration that could increase a person’s risk of heart disease.
+"Although the link between traffic-related air pollution and left ventricular hypertrophy, heart failure, and cardiovascular death is established, the effects of traffic-related air pollution on the right ventricle have not been well studied," lead author Dr. Peter Leary, of the University of Washington Medical Center in Seattle, said in a news release. "…We were able to demonstrate for the first time that higher levels of exposure were associated with greater right ventricular mass and larger right ventricular end-diastolic volume."
+For their study, researchers utilized cardiac magnetic resonance imaging (MRI) to examine the hearts of 3,896 people who were free of cardiovascular disease at the study’s onset.  The scientists also determined the levels of nitrous dioxide outside the participants’ homes during the year before their MRI scans.
+When cross-examining participant exposure with the MRI scans, the researchers found an association between higher nitrous oxide levels and an increase in right ventricular mass and right ventricular end-diastolic volume.  The researchers noted that these findings held true even after they controlled for differences among participants’ cardiovascular risk factors and left ventricular volume.
+While the study does not confirm that traffic pollution caused these heart changes, the researchers believe their work adds to numerous earlier studies surrounding this association.
+"The morphologic changes in the right ventricle of the heart that we found with increased exposure to nitrogen dioxide add to the body of evidence supporting a connection between traffic-related air pollution and cardiovascular disease," Leary said.
+Click for more from Counsel and Heal.
+</TEXT>
+</DOC>

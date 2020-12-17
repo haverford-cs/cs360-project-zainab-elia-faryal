@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>2283</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/CoMJOKAxXbM/</URL>
+<TITLE>Oral immunotherapy for peanut allergies shows promise, study finds</TITLE>
+<TIME>Thu, 30 Jan 2014 14:19:48 GMT</TIME>
+<ABSTRACT>
+New research experimenting with oral immunotherapy to treat children’s peanut allergies has shown impressive success rates, offering a way for children to slowly and safely increase their tolerance to the nut.
+</ABSTRACT>
+<TEXT>
+New research experimenting with oral immunotherapy to treat children’s peanut allergies has shown impressive success rates, offering a way for children to slowly and safely increase their tolerance to the nut.
+A peanut allergy can cause some of the most severe and life-threatening food-related allergic reactions, including death. Typically, the only way to avoid a reaction is to avoid food containing peanuts.
+However, in a new study published in The Lancet, researchers worked with 99 children, aged 7 to 16 to increase their tolerance through oral immunotherapy, or a gradual increase in peanut ingestion.
+For the six-month double-blind, placebo-controlled study, researchers first administered a “challenge test” to understand each child’s threshold for peanuts, determining the point at which they started to show allergic symptoms after ingesting nuts. Reactions can include itching in the mouth, stomachaches, nausea, vomiting and difficulty breathing.
+The children in the active treatment group were then given a low dose of peanut protein by mouth, under researcher supervision. The initial dose was lower than the amount they’d been measured to react to. Then, the children were instructed to ingest the same amount of peanut protein daily at home. After two weeks, they would increase the dose under researcher supervision and continue home dosing. In total, their doses were increased nine times over the course of the experiment.
+After 26 weeks, 84 percent of the children in the active treatment group were able to tolerate the equivalent of five peanuts a day and 62 percent were able to tolerate the equivalent of 10 peanuts a day.
+“We think this is fantastic because this is the first study which really shows peanut desensitization works,” study author Dr. Pamela Ewan, head of the allergy department at Cambridge University Hospitals told FoxNews.com
+Ewan said side effects were common, but mild and tended to appear at the beginning of treatment and disappear as doses were gradually increased. Ewan said she believes the tapered OIT structure of their study may have contributed to success rates.
+“We’ve attempted a more gentle protocol. Typically [doses have] gone up faster in the beginning, escalating more steeply, but we haven’t gone to such a high dose,” Ewan said.
+Because of their success with the active group, researchers then took the original control group and turned them into another active group. After 26 weeks of OIT, the new active treatment group had a 91 percent success rate to tolerance of five peanuts and 54 percent could tolerate the equivalent of 10 peanuts.
+“It’s not an exaggeration to say this is a world first in food immunotherapy and a world first in peanut allergy, in terms of outcome of trial,” Ewan, who has been studying peanut allergies for 20 years, said.
+While this trial was done on children, researchers said they expect the treatment could work in adults as well. However, more research is needed to determine the long term impacts of OIT, which has not yet been approved by the U.S. Food and Drug Administration.
+“More studies are needed,” Matthew J Greenhawt of the University of Michigan Food Allergy Center, who was not involved with the study, wrote in an email to FoxNews.com. “Very few medical therapies work across all types of patients, so it must be determined if OIT may work better in some types of patients than others.”
+Ewan also warned that parents should not try to induce peanut tolerance at home, as the treatment carries the risk of provoking anaphylaxis.
+“It would be highly, highly dangerous. It needs to be done very carefully by people who are used to immunotherapy and allergies,” Ewan said. “It’s not something an ordinary family doctor could try and [it] has to be [done] in a hospital setting with proper facilities to treat severe reactions in case of side effects.”
+However, if successful, OIT could significantly improve the lives of people with peanut allergies.
+“It is known that peanut allergy is a very frightening disease to have and it has a huge effect on families. We measured quality of life and found a big gain [after our study],” Ewan said.
+After the study, the families of children who had improved their peanut tolerance were able to relax, instead of always being on high alert.
+“The children are so happy; it’s so lovely to see this,” she said.
+</TEXT>
+</DOC>

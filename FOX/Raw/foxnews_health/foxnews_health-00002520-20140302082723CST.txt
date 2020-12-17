@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>2520</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/ZCQPrFm9C6E/</URL>
+<TITLE>Will you die in 5 years? New 'death test' predicts</TITLE>
+<TIME>Sun, 02 Mar 2014 14:27:23 GMT</TIME>
+<ABSTRACT>
+Researchers have announced a rather morbid find: a "death test," as the Telegraph puts it, which may predict the likelihood of a seemingly healthy person biting the dust within five years.
+</ABSTRACT>
+<TEXT>
+A 'death test' offers a prediction as to whether a healthy person will die in the next five years.AP Photo/Andre Penner
+Researchers have announced a rather morbid find: a "death test," as the Telegraph puts it, which may predict the likelihood of a seemingly healthy person biting the dust within five years.
+The blood test looks at the levels of four of the body's "biomarkers," molecules that can point to health conditions. Researchers found that when those biomarkers were "off-kilter," subjects were five times more likely to die within five years.
+The study results, published in PLOS Medicine, followed two experiments. First, Estonian researchers made the finding in a study of 9,842 people. But they doubted their results and asked Finnish scientists to try; after research on another 7,503 duplicated the results, the Finnish called their findings "astonishing." Scientists followed the 17,000 subjects for five years, during which period 684 died.
+All of them had comparable levels of the biomarkers. Britain's National Health Service explains that those biomarkers include increased levels of infection-related Alpha-1-acid glycoprotein and the metabolism-related compound citrate, reduced levels of the nutrient-carrying protein albumin, and reduced size of very-low-density lipoprotein—or "very bad cholesterol"—particles.
+"What is especially interesting is that these biomarkers reflect the risk for dying from very different types of diseases such as heart disease or cancer. They seem to be signs of a general frailty in the body," says a researcher.
+But the NHS cautions that "due to (the study's) observational nature, it can only show an association, rather than causation, thereby limiting its potential impact." (But, hey, if you're rich enough, maybe you can just reverse the aging process altogether.)
+</TEXT>
+</DOC>

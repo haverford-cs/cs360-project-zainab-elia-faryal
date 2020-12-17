@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>1414</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/apFNZKt9xmM/</URL>
+<TITLE>Big discovery: Tiny electron's mass more precisely measured</TITLE>
+<TIME>Thu, 20 Feb 2014 13:00:02 GMT</TIME>
+<ABSTRACT>
+Scientists have made the most precise measurement yet of the electron's atomic mass
+</ABSTRACT>
+<TEXT>
+The most precise measurement yet of the electronâs shape casts doubt on ideas such as supersymmetry that predict a zoo of undetected particles in the universe.Shutterstock
+Scientists have made the most precise measurement yet of the electron's atomic mass.
+"It is a major technical improvement," said Edmund Myers, a physicist at Florida State University, who wrote an accompanying News & Views article Wednesday in the journal Nature, where the new measurement is detailed. "They have improved the precision by a factor of 13." The new value is just the tiniest bit smaller than the previous best value, though not by a significant amount.
+The new measurement could one day be used in experiments to test the Standard Model, the reigning physics theory that describes the tiny particles that make up the universe.
+But before the new value can be used to test the basic physics theory, other fundamental constants need to be measured at higher precision, Myers said. [The 9 Biggest Unsolved Mysteries in Physics]
+Electron mass The electron's mass is one of a few key parameters that govern the structure and properties of atoms, yet because the electron is so tiny, precisely measuring its atomic mass has been difficult. The most precise measurement so far was one adopted by the Committee on Data for Science and Technology, in 2006.
+To improve on this value, Sven Sturm, a physicist at the Max Planck Institute for Nuclear Physics in Germany, and his colleagues bound an electron to a bare carbon nucleus, which has a mass that's already known. The result was a charged carbon nucleus or ion. Next, they pinned the bound electron into place using electric and magnetic fields.
+The team developed a technique to measure the ion when it was almost at rest, which limits uncertainty in the system, Sturm said in an email.
+Electrons' intrinsic angular momentum, or spin, act like tiny bar magnets, which, when exposed to a magnetic field, rotate around the field's axis. By combining information on the carbon nucleus with the frequency at which the electron's spin rotates in the presence of a magnetic field, the team deduced the electron's mass more precisely than ever before, Sturm said in an email.
+Testing the Standard Model The exquisitely precise measurement could pave the way for future tests of the Standard Model, which has extraordinary predictive ability but can't explain many phenomenon, such as the existence of gravity, the prevalence of dark matter and energy and the amount of antimatter in the universe.
+One theory is that Standard Model is a good approximation when there are low electric fields, but not in the presence of extreme electric fields. In that instance, one way to test the Standard Model would be using a highly charged ion and the strongest available electric fields to potentially reveal unknown physics, Sturm said.
+The atomic mass of an electron, however, is just one parameter that is needed to calculate another value, known as the fine structure constant, Myers said. That, in turn, could allow physicists to get more precise measurements of the electron's magnetic moment. Only then will scientists truly be able to test the Standard Model, he said.
+But the researchers say they are already at work crafting new experiments.
+"We are currently setting up a next-generation experiment for tests of the Standard Model in heavy, highly-charged ions, which will be extremely sensitive to physics beyond the Standard Model," Sturm said. "The electron mass will be a key input parameter for these experiments."
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>1371</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/cDjP3UunzQ0/</URL>
+<TITLE>Winter storm battering southeast seen from space</TITLE>
+<TIME>Wed, 12 Feb 2014 12:30:57 GMT</TIME>
+<ABSTRACT>
+An Earth-watching satellite has spotted the latest winter storm threatening to paralyze the southeastern United States.
+</ABSTRACT>
+<TEXT>
+NOAA's GOES-East satellite captured this image of a storm over the southeastern U.S. on Feb. 11, 2014 at 1:15 p.m. EST (1815 UTC).NOAA
+An Earth-watching satellite has spotted the latest winter storm threatening to paralyze the southeastern United States.
+A foreboding band of white clouds stretches from the Texas Gulf Coast to far beyond the eastern shores of the Carolinas in the new image captured at 1:15 p.m. EST (1815 UTC) on Feb. 11 by the National Oceanic and Atmospheric Administration's GOES-East satellite.
+This large front is behind the rain, freezing rain, sleet and snow being dumped on the region, according to NASA. But the worst of the weather is yet to come.
+The National Weather Service's Weather Prediction Center warned that the South could see a "paralyzing ice storm" this week.
+The first blow of the storm has already been blamed for four traffic deaths in Texas, the Associated Press reported. But conditions are expected to worsen over the next 24 hours in the Southeast and winter storm warnings and watches have been issued for a large swath of the South and Mid-Atlantic region.
+Weather officials said some residents in northern Alabama, Georgia and South Carolina could see up to 4 inches of snow (and perhaps even 8 inches in some areas). Heavier snow is expected over parts of the Mid-Atlantic Wednesday night before the storm barrels into southern New England by Thursday morning, NWS officials said.
+The Weather Prediction Center also warned that thick ice could accumulate in parts of Georgia, which could down trees and power lines and create dangerous driving conditions.
+The wintry weather comes just two weeks after 2 inches of snow and ice crippled the South and caused epic traffic jams in Atlanta that left residents stranded on the roads for hours.
+As of Tuesday, Georgia Gov. Nathan Deal had declared a state of emergency for 89 of the state's 159 counties in anticipation of the next winter beating. South and North Carolina, Virginia and Maryland also all issued states of emergency in advance of the storm
+The GOES-East satellite is in a geostationary orbit, which means it hovers over the same part of the globe all the time. The image from it shows the visible cloud and snow cover on the ground.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

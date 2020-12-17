@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>911</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/gDVqPO6Su68/index.html</URL>
+<TITLE>FDA warns users about acetaminophen</TITLE>
+<TIME>Wed, 15 Jan 2014 07:08:25 EST</TIME>
+<ABSTRACT>
+The FDA is warning against prescription combination drugs with more than 325 mg of acetaminophen, citing the risk of liver damage.
+</ABSTRACT>
+<TEXT>
+(CNN) -- You're in pain after surgery, and your doctor prescribes you Vicodin, or maybe Percocet. But when you get home, the pain hasn't subsided and you decide to pop some Extra Strength Tylenol.
+Unknowingly, you may have just taken more of the drug acetaminophen than is safe.
+Acetaminophen is often used in pain medications with opioids such as oxycodone (Percocet), hydrocodone (Vicodin) and codeine (Tylenol with Codeine). These are called combination drugs, and the Food and Drug Administration is asking doctors to stop prescribing those that have more than 325 mg of acetaminophen per dose.
+The FDA says no data show that taking more than that amount provides enough benefit to outweigh the risk of liver damage.
+"Many consumers are often unaware that many products (both prescription and OTC) contain acetaminophen, making it easy to accidentally take too much," the FDA said in a statement Tuesday.
+The warning does not apply to over-the-counter drugs such as Tylenol, which contains acetaminophen. The FDA said it will address over-the-counter products in another regulatory action.
+In 2011, the FDA asked manufacturers to limit the amount of acetaminophen in prescription combination drugs to 325 mg per capsule or tablet by January 2014. While more than half of the manufacturers agreed, some combination drugs with higher amounts of acetaminophen remain on the market.
+The federal agency says it plans to start the process of withdrawing approval of prescription combination drugs from manufacturers that have not complied.
+Health risks
+"Acetaminophen overdose is one of the most common poisonings worldwide," according to the National Institutes of Health.
+Taking too much of this pain reliever can lead to liver failure or death.
+The FDA has set the recommended maximum for adults at 4,000 milligrams per day. It's easier to reach this limit than you might think; one gel tablet of Extra Strength Tylenol, for example, contains 500 mg.
+New Tylenol cap will have warning label
+Consumers should not take more than the prescribed dose of any medication that contains acetaminophen, according to the FDA, and should avoid taking more than one acetaminophen product at a time. Drinking alcohol while taking acetaminophen also puts you at risk.
+To find out if your medications contain acetaminophen, read the drug label or the list of ingredients in the patient information leaflet that came with your prescription. Look for the word "acetaminophen" or the letters "APAP," an abbreviation sometimes used for the drug. If you are still unsure, contact your doctor or pharmacist.
+Acetaminophen may also cause serious skin reactions in some people. According to the FDA, the skin reactions are rare but can be deadly. These conditions can cause blisters, serious rashes, reddening of the skin and the detachment of the upper surface of the skin, the epidermis.
+Anyone who develops these types of conditions after using acetaminophen should stop taking the product immediately and visit a doctor or emergency room.
+FDA issues warning about acetaminophen and skin reactions
+CNN's Jacque Wilson, Saundra Young and Val Willingham contributed to this report.
+</TEXT>
+</DOC>

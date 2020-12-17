@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>2132</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/M-MyV0ZlT2o/</URL>
+<TITLE>Caffeine may help boost memory, study shows</TITLE>
+<TIME>Mon, 13 Jan 2014 17:05:57 GMT</TIME>
+<ABSTRACT>
+There’s yet another reason to indulge in a midday cup of coffee. 
+</ABSTRACT>
+<TEXT>
+There’s yet another reason to indulge in a midday cup of coffee: New research indicates that caffeine may help boost long-term memory, Medical News Today reported.
+In a study published in the journal Nature Neuroscience, researchers analyzed how caffeine consumption affected learning in 160 people between the ages of 18 and 30. In the first portion of the study, participants looked at pictures of various objects and were asked to determine whether they were ‘indoor’ or ‘outdoor’ products. After the task, participants received either a placebo pill or a 200 mg caffeine pill.
+The next day, the same participants were shown another series of photos – some new, some from the day before – and asked to categorize them as "new," "old," or "similar to the original pictures."
+People who had taken a caffeine pill the previous day were better able to identify which pictures were similar to the ones they had seen the days before, compared to people who had received a placebo pill. Both groups accurately identified which images were new, and which were old.
+Further experiments revealed that participants performed better after a 200 mg dose of caffeine, compared to a 100 mg dose. However, when participants took a 300 mg dose of caffeine, there was no difference in memory compared to when they took a 200 mg dose. Additionally, participants who took a caffeine pill before the memory test – as opposed to after – had no improvement in memory.
+The researchers hope to delve further into what causes caffeine to have this effect on long-term memory.
+Click for more from Medical News Today.
+</TEXT>
+</DOC>

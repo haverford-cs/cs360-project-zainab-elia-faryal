@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO>2550</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/a9kACrrVJrE/</URL>
+<TITLE>Moving out of poverty affects mental health of boys, girls differently</TITLE>
+<TIME>Wed, 05 Mar 2014 12:36:08 GMT</TIME>
+<ABSTRACT>
+Moving out of impoverished neighborhoods has different effects on the mental health of boys compared to girls, and those repercussions need to be better understood before tinkering with housing policy, according to a new study.
+</ABSTRACT>
+<TEXT>
+Moving out of impoverished neighborhoods has different effects on the mental health of boys compared to girls, and those repercussions need to be better understood before tinkering with housing policy, according to a new study.
+Researchers found boys had higher rates of mental health problems years after their families got vouchers to move out of impoverished neighborhoods, compared to boys who didn't get assistance.
+On the other hand, moving out of high-poverty neighborhoods was linked to lower rates of depression and behavior problems among girls.
+"The girls seemed like they were helped a lot by moving and the boys were hurt a lot," Ronald Kessler told Reuters Health.
+Kessler is the study's lead author from Harvard Medical School in Boston.
+He and his colleagues write in the Journal of the American Medical Association (JAMA) that past studies have found young people in impoverished neighborhoods tend to have higher rates of emotional problems.
+That elevated risk persists even when other individual factors, such as family history of mental illness, are taken into account, which suggests the characteristics of a person's community affect mental health, the researchers say.
+Between 1994 and 1998 the U.S. Department of Housing and Urban Development (HUD) implemented an experiment known as Moving to Opportunity, which recruited over 4,500 families with young children living in high-poverty areas.
+The families were randomized to either receive vouchers to move their family to less impoverished communities or to not receive any new assistance.
+An initial review of the children in the experiment four to seven years later found families that got vouchers moved to better neighborhoods.
+That review also found lower levels of stress and depression among the girls who moved with their families, but higher levels of behavior problems among the boys.
+The new study followed up with 2,872 of those children 10 to 15 years after their families were first recruited for the experiment.
+Overall, results were similar to those in the earlier review.
+For example, about 7 percent of boys who received vouchers were depressed, compared to about 4 percent of those who didn't receive additional assistance.
+The boys whose families received vouchers were also more likely to have post traumatic stress disorder (PTSD) and behavioral problems than those in the comparison group.
+The rates of PTSD among boys in the study, about 4.4 percent, are similar to those found in studies of soldiers returning from combat, the researchers note.
+And risk for PTSD was more than three times higher among boys in the voucher group than in the comparison group boys.
+In contrast, about 7 percent of girls whose families received vouchers were depressed, versus about 11 percent in the comparison group. The girls who got vouchers were also less likely to have behavioral problems.
+In an editorial published in the same journal, Dr. Neal Halfon wrote that boys may not benefit from moving to better neighborhoods without other supports, because they have fewer social skills.
+For girls, the reduction in depression and behavioral problems compared to girls in the old neighborhood may be due to moving into areas that are less sexually coercive, wrote Halfon, who is with the Center for Healthier Children, Families and Communities at the David Geffen School of Medicine at the University of California, Los Angeles.
+"Future research should focus on explaining these observed gender differences and informing changes to practice and policy that address the unique behavioral health needs of both boys and girls," he wrote.
+The study team writes that it's hard to draw policy conclusions from the findings because it appears the voucher program may have been harmful to boys but protective of girls.
+Kessler said the key is to find a way to utilize HUD's resources to allow people not to just find new homes but also better integrate them into the community.
+For example, he said it may require creating programs like Big Brothers Big Sisters.
+"We've got to figure out how to maximize the positives but minimize the negatives," Kessler said.
+</TEXT>
+</DOC>

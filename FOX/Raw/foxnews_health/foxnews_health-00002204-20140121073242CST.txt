@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>2204</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/ggSTMU1KN_0/</URL>
+<TITLE>Tonsillectomy care varies greatly across hospitals, report finds</TITLE>
+<TIME>Tue, 21 Jan 2014 13:32:42 GMT</TIME>
+<ABSTRACT>
+The types of medicines used to treat a child during and after a tonsillectomy vary greatly throughout the country, Counsel and Heal reported.
+</ABSTRACT>
+<TEXT>
+The types of medicines used to treat a child during and after a tonsillectomy vary greatly throughout the country, Counsel and Heal reported.
+In a study published in the journal Pediatrics, researchers evaluated how 36 children’s hospitals throughout the country used both antibiotics and the steroid dexamethasone – commonly used to control nausea and pain post-surgery – to treat tonsillectomy patients. Previous research has indicated that while dexamethasone is effective at reducing pain and vomiting post-surgery, antibiotics are largely unnecessary.
+Overall, the researchers discovered that dexamethasone was used in 75 percent of the surgeries studied. However, usage between hospitals varied greatly, with some hospitals prescribing the drug for almost all tonsillectomies and others never prescribing it at all.
+Furthermore, the researchers found that 16 percent of tonsillectomy patients were prescribed antibiotics, despite their proven ineffectiveness – and that antibiotics usage also varied widely across hospitals.
+"We're not expecting a zero rate of antibiotic use," said Dr. Richard Rosenfeld, the director of the Institute for Advanced Otolaryngology at New York Methodist Hospital. "Dexamethasone should be routine. What you get from a single IV dose is pretty impressive. Over the first 24 hours, it cuts the risk of vomiting by 50 percent and reduces pain by about 25 percent."
+Click for more from Counsel and Heal.
+</TEXT>
+</DOC>

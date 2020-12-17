@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>2563</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/mf3a5vcCFPY/</URL>
+<TITLE>Young skin cancer survivors may be more likely to develop other cancers in future</TITLE>
+<TIME>Fri, 07 Mar 2014 19:12:39 GMT</TIME>
+<ABSTRACT>
+Young survivors of nonmelanoma skin cancer are at an increased risk for developing numerous other cancers later in life, Medical Xpress reported.
+</ABSTRACT>
+<TEXT>
+Young survivors of nonmelanoma skin cancer - the most common form of skin cancer - are at an increased risk for developing numerous other cancers later in life, Medical Xpress reported.
+In a study published in Cancer Epidemiology, Biomarkers & Prevention, researchers utilized information from the All England Record-linked Hospital and Mortality data set, which was collected between 1999 and 2011. Within that cohort, they analyzed 502,490 people who had been diagnosed with nonmelanoma skin cancer, comparing them to 8,787,513 people in a control group.
+Overall, people who had been treated for nonmelanoma skin cancer had an elevated relative risk of developing bladder, brain, breast, colon, liver, lung, pancreas, prostate and stomach cancers throughout the entire study period.
+People who had been diagnosed with nonmelanoma skin cancer before age 25 faced the greatest risks. These young people were 53 times more likely to get bone cancer, 26 times more likely to get blood cancers, 20 times more likely to get brain cancer and 14 times more likely to get any form of non-skin cancer, compared to the control group.
+As nonmelanoma skin cancer survivors got older, their risk for developing other forms of cancer decreased. Researchers said young people who have been diagnosed with nonmelanoma skin cancer should be screened for other cancers more carefully.
+"Early detection of cancers through screening of asymptomatic people works best when screening can be targeted at those at greatest risk," study author Dr. Rodney Sinclair, a professor of medicine at the University of Melbourne in Australia, said. "Our study identifies people who receive a diagnosis of NMSC at a young age as being at increased risk for cancer and, therefore, as a group who could benefit from screening for internal malignancy."
+Click for more from Medical Xpress.
+</TEXT>
+</DOC>

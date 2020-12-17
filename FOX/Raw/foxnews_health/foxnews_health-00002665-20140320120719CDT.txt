@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>2665</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/IxU0wbBi6Rs/</URL>
+<TITLE>Poor diagnosis driving global multidrug-resistant tuberculosis, WHO warns</TITLE>
+<TIME>Thu, 20 Mar 2014 17:07:19 GMT</TIME>
+<ABSTRACT>
+Half a million people fell sick with dangerous superbug strains of tuberculosis (TB) in 2012, but fewer than one in four were diagnosed, putting the rest at risk of dying due to the wrong medicines or no treatment at all.
+</ABSTRACT>
+<TEXT>
+A doctor points to an x-ray showing a pair of lungs infected with TB (tuberculosis). (REUTERS/Luke MacGregor)
+Half a million people fell sick with dangerous superbug strains of tuberculosis (TB) in 2012, but fewer than one in four were diagnosed, putting the rest at risk of dying due to the wrong medicines or no treatment at all.
+Latest data from the World Health Organization (WHO), which says drug-resistant TB is a "global health security risk", showed a third of the estimated 9 million people who contract TB in any form each year do not get the care they need.
+This has led to drug resistance spreading around the world at an alarming rate and has given rise to incurable strains of the bacterial infection - known as totally drug-resistant TB - which cannot be treated with any known medicines.
+"Earlier and faster diagnosis of all forms of TB is vital," said WHO director general Margaret Chan as the U.N. health agency published new TB data on Thursday. "It improves the chances of people getting the right treatment and being cured, and it helps stop spread of drug-resistant disease."
+Last year the WHO called for multidrug-resistant tuberculosis (MDR-TB) to be recognized as a public health crisis. It says the contagious, deadly superbug forms of the disease carry "grave consequences for those affected".
+Treating even regular TB is a long process. Patients need to take a cocktail of antibiotics for six months and many fail to complete the treatment.
+This in turn has fuelled the emergence of drug-resistant TB - a man-made problem that has grown in the past decade because people sick with regular TB were either being given the wrong medicines or wrong doses or did not complete their treatment.
+HURDLES
+Experts say one of the major hurdles to tackling drug-resistant strains effectively is that so many patients who have contracted them do not know it and so continue with the wrong treatments or are not treated at all.
+Some of the poorest and most ill-equipped countries have only one central laboratory, which often has limited capacity to diagnose MDR-TB. In other cases, patient samples have to be sent to other countries for testing.
+Traditional diagnostic tests can take more than two months to get results, leaving a dangerous gap in which the patient is not getting the right treatment and is putting others at risk of catching the contagious disease.
+The WHO says up to 2 million people worldwide may be infected with drug-resistant TB by 2015.
+Newer, speedier diagnostic tests have been developed in recent years, but the problem has been getting the technology and know-how to the countries where they are needed most.
+However, Chan cited encouraging signs from an international project known as EXPAND-TB (Expanding Access to New Diagnostics for TB), financed by UNITAID, which has helped to triple the number of MDR-TB cases diagnosed in participating countries.
+In 2009, UNITAID backed the EXPAND project with $87 million to new TB diagnostic technologies in 27 low- and middle-income countries, which together account for around 40 percent of the global MDR-TB burden.
+"The gap in access to TB diagnostics and care is far from filled, but it is narrowing," said Mario Raviglione, director of WHO's global TB program. "Increased capacity and reduced prices mean that we can reach more people."
+UNITAID was launched in 2006 by the governments of Britain, Brazil, Chile, France and Norway to give sustainable funding for the fight against HIV/AIDS, malaria and tuberculosis. About 70 percent of its funds come from a levy on airline tickets.
+</TEXT>
+</DOC>

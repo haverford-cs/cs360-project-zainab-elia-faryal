@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO>2449</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/T4QupqzFsXo/</URL>
+<TITLE>Frequent headaches and migraines? It could be stress</TITLE>
+<TIME>Thu, 20 Feb 2014 15:00:45 GMT</TIME>
+<ABSTRACT>
+New research lends evidence to the commonly held belief that stress leads to headaches.
+</ABSTRACT>
+<TEXT>
+New research lends evidence to the commonly held belief that stress leads to headaches.
+Researchers analyzed data of 5,519 participants aged 21-71 years, and found that an increase in stress was associated with an increase in the number of headaches participants suffered each month. The findings were presented at the American Academy of Neurology’s Annual Meeting in Philadelphia on Wednesday.
+Survey participants reported their stress levels and headaches quarterly from 2010-2012, as part of the German Headache Consortium Study. A total of 31 percent had tension-type headaches, 14 percent had migraine and 11 percent had migraine combined with tension-type headache. Participants with tension-type headaches rated their stress at an average of 52 out of 100, while migraine rated at 62 out of 100. Those with migraine and tension-type headaches rated at 59 out of 100.
+“Tension-type headache (TTH) and migraine are the most common primary headache disorders, affecting up to 80 percent of the general population— that’s why we choose to look at both,” study author Dr. Sara H. Schramm, of University Hospital at University Duisburg-Essen in Germany wrote in an email to FoxNews.com
+The data showed that, for each type of headache, an increase on the stress scale was tied to an increase in the number of headaches per month. An increase of 10 stress points was associated with a 6.3 percent headache increase for people with TTH, 4.3 percent increase for migraine and 4 percent increase for migraine and tension headache.
+It’s the first study to show that  stress has an influence on headaches, according to the researchers.
+“To the best of our knowledge, prospective population-based studies evaluating the effect of stress on headache frequency, with regard to particular subtypes of primary headaches, have not been performed until now. In a prospective study we can confirm … what we always hear from our patients,” Schramm said.
+TTH and migraine are characterized by different symptoms – TTH by mild-to-moderate headache intensity and dull, tightening pain and migraine by unilateral, severe pulsating headache accompanied by nausea, vomiting and light and sound sensitivity.  It’s not known if they have similar or different biological mechanisms in reaction to stress.
+Researchers said their findings show the importance of stress management for people who suffer TTH or migraine.
+“Psychological treatment, especially coaching for stress, is important,” Schramm said.
+</TEXT>
+</DOC>

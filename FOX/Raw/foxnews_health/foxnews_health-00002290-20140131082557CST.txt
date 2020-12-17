@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>2290</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/0LwH5AKpAB0/</URL>
+<TITLE>Football helmet design can lower concussion risk, study finds</TITLE>
+<TIME>Fri, 31 Jan 2014 14:25:57 GMT</TIME>
+<ABSTRACT>
+After embedding sensors into two different types of football helmets, researchers from Virginia Tech University have revealed that one helmet was much more effective at preventing concussions than the other.
+</ABSTRACT>
+<TEXT>
+As the Super Bowl approaches on Sunday, more and more attention is being paid to the concussion epidemic surrounding the game of football. During the 2013 regular season, NFL players suffered a total of 121 concussions, equating to more than seven concussions per week.
+Many experts claim that proper helmet design can ultimately lower the incidence of concussions in the game – an argument that has now been confirmed by new research conducted on the football field.
+After embedding sensors into two different types of football helmets, researchers from Virginia Tech University have revealed that one helmet was much more effective at preventing concussions than the other.  According to the researchers, their findings confirm that helmets can actually be designed to reduce the risk of concussions during gameplay.
+Study author Stefan Duma, professor and head of the Virginia Tech – Wake Forest School of Biomedical Engineering and Sciences, has been researching helmet design in relation to concussion risk for years, but this is the first study to compare helmet differences on the field, rather than in the lab.
+“I think some of the original motivation was in 2008, we were getting a lot of questions from our equipment group about what type of helmet to buy,” Duma said.  “But there’s really nothing out there [for guidance]. There are a lot of individual manufacturers, but no independent system to figure out what is better.  So that’s when we started reporting on biomechanical parameters.”
+From 2005 to 2010, Duma and his team equipped a total of 1,833 college football players with sensored helmets, which helped to measure the biomechanics and head acceleration of over 1 million head impacts. The players – hailing from Virginia Tech, the University of North Carolina, Brown University and other colleges – wore either the Riddell VSR4 or the Riddell Revolution helmet.
+Utilizing six years’ worth of data, the researchers found that the Riddell Revolution helmet reduced concussion risk in players by up to 54 percent compared to the Riddell VSR4.  Duma also said their findings are particularly reliable since their study is the first to control for the number of times players hit their heads – allowing them to compare “apples to apples.” He noted previous studies on football helmets did not take into account that certain types of players may get hit more frequently than others.
+Given their results, Duma concluded that the Riddell Revolution, which was released in 2002, is better designed to help slow down the force of an impact.
+“The Revolution is slightly bigger and has more padding, with a different shell configuration,” Duma said. “All of that adds to lowering head acceleration, and that lower acceleration resulted in a clinically significant lower risk of concussion.”
+Despite the fact that the Revolution has been on the market for more than a decade, Duma said many players are still drawn to the VSR4.
+“The VSR4 was one of the most popular helmets ever in football,” Duma said.  “Up until 2011, half of all colleges and the NFL had the VSR4. But it’s the low-performing helmet; it’s almost a 20-year-old design. New helmets have come onto the market, but people are reluctant to buy new styles.”
+While no helmet can prevent concussions from occurring in football, Duma hopes that the results of their study will persuade coaches and athletes to do more research into helmet design and choose the helmets with the best ratings.  Over the years, Virginia Tech has developed their own Virginia Tech Helmet Rating system, which assigns different helmet types a 1 through 5 star rating, depending on how well the designs perform in the lab.
+“It’s just one of three parts of the [concussion] problem,” Duma said. “The first part is the rules of the game, second is the coaching and third is the helmet.  You have to have the right rules, the right coaching and the best equipment….And if you want to buy the best equipment possible, there’s a very big difference between the very worst helmets and the very best helmets.”
+The research was published Friday, Jan. 31, in the Journal of Neurosurgery.
+The ability of the Riddell Revolution (left) and the Riddell VSR4 (right) helmets to reduce concussion risk was compared in the study. A significant difference in concussion risk between these two helmet designs was found by the authors.
+</TEXT>
+</DOC>

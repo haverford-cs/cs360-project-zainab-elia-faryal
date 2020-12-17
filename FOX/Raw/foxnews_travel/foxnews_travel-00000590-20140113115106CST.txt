@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>590</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/internal/travel/mixed/~3/Yx00p9k8Efs/</URL>
+<TITLE>Ryanair says it is partnering with Google on new price comparison service</TITLE>
+<TIME>Mon, 13 Jan 2014 17:51:06 GMT</TIME>
+<ABSTRACT>
+Google’s top-secret travel project may completely transform how you find and ultimately select airline tickets.
+</ABSTRACT>
+<TEXT>
+Ryanair is a popular discount airline that flies throughout Europe.Reuters
+Google may have another game-changing product up their sleeves.Reuters
+Google’s latest top-secret project may centered on how people buy airline tickets online.  
+At least that's what Irish budget airline Ryanair CEO Michael O’Leary said.  In an interview with the Irish Independent, he said his airline will partner with Google on a new travel price comparison service that will include ticket prices. 
+Google already has Google Flight Search. Its flight search engine has been around since 2011 when the company acquired ITA, but isn't widely used and lacks travel information from some of the largest flight providers.  For example, it currently even list Ryanair flights.
+"There are some very exciting developments with Google, where we have been working with them on sharing the pricing," O'Leary told the paper. "We'll be sharing the Ryanair pricing through all of the Google outlets, so when you go in, there'll be route selections, cheapest prices and so on. Google are developing a price-comparison thing themselves.”
+O’Leary added that the Internet company does not want to have a limited or biased search and will provide users with the best choices screened from all airlines on all available routes. According to the budget airline CEO, the project could be up and running as soon as March of this year.
+Other big changes for the airline include a move to more mobile usage and establishing a more personalized way of reaching the travel consumer. "We'll build individual profiles for each passenger," O'Leary told the Independent. "We'll know how often you fly, where you fly, who you fly with and we'll design individual packages for you.
+However, Google downplayed O’Leary's announcement in a statement:  "We already have relationships with a number of airlines across the world but are always looking to improve the results by signing deals with more," a Google representative told CNet. "We have nothing new to announce at this stage."
+There's no word yet on how this may affect American air carriers in the near future. But it's no secret that Google has big plans for the travel industry with its suite of products, including as Google Hotels, Google Maps, Google+ and its acquisition of Zagat.
+But we may have to wait until March to see what Google has up its sleeve.
+</TEXT>
+</DOC>

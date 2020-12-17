@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>1306</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/w7Fk8LVHr6E/</URL>
+<TITLE>Scientists discover ancient plague DNA in teeth, warn of future outbreaks</TITLE>
+<TIME>Tue, 28 Jan 2014 05:00:47 GMT</TIME>
+<ABSTRACT>
+Scientists say two of the deadliest pandemics in history were caused by strains of the same plague and warn that new versions of the bacteria could spark future outbreaks.
+</ABSTRACT>
+<TEXT>
+Jan. 17, 2014: graduate biology student Jennifer Klunk examines a bone sample at McMaster University's Ancient DNA Centre in Hamilton, Canada.AP/McMaster University
+LONDON –  Scientists say two of the deadliest pandemics in history were caused by strains of the same plague and warn that new versions of the bacteria could spark future outbreaks.
+Researchers found tiny bits of DNA in the teeth of two German victims killed by the Justinian plague about 1,500 years ago. With those fragments, they reconstructed the genome of the oldest bacteria known.
+They concluded the Justinian plague was caused by a strain of Yersinia pestis, the same pathogen responsible for the Black Death that struck medieval Europe.  The study was published online Tuesday in the journal, Lancet Infectious Diseases.
+The two plagues packed quite a punch. The Justinian Plague is thought to have wiped out half the globe as it spread across Asia, North Africa, the Middle East and Europe. And the Black Death killed about 50 million Europeans in just four years during the 14th century.
+"What this shows is that the plague jumped into humans on several different occasions and has gone on a rampage," said Tom Gilbert, a professor at the Natural History Museum of Denmark who wrote an accompanying commentary. "That shows the jump is not that difficult to make and wasn't a wild fluke."
+The plague is usually spread to humans by rodents whose fleas carry the bacteria.
+"Humans are infringing on rodents' territory, so it's only a matter of time before we get more exposure to them," Gilbert said.
+Still, he and other experts doubted a modern plague epidemic would be as devastating.
+"Plague is something that will continue to happen but modern-day antibiotics should be able to stop it," said Hendrik Poinar, director of the Ancient DNA Centre at McMaster University in Canada, who led the new research. He said about 200 rodent species carry the plague and could potentially infect other animals or humans.
+Poinar warned that if the plague transforms into an airborne version -- which can happen if the bacteria reaches the lungs and its droplets are spread by coughing -- it would be much harder to snuff out. That type of plague can kill people within 24 hours of being infected.
+Poinar said scientists need to sharpen their surveillance of plague in rodent populations to try averting future human infections.
+"If we happen to see a massive die-off of rodents somewhere with (the plague), then it would become alarming," he said.
+There are several thousand human cases of plague every year, most often in central and Eastern Europe, Africa, Asia and parts of the Americas.
+</TEXT>
+</DOC>

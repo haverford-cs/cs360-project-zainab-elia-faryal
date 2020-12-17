@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>2385</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/FcyxSVOdqeY/</URL>
+<TITLE>Kidney donors have very low risk of developing kidney failure, study shows</TITLE>
+<TIME>Wed, 12 Feb 2014 16:59:20 GMT</TIME>
+<ABSTRACT>
+Donating a kidney may seem like a risky decision, but new research has revealed that the risk of kidney failure post-donation is very low.
+</ABSTRACT>
+<TEXT>
+Courtesy of the National Kidney Foundation
+Donating a kidney may seem like a risky decision, but new research has revealed that the risk of kidney failure post-donation is very low.
+In a new study published in the February 12 issue of Journal of the American Medical Association, researchers analyzed 96,217 kidney donors to determine their chances of developing end-stage renal disease (ESRD) compared to the general population.  Each year in the United States, approximately 6,000 adults donate a kidney to help a loved one – or even a stranger – in need.
+The research team found that live donors ultimately had a lower lifetime ESRD risk than the general population. By the age of 80, the estimated lifetime risk of ESRD was 90 per 10,000 donors, in contrast to an ESRD incidence of 326 per 10,000 general non-donors.
+Additionally, the researchers compared ESRD risk between kidney donors and a cohort of people who had never donated a kidney but were healthy enough to do so. Under this comparison, they found that the risk of ESRD was only slightly higher for donors. The cumulative incidence of ESRD among kidney donors was 30.8 per 10,000 patients 15 years after donation, compared to only 3.9 per 10,000 healthy non-donors during the same time frame.
+Based on this study’s findings, the authors argue that individuals should not be deterred from donating a kidney over fears of infection, as failure rate is “extremely low.”
+"Compared with a matched cohort of healthy non-donors, kidney donors had an increased risk of ESRD; however, the magnitude of the absolute risk increase was small. These findings may help inform discussions with persons considering live kidney donation,” the researchers wrote.
+</TEXT>
+</DOC>

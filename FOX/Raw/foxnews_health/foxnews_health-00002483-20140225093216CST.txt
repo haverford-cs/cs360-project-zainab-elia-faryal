@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO>2483</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/HZZz5UOjgnA/</URL>
+<TITLE>Fried, barbecued meats may increase Alzheimer's risk</TITLE>
+<TIME>Tue, 25 Feb 2014 15:32:16 GMT</TIME>
+<ABSTRACT>
+Diet plays a role in many health conditions, but a new study has strengthened researchers’ understanding of the connection between the food we eat and chronic diseases like dementia and diabetes. New research says that compounds found naturally in food tie these conditions together.
+</ABSTRACT>
+<TEXT>
+Diet plays a role in many health conditions, but a new study has strengthened researchers’ understanding of the connection between the food we eat and chronic diseases like dementia and diabetes. New research says that compounds found naturally in food tie these conditions together.
+The study, published online Monday in the journal PNAS, followed over 90 older adults for nine months to see how their mental abilities were affected by the amount of those compounds—known as advanced glycation end-products, or AGEs—in the body. Findings showed a connection between AGEs and the development of dementia later in life.
+“Only those who had very high levels of AGEs in their serum, which turns out to be those individuals that consumed very AGE-rich diets, developed the cognitive changes, and along with that developed the suppression of the host defenses," Dr. Helen Vlassara, professor of geriatrics at Mount Sinai Hospital's Icahn School of Medicine, said.
+Learn more: 10 Early Signs of Dementia
+Compound Blocks Body’s Defenses
+Researchers think that high levels of AGEs in the blood and tissues block an enzyme that controls many functions of the body, including those related to the brain, immune system, and hormones. This enzyme—called SIRT1—is also low in people with brain or metabolic diseases, such as aging-related dementia and diabetes.
+Unlike many substances that harm the body, AGEs form naturally from the reaction of sugars with protein, fat, or nucleic acids.
+“At high levels they can damage both cells themselves or nucleic acids, and they can trigger inflammation,” Vlassara said. “The whole process can lead eventually over time to a wide range of diseases, from prediabetes to cardiovascular disease, to kidney disease and neurological disease.”
+Read More: What Is the Difference Between Dementia and Alzheimer's?
+Diet Is Primary Source of Compounds
+Until 10 or 15 years ago, AGEs were known mostly for occurring in people with diabetes, because the higher blood sugar levels associated with the condition lend themselves to AGE formation.
+The amount of AGEs made in the body, however, is comparatively lower to the amounts we take in from outside. “The largest source of these substances today is from the environment, that is, from our food,” Vlassara said.
+Foods with higher amounts of AGEs tend to be those associated with the typical Western diet—meats, and foods high in fat and sugar. Cooking can also increase the amount of these compounds in the food. While they can form at any temperature, drier and higher heats produce more AGE. It should be noted that these compounds are distinct from the carcinogens formed by extreme heat like charring.
+Although the research is still ongoing, AGEs in the diet are believed to contribute to chronic conditions like dementia and metabolic syndrome.
+Learn More: 9 Types of Dementia
+Dietary Restrictions May Reduce Damage
+Another component of the study involved mice. When fed harmful AGEs in amounts similar to what is found in the Western diet, mice developed problems with their brain function similar to those experienced with dementia. This was accompanied by a decrease in the amount of SIRT1—the enzyme involved in the body’s defense mechanisms—in the mice’s blood and brain tissue.
+On the other hand, mice who were fed a diet with lower amounts of AGEs did not develop these problems. In the future, this kind of dietary restriction might prevent dementia or at least slow its progression. The study authors acknowledge that more research is needed.
+“It would be very important to demonstrate that we can intervene specifically for over a long period of time,” Vlassara said, “and demonstrate that we can interfere both in the primary ways, to prevent the development of dementia, or in the secondary way, to be able to reverse the process.”
+Low-AGE Diet and Diabetes
+Vlassara and her colleagues have already shown the benefits of a low-AGE diet for reversing the insulin resistance in people with type 2 diabetes. She is optimistic for its use in treating dementia, although it is unclear whether the brain will have the same capacity to restore itself once AGE is reduced in the diet.
+Vlassara admits that making major changes to the diet is difficult for many people. Another approach would be to prevent AGEs in the food from reaching the bloodstream in the first place.
+“In terms of diabetes, for instance, we have identified a factor already… a drug that can block the absorption of AGEs in the gut,” she said, “so that we can … reproduce exactly the effects of the diet, the low-AGE diet, without reducing the nutrition.”
+Read More: Can Diet Help Prevent Alzheimer's Disease?
+</TEXT>
+</DOC>

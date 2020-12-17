@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO>2477</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/aww543DGbWw/</URL>
+<TITLE>Antibodies may signal multiple sclerosis before symptoms appear</TITLE>
+<TIME>Mon, 24 Feb 2014 13:38:35 GMT</TIME>
+<ABSTRACT>
+A new biomarker may predict whether or not a patient will develop multiple sclerosis (MS) – before the onset of symptoms, MedPage Today reported.
+</ABSTRACT>
+<TEXT>
+iStock
+A new biomarker may predict whether or not a patient will develop multiple sclerosis (MS) – before the onset of symptoms, MedPage Today reported.
+According to a new study to be presented at the American Academy of Neurology’s annual meeting, the appearance of antibodies against a potassium channel protein may be an indicator for MS before clinical symptoms present.
+For their research, German scientists took plasma samples from a healthy group of 16 individuals who later developed MS. In seven of the patients studied, the researchers found high levels of antibodies against KIR4.1 two to nine months before the first clinical attack. The 16 participants in a separate control group did not develop these antibodies.
+Upon further analysis, the team from Munich Technical University found that the antibodies were present in blood samples collected even earlier – up to six years before the onset of clinical symptoms.
+Researchers targeted the anti-KIR4.1 antibodies because a previous study had indicated their presence in some patients experiencing their first MS attack – and in some with clinically diagnosed MS.
+They noted that the role of KIR4.1 in MS remains uncertain and cautioned that a larger study is needed.
+Click for more from MedPage Today.
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>542</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_tech/~3/6Dhoro7ZiYc/index.html</URL>
+<TITLE>Solar system full of 'rogue' asteroids</TITLE>
+<TIME>Thu, 30 Jan 2014 16:49:26 EST</TIME>
+<ABSTRACT>
+If you want to find an asteroid, the region between Mars and Jupiter is a great place to look. That area where asteroids hang out is called the main asteroid belt
+</ABSTRACT>
+<TEXT>
+(CNN) -- If you want to find an asteroid, the region between Mars and Jupiter is a great place to look. That area where asteroids hang out is called the main asteroid belt
+A study in the journal Nature throws a new light on this strip of our solar system, where most of the asteroids in our solar system reside. Whereas scientists once believed that these asteroids formed more or less in place, new modeling suggests they have been scattered all over.
+Scientists believe "the asteroid belt is a melting pot of bodies that formed all over the solar system," said Francesca DeMeo, lead study author and an astronomer at the Harvard Smithsonian Center for Astrophysics.
+Back in the 1980s, when only about 10,000 asteroids were known, it seemed that asteroids that appeared to have formed in a cold environment were farther away from the sun, while those that formed in a hot environment were closer to the sun.
+But DeMeo and co-author Benoit Carry of the Paris Observatory studied hundreds of thousands of asteroids and they found that this trend did not hold. Instead they spotted many "rogue" asteroids: Rocks formed in hot environments that were in regions where cold-environment-formed asteroids were expected, and so on.
+The main asteroid belt is much more diverse than originally thought, the study shows. Dante Lauretta, lead scientist on the asteroid sample return mission OSIRIS-REx and professor at the University of Arizona, said in an e-mail that the study "represents a new paradigm in our understanding of the compositional diversity of the asteroid belt." Lauretta was not involved in the Nature study.
+Although astronomers cannot directly measure temperatures of asteroids, they can infer a rock's origin through geology. For instance, an asteroid with a lot of carbon probably formed far from the sun, in colder temperatures.
+The theory is that the planets of our solar system have moved over time. Jupiter, the largest planet in our solar system and the one with the most gravitational pull, had a big part to play. As Jupiter moved toward the sun, it scattered asteroids, "like a snow globe," DeMeo said.
+Over time, she said, there was "a big mess of asteroids everywhere." The only place for them to remain was the asteroid belt.
+Why asteroids don't surprise us anymore
+Near-Earth asteroids, space rocks that approach our planet's orbit, originated between Mars and Jupiter, she said. By understanding the diversity of the main asteroid belt, we can understand better the asteroids that come close to Earth, DeMeo said.
+Such a large amount of mixing in the asteroids is not surprising, Lauretta said.
+"This study shows that, indeed, a dynamical process has stirred the asteroid pot, so to speak," he said.
+Computer simulations called dynamical models simulate the behavior of thousands of asteroids over time -- even over millions of years. In this way, scientists can see how the solar system might have evolved, how the giant planets may have migrated, and how the migration could have affected the distribution of various types of asteroids.
+Dynamical models over the last decade have suggested the main asteroid belt has been sculpted by giant planet resonance, a position where an asteroid feels a regular gravitational pull from Jupiter or Saturn, Lauretta said.
+Astronomers have figured out that this happens in connection with a mathematical relationship between the asteroid's orbital period and the planet's orbital period. When the orbital period -- how long it takes go to around the sun -- of the asteroid is an integer multiple of the planet's orbital period, you see this effect -- and there tend not to be any large asteroids in these locations.
+For example, there is a location where an asteroid would go around the sun twice for every time that Jupiter circles once. The asteroid feels regular tugging from the planet, and its orbit become unstable. That explains the emptiness of that part of the asteroid belt.
+There are several sky surveys that look out for asteroids on a regular basis as part of NASA's Near Earth Object Program. The program found that a very small asteroid entered the Earth's atmosphere over the mid-Atlantic Ocean at the beginning of January and probably broke up.
+Today we know of about 500,000 asteroids in the main belt, but astronomers believe there are at least 1 million asteroids there that are larger than 1 kilometer in diameter, and even more that are small. The next one we spot will also come from this shaken solar system.
+Follow Elizabeth Landau on Twitter at @lizlandau
+</TEXT>
+</DOC>

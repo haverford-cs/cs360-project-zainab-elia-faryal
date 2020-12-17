@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO>1078</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/CUIwRgZ0W3g/index.html</URL>
+<TITLE>Is tinkering with time bad for your health?</TITLE>
+<TIME>Fri, 07 Mar 2014 10:58:28 EST</TIME>
+<ABSTRACT>
+Feeling your time zone doesn't fit quite right? Turns out you're not alone. Whether it's farmers in India, office workers in Spain or stock brokers in California, people are tinkering with time.
+</ABSTRACT>
+<TEXT>
+Editor's note: Ralitsa Vassileva is an anchor on CNN International. She is based in Atlanta but regularly crosses time zones.
+(CNN) -- Feeling your time zone doesn't fit quite right? Turns out you're not alone. Whether it's farmers in India, office workers in Spain or stock brokers in California, people are tinkering with time.
+And pilots long ago abandoned time zones altogether. Whether they land in Assam, Madrid or Los Angeles, it's always Coordinated Universal Time (UTC). But health professionals warn there's a price to be paid for going against time.
+In Assam, famous for its tea, state officials want to push the clocks one hour ahead of Indian Standard Time, saying it could boost productivity.
+Meanwhile in Spain, go into a restaurant and try asking for a "late" dinner reservation at 9 pm. They don't sit down to eat that early.
+Spain pushed its clocks an hour ahead to be in sync with Germany during World War II, while India went from three time zones to one, after its 1947 Independence from Britain, for the sake of national unity.
+The sun rises and sets an hour earlier in both places so people have come up with different coping mechanisms. Assam's farmers already operate an hour behind the rest of India on "garden time" and Spain has developed a late culture.
+We could set external clocks to any time, but there's one we can't change. The internal body clock. It sets itself according to the sun, releasing hormones that make us alert at sunrise and sleepy at sunset.
+Some Doctors say being out of whack with the circadian rhythm can impact our health, increasing the risk of obesity, sleep disorders, diabetes and even mental health issues.
+Dr. Gari Clifford, who studies sleep disorders at Emory University in Atlanta, says evidence shows defying your circadian rhythm can impact performance.
+"There is already evidence that students who have to go to school at 7.30 am perform worse than matched peers who start at 8.30 am because (it is thought) they are fighting their circadian rhythm.
+"Rather than forcing everyone to get up earlier, it may make more sense to make everyone get up later."
+Our current time zones were set at the Meridian Conference in 1883. Driven by the needs of commerce, nations agreed to have 24 time zones, each one 15 degrees wide, based on the Greenwich Meridian in London.
+Prior to the Meridian Conference, people used to set their time with sun dials tracking the sun. But the problem was the world ended up having hundreds of time zones. And that's why the Meridian Conference pared them down to meet the needs of industrialized nations.
+But now some argue it's time to further reduce the number of time zones to meet the needs of the technological revolution.
+Multinational companies with offices in faraway places need fewer time zones, so workers stay in sync using mobile technology for instant communication.
+Stock traders in California already start their day at 5 am so they don't miss deals when the markets open on the East Coast.
+So can everyone do their own thing?
+Emory's Dr. Clifford says reducing the U.S. time zones to two, for example, would effectively force many people to get up earlier "just because it's better commercially for a small percentage of the population," with associated risks to health and poor performance.
+And what if we abandoned all time zones or just use one, like those pilots who use UTC?
+Economist Steve Hanke from Johns Hopkins University in Baltimore, and astrophysicist Richard Conn, are proposing we all switch to Greenwich Mean Time. We still honor our body clock, but have the same time.
+Dr. Hanke explains: "As for daily life, nothing would change very much, except one big thing. Everyone in the world would be reading the same time on their watches at the same moment.
+"So, if sunrise was at 6 am in Atlanta on Eastern Standard Time, it would change to 11 am GMT. So, people in Atlanta who normally rise at 6am would rise at 11 under this hypothetical."
+Talk of sleeping in late. Dr. Clifford says people could eventually adjust to living this way, after a long time of confusion, but there's a possibility it could make jetlag worse for travelers. For example, London travelers to California will have to set their wake-up time to 3pm GMT.
+Given the calls for a tweak, is there a healthy balance? If applying 24 time zones in the 19th century helped economic growth, would it hurt to pare them down a little more in the 21st century?
+One thing's for sure, people aren't waiting on governments or conferences to decide. Whether it's Assam's tea farmers, Spanish office staff or the early-rising stock traders in California, people adjust their routines to fit their needs.
+Dr. Clifford says: "The more important question is not 'Should we merge the current time zones?' but "What time should we be encouraging people to get up in relation to sunrise and sunset and how can we discourage exposure to artificial light in the evenings?" Many of us are guilty of trying to pack too much into the day at both ends, but we suffer for it in the long term."
+So true. Working at a global news network myself, I've done my share of trying to outsmart my body clock. Now I've given up. Whether it's burning the midnight oil, working night shifts or traveling long distances, my body clock wins every time.
+</TEXT>
+</DOC>

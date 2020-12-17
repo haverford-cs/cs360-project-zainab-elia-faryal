@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO>1234</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/aqVKwQlS5xw/</URL>
+<TITLE>Huge solar flare delays rocket launch to Space Station</TITLE>
+<TIME>Thu, 09 Jan 2014 12:45:36 GMT</TIME>
+<ABSTRACT>
+Worries over space weather radiation caused by a huge solar flare unleashed from the sun have delayed by 24 hours the planned launch of a private cargo ship to the International Space Station.
+</ABSTRACT>
+<TEXT>
+Jan. 7, 2014: A giant cloud of solar particles, a coronal mass ejection, explodes off the sun, lower right, captured by the European Space Agency and NASA's Solar and Heliospheric Observatory.AP Photo/ESA, NASA
+WALLOPS ISLAND, Va. –  A huge solar flare unleashed by the sun has delayed by 24 hours a planned launch of a private cargo ship to the International Space Station due to worries over space weather radiation.
+The first major solar flare of 2014 erupted from a massive sunspot seven times the size of Earth on Tuesday after a series of mid-level sun storms in recent days. The event occurred as the commercial spaceflight company Orbital Sciences was preparing to launch a landmark cargo delivery flight to the space station Wednesday with its Antares rocket and robotic Cygnus spacecraft.
+"We are concerned about mission failure," Orbital's Chief Technical Officer Antonio Elias told reporters in a teleconference. The company is evaluating the extent of Tuesday's flare and the potential for solar radiation to interfere with critical systems like gyroscopes and avionics, he added. [Biggest Solar Flares of 2014 (Photos)]
+Elias said Orbital's Cygnus spacecraft is designed to withstand space weather events like Tuesday's flare during its weeks-long mission at the space station, so the vehicle isn't vulnerable to the same radiation concerns as its Antares rocket.
+- Orbital Sciences executive vice president Frank Culbertson
+Late Wednesday afternoon, Orbital officials confirmed that they will attempt to launch the Cygnus on Thursday, with the liftoff window opening at 1:07 p.m. EST (1807 GMT)
+Space weather delay Orbital Sciences has been monitoring space weather since Sunday, when the company began tracking an uptick in solar activity. But it was Tuesday's huge solar flare, which registered as an X1.2-class sun storm — the strongest class of solar flares the sun experiences — that led to the delay. It occurred just hours after an intense M7.2-class solar flare earlier in the day.
+The Antares rocket was awaiting a 1:32 p.m. EST (1832 GMT) launch today from a pad at NASA's Wallops Flight Facility when the decision to delay was made. It is the latest delay for the mission, which was initially delayed from a mid-December liftoff when astronauts on the station had to perform emergency cooling system repairs, and later postponed a day due to the sub-freezing temperatures affecting the United States this week. [Photos of Orbital's Antares Rocket at the Launch Pad]
+"Sometimes, you just don't get off the ground when you want to," Orbital Sciences executive vice president Frank Culbertson told reporters in a teleconference. "This isn't a failure in the system, it is a delay. But all we're really delaying is the success that's going to come when we execute this mission."
+After deliberating for much of Wednesday, Orbital Sciences officials decided to attempt a Thursday launch.
+"#Antares launch team decides to move forward with #Orb1 mission tomorrow for @NASA from @NASA_Wallops. 1:07 pm (EST) targeted lift-off time," the company wrote Thursday via Twitter.
+The solar flare currently poses no threat to the six astronauts and cosmonauts currently living on the International Space Station. The crew will not have to any measures to shelter themselves from the solar flare's space radiation, NASA spokesman Rob Navias, of the agency's Johnson Space Center in Houston, told SPACE.com in an email.
+Giant sunspot spouts solar flare By coincidence, the Jan. 7 solar flare occurred at 1:32 p.m. EST — exactly 24 hours before Wednesday's launch target times— from an active sunspot region known as AR1944. The sunspot facing Earth from the middle of the sun, as viewed from Earth, and is "one of the largest sunspots seen in the last 10 years," NASA officials said in a statement Tuesday.
+"The solar flux activity that occurred late yesterday afternoon resulted in an increasing level of radiation beyond what the Antares engineering team monitored earlier in the day," NASA officials added in a separate statement Wednesday. "Overnight, Orbital's engineers conducted an analysis of the radiation levels, but the Antares team decided to postpone the launch to further examine the potential effects of the space radiation on the rocket's avionics. The Cygnus spacecraft would not be affected by the solar event."
+The sun is currently in an active phase of its 11-year solar weather cycle. The current cycle, known as Solar Cycle 24, began in 2008.
+Orbital Sciences' Cygnus spacecraft had a 95-percent chance of good weather for the planned launch. That weather forecast deteriorates as the week progresses, with cloudy conditions dropping it to 75-percent chance of favorable weather on Thursday, and a 30-percent chance of good launch conditions on Friday. Rain is expected on Saturday, Culbertson said.
+Orbital Sciences officials said they are closely monitoring the fallout from Tuesday's solar flares.
+Orbital has a $1.9 billion contract with NASA to launch 40,000 lbs. of supplies to the International Space Station by 2016 using its Antares rockets and disposable Cygnus spacecraft. The first Antares and Cygnus test flights launched in 2013, with today's launch expected to mark the first official cargo delivery for Orbital.
+For the delivery flight, called Orb-1, the Cygnus spacecraft is carrying 2,780 pounds of gear for the International Space Station. That haul includes a space ant colony, 33 small cubesat satellites and 23 other experiments designed students from across the country.
+The Dulles, Va.-based Orbital Sciences is one of two companies with a NASA contract to deliver supplies to the space station. The other company is SpaceX of Hawthorne, Calif., which has launched two of 12 planned delivery missions for NASA under a $1.6 billion agreement. The third mission in SpaceX's schedule is expected to launch from Cape Canaveral Air Force Station in Florida on Feb. 22.
+</TEXT>
+</DOC>

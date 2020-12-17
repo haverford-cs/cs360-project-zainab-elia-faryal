@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO>774</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_living/~3/EzhSmPwS118/index.html</URL>
+<TITLE>Throwing teachers into the 'shark tank'</TITLE>
+<TIME>Mon, 03 Feb 2014 10:30:42 EST</TIME>
+<ABSTRACT>
+Some educators are remaking themselves as entrepreneurs, using their classroom experience to inspire and invent better ways to learn -- and even diving into a "Shark Tank"-style competition.
+</ABSTRACT>
+<TEXT>
+Brooklyn, New York (CNN) -- Eric Nelson took a deep breath and stepped into the projector's spotlight, microphone in hand. The 27-year-old Minnesota teacher faces classrooms of teens every day, but on this frigid January evening, the audience was different.
+"I'm a high school social studies teacher, and I had a problem," Nelson told more than 100 educators, entrepreneurs and technology enthusiasts in a crowded Brooklyn loft. "My students were disengaged when learning about the world in which they lived in an era in which global competence matters more than ever."
+Pondering this "existential crisis" one night, he turned to his fantasy football team, and inspiration struck: If competitive gaming could get him excited about the NFL, could it do the same for students with limited interest in the Middle East or Africa?
+The spark led to "Fantasy Geopolitics," an interactive game in which students draft countries to teams and earn points as their picks come up in the news. Nelson developed the game's first version in 2009, using it to lead discussions in his civics class.
+Today, "Fantasy Geopolitics" has a logo, a new website and automated scoring. Nelson teaches a "Fantasy Geopolitics" elective at North Lakes Academy Charter School in Forest Lake, Minnesota -- and he wants it to keep growing.
+If the audience in Brooklyn's "Silicon Alley" liked Nelson's idea, he could bring home $20,000 to scale "Fantasy Geopolitics" for distribution to other teachers.
+But competition was fierce: Three other teams -- a mix of educators, academics and entrepreneurs -- were pitching ideas to remedy common classroom headaches at this event billed as a "Shark Tank" for teachers. All had their sights on the monetary reward, but just as much, they wanted validation.
+Buzzwords abound for these teacher-entrepreneur hybrids. Some regard them as the change agents the profession -- and schools -- need. A 2011 book trumpeted "the coming age of the teacherpreneur" in which educators, not politicians or testing companies or accountants, are on the front lines of education innovation. They could split their time among classroom instruction, research and mentoring, pursuing other kinds of leadership roles while keeping a foot in the classroom.
+But educators are still figuring out how to embrace this dual identity. They might possess basic entrepreneurial traits such as creativity, passion, empathy and persistence, but what about the ability to raise funds? Or the hours or support needed to turn a great idea into a reality? That's where "teacherpreneur communities" such as 4.0 Schools, the organizer of this pitch night, come into play.
+The projects were in various stages of development; some are already being piloted in classrooms, while others need a few more months of development. That night in January, the competitors decorated their name tags with colored dots: red for educator, green for technologist, yellow for entrepreneur and -- in the scrappy spirit of the event's organizer -- blue for "miscellaneous badass."
+Nelson, the Minnesota teacher, chose the red.
+"I'm not there yet," he said, laughing, when asked why he hadn't opted for the other titles.
+"I consider myself a learner and explorer," he said. "I have a hard time thinking of myself as an entrepreneur."
+Teachers desperate for effective tools
+The nonprofit that brought Nelson and his competitors together sees plenty of overlap between educators and entrepreneurs. That's why 4.0 Schools puts them in the same room along with technologists in an attempt to create the most useful tools for educators.
+What qualifies teachers for entrepreneurialism is the source of their ideas -- their experience, said Matt Candler, founder of 4.0 Schools. The education incubator invited Nelson and three other teams to participate in its accelerator program in fall 2013. The teams spent three weeks at 4.0's New Orleans headquarters, refining their projects and putting them in the hands of teachers and students, followed by a month of follow-up. The program culminated in pitch night, where two prizes of $10,000 were up for grabs -- one awarded by a panel of seven teachers and the other from the audience.
+"It's a chance for them to prove themselves to the community they set out to serve," said Candler, a former teacher, who started 4.0 Schools in 2011.
+He said he believes the projects with the greatest potential come from educators who see themselves as entrepreneurs -- those who advance the profession by developing their own solutions instead of "waiting for superintendents to save the day," he said.
+But it takes a special kind of teacher to break out of the mindset that the profession engenders, where educators often see themselves as "victims of bureaucracy," Candler said.
+But education leaves plenty of room for more traditional paths to entrepreneurship.
+That's how the duo behind Borne Digital made it to 4.0's pitch night. While media executive and founder Daniel Fountenberry was volunteering at an elementary school in Harlem, he saw how teachers divided their classrooms based on reading ability, providing different books and assignments to each group.
+"It bothered me that students in the same class could not read and learn together," Fountenberry said. "The teacher was clearly overworked. She struggled to administer five different learning groups within one classroom. So I thought, what if a book could adapt to each child's needs, so the students could read and learn together?"
+From there, he began working on Books That Grow, an e-reader that adapts to each student's reading level based on periodic assessments, allowing children at different levels to read the same book.
+Fountenberry enlisted neuroscientist Jason Buhle, who attended Columbia University at the same time as him, for help applying relevant cognitive science to his product. The project appealed to Buhle as an extension of his research that could have a "direct and immediate impact on students," and a chance to improve his own skills for when he returns to the lecture hall.
+"You're surrounded by people who are motivated to help kids and help people learn," he said of the incubator experience. "It's a good feeling to be a part of that."
+If Borne Digital won the prize, Fountenberry told the judges and audience in Brooklyn, the money would go toward its library and making the application work better over weak Wi-Fi conditions.
+During another pitch, Maya Gat described how her path to 4.0's pitch night began in the classroom. She spent countless extra hours trying to figure out why some students struggled more than others, scanning academic journals for answers grounded in science.
+Turns out the answers were there, "but nobody thought to tell the teachers," Gat told the audience. She left her teaching job at Bronx Community Charter School in 2012 and began developing Branching Minds. The Web-based application lets users answer questions about areas where a child is struggling and generates a list of resources, from online tools and toys to classes and community resources, to help parents and teachers find necessary support systems.
+Is there a market for something such as Branching Minds? Yes, co-founder David Magier said. About 6.5 million students in the United States have identified disabilities and millions more go undiagnosed. Some teachers spend up to 15 hours a week searching for tools to help those students, and they might not work, he said.
+The prize of $20,000 could help make Branching Minds, but losing out wouldn't break it, said Gat, who identified herself as an educator and entrepreneur on her name tag. Branching Minds is close to rolling out a pilot program at a school in New Orleans; in the meantime, individual teachers are testing the product.
+Another competitor, former Teach for American educator and fellow Craig Jones, confessed to being nervous. It wasn't just about the money he stood to win for SmartestK12, an online platform that lets teachers transform documents into digital assignments. The competition could create exposure for his product, he said. Los Angeles, where he resides while completing his MBA, didn't have the robust education technology community he'd found in New York. Success here, he thought, could help him build a foundation for his idea elsewhere.
+"None of us are going against each other; all of us can succeed," he said the night before the competition as the teams rehearsed their presentations together. "Even if the solutions are competitive, the environment they've built here is collaborative."
+Teachers are already using subsets of SmartestK12 across the country. On pitch night, Jones told the audience that the prize money would support pilot programs in two California school districts, expanding its development team to improve the product.
+As the presentations closed, a front-runner wasn't clear.
+"I like it," a member of the audience whispered of Borne Digital. "They have my vote."
+"An amazing idea," one teacher judge said of Branching Minds. "Really, really intriguing."
+Finally, the panel of seven judges retired to a separate room to deliberate. The teacher judges would decide the winner based on criteria such as how easily a product could be incorporated into their classrooms, how much instruction they would need, whether it would help them work smarter or harder and what they would be willing to pay for it.
+Attendees roamed about, chatting and mingling at each team's table, leaving feedback on notes and casting their votes in glass jars.
+Soon, they would know the winners.
+'The ultimate productivity app for teachers'
+In the end, the vote was close. Branching Minds, the tool to help teachers identify solutions for children with learning disabilities, earned three votes. SmartestK12, the digital assignment submission tool, earned four -- and $10,000 from the teacher judges.
+It was a hard to choose, Robert Bajor, a biological sciences teacher in New Jersey, wrote in an e-mail afterward. SmartestK12 was best suited "to solve problems I have now," he said.
+Bryan Miltenberg, another judge who teaches seventh-grade humanities at the Scholars' Academy in Queens, New York, wrote that "each pitch had its own strengths and each one obviously solved important problems for someone, somewhere, but not everyone agreed on the promise of each pitch.
+"SmartestK12 is basically the ultimate productivity app for teachers because it can free them up from excessive time spent collecting and grading, which are 'low brainpower' activities, and give more time for creative planning and individualized response to students' needs."
+But his vote went to Branching Minds. It resonated with him because it made research accessible to teachers, and provided students with individualized recommendations.
+Branching Minds was also the audience favorite, taking home its own $10,000 prize.
+Borne Digital's creators said they have other funding prospects, including a Kickstarter campaign and a showing at the upcoming SXSWedu Conference.
+Nelson, the only one who developed his product solo, has also launched a Kickstarter campaign. Upon his return to Minnesota, he said, he would resume testing with his primary collaborators -- his students.
+He'd come a long way since 2009, he said, when "Fantasy Geopolitics" was born from a moment of frustration with his job. The technology was improving, and he was now able to sell the game to other teachers.
+Even if he won't call himself an entrepreneur yet, he's already changed as a teacher, said his wife, Ally Nelson. She'd watched him develop "Fantasy Geopolitics" but never saw his pitch until traveling to New York.
+"It fuels him," she said. "It's a complete 180 from where he was before."
+</TEXT>
+</DOC>

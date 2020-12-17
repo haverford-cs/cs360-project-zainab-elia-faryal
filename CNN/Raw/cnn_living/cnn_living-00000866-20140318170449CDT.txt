@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO>866</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_living/~3/WeLwEnPqg8s/index.html</URL>
+<TITLE>Tech: Feminism's friend and foe</TITLE>
+<TIME>Tue, 18 Mar 2014 18:04:49 EDT</TIME>
+<ABSTRACT>
+Technology is empowering women worldwide today, but some of the very technology that is moving us forward could also be setting us back.
+</ABSTRACT>
+<TEXT>
+Editor's note: Kelly Wallace is CNN's digital correspondent and editor-at-large covering family, career and life. She is a mom of two. Read her other columns and follow her reports at CNN Parents and on Twitter.
+(CNN) -- Imagine that Twitter existed when Gloria Steinem helped usher in the women's liberation movement of the 1960s and 1970s.
+How much louder a voice would she and other feminists of that time have had to bring attention to the unequal economic, political and social rights of women? Would we be further along on that still incomplete path to equal rights if they had the technological resources we have today?
+Suppose the Internet were available in the developing world several decades ago; how much more aware would girls have been about the world around them? How much more attention would have been paid to the harsh treatment of many girls worldwide?
+Or what if groups of anonymous online activists, who have exposed sexual abuse against young women, were around 20 or 30 years ago? How many rapes would not have been swept under the rug?
+OPINION: New women's issues, new challenges
+It's heady to think what modern connective technology could have done for women if it existed years ago and how it's empowering women and girls around the world today. At the same time, some of the very technology that is moving us forward could also be setting us back by making harassment and exploitation of women easier.
+That intersection of technology and empowerment was the subject of a panel I was honored to participate in during this year's South by Southwest Interactive Festival in Austin, Texas.
+Feminism 2.0
+"The worldwide web is the newest (and arguably most important) realm in our society that presents great opportunities and significant challenges for women," said Carla Franklin, the organizer of the panel, who calls herself a "2.0 feminist."
+"It's women using high-tech to make sure we have equal rights, making sure that as moms, as daughters, as granddaughters, as nieces, as aunts, we are empowering ourselves in the workplace, at home, in our lives in general, and we do that through technology," said Franklin, who is the founder and managing director of Carlin Solutions, a management consulting firm.
+Maggie Neilson is partner and chief executive officer of Global Philanthropy Group, an organization that helps charitable foundations, corporations and celebrities provide philanthropic services.
+OPINION: Millennial women are leaning in and stepping up
+"I think two of the strengths of technology on its own are relevant with women's issues; one is the ability to give voice and two is the ability to connect," Neilson said during the panel discussion.
+She cited as one example her company's work with Gucci last year, helping the company start an online platform called Chime for Change, which began as a global concert. The initiative, co-founded by Beyonce, Salma Hayek and Frida Giannini, an Italian fashion designer, helps bring together voices speaking out for girls and women around the world in the areas of education, health and justice.
+The impact of celebrities getting involved and putting the word out has led to extraordinary results, she said.
+"We've rescued sex trafficking victims. We've had young women in the United Kingdom receive mentoring help," said Neilson, who added that these feats were accomplished because the technology existed to connect people.
+Trying to take the concept to the next level and figure out how to use technology to really move the idea forward, Neilson's firm reached out to Twitter. The company hosted a hackathon for three days, where coders came from all over Silicon Valley and developed apps such as one to help get vaccinations to rural areas and another to help women who have been victims of sexual abuse on college campuses.
+"If you can do that in a couple of months' time, there really is no telling what technology can open up for all of us," she said.
+READ: No movement for women at the top in corporate America
+Tech taking 'the covers off' social issues
+Technology has certainly opened our eyes to the plight of women and girls around the world. Consider the impact social media had on galvanizing international outrage after the horrific and deadly gang rape of a young Indian medical student, or the power of Malala Yousafzai of Pakistan, an advocate for the right of girls to an education, who was targeted and shot by a gunman, and who has since become an international heroine.
+"Technology has definitely taken the covers off a lot of social issues when it comes to women," said panelist Tara Hughes, senior director of technical product management at Turner Broadcasting, CNN's parent company. "I think it's provided a voice for the voiceless, so we wouldn't know some of the things that were going on in countries like India or (in) the Middle East if it wasn't for some of those social networks."
+Franklin cited some of the rape cases in the United States brought to light by the group Anonymous or other groups that have "shed light on injustices." She also pointed to technology's help for women impacted by cyberbullying and cyberharassment.
+"Just to see the groundswell of support for victims because of ... awareness through the Internet is a critical thing," said Franklin, who was one of 50 women featured on More Magazine's "Fierce List" for her relentless efforts to hold accountable a cyberstalker who was harassing her.
+In many ways, technology has also helped women better balance work, family and outside interests. "We can now order groceries on the way home from work," said Franklin via e-mail. "We can run our own companies using virtual offices and virtual assistants."
+READ: Ladies, stop trying to be perfect!
+Neilson, who has two elementary school-age daughters, says technology gives her the flexibility she needs and values.
+"I can, as someone who owns my own business, go coach my daughter's basketball team and work at night," she said. "I can, as I'm on a flight home, be paying the bills and ordering stuff for their birthday party this weekend or whatever the case may be."
+How tech can also set women back
+But just as technology, in many ways, may be the best friend of feminism, it can also be its foe: That same technology that is empowering us can also push us down.
+During her work on sex trafficking, Neilson told me via e-mail, she heard johns discuss how "the combination of mobile phones and online want ad platforms have made it easier to order a girl than a pizza." Girls and women make up 75% of global human trafficking victims, according to a report by the United Nations Office on Drugs and Crime.
+In Saudi Arabia, the government has launched a system allowing officials to send text messages to men when female members of their family try to travel abroad alone, Neilson said.
+And then there is the issue of anonymity on the Internet, which has led to far too many cases of women being terrorized, ridiculed and bullied. The meanness can also sometimes come from surprising sources.
+READ: What changes with women in the boardroom?
+Any woman who has reported on or expressed an opinion about feminism online knows there can be a backlash, but sometimes that backlash comes from other feminists, which is harder to comprehend.
+"The way that women's groups and LGBT (lesbian, gay, bisexual and transgender) groups turn on each other in comments' sections is mind-boggling," said Neilson.
+Getting more women into tech
+Technology is no doubt here to say, and a challenge for women in the future is making sure more women have a seat at the table when it comes to developing the new technologies that will dramatically impact men's -- and women's -- lives.
+That is an even bigger challenge when you consider how the number of first-year undergraduate women interested in majoring in computer science dropped 79% between 2000 and 2011, according to the National Center for Women and Information Technology (Turner Broadcasting is an investment partner of NCWIT). At the same time, there are glimmers of hope when you hear that for the first time, the University of California at Berkeley reported more women than men enrolled in its introductory computer science course.
+READ: Tech firms now hiring more women than men
+Hughes of Turner Broadcasting, who remembers being one of only two females in her engineering classes during college, spends some of her time trying to expose young women and girls in Atlanta to careers in technology.
+"Every year a young lady says, 'Well, I don't want to major in math and science because my teacher told me such and such,'" said Hughes. Her response? "You have to just take whatever someone tells you and throw it out the window."
+"There is no box, that's the first thing we need to tell young women ... so they can forge their own path and then wreak havoc on the world in a beautiful way."
+How do you think technology has empowered women? Chime in below in the comments or tell Kelly Wallace on Twitter or CNN Living on Facebook.
+</TEXT>
+</DOC>

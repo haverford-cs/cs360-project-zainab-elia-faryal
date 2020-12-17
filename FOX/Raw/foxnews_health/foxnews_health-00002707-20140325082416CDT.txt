@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>2707</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/BMvcjhQ4NCY/</URL>
+<TITLE>An alternative to the colonoscopy? Researchers on the hunt for new colon cancer tests</TITLE>
+<TIME>Tue, 25 Mar 2014 13:24:16 GMT</TIME>
+<ABSTRACT>
+With a person’s 50th birthday comes a special rite of passage: The need for a colonoscopy.
+</ABSTRACT>
+<TEXT>
+With a person’s 50th birthday comes a special rite of passage: The need for a colonoscopy.
+Though rates of colonoscopies have improved over the past 10 years, researchers are searching for less expensive, easier methods by which to test people for colon cancer, the New York Times reported.
+Colonoscopies, which involve inserting a tube into a person’s rectum to search for precancerous or cancerous cells, are expensive and require patients to take time off of work, making the procedure inaccessible to some portions of the population.
+Between 2000 and 2010, the number of Americans receiving colonoscopies nearly tripled and deaths from colon cancer have declined. But now, doctors are hoping that new screening methods may help improve screening rates and decrease the number of deaths from colon cancer even further.
+In a new study published in The New England Journal of Medicine, researchers studied a new test called the Cologuard, which analyzes DNA from intestinal cells shed in stool to look for cancer, the New York Times reported. If irregularities are found in the sample, patients would then be sent for a colonoscopy.
+For the study, 10,000 people with an average risk for colon cancer underwent both the experimental Cologuard DNA test and the already-existing fecal immunochemical test (FIT), which detects for blood in stool. Each participant also underwent a colonoscopy.
+Overall, the Cologuard test successfully detected 92 percent of all cancers found by colonoscopies, while the FIT only detected 74 percent of cancers. The Cologuard test also detected 42 percent of the 757 potentially precancerous polyps found in colonoscopies, while the FIT only detected 24 percent of polyps.
+While more accurate, the Cologuard test also had some drawbacks, including that it produced more false positive results than the FIT. The Cologuard test also requires patients to collect the contents of an entire bowel movement – up to two-thirds of a pound – for laboratory testing, while the FIT only requires patients to use a small brush to collect a small amount of stool from the toilet.
+An advisory panel of the U.S. Food and Drug Administration is expected to review the Cologuard test this week. While some experts, such as Dr. Robert A. Smith, senior director for cancer control at the American Cancer Society, think the new test could be a beneficial new option for people seeking colon cancer screening, others disagree.
+Dr. David A. Rothenberger, chairman of the department of surgery at the University of Minnesota,  told the New York Times he has concerns about the Cologuard test being less effective than a colonoscopy.
+Click for more from The New York Times.
+</TEXT>
+</DOC>

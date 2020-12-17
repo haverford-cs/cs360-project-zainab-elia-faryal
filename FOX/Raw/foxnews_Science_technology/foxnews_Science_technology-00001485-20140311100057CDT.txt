@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>1485</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/kxDIAJzFrO8/</URL>
+<TITLE>VR system lets you explore your brain in real-time</TITLE>
+<TIME>Tue, 11 Mar 2014 15:00:57 GMT</TIME>
+<ABSTRACT>
+What if it were possible to explore your brain in virtual reality, watching your thoughts flashing before your eyes? A neuroscientist and a videogame developer have created a way to do precisely that.
+</ABSTRACT>
+<TEXT>
+Philip Rosedale, creator of the game Second Life, and Adam Gazzaley, a neuroscientist at the University of California San Francisco, demonstrated their "glass brain" here at the South by Southwest (SXSW) Interactive festival on March 10, 2014.Tanya Lewis for Live Science
+AUSTIN, Texas –  What if it were possible to explore your brain in virtual reality, watching your thoughts flashing before your eyes? A neuroscientist and a videogame developer have created a way to do precisely that.
+A new system developed by Philip Rosedale, creator of the game Second Life, and Adam Gazzaley, a neuroscientist at the University of California San Francisco, combines brain scanning, brain recording and virtual reality to allow a user to journey through a person's brain in real-time. Rosedale and Gazzaley demonstrated this "glass brain" here at the South by Southwest (SXSW) Interactive festival Monday.
+- Gazzaley said.
+"We've never been able to step inside the structures [of the brain] and see it in this way," Gazzaley said. "It's biofeedback on the next level."
+The brain in question actually belonged to Rosedale's wife Yvette, who was wearing a cap studded with electroencephalogram (EEG) electrodes that measure differences in electric potential in order to record brain activity. Gazzaley's team had previously scanned Yvette's brain using magnetic resonance imaging (MRI) to reveal its underlying structure and tangle of neural fibers. [3D Images: Exploring the Human Brain]
+During the demo, Rosedale wore a virtual reality headset through which he could explore his wife's brain in 3D, as flashes of light displayed her brain activity from the EEG. A projection screen showed a similar view to the audience. When the brain came on the screen, the buzz of excitement in the room was audible.
+The glass brain didn't actually show what Yvette was thinking the EEG signals merely painted a picture of her brain activity more broadly. But Gazzaley's team ultimately hopes to get closer to decoding brain signals and displaying them using the virtual reality system.
+Being able to literally watch your own brain activity is not only fun, it has therapeutic potential. For example, people with traumatic brain injury or other neurological problems could visualize how their condition is affecting their brain activity, and learn to correct it.
+So far, the team has focused on visualizing one brain at a time. But Rosedale foresees a day when two people could interact virtually in a way that telegraphs their inner state.
+People often speak of interactions in virtual reality as being impoverished compared with those in the real world, Rosedale said. But, he asked, what if you could communicate in virtual reality in a way that makes real life impoverished?
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+At SXSW 2014, secrets, spying and chef Watson
+</TEXT>
+</DOC>

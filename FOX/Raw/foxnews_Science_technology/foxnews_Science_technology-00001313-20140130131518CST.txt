@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO>1313</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/0c6z5jn-E-k/</URL>
+<TITLE>Air Force's mysterious X-37B space plane passes 400 days in orbit</TITLE>
+<TIME>Thu, 30 Jan 2014 19:15:18 GMT</TIME>
+<ABSTRACT>
+The U.S. Air Force's unmanned X-37B space plane has now circled Earth for more than 400 days on a hush-hush mission that is creeping closer and closer to the vehicle's orbital longevity record.
+</ABSTRACT>
+<TEXT>
+An undated image released by the U.S. Air Force showing the X-37B spacecraft.AP
+The U.S. Air Force's unmanned X-37B space plane has now circled Earth for more than 400 days on a hush-hush mission that is creeping closer and closer to the vehicle's orbital longevity record.
+The X-37B spacecraft launched on Dec. 11, 2012, meaning that it has been aloft for 413 days as of Tuesday, Jan. 28, on the third mission for the program, which is known as OTV-3 (short for Orbital Test Vehicle-3). The endurance record is 469 days, set during OTV-2, which blasted off in 2011.
+OTV-2 and OTV-3 have utilized different X-37B vehicle (the Air Force currently has two vehicles). The space plane currently zipping around Earth also flew the program's inaugural OTV-1 mission, which stayed in space for 225 days after launching in 2010. [See photos from the X-37B space plane's OTV-3 mission]
+OTV-1 and OTV-2 both touched down at California's Vandenberg Air Force Base. But the Air Force and Boeing, which builds the X-37B, are eyeing NASA's Kennedy Space Center (KSC) in Florida as a landing site for future missions.
+Coming home to Florida Boeing announced this month that it will expand its presence in Florida by adding technology, engineering and support jobs at KSC.
+As part of that package, investments will be made to convert the former space shuttle facility, Orbiter Processing Facility (OPF-1), to a structure that would enable the U.S. Air Force "to efficiently land, recover, refurbish, and re-launch the X-37B Orbital Test Vehicle (OTV), a 29-foot-long, reusable unmanned spacecraft," according to Boeing.
+Construction will be completed by the second quarter of 2015, said Boeing spokeswoman Diana Ball.
+The X-37B vehicles are being provided to the Air Force by Boeing's Space & Intelligence Systems. What payloads the robotic space planes carry on their confidential cruises remains classified. [Space Planes: Evolution of the Winged Spaceship (Infographic)]
+Renovation in readiness What changes will have to be made to the space shuttle landing strip, radar, tracking and guidance hardware were not immediately clear. It is known that an army of workers had to give the Vandenberg Air Force Base runway a renovation in readiness to handle the incoming X-37B.
+For one, that retrofit involved replacing hundreds of plates along the flight line’s centerline to handle the spacecraft's unique landing wheel design, according to the Santa Maria Times.
+As SPACE.com reported in September 2012, the Air Force had begun conducting taxi and braking tests as part of an ongoing appraisal to land X-37B vehicles at KSC. The prospect of returning the robotic space plane to the KSC landing strip — which was used by NASA’s now-retired space shuttle fleet — was viewed as a cost-saving measure.
+There was consideration of consolidating landing, refurbishment and launch operations at KSC or at the neighboring Cape Canaveral Air Force Station in an effort to save money, Major Tracy Bunko — then posted at the Pentagon's Air Force press desk — said at the time.
+"We are seeking to leverage previous space shuttle investments and are investigating the possibility of using the former shuttle infrastructure for X-37B OTV landing operations," Bunko said, as reported in the 2012 SPACE.com story.
+Those investigations were in an early state of review, Bunko said at the time, "but could potentially be used as early as for the landing of OTV-3."
+Interestingly, the Federal Aviation Administration (FAA) announced in late December its selection of six locations as Unmanned Aerial Systems (UAS) test sites. Florida was not identified as one of those six sites, even though the robotic X-37B could be viewed as one of the most expensive and national security- sensitive UAS vehicles in operation today.
+Faster turnaround time The Florida consolidation work suggests more fine-tuning of the X-37B program, said Joan Johnson-Freese, professor of national security affairs at the Naval War College in Newport, R.I.
+"It appears to me that the Air Force intended with the third mission to push the envelope of what the X-37B could do in terms of time-in-space and that they are happy with the results of the mission," she told SPACE.com.
+The X-37B profile has been that of a technology testbed that the Air Force could continue or terminate depending on what happened, Johnson-Freese said. "Moving operations to Florida will allow for more missions with likely another test parameter they are looking at," she said.
+"If the move to Florida means that the Air Force sees a future for the space plane program, it’s a good time for Congress and the Administration to ask for a persuasive rationale for spending that money," said Laura Grego, senior scientist in the global security program at the Union of Concerned Scientists in Cambridge, Mass.
+"They should be asking about what kinds of things that we want done in space that the space plane can do better or more efficiently or cheaper," Grego said. "It’s not clear to me there are any."
+Continuing commitment to the X-37B "It's obvious that the shuttle hangar is surplus. The X-37B is much smaller and would not need anything near that size," said Mark Gubrud, a physicist in Chapel Hill, North Carolina and a member of the International Committee for Robot Arms Control, a group dedicated to limiting military robotics.
+Gubrud said that there does seem to be a continuing commitment to the X-37B program.
+"I can only guess why, but I'm guessing they like what they're doing with it, i.e. the missions to test equipment, materials, whatever, and recover in a fairly controlled and predictable way, even if the costs are rather high in comparison with alternatives such as parachute capsule recovery," Gubrud told SPACE.com.
+U.S. military space groups are also very interested in hypersonic flight and vehicles such as space planes skipping around the upper atmosphere, Gubrud said. "So that keeps this program alive, even though it’s costly and not leading us to any revolution," he said. [Pictures: Breaking the Sound Barrier]
+In Gubrud’s view, the X-37B is a scaled-down NASA space shuttle minus the astronaut life support and engines. "Even its orbital maneuver capability is pitifully weak. If they wanted to make it a weapon, the first thing would be to give it a serious main engine," he said.
+Bringing the space plane back Author Erik Simonsen discussed the U.S. military's cancelled X-20 Dyna-Soar in the early 1960s and its relevance to the current X-37B program. Simonsen wrote "Project Terminated — Famous Military Aircraft Cancellations of the Cold War and What Might Have Been," published in 2013.
+"During the height of the Cold War, development of the USAF/Boeing X-20 Dyna-Soar manned spaceplane offered the U.S. a unique opportunity. A small fleet of operational manned, single-pilot, reusable spacecraft would have dramatically accelerated our aerospace technology at a critical time in history," Simonsen said.
+In addition, the Dyna-Soar program would have provided the U.S. a cost-effective reusable spacecraft, Simonsen said, pointing to on-demand launch capability, direct return to base from orbit and superior orbital inclination/altitude maneuverability.
+"Conducting overhead reconnaissance of the Soviet Union without being accurately predicted and tracked was a critical requirement. At the time, film canister retrieval from orbit was not always reliable, and the X-20 would have returned its payload to its launch base for immediate analysis," Simonsen said.
+Lessons learned from the X-20, Simonsen said, could have been applied to the much larger NASA space shuttle program that was designed during the 1970s. Unfortunately, he said, with the X-20 prototype 50 percent complete, the tooling in place for nine additional spaceplanes — and Air Force astronauts in training — the Dyna-Soar program was cancelled in December 1963 by then-Secretary of Defense Robert McNamara.
+Since the X-37B program was transferred to the U.S. Air Force Rapid Capabilities Office, much of the program and mission is now classified, Simonsen said.
+"Today, the X-37B OTV combines all of the performance attributes of a winged spaceplane with recent advances in autonomous control," Simonsen told SPACE.com.
+Simonsen noted the 7-foot by 4-foot payload bay on the X-37B for on-orbit experiments, and the ability to return those experiments to Earth. Solar panels charge the spacecraft’s lithium-ion batteries, allowing for extended orbital operations, he said.
+"Even though many decades have passed since the ill-fated X-20, it's gratifying to see today’s Air Force leaders as visionaries," Simonsen concluded.
+Leonard David has been reporting on the space industry for more than five decades. He is former director of research for the National Commission on Space and is co-author of Buzz Aldrin's new book "Mission to Mars – My Vision for Space Exploration" published by National Geographic. Follow us @Spacedotcom, Facebook or Google+. Originally published on SPACE.com.
+Inside the Air Force's secret space plane
+</TEXT>
+</DOC>

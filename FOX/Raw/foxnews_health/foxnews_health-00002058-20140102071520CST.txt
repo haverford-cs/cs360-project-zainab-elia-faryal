@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2058</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/AG7D7jqzQmU/</URL>
+<TITLE>Texting, dialing while driving raises crash risk</TITLE>
+<TIME>Thu, 02 Jan 2014 13:15:20 GMT</TIME>
+<ABSTRACT>
+A sophisticated, real-world study confirms that dialing, texting or reaching for a cellphone while driving raises the risk of a crash or near-miss, especially for younger drivers. But the research also produced a surprise: Simply talking on the phone did not prove dangerous, as it has in other studies.
+</ABSTRACT>
+<TEXT>
+A sophisticated, real-world study confirms that dialing, texting or reaching for a cellphone while driving raises the risk of a crash or near-miss, especially for younger drivers. But the research also produced a surprise: Simply talking on the phone did not prove dangerous, as it has in other studies.
+This one did not distinguish between handheld and hands-free devices - a major weakness.
+And even though talking doesn't require drivers to take their eyes off the road, it's hard to talk on a phone without first reaching for it or dialing a number -things that raise the risk of a crash, researchers note.
+Earlier work with simulators, test-tracks and cellphone records suggests that risky driving increases when people are on cellphones, especially teens. The 15-to-20-year-old age group accounts for 6 percent of all drivers but 10 percent of traffic deaths and 14 percent of police-reported crashes with injuries.
+For the new study, researchers at the Virginia Tech Transportation Institute installed video cameras, global positioning systems, lane trackers, gadgets to measure speed and acceleration, and other sensors in the cars of 42 newly licensed drivers 16 or 17 years old, and 109 adults with an average of 20 years behind the wheel.
+The risk of a crash or near-miss among young drivers increased more than sevenfold if they were dialing or reaching for a cellphone and fourfold if they were sending or receiving a text message. The risk also rose if they were reaching for something other than a phone, looking at a roadside object or eating.
+Among older drivers, only dialing a cellphone increased the chances of a crash or near miss. However, that study began before texting became more common, so researchers don't know if it is as dangerous for them as it is for teens.
+Engaging in distractions increased as time went on among novice drivers but not among experienced ones.
+The National Institutes of Health and the National Highway Traffic Safety Administration paid for the research. Results are in Thursday's New England Journal of Medicine.
+David Strayer, a University of Utah scientist who has done research on this topic, said the findings that merely talking on a phone while driving was not dangerous is "completely at odds with what we found."
+The study methods and tools may have underestimated risks because video cameras capture wandering eyes but can't measure cognitive distraction, he said.
+"You don't swerve so much when you're talking on a cellphone; you just might run through a red light," and sensors would not necessarily pick up anything amiss unless a crash occurred, Strayer said.
+As for texting, "we all agree that things like taking your eyes off the road are dangerous," he said.
+At least 12 states ban the use of hand-held cellphones while driving and 41 ban text messaging. All cellphone use is banned by 37 states for novice or teen drivers, says the National Conference of State Legislatures, citing information from the Governor's Highway Safety Administration.
+</TEXT>
+</DOC>

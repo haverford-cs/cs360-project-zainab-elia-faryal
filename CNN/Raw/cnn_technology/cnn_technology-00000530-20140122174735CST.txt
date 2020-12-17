@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>530</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_tech/~3/M-zk09Xkfk4/index.html</URL>
+<TITLE>'123456' tops list of worst passwords</TITLE>
+<TIME>Wed, 22 Jan 2014 18:47:35 EST</TIME>
+<ABSTRACT>
+Perhaps you chuckled at the irony of making your password "password."
+</ABSTRACT>
+<TEXT>
+(CNN) -- Perhaps you chuckled at the irony of making your password "password." Or you thought it was the right place to express affection for your favorite primate by choosing "monkey."
+More likely, you were lazy and wanted something easy to remember, like "123456."
+If you're using any of these passwords, change them.
+Those are some of the most common passwords, according to a new list released by security company Splash Data. The group comes up with the top 25 list based on lists of passwords that were stolen and posted publicly in the previous year.
+This year, the most common password is "123456," which unseated last year's No. 1, "password."
+In addition to strings of digits in numerical order and simple words and letters like "qwerty" and "admin," there are a few phrases on the list. The sweet and common "iloveyou" is beloved by hackers, as is "letmein," "trustno1" and "password1."
+A string of high-profile breaches in the past year may serve as a wake-up call to the consumers who use these passwords. Many perhaps assume they would never be the target of hackers, so there's no reason to enact strict, or even common-sense, security measures.
+This year's list was clearly skewed by the large number of Adobe passwords included in the round-up, as indicated by the presence of "adobe123" and "photoshop" on the list at number 10 and 15 respectively. Adobe experienced a sizable security breach in 2013 that affected 38 million users.
+We can deduce that choosing a password named after the product for which it's used is a bad idea. Also avoid using your own name or other obvious words someone who knows you could guess (the name of your husband, child, cat).
+To beef up your defenses, immediately change any of your own passwords that show up on the list. Combine random words instead of using common phrases, and if you include numbers or symbols, don't just substitute 3s for your Es. If you're ready to take your security to the next level, don't use the same password for all sites.
+Also, when possible, turn on two-factor identification, in which access is granted based on a password and something else, such as a specific image.
+</TEXT>
+</DOC>

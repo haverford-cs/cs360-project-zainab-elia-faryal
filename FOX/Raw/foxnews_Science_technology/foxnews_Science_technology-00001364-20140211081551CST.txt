@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>1364</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/EXviLNuez5I/</URL>
+<TITLE>NASA photos show possible water flows on Mars</TITLE>
+<TIME>Tue, 11 Feb 2014 14:15:51 GMT</TIME>
+<ABSTRACT>
+New clues are emerging about the mysterious streaks that appear on Mars' surface during warm weather, though scientists still can't say for sure that they're caused by flowing water.
+</ABSTRACT>
+<TEXT>
+This image combines a photograph of seasonal dark flows on a Martian slope with a grid of colors based on data collected by a mineral-mapping spectrometer observing the same area. Image released Feb. 10, 2014.NASA/JPL-Caltech/UA/JHU-APL
+Dark, seasonal flows emanate from bedrock exposures at Palikir Crater on Mars in this image from the High Resolution Imaging Science Experiment (HiRISE) camera on NASA's Mars Reconnaissance Orbiter. Three arrows point to bright, smooth fans lefNASA/JPL-Caltech/Univ. of Arizona
+New clues are emerging about the mysterious streaks that appear on Mars' surface during warm weather, though scientists still can't say for sure that they're caused by flowing water.
+The marks, known as recurring slope lineae (RSL), snake down some crater walls and other inclines when the mercury rises on the Red Planet. New research finds seasonal changes in iron minerals at RSL sites, suggesting that brines containing an iron antifreeze may flow there from time to time — but direct evidence of water remains elusive.
+"We still don't have a smoking gun for existence of water in RSL, although we're not sure how this process would take place without water," Lujendra Ojha, a graduate student at Georgia Tech in Atlanta, lead author of two recent RSL studies, said in a statement. (Ojha discovered the RSL in 2011, while an undergraduate at the University of Arizona.) [Photos: The Search for Water on Mars]
+Ojha and his colleagues studied images of 13 RSL sites taken by the Compact Reconnaissance Imaging Spectrometer for Mars (CRISM), an instrument aboard NASA's Mars Reconnaissance Orbiter (MRO). They saw relatively high concentrations of iron minerals at most of the sites.
+"Just like the RSL themselves, the strength of the spectral signatures varies according to the seasons," Ojha said. "They're stronger when it's warmer and less significant when it's colder."
+Many scientists think the recurring slope lineae are created by water flowing just beneath the Martian surface. This water — which would leave the iron antifreezes and other minerals in its wake — likely contains salts that lower its freezing point significantly, allowing it to stay liquid despite frigid Red Planet temperatures.
+While the researchers didn't see any spectral signatures of water in the CRISM images, that doesn't rule out the substance's presence at RSL sites, scientists said.
+For example, the observations were made exclusively in the afternoon and thus could have missed surface water appearing in the morning. Further, each CRISM image observed a large area, possibly making it tough to spot signs of water in the narrow RSL streaks.
+The researchers reported these results late last year in the journal Geophysical Research Letters. In another study, due out next month in the journal Icarus, a team led by Ojha analyzed pictures snapped by MRO and NASA's Mars Odyssey orbiter, looking for patterns in RSL formation on the Red Planet.
+The team found 200 locations where conditions seemed ideal for seasonal streaks — areas in the southern mid-latitudes with rocky cliffs — but found only 13 with actual RSL marks.
+"The fact that RSL occur in a few sites and not others indicates additional unknown factors such as availability of water or salts may play a crucial role in RSL formation," Ojha said.
+Unraveling the mystery of Mars' seasonal dark lines could reveal exciting things about the Red Planet, such as its potential to host life as we know it, NASA officials said.
+"The flow of water, even briny water, anywhere on Mars today would be a major discovery, impacting our understanding of present climate change on Mars and possibly indicating potential habitats for life near the surface on modern Mars," MRO project scientist Richard Zurek, of NASA's Jet Propulsion Laboratory in Pasadena, Calif., said in a statement.
+In pictures: ISON, 'comet of the century' no more?
+</TEXT>
+</DOC>

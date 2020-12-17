@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>1444</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/hHDwLFJqSHs/</URL>
+<TITLE>Ancient gladiator school discovered in Austria</TITLE>
+<TIME>Fri, 28 Feb 2014 12:45:30 GMT</TIME>
+<ABSTRACT>
+An ancient Roman gladiator school has been discovered in Austria, complete with cell blocks, a training arena and a bath complex, archaeologists say.
+</ABSTRACT>
+<TEXT>
+This virtual reconstruction shows the gladiator school as viewed from the south.© Michael Klein
+An ancient Roman gladiator school has been discovered in Austria, complete with cell blocks, a training arena and a bath complex, archaeologists say.
+The buried remains of the school at the site of Carnuntum, near Vienna were detected not through excavations but through remote-sensing techniques. Based on these findings, researchers reconstructed the gladiator center in virtual 3D models.
+Archaeologists have been studying Carnuntum, which is on the south bank of the River Danube, for more than 100 years. Previous excavations at the ancient military city had revealed parts of the civilian town, the legionary fortress and an amphitheater. [See Images of the Ancient Gladiator School and Recreation]
+The newly discovered gladiator school, or ludus, covers 30,138 square feet, and the building complex is arranged around a central courtyard. The school was built during the second century A.D., Wolfgang Neubauer of the University of Vienna told Live Science.
+"The most prominent feature inside the courtyard is a free-standing circular structure 19 m [62 feet] in diameter, which could be interpreted as the training arena for the gladiators," the authors write in the journal Antiquity.
+The researchers, led by archaeologist Neubauer, say this arena would have been surrounded by wooden spectator stands set on stone foundations, which were clearly visible in the ground-penetrating radar data. These measurements also revealed something like a post-hole in the middle of the arena.
+"This might be the foundation of the palus, a wooden pole used for exercising blows with the sword and body slams with the shield," Neubauer and colleagues wrote.
+In the southern wing of the building complex, the researchers detected cell blocks that each covered only 32 to 75 square feet. Cells of a similar design have been found at the barracks at the ludus magnus, the gladiatorial school close to the Flavian amphitheater in Rome, the archaeologists wrote.
+Other rooms along the western wing at Carnuntum were more spacious and were perhaps even decorated with tile floors. The researchers wrote that these chambers "were most likely reserved for the highest ranking gladiators or the instructors, many of whom probably were drawn from the ranks of senior and ex-gladiators."
+The site also contains evidence of the living quarters of the school's owner, or the lanista, and a bath complex, where the gladiators could recover from their harsh training, the report says.
+The archaeologists found the outline for the gladiator school over the last few years using non-invasive techniques like aerial photography, ground-penetrating radar and magnetometer surveys. The team also analyzed the area using an electromagnetic induction (EMI) sensor attached to a four-wheeler ATV. This method allows researchers to transmit an electromagnetic field to create currents in the soil. By determining the soil's electrical conductivity and its magnetic susceptibility, scientists can find out if the earth underneath has ever been heated, revealing the location of hidden bricks (which are made by heating clay).
+Drawing on this data, the archaeologists built a 3D models demonstrating what the site might have looked like in ancient times, as thisYouTube video shows.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

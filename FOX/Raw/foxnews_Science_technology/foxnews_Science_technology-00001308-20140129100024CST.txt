@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>1308</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/Wotj9aWyeVw/</URL>
+<TITLE>Why do we itch? Scientists seek to solve the maddening mystery</TITLE>
+<TIME>Wed, 29 Jan 2014 16:00:24 GMT</TIME>
+<ABSTRACT>
+The sensation of feeling itchy is pretty universal, and yet scientists still don't completely understand the complex processes that give us the urge to scratch.
+</ABSTRACT>
+<TEXT>
+Why do we itch? Scientists still can't explain the near universal situation -- but new research aims to scratch the surface.Orrling and Tomer S / Wikipedia
+The sensation of feeling itchy is pretty universal, and yet scientists still don't completely understand the complex processes that give us the urge to scratch.
+Itching can be annoying, but like pain, a little bit can be a good thing. Itching can help people learn to avoid dangers such as mosquitoes carrying malaria, or poison ivy. But many people suffer from chronic itch, which has no direct cause and can be a debilitating condition with few options for relief.
+"When people hear about itch, they think about a mosquito bite or chicken pox, which is irritating but very temporary," said Diana Bautista, a cell and developmental biologist at the University of California, Berkeley, who wrote an article summarizing our current understanding of itch, published Tuesday in the journal Nature Neuroscience.
+Bautista said people often laugh when she tells them she studies itch. But "from a clinical perspective, chronic itch is a really widespread problem, and incredibly difficult to treat," she told LiveScience. [7 Weirdest Medical Conditions]
+Itch, or ouch? Like the feelings of touch, temperature and pain, itching involves a complex system of molecules, cells and circuits reaching from the skin into the brain. Most over-the-counter treatments for itching target histamine, a compound involved in inflammation. But many kinds of itch can't be treated with antihistamines or other available treatments.
+Skin conditions such as eczema and psoriasis, systemic conditions including multiple sclerosis, and even some cancers, can all lead to chronic itch, which affects about 10 percent of the world's population at some point during their lives, Bautista said.
+Recent research on itch is revealing its mysterious relationship with pain, according to the paper. For example, scientists have found that the reason scratching an itch offers relief is because scratching causes pain, which suppresses the itch, at least temporarily. They've also found that the cells and circuits that transmit pain and itch overlap somewhat.
+But although pain can block out itch, some painkillers such as morphine can cause itchiness. And some things that cause itch also cause pain, such as capsaicin, the ingredient that makes chili peppers hot.
+Scientists now have several theories about this odd connection between pain and itch. One theory suggests the same set of neurons produce an itch when activated slightly, but result in pain when activated fully. Alternatively, different cells might trigger pain and itch signals, but the signals might interact in the spinal cord. There is some evidence for both ideas, Bautista said.
+Itching to understand But itch and pain don't always go together.
+For example, the antimalarial drug chloroquine is known to have a side effect of severe itch. In one recent study, scientists bred mice to have nerves that lacked a receptor that responds to chloroquine. These mice didn't show signs of itching, but they did have normal responses to pain. The findings suggest these nerve cells are required for itch, but not necessarily for pain, the researchers said.
+Many itch receptors found in mice are also found in humans. Often, researchers take molecules known to play a role in chronic itch in humans, and study the effects in mice that lack these molecules.
+From this research, scientists have identified some of neurons and signals involved in chronic itch, but the search for treatments continues.
+"It's an exciting time, because there have been a lot of basic discoveries in the last five years," Bautista said.
+Some promising treatment approaches involve targeting receptors on immune cells, which may be somewhat effective against forms of itch that can't be treated with anti-histamines.
+"As we learn more about the system, and which cell types we should target," Bautista said, "I think we're going to be able to treat chronic itch more effectively."
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

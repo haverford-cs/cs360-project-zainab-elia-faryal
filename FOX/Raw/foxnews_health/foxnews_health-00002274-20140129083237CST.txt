@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>2274</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/NPw0be4BvMs/</URL>
+<TITLE>Simple breath test may help diagnose lung cancer, study finds</TITLE>
+<TIME>Wed, 29 Jan 2014 14:32:37 GMT</TIME>
+<ABSTRACT>
+An easy breath test may be able to indicate if a person has early-stage lung cancer.
+</ABSTRACT>
+<TEXT>
+An easy breath test may be able to indicate if a person has early-stage lung cancer, HealthDay News reported.
+In a new study, researchers analyzed the exhaled breath of people who had suspicious lesions on their lungs.  Using a special device developed at the University of Louisville in Kentucky, the researchers looked for levels of four cancer-specific substances called “carbonyls.”
+Elevated levels of three out of the four carbonyls predicted lung cancer in 95 percent of the patient’s tests.  Normal levels of these carbonyls were associated with a noncancerous growth in 80 percent of patients.
+"Instead of sending patients for invasive biopsy procedures when a suspicious lung mass is identified, our study suggests that exhaled breath could identify which patients" need to seek surgery immediately, study author Dr. Michael Bousamra, of the University of Louisville, said in a press release.
+Click for more from HealthDay News.
+</TEXT>
+</DOC>

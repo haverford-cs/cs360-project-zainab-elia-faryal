@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2162</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/ToC2x5eidms/</URL>
+<TITLE>Traditional Chinese medicine may reduce risk of diabetes</TITLE>
+<TIME>Thu, 16 Jan 2014 18:00:02 GMT</TIME>
+<ABSTRACT>
+New research shows Chinese herbal medicine may hold promising solutions for people with prediabetes, reports a study in .
+</ABSTRACT>
+<TEXT>
+New research shows Chinese herbal medicine may hold promising solutions for people with prediabetes, reports a study in The Journal of Clinical Endocrinology & Metabolism.
+A prediabetes diagnosis indicates that an individual has elevated blood sugar levels, but his or her glucose levels are not high enough to have developed Type 2 diabetes.
+Traditional Chinese medicine (TCM) focuses on establishing balance in the body in order to treat disease, according to study author Dr. Chun-Su Yuan, director of the Tang Center for Herbal Medicine Research at the University of Chicago.
+“It’s a more holistic approach, using medicine to change the overall body function instead of very specifically on symptoms and organs [like Western medicine],” Yuan, who is also the editor-in-chief of the American Journal of Chinese Medicine, told FoxNews.com.
+For this study, researchers combined TCM’s traditional principles with modern medicine by identifying herbs that have proven effective in treating people with diabetes.
+In a double-blind, randomized, placebo-controlled study, 389 participants with impaired glucose tolerance (a risk factor for Type 2 diabetes) were tested every three months to monitor whether they had developed diabetes – or if they had experienced a restoration of normal glucose tolerance (NGT), meaning they were no longer at risk for diabetes.
+Half of the participants were treated with a Chinese herbal mixture called Tianqi. Tianqi is a capsule containing 10 Chinese herbal medicines including Astragali Radix and Coptidis Rhizoma, which have been previously shown to improve glucose levels. All subjects received dietary education and were advised to maintain their usual physical fitness routines.
+Overall, the study found that Tianqi appeared to reduce the risk of diabetes among study participants by 32.1 percent, compared to the placebo group. At the end of the study, 125 subjects (63.13 percent) in the Tianqi group had achieved normal glucose tolerance, compared to only 89 (46.6 percent) in the placebo group. Among the participants who went on to develop diabetes, 56 subjects (29.32 percent) were in the placebo group, compared to only 36 (18.18 percent) in the Tianqi group.
+There were no reported severe adverse side effects from Tianqi.
+“We are excited about this,” Yuan said. “It’s an advantage that we did not observe bad side effects.”
+Furthermore, researchers believe Chinese medicine may be almost as effective as Western drugs used to tread diabetes.
+“The data from our study showed that Chinese medicine has comparable effects [to Western drugs],” Yuan said.
+However, Yuan noted that because the study was conducted in China, further research may be needed in order to prove the effectiveness of Tianqi for patients in other countries. Future research will also need to focus on quality control issues surrounding the use of herbal medicines in clinical studies, Yuan said.
+“It’s not easy to do controlled trials of herbal medicine and this study did it and showed promising effects,” Yuan said. “But we need to do more studies with the possibility that in five to seven years TCM has better utility in [the U.S.].”
+</TEXT>
+</DOC>

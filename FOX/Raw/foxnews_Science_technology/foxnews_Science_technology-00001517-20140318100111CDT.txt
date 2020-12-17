@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>1517</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/Zqv-SVF-sow/</URL>
+<TITLE>NASA 'space thief' ready to return satellite</TITLE>
+<TIME>Tue, 18 Mar 2014 15:01:11 GMT</TIME>
+<ABSTRACT>
+It was a feat then-President Ronald Reagan marked with a congratulatory letter: In September 1985, as the rest of the world was chasing Halley's Comet, the US became the first to have a satellite intercept a comet, one named Giacobini-Zinner.
+</ABSTRACT>
+<TEXT>
+This Oct. 31, 1998 photo illustration shows the Comet Giacobini-Zinner, a fairly frequent visitor to the inner solar system.AP Photo/National Optical Astronomy Observatory/ Association of Universities for Research in Astronomy/National Science
+It was a feat then-President Ronald Reagan marked with a congratulatory letter: In September 1985, as the rest of the world was chasing Halley's Comet, the US became the first to have a satellite intercept a comet, one named Giacobini-Zinner.
+Thing is, we achieved the feat after NASA scientist Robert Farquhar "stole" the satellite. Now, 31 years after the 1983 hijacking, he wants to return it to its intended course.
+NPR reports on the fascinating decades-old story, in which Farquhar and some "accomplices," frustrated that NASA decided to sit out on the comet quest over mission-cost concerns, determined that he could change the course of the International Sun-Earth Explorer 3 (ISEE-3), a satellite then positioned between those two bodies.
+Farquhar is what SpaceRef.com calls a "practitioner of exotic—and esoteric—orbits ... that swoop and swirl," and thanks to the "complicated trajectory" he designed for ISEE-3, Farquhar achieved his intended feat.
+But the change put it on a three-decade-long orbit around the sun, much to the chagrin of the scientists who were using ISEE-3. Farquhar insists he only borrowed the satellite, whose re-routed course was designed to eventually take it back to its original path—if NASA will play ball.
+The agency has until roughly early June to send a command to ISEE-3, ordering it to fire its thrusters and enter a flight path that would return it to where it should be.
+NASA has yet to green light the move, and there are potential pitfalls: A large part of the team that worked on ISEE-3 has retired, and much of the '70s- and '80s-era equipment used to communicate with the satellite was long-ago junked.
+And then there's Farquhar's own assessment on the potential for success: "I think the chances are, oh, 50-50." (More outer space news: Mercury has been shrinking.)
+</TEXT>
+</DOC>

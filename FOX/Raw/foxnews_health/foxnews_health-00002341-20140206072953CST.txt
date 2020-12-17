@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>2341</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/g_koMJS_pqY/</URL>
+<TITLE>Vitamin C shows promise as cancer therapy</TITLE>
+<TIME>Thu, 06 Feb 2014 13:29:53 GMT</TIME>
+<ABSTRACT>
+Intravenous vitamin C – combined with conventional chemotherapy – can kill cancer cells, the University of Kansas Medical Center reported.
+</ABSTRACT>
+<TEXT>
+(REUTERS/Daniel Munoz)
+Intravenous vitamin C – combined with conventional chemotherapy – can kill cancer cells, the University of Kansas Medical Center reported.
+In a study of 27 patients newly diagnosed with stage 3 or stage 4 ovarian cancer, researchers found that patients who received a high-dose of intravenous vitamin C, along with conventional cancer therapy of paclitaxel or carboplatin, experienced fewer toxic effects from the chemotherapy drugs.
+Researchers also conducted a rodent study and observed that an intravenous infusion of vitamin C was able to kill cancer cells without noticeable toxicity or pathological changes in the liver, kidney or spleen.
+Vitamin C was used in the 1970s as an unorthodox therapy for cancer and is used by complementary and alternative medicine physicians.  However, conventional physicians remain skeptical about its therapeutic benefits. This study, published in Science Translational Medicine, aimed to determine the cellular mechanisms by which pharmalogic vitamin C has a therapeutic benefit in cancer.
+"We now have a better understanding of vitamin C's anti-cancer action, plus a clear safety profile, and biological and clinical plausibility with a firm foundation to proceed," said researcher Dr. Jeanne Drisko, director of the integrative medicine program at University of Kansas Medical Center. "Taken together, our data provide strong evidence to justify larger and robust clinical trials to definitively examine the benefit of adding vitamin C to conventional chemotherapy."
+</TEXT>
+</DOC>

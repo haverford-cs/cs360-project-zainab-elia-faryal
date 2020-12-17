@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>2372</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/zOGvE1-ksKc/</URL>
+<TITLE>FDA panel votes down heart safety claim for Aleve</TITLE>
+<TIME>Tue, 11 Feb 2014 19:12:08 GMT</TIME>
+<ABSTRACT>
+A majority of federal health experts said Tuesday that new research is not strong enough to conclude that naproxen, the pain reliever in Aleve and many other medications, is safer on the heart than rival drugs used by millions of Americans to treat arthritis and everyday aches and pains.
+</ABSTRACT>
+<TEXT>
+Several Aleve tablets appear in front of bottles of the pain reliever. (AP Photo/Steven Senne, File)
+A majority of federal health experts said Tuesday that new research is not strong enough to conclude that naproxen, the pain reliever in Aleve and many other medications, is safer on the heart than rival drugs used by millions of Americans to treat arthritis and everyday aches and pains.
+The Food and Drug Administration advisory panel voted 16-9 against the conclusion that naproxen has a lower risk of heart attack and stroke than similar anti-inflammatory medications like ibuprofen, sold as Advil and in other generic formulations.
+The drugs, known as non-steroidal anti-inflammatory drugs or NSAIDs, include over-the-counter medications like Aleve and Motrin as well as more high-powered prescription drugs like Celebrex, marketed by Pfizer to treat arthritis. Uniform labeling across all the drugs warns that they can increase the risk of heart attack and other life-threatening cardiovascular events. But debate over whether one drug in the class is actually safer than others has waged for more than a decade without a clear answer.
+The FDA convened a two-day meeting this week to review the latest evidence, including a massive analysis published last year suggesting naproxen does not increase the risk of heart problems as much as its peers. Despite an apparent "drift" toward fewer heart problems with naproxen, a majority of panelists said the evidence was not conclusive and did not warrant changing the drug's label.
+"If I were forced to bet on what the truth is, my bet would be that naproxen is somewhat safer," said panelist Dr. Susan Ellenberg of the University of Pennsylvania. "On the other hand, I'm not sure how that relates to our regulatory standard, as there's still a lot of uncertainty here."
+Panelists who voted in favor of naproxen's safety conceded that the evidence is not definitive, but also cited a "duty to inform the public."
+"I'm convinced enough to change my own use of NSAIDs to naproxen — and that of my patients — based on what I've heard these last two days," said panelist Dr. Peter Kaboli of the University of Iowa.
+The findings favoring naproxen came from Oxford University researchers who combined results from more than 700 NSAID studies and found fewer heart problems with over-the-counter and prescription naproxen. But most panelists said those results were difficult to interpret. Known as a meta-analysis, the process involved combining safety data from roughly 350,000 patients across hundreds of unrelated studies.
+"Meta-analyses are good for raising questions, not for settling them," said panelist Dr. Sanjay Kaul of UCLA School of Medicine.
+Despite the panel's opinion against relabeling naproxen, the group did suggest there was room to update some safety language across all NSAIDs.
+Current labeling suggests that heart risks only appear after 10 or more days of continuous use. But a recent analysis by Danish researchers found that heart attack and stroke can occur within less than a week of treatment.
+A majority of panelists said the FDA should consider revising the label to warn of this short-term risk.
+"Any suggestion that those first two weeks come for free should be removed from the label," said panelist Dr. Brendan Everett of Harvard Medical School.
+This week's FDA meeting is the latest chapter in an ongoing safety review of NSAIDs that stretches back to 2004, when Merck & Co Inc. pulled its blockbuster pain reliever Vioxx off the market because of links to heart attack and stroke.
+Vioxx had been heavily advertised as a new kind of NSAID that was supposed to be easier on the stomach. But its withdrawal shook the medical establishment and ushered in a new era of drug safety at the FDA.
+In 2005, the agency added boxed warnings to all prescription NSAIDS, including Celebrex and high-dose versions of ibuprofen and naproxen. Celebrex is the only drug from the same class as Vioxx that remains on the market. The prescription NSAIDs are generally used for long-term chronic pain conditions like arthritis.
+The agency also added similar warnings to lower-dose, over-the-counter NSAIDs like Aleve and Advil. Those drugs currently warn patients to take the lowest dose possible for as short a period as possible.
+</TEXT>
+</DOC>

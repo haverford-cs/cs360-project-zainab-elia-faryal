@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>1382</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/8dCVJNMELuc/</URL>
+<TITLE>NASA solves mystery of 'jelly donut' on Mars</TITLE>
+<TIME>Fri, 14 Feb 2014 20:00:59 GMT</TIME>
+<ABSTRACT>
+A mystery rock that appeared before NASA's Opportunity rover in late January -- and bore a strange resemblance to a jelly donut -- is no more than a common piece of stone, NASA said Friday.
+</ABSTRACT>
+<TEXT>
+This before-and-after pair of images of the same patch of ground in front of NASA's Mars Rover Opportunity 13 days apart documents the arrival of a strange, bright rock at the scene. The rock, called "Pinnacle Island," is seen in the right imagNASA/JPL-Caltech/Cornell Univ./Arizona State Univ.
+Feb. 4, 2014: This image from NASA's Mars Exploration Rover Opportunity shows where a rock called "Pinnacle Island" had been -- before it appeared in front of the rover in early January 2014.NASA/JPL-Caltech/Cornell Univ./Arizona State Univ.
+A comparison of two raw Pancam photographs from sols 3528 and 3540 of Opportunity's mission (a sol is a Martian day). Notice the "jelly doughnut"-sized rock in the center of the photograph to the right. Minor adjustments for brightness and contNASA/JPL-Caltech
+Steve Squyres, lead scientist for NASA's Mars rover Opportunity, points at a strange rock found by the rover on Jan. 8, 2014, where earlier there had been nothing, during a Jan. 16 presentation. The rock has been named "Pinnacle Island."NASA/JPL
+It was a complete unknown -- it was a rolling stone.
+A mystery rock that appeared before NASA's Opportunity rover in late January -- and bore a strange resemblance to a jelly donut -- is no more than a common piece of stone that bounced in front of the cameras, NASA said Friday.
+The strange rock was first spied on Jan. 8, in a spot where nothing had sat a mere two weeks earlier. Dubbed "Pinnacle Island" by NASA scientists, it was only about 1.5 inches wide. But the rock's odd appearance -- white-rimmed and red-centered, not unlike a jelly donut -- made many sit up and take notice.
+- Opportunity Deputy Principal Investigator Ray Arvidson
+Now researchers with NASA's Jet Propulsion Laboratory at the California Institute of Technology have finally cleared up the mystery.
+Yep. It's a rock.
+"Once we moved Opportunity a short distance, after inspecting Pinnacle Island, we could see directly uphill an overturned rock that has the same unusual appearance," said Opportunity Deputy Principal Investigator Ray Arvidson of Washington University in St. Louis. "We drove over it. We can see the track. That's where Pinnacle Island came from."
+Examination of Pinnacle Island revealed high levels of elements such as manganese and sulfur, suggesting these water-soluble ingredients were concentrated in the rock by the action of water. 
+"This may have happened just beneath the surface relatively recently," Arvidson said, "or it may have happened deeper below ground longer ago and then, by serendipity, erosion stripped away material above it and made it accessible to our wheels."
+Now that the rover is finished inspecting this rock, the team plans to drive Opportunity south and uphill to investigate exposed rock layers on the slope.
+Opportunity has trolled the Martian surface since Jan. 24, 2004, far outlasting its original 90-day mission. 
+Steve Squyres, the rover's lead scientist at Cornell University in Ithaca, N.Y said the Red Planet keeps surprising scientists, even 10 years later.
+"Mars keeps throwing new things at us," he said.
+</TEXT>
+</DOC>

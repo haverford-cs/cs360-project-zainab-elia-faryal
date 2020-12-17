@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO>2216</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/z832bcD_pVc/</URL>
+<TITLE>Some online tests can help assess Alzheimer's risk</TITLE>
+<TIME>Thu, 23 Jan 2014 18:31:42 GMT</TIME>
+<ABSTRACT>
+If you’re concerned you may have symptoms of Alzheimer’s disease, online tests may help you assess symptoms before you see a doctor.
+</ABSTRACT>
+<TEXT>
+If you’re concerned you may have symptoms of Alzheimer’s disease, online tests may help you assess symptoms before you see a doctor.
+Of course, these tools are not meant to be used for self-diagnosis or treatment. According to the Alzheimer’s Association website, there is no single test that proves a person has Alzheimer’s disease.
+“The Alzheimer's Association believes that home screening tests cannot and should not be used as a substitute for a thorough examination by a skilled doctor,” the site states. “The whole process of assessment and diagnosis should be carried out within the context of an ongoing relationship with a responsible health care professional.”
+However, if you’re interested in utilizing an online resource before visiting your doctor, consider these options:
+The Self-Administered Gerocognitive Exam (SAGE), developed from the Ohio State University Wexler Medical Center, is a free downloadable self-administered test that allows you to monitor cognitive abilities.
+Dr. Oz’s Memory Quiz is based on the St. Louis University Mental Status examination offered by the Department of Veterans Affairs.
+The Cognitive Function Test was developed by scientists at Oxford University.
+If your results indicate any problem with your memory, consult your doctor.
+However, not all online cognitive tests are helpful for individuals concerned about their mental health. A study presented at the 2013 Alzheimer’s Association International Conference looked at 16 online tests and noted that, while self-diagnosis is increasingly popular online, many diagnostic tests were found to be poorly designed.
+"Freely accessible diagnostic tests that lack scientific validity and conform poorly to guidelines around consent, conflict of interest and other ethical considerations have the potential to harm a vulnerable population and negatively impact their health," Julie Robillard, a postdoctoral fellow at the National Core for Neuroethics at the University of British Columbia in Vancouver, British Columbia, Canada, said in an Alzheimer’s Association press release. "Further evidence and informed policy are needed to promote the greatest benefits from tools and information available on the Internet.”
+</TEXT>
+</DOC>

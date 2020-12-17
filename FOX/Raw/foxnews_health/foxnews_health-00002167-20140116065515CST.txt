@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>2167</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/mAaJghL5N9c/</URL>
+<TITLE>Fitness trackers may trigger rashes in people allergic to nickel</TITLE>
+<TIME>Thu, 16 Jan 2014 12:55:15 GMT</TIME>
+<ABSTRACT>
+Fitness tracker maker Fitbit has issued an apology and is offering refunds and replacements to some users of its popular fitness tracker who have experienced rashes on their wrists
+</ABSTRACT>
+<TEXT>
+Fitbit Force
+Fitness tracker maker Fitbit has issued an apology and is offering refunds and replacements to some users of its popular fitness tracker who have experienced rashes on their wrists.
+The Fitbit Force, which retails for about $130, is a wristband that tracks a users daily activity, from calories burned to steps taken. The company suspects that nickel in the metal parts of the fitness tracker may be causing skin irritations for some.
+"We are looking into reports from a very limited number of Fitbit Force users who have been experiencing skin irritation, possibly as a result of an allergy to nickel, an element of surgical-grade stainless steel used in the device," a Fitbit spokesperson said in a statement. [9 Odd Ways Your Tech Devices May Injure You]
+A Fitbit Force user toldConsumerist this week that he developed an irritation near the spot where the band's battery and charging port sits on the wrist. He was reportedly diagnosed with contact dermatitis, and then developed an infection after a blister formed.
+The Consumerist article pointed out that there is long thread called "Fitbit burned arm?" full of similar complaintson the company's forums. For instance, one user reported a rash that "kinda feels like when you burn your hand on the stove and that skin dies."
+Since the story broke this week, more users have approached other news organizations with their Fitbit stories. One man told NBC News that he recently noticed an itchy rash and a "burning sensation" after wearing the band since Christmas. Another user sent pictures to ABC News of the "bumpy, blistery and scaly" spot she developed after wearing the fitness tracker.
+Contact dermatitis can be caused by irritants, such as hair dye or other chemicals, or by an allergic reaction to a usually harmless substance, such as nickel, according to the National Institutes of Health.
+Fitbit officials advised people experiencing skin irritations to stop wearing the fitness tracker, and to contact the company at force@fitbit.com about refunds and replacements.
+"We are sorry that even a few consumers have experienced these problems and assure you that we are looking at ways to modify the product so that anyone can wear the Fitbit Force comfortably," the spokesperson said. "We will continue to update our customers with the latest information."
+Other fitness trackers, such as the Jawbone UP, contain nickel, too. Some fans of that tracker have taken to Jawbone's suggestion forum to ask that the company make nickel-free bands to accommodate users with allergies.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

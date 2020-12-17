@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>1383</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/VwCpA0eHGkE/</URL>
+<TITLE>Energy ribbon at solar system's edge a 'cosmic roadmap'</TITLE>
+<TIME>Fri, 14 Feb 2014 18:30:42 GMT</TIME>
+<ABSTRACT>
+A strange ribbon of energy and particles at the edge of the solar system first spotted by a NASA spacecraft appears to serve as a sort of "roadmap in the sky" for the interstellar magnetic field, scientists say.
+</ABSTRACT>
+<TEXT>
+A model of the interstellar magnetic fields which would otherwise be straight -- warping around the outside of our heliosphere, based on data from NASA's Interstellar Boundary Explorer. The red arrow shows the direction in which the solar system moves through the galaxy.NASA/IBEX/UNH
+Cosmic ray intensities (left) compared with predictions (right) from NASA's IBEX spacecraft. The similarity between these observations and predictions supports the local galactic magnetic field direction determined from IBEX observations made from particles at vastly lower energies than the cosmic ray observations shown here. The blue area represents regions of lower fluxes of cosmic rays. The gray and white lines separate regions of different energiesâlower energies above the lines, high energies below.Nathan Schwadron/UNH-EOS
+A strange ribbon of energy and particles at the edge of the solar system first spotted by a NASA spacecraft appears to serve as a sort of "roadmap in the sky" for the interstellar magnetic field, scientists say.
+By comparing ground-based studies and in-space observations of solar system's mysterious energy ribbon, which was first discovered by NASA's Interstellar Boundary Explorer (IBEX) in 2009, scientists are learning more details about the conditions at the solar system's edge. The study also sheds light into the sun's environment protects the solar system from high-energy cosmic rays. [Photos and Images from NASA's IBEX Spacecraft]
+"What I always have been trying to do was to establish a clear connection between the very high-energy cosmic rays we're seeing [from the ground] and what IBEX is seeing," study leader Nathan Schwadron, a physicist at the University of New Hampshire, told Space.com.
+Previously, maps from ground-based observatories showed researchers that clusters of cosmic rays — extremely high-energy particles that originate from supernovas — are correlated with the IBEX ribbon. The ribbon is roughly perpendicular to the interstellar magnetic field while cosmic rays stream, on average, along the interstellar magnetic field. (The particles themselves are created from interactions between the solar wind and interstellar matter.)
+In the longer term, Schwadron said work like this will help scientists better understand more about the boundary between our solar system and interstellar space. This is a region that only one mission — NASA's Voyager 1 spacecraft — has reached so far, and scientists know little about what that environment is like.
+Travelling through the transition zone The sun's sphere of influence in the solar system is known as the heliosphere. The sun's "solar wind" of high-energy particles flows within the heliosphere and pushes back against high-energy cosmic rays originating in interstellar space. The transition zone between these two regions is called the heliosheath.
+Here's where a mystery arises: Voyager 1's measurements of the magnetic field from the edge of interstellar space show a starkly different direction of the magnetic field inferred in the IBEX ribbon, Schwadron said.
+"At that point, you say to yourself what’s wrong? What could possibly be the issue? It seems like we now have good independent confirmation that the IBEX ribbon is ordered by the interstellar magnetic field, and we know that Voyager 1 takes fairly good measurements," Schwadron said.
+The few studies examining this issue, showing little consensus. An October paper co-authored by Schwadron in Astrophysical Journal Letters argued that Voyager 1 could be measuring interstellar plasma coming in through magnetic field lines, but may still be in the heliosheath itself. This stands in contrast to findings from NASA and other science groups saying Voyager 1 is definitively in interstellar space.
+The researchers noted that Voyager 1 is picking up its information "at a specific time and place," but IBEX's data is collected and averaged across vast distances, so that could also lead to discrepancies.
+"What is really missing here is our understanding of the physics," Schwadron said, adding that reconnection between magnetic field lines could be an example of something that changes the conditions of the boundary region.
+The research was published Thursday in the journal Science Express and includes participation from several United States research institutions.
+</TEXT>
+</DOC>

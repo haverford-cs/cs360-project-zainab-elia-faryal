@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>2192</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/ksc-jxR7jb4/</URL>
+<TITLE>Cholesterol drugs may aid critically ill patients</TITLE>
+<TIME>Mon, 20 Jan 2014 14:18:32 GMT</TIME>
+<ABSTRACT>
+For critically ill hospital patients, continued use of statins may help prevent confusion and disorientation.
+</ABSTRACT>
+<TEXT>
+Alan Crawford
+For critically ill hospital patients, continued use of statins may help prevent confusion and disorientation, Counsel and Heal reported.
+In a study published in American Journal of Respiratory and Critical Care, researchers assessed 470 intensive care patients and found that patients who used cholesterol-lowering drugs before hospital admission had a lower risk of delirium and systemic inflammation the following day.
+Though researchers said the causes of delirium are not well understood, their findings suggest that the anti-inflammatory effects of statins may help decrease neuro-inflammation.
+"Our findings suggest that statin treatment should be continued to help prevent delirium in critically ill patients who received statins before being admitted," lead author Valerie J Page, of the Watford General Hospital in Watford, said in a news release. "The relationship between statin therapy and delirium and the mechanisms underlying this relationship are the subject of an ongoing randomized, placebo-controlled study in critically ill ventilated patients."
+Click for more from Counsel and Heal.
+</TEXT>
+</DOC>

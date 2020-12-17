@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>2541</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/j7QExpQFfCk/</URL>
+<TITLE>Exposure to bomb blasts may cause brain injury in vets -- without symptoms</TITLE>
+<TIME>Tue, 04 Mar 2014 15:04:24 GMT</TIME>
+<ABSTRACT>
+New research has revealed that veterans exposed explosive bomb blasts are still at risk of damage in their brain’s white matter – even when brain injury symptoms do not present. 
+</ABSTRACT>
+<TEXT>
+In conflict zones such as Afghanistan and Iraq, military personnel are often exposed to intense explosive blasts, which can lead to symptoms of traumatic brain injury (TBI) and eventually long-term brain damage.
+Now, new research has revealed that veterans exposed to these types of blasts are still at risk of damage in their brain’s white matter – even when symptoms do not present.  The findings, published in the Journal of Head Trauma Rehabilitation, suggest that the absence of a TBI diagnosis does not necessarily erase a veteran’s risk of brain damage from blast exposure.
+According to senior author Dr. Rajendra Morey, very little is known about how explosive forces from bombs, grenades and other military devices impact the brain, but he described them as extremely high-pressure events.
+“From what the military guys tell me, it’s a huge pressure wave, and it happens very suddenly,” Morey, an associate professor of psychiatry and behavioral sciences at Duke University School of Medicine, told FoxNews.com. “It kind of stuns you and could confuse you depending on how strong it is.  It can knock you off your feet; throw you against a wall or vehicle.  The guys describe being ‘bell rung,’ where you were stunned to the point where you don’t know what happened.”
+After being exposed to a blast, many military personnel will experience TBI symptoms, such as losing consciousness, blurred vision and headaches, but some veterans will come away from the experience without any clear signs of injury.  Yet more and more studies of professional athletes are revealing that subconcussive events – head impacts that do not result in TBI – may have a long-lasting effect on the brain.
+In order to analyze the effects of blasts further, Morey and his team evaluated 45 U.S. veterans who had served in the military since September 2001.  The vets were divided into three groups: those with a history of blast exposure and symptoms of TBI, those with blast exposure and no TBI symptoms, and those with no history of blast exposure.
+Using special magnetic resonance imaging (MRI) technology called Diffusion Tensor Imaging (DTI), the researchers were able to analyze the veterans’ white matter – tissue fibers that connect different areas of the brain and facilitate communication.   Since many cognitive processes require multiple parts of the brain working together, injured white matter can sometimes lead to poor cognitive function.
+The DTI technology showed the quality of the white matter by measuring the flow of fluids throughout the veterans’ brains. When the brain’s white matter is healthy and intact, it causes the brain’s fluids to flow in a directional way.  But when white matter is damaged, the brain’s fluids diffuse sporadically.
+Morey said the DTI scans showed white matter damage they were not expecting.
+“We found that the ones who had TBI of course had damage, but what was surprising was veterans who didn’t have symptoms and didn’t have a diagnosis of TBI also had damage just from being exposed,” Morey said.  “And the damage was comparable to the TBI veterans.  That was the interesting part of this study, because a lot of veterans will assume, ‘Okay, I didn’t have symptoms; I didn’t feel dazed and confused, so I’m okay.’ But what we think is maybe there’s still damage [in the brain].”
+Additionally, Morey and his team gave the veterans neuropsychological testing to assess their cognitive skills. These examinations confirmed a relationship between white matter damage and poor reaction times and a diminished ability to switch between mental tasks.
+Since their study only focused on patient outcomes, the researchers still do not know exactly how explosive blasts cause TBI or why some individuals experience symptoms and others do not.
+“Even in people [with blast exposure] who have a TBI diagnosis, we don’t know exactly what causes it,” Morey said. “…But the hypothesis is…experts think the energy transmitted from the blast wave gets transferred to the brain tissue and then damages the brain tissue.”
+Given their findings, the researchers said it’s still too early to make any new recommendations for veteran treatment.  But Morey hopes that patients and medical professionals alike will be aware that there may be a hidden risk of brain damage from blast exposure – even if there aren’t clear signs right away.
+“The idea would be that people who have had blast exposure should be aware that if they’re experiencing chronic symptoms – like depression, irritability or fatigue – [veterans] and doctors should be aware it could be from blast exposure,” Morey said. “Also doctors should be careful not to diagnose it as other things, such as PTSD or depression.”
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>1274</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/Cpm8z4607vY/</URL>
+<TITLE>Slumbering Comet-Chaser Awakens</TITLE>
+<TIME>Mon, 20 Jan 2014 13:41:22 GMT</TIME>
+<ABSTRACT>
+After snoozing since 2011, the comet-chasing Rosetta probe awoke today, sending the message "Hello World!" to the European Space Agency just after 1pm EST, according to the AP.
+</ABSTRACT>
+<TEXT>
+An artist’s impression of the Rosetta orbiter deploying the Philae lander to comet 67P/Churyumov–Gerasimenko.AP Photo/ESA, C.Carreau
+After snoozing since 2011, the comet-chasing Rosetta probe awoke today, sending the message "Hello World!" to the European Space Agency just after 1pm EST, according to the AP.
+The European probe, launched a decade ago, has been in a long hibernation to save power. Now, it's ready for its unprecedented mission to orbit a comet and send a lander to its surface, the BBC reports.
+The message indicates that the probe has finished its wake-up routine, including warming its navigation instruments and locating Earth. Rosetta, currently around 500 million miles from Earth near Jupiter's orbit, is due to rendezvous with the comet R67P/Churyumov-Gerasimenko in August.
+Scientists believe analysis of the comet—believed to be a leftover from the formation of our solar system—will provide vital clues about how the solar system came to be.
+"It would be really interesting to find out whether the organic chemistry that is relevant for life is there on comets," a Rosetta project manager tells Reuters.
+</TEXT>
+</DOC>

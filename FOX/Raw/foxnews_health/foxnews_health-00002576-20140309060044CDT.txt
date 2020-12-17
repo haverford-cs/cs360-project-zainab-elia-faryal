@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2576</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/kLwg8YAe8fE/</URL>
+<TITLE>New app puts speech therapy in patients' pockets</TITLE>
+<TIME>Sun, 09 Mar 2014 11:00:44 GMT</TIME>
+<ABSTRACT>
+Technology and medicine are working together in a smart new way - by putting speech therapy in patients’ pockets. The Name That! smart phone app helps patients with a type of speech disorder called aphasia.
+</ABSTRACT>
+<TEXT>
+Technology and medicine are working together in a smart new way: By putting speech therapy in patients’ pockets. The Name That! smart phone app helps patients with a type of speech disorder called aphasia.
+The app was developed by AppsLab at the University of Northern Iowa (UNI), which seeks to help professors or faculty develop apps with educational value.
+“Typically the clients that we work with are adults who have had some kind of neurological damage,” app co-creator Dr. Angela Burda, a professor in the department of communication sciences and disorders at UNI, told FoxNews.com. “Typically a stroke, perhaps a brain injury, sometimes tumors -- sometimes it can be as a result of a surgery to remove tumors.”
+Patients can use the app to practice matching pictures and associated words, according to Dr. Stephen Hughes, who helped build the app.
+“So we’re looking at the kinds of things that they’re doing already with paper and pencil and saying, ‘Can we use the technology to help them manage that experience better?’” Hughes said.
+The Name That! app isn’t meant to take the place of traditional treatment. Rather, the creators hope that it will supplement what speech therapists already do in sessions. Hughes and Burda are currently working on expanding the app’s simplistic design in order to fit more needs of aphasia patients.
+Other aphasia experts, like Dr. Jean K. Gordon, a professor and aphasia expert at the University of Iowa, support using smart phone technology as part of treatment because of recent advancement and benefits in the technology.
+“We’ve used computers in aphasia therapy for decades, but they were always big and clunky,” Gordon explained. “But the nice thing is now people are using these multipurpose devices. They’re more portable, cheaper, and they don’t mark them off as being disabled. I think that we’re going to continue to see more and more apps like this.”
+Click for more information from the Name That! app.
+</TEXT>
+</DOC>

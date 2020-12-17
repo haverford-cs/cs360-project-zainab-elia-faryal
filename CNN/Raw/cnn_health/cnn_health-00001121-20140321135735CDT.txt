@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO>1121</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/KUEOz3bYTQM/index.html</URL>
+<TITLE>Your nose: A trillion smells</TITLE>
+<TIME>Fri, 21 Mar 2014 14:57:35 EDT</TIME>
+<ABSTRACT>
+Our noses are incredibly sensitive -- and a new study provides evidence of just how amazing our sniffers are.
+</ABSTRACT>
+<TEXT>
+(TIME.com) -- Human beings tend to think of themselves as visual first, auditory second, then touch and taste.
+Down at the bottom of the five senses is smell -- at least when it comes to how often we're aware of it.
+And while we all know how pungent a bad smell can be, and how memorable a good smell is, we probably don't think our olfactory sense is all that sensitive, at least compared to the rest of our senses -- or to the keen sense of smells exhibited in the animal world (sharks can't literally smell fear, but they can distinguish the smell of fish even if they make up only one part for every 10 billion parts in the water).
+While scientists estimate that human beings can discriminate between several million different colors and almost half a million different sounds, they have long assumed that we can distinguish perhaps 10,000 different odors. Most of the time humans are barely aware they're smelling anything at all.
+But in reality, our noses are incredibly sensitive -- and a new study published in Science provides evidence of just how amazing our sniffers are.
+Researchers at Rockefeller University and the Howard Hughes Medical Institute (HHMI) tested volunteers' sense of smell using precisely crafted mixtures of odor molecules. After extrapolating the results, the researchers estimated that the average human being can distinguish between 1 trillion different odors, if not more, which makes our noses far more sensitive than any other organ in the body.
+"The message here is that we have more sensitivity in our sense of smell than for which we give ourselves credit," said Andreas Keller, a research associate at Rockefeller's Laboratory of Neurogenetics and Behavior and the lead author on the Science study, in a statement. "We just don't pay attention to it and we don't use it in everyday life."
+The idea that human beings could only distinguish between 10,000 smells has been around since a 1927 study that posited four elementary odors that people are able to distinguish on a nine-point scale. Do the math and you get 6,651 discernible olfactory sensations, a number that was later rounded up to 10,000.
+Although that value was widely cited, most scientists were skeptical -- after all, the human eye uses just three light receptors to see millions of colors, while the typical nose has 400 different olfactory receptors. But as Leslie Vosshall of HHMI and another study co-author noted: "For smell, nobody ever took the time to test."
+Obviously the researchers weren't going to try to test each smell individually -- that would take forever. Instead, they used 128 different odorant molecules to create smell mixtures, using 10, 20 and 30 different components. The molecules themselves evoked familiar smells like cut grass, but when combined in random mixtures of as many as 30 different types, the smells became unfamiliar.
+That didn't matter -- the study subjects weren't supposed to identify the smells. Instead, the researchers would present them with three vials of scents -- two that were identical, and one that was unique -- and asked them to indicate which scent was different than the others. Each of the 26 subjects made 264 comparisons.
+Can you smell obesity?
+Keller and his colleagues found that their study subjects could generally tell the difference between mixtures containing as much as 51.17% of the same components. Much higher than that, and they were unable to distinguish the smells -- though it's worth noting that some subjects could distinguish between smell mixtures that were as much as 90% similar.
+The researchers then extrapolated the total number of mixtures possible in each of their three categories. Since the majority of their study subjects could distinguish between mixtures that were 51.17% similar or less, they estimate that the average human can discriminate more than 1 trillion separate smells.
+That is a vast number of scents, and it's almost certainly too low, because there are many more odor molecules in the real world that could be mixed in nearly uncountable ways.
+So it's not just that human beings have sensitive olfactory systems -- though not that sensitive, otherwise more people would be able to distinguish smells that were more than 50% similar. It's that the world offers a near infinite variety of smells.
+If human beings think their sense of smell isn't that important, it has more to do with the fact that we've done our best to eliminate smells through refrigeration, air filtration, and yes, daily showers. As Vosshall put it:
+"The world is always changing. Plants are evolving new smells. Perfume companies are making new scents. You might move to some part of the world where you've never encountered the fruits and vegetables and flowers that grow there. But your nose is ready. With a sensory system that is that complex, we are fully ready for anything."
+The nose, as it turns out, really does know.
+Forget text messaging, the 'oPhone' lets you send smells
+© 2012 TIME, Inc. TIME is a registered trademark of Time Inc. Used with permission.
+</TEXT>
+</DOC>

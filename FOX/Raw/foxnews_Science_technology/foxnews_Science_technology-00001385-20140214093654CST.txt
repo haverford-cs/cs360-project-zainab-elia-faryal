@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>1385</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/-1Qelan48w4/</URL>
+<TITLE>Chernobyl 2? Watching the world’s aging power plants</TITLE>
+<TIME>Fri, 14 Feb 2014 15:36:54 GMT</TIME>
+<ABSTRACT>
+North Korea’s aging Yongbyon nuclear power plant probably won't lead to a nuclear catastrophe, despite an alarming report calling it the next Chernobyl -- but the danger posed by the world’s aging reactors is real nonetheless.
+</ABSTRACT>
+<TEXT>
+Satellite imagery from May 2013 of the Yongbyon Nuclear Scientific Research Center in North Korea.DigitalGlobe
+The Kalinin nuclear power plant in Russia.IAEA
+North Korea’s aging Yongbyon nuclear power plant will probably not lead to a nuclear catastrophe, despite an alarming report calling it the next Chernobyl -- but the danger posed by the world’s aging reactors is real nonetheless.
+The defense publication Jane’s recently detailed efforts to bring the small Yongbyon reactor back online, saying they could lead to a meltdown like the  Chernobyl incident in 1986. According to the article, Yongbyon uses obsolete technology that was responsible for a 1957 accident in the United Kingdom and “could lead to a disaster worse than the Ukrainian one."
+But Joel Wit, a former U.S. State Department official who manages the 38 North blog for the U.S.-Korea Institute at the Johns Hopkins School of Advanced International Studies, told FoxNews.com he disagreed strongly with the Jane’s report. And when Ferenc Dalnoki-Veress, a scientist-in-residence with the James Martin Center for Nonproliferation Studies, ran an analysis, he concluded that the scale of the reactor posed a far smaller threat than Jane’s suggested.
+“In the worst case scenario, the accident would release a dose 500,000 times lower than Chernobyl,” Dalnoki-Veress said.
+- Jon B. Wolfsthal, deputy director of California’s James Martin Center
+Nonetheless, the average nuclear power plant is more than 20 years old and is anticipated to last no more than 30 or 40 years, leaving the world facing a potential crisis: How safe are aging nuclear power plants?
+No country has a greater reliance on nuclear power than the U.S., which had 104 reactors online in 2011. But all of them have been online since 1990, and most since 1980.
+“By far the largest problem is here in the U.S.,” said Jon B. Wolfsthal, deputy director of California’s James Martin Center.
+“But the Russians are running into this, the French are running into this, the Japanese are running into this. It’s a big issue.”  
+France had 58 nuclear reactors connected to the power grid in 2011, according to a 2012 reference work by the International Atomic Energy Agency (IAEA). Fifty-six of them have been operating since 1990, and 43 have been online since 1985, making them around 30 years old. Japan is in a similar situation, with 51 plants online in 2011 (not including the Fukushima plant), nearly all of which were in operation 20 years earlier.
+There were 435 nuclear power plants online worldwide as of New Year’s Eve, 2011. As of that date, 138 others had been permanently shut down, though only 11 cited obsolescence as the reason.
+Plot construction of nuclear plants on a grid and you’ll see a near perfect bell curve; most of the world’s power plants were built during the ’60s, ’70s and ’80s, peaking between 1974 and 1976, a three-year span that saw construction begin on 118 plants worldwide. By comparison, ground was broken on just 29 plants throughout the ’90s.
+But nuclear power is seeing a renaissance. China has 42 power plants planned for construction, according to the IAEA, and Russia has 35. As of Dec. 31, 2011, 114 were planned, and an additional 65 reactors were under construction.
+Yet Chris Englefield, a senior manager in radioactive substances regulation for the U.K. Environment Agency, noted in a 2012 paper that there are no nuclear security specialists. He says there is a need to professionalize security and to facilitate minimum standards of competence and regulatory procedures.
+The U.N.’s IAEA acts as a nuclear watchdog at times, but it also helps to do just that, aiding member countries in maintaining power plants to tease extra years from them while preventing incidents.
+“One of the IAEA’s key missions is to support its member states in their efforts to improve nuclear safety,” said IAEA spokesman Serge Gas. “In that context, the agency does not single out individual nations, but rather encourages all of them to improve all the time.”
+Jeremy A. Kaplan is Science and Technology editor at FoxNews.com, where he heads up coverage of gadgets, the online world, space travel, nature, the environment, and more. Prior to joining Fox, he was executive editor of PC Magazine, co-host of the Fastest Geek competition, and a founding editor of GoodCleanTech.
+</TEXT>
+</DOC>

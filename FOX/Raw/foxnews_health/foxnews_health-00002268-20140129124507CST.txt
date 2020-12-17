@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO>2268</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/bb21mZY5CAw/</URL>
+<TITLE>Famous amnesia patient's brain cut into 2,401 slices</TITLE>
+<TIME>Wed, 29 Jan 2014 18:45:07 GMT</TIME>
+<ABSTRACT>
+A new examination of the brain of Patient H.M. the man who became an iconic case in neuroscience when he developed a peculiar form of amnesia after parts of his brain were removed during surgery in 1953 shows that his surgeon removed less of his brain than thought.
+</ABSTRACT>
+<TEXT>
+A woman walks past a display of a brain slice of patient "H.M." at the press preview for the MIT 150 Exhibition at the MIT Museum.REUTERS/Brian Snyder
+A new examination of the brain of Patient H.M. the man who became an iconic case in neuroscience when he developed a peculiar form of amnesia after parts of his brain were removed during surgery in 1953 shows that his surgeon removed less of his brain than thought.
+At age 27, H.M., whose real name was Henry Molaison, underwent an experimental surgical treatment for his debilitating epilepsy. His surgeon removed the medial temporal lobe, including a structure called the hippocampus.
+Thereafter, H.M. was unable to form new memories. His case brought about the idea that the hippocampus may have a crucial role in retaining learned facts, replacing the notion that memories are scattered throughout the brain. H.M. became the focus of more than 50 years of memory research, working closely with the researchers who had to introduce themselves every time they met.
+"Much of what we know about human memory, it has one way or another to do with H.M.," said study researcher Jacopo Annese, director of The Brain Observatory in San Diego.
+After H.M.'s death in 2008, Annese and his colleagues cut the patient's frozen brain into 2,401 slices, each 0.7-millimeters thick. They took a picture of every slice, and created a high-resolution, 3D model of his brain. [See Images of the Brain Slices of Patient H.M.]
+In the new study detailed online today (Jan. 28) in the journal Nature Communications, they report that a significant portion of the hippocampus, which was thought to have been removed in surgery, was actually intact.
+What happened to H.M.?
+Research on H.M. showed that there are in fact different kinds of memory. He was unable to learn new facts, remember the events happening around him or learn people's names, but he was able to recall events from his childhood. He also could learn skills, for example, he could get better at a new motor task with practice.
+"Over 50 years of studies, the picture [of memory] was a little bit complicated," because H.M. had some types of memory but not others, Annese said.
+The only way to start teasing out H.M.'s memory impairment in light of the anatomy of the brainwas to know what exactly had happened during the surgery, Annese told LiveScience.
+Until the 1990s, the researchers had only sketches drawn by the surgeon, Dr. William Scoville, to refer to. But after the advent of neuroimaging, researchers scanned H.M.'s brain in 1992 and found that a portion of the hippocampus had been spared.
+In the new study, Annese and his colleagues measured the exact length of H.M.'s hippocampus, and found the spared portion was even larger than what brain scans had shown.
+The posterior part of the hippocampusdeals with memory, and the brain slices show this part wasn't removed, and in fact, was undamaged at the cellular level, the researchers said.
+"The most beautiful finding I think was the fact that we realized that Scoville missed the posterior hippocampus," Annese said.
+The memory impairment
+The new findings shed light on what happened to H.M., but likely won't revolutionize what researchers know about memory, and are in fact in line with modern views of hippocampal function, Annese said. [Inside the Brain: A Photo Journey Through Time]
+Almost all connections from the hippocampus to the cortex go through a part of the temporal lobe called the entorhinal cortex, which Annese found had been removed from H.M.'s brain. As this region connects the hippocampus to other brain regions, the surgery may have nearly isolated the hippocampusfrom the rest of the brain.
+This may mean that H.M.'s amnesia had more to do with the entorhinal cortex being removed, than with the parts of the hippocampus being removed, Annese said, although more study is needed to know for sure.
+The new study presents "an extremely detailed post-mortem investigation of the remaining anatomy of [H.M.'s] brain," said Neil Burgess, a memory researcher at University College London, who wasn't involved in the new analysis. "These extra details will no doubt continue to fuel the debate as to which bits of the medial temporal lobe are responsible for which aspects of memory."
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

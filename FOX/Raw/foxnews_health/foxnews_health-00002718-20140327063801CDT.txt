@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO>2718</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/RUXEGCqXVlM/</URL>
+<TITLE>Novartis reports lung cancer patients respond to drug in study</TITLE>
+<TIME>Thu, 27 Mar 2014 11:38:01 GMT</TIME>
+<ABSTRACT>
+Novartis said late on Wednesday that a majority of patients given a development drug against non-small cell lung cancer had responded to the treatment, according to study results published in the New England Journal of Medicine.
+</ABSTRACT>
+<TEXT>
+REUTERS
+Novartis said late on Wednesday that a majority of patients given a development drug against non-small cell lung cancer had responded to the treatment, according to study results published in the New England Journal of Medicine.
+The Basel-based drugmaker's LDK378 has been declared a "breakthrough therapy", a designation created by the U.S. Food and Drug Administration in 2012 to help speed drugs to market that treat serious or life-threatening conditions and are deemed likely to work better than existing treatments.
+Non-small cell lung cancer is the most common type of lung cancer, and sufferers tend to be non-smokers and younger than other lung cancer patients.
+Patients survived for an average of seven months after taking LDK378, and 58 percent of those treated with the drug responded, Novartis said. Novartis is currently conducting Phase II and Phase III trials of the treatment.
+The company, which said in January that it had filed for regulatory approval of the drug, said the data formed the basis for its submission.
+Novartis, which considers the treatment among the most promising in its pipeline, is facing a "patent cliff" - where a number of best-selling drugs lose market exclusivity.
+The company is pinning its hopes on what it hopes will be 'blockbuster' treatments for cancer, heart failure and lung disease.
+</TEXT>
+</DOC>

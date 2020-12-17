@@ -1,0 +1,65 @@
+<DOC>
+<DOCNO>956</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_travel/~3/J__5OtQZBig/index.html</URL>
+<TITLE>Timeline: Key moments pieced together for missing plane</TITLE>
+<TIME>Mon, 17 Mar 2014 16:51:24 EDT</TIME>
+<ABSTRACT>
+New details revealed Saturday by Malaysia's Prime Minister provide a clearer chronology about what may have happened to Malaysia Airlines Flight 370 between its takeoff and its last known spotting seven hours later.
+</ABSTRACT>
+<TEXT>
+(CNN) -- New details provide a clearer chronology about what may have happened to Malaysia Airlines Flight 370 between its takeoff and its last known spotting seven hours later.
+Malaysia Airlines CEO Ahmad Jauhari Yahya said on Monday that it wasn't clear whether the final words from the cockpit came before or after the plane's data-reporting system was shut down.
+Earlier, Malaysian authorities had said the message "All right, good night" came after the system had been disabled.
+Here's how experts reconstructed key moments of the flight, according to CNN aviation and airline correspondent Richard Quest. The flight disappeared more than a week ago with 239 people aboard.
+Takeoff: 12:41 a.m.
+All tracking systems are working as the Boeing 777-200ER takes off from the Malaysian capital of Kuala Lumpur, headed to Beijing, on Saturday, March 8.
+ACARS sends communication: 1:07 a.m.
+About a half-hour after takeoff, one of the plane's communication systems sends what turns out to be its last communication, according to the CEO of Malaysia Airlines.
+The Aircraft Communications Addressing and Reporting System is the onboard computer that collects information -- a lot of it -- about the plane's and the pilot's performance. It's akin to computers now in automobiles that track oil levels and engine performance.
+Aboard aircraft, ACARS computers measure thousands of data and send the information via satellite to the airline, the engine manufacturer and other authorized parties, Quest said.
+See interactive map
+The information is useful for operations, maintenance, scheduling and performance purposes, Quest said.
+"Your boss will know how you've flown the plane because ACARS will have told them," Quest said.
+Voice check-in: 1:19 a.m.
+Someone in the plane's cockpit makes a voice check-in with air-traffic controllers as the airliner was apparently leaving Malaysian airspace and entering Vietnamese airspace.
+"All right, good night" were the final words from the cockpit, said Zulazri Mohd Ahnuar, a Malaysian civil aviation officer.
+It's unclear who in the cockpit spoke those words, but the phrase of "good night" is the radio parlance used by pilots when executing a handover from one airspace to another, Quest said.
+"That is normal. That happens a gazillion times," Quest said. " 'All right, good night' is a pleasantry at the end of radio communication."
+It remains unclear, however, whether Vietnamese air traffic controllers had any contact with the plane during the handoff, Quest said.
+Transponder off: 1:21 a.m.
+A transponder sends electronic messages from the airplane: "squawks" to radar systems about the plane's flight number, altitude, speed and heading.
+This is enormously useful information to air-traffic controllers who are looking at scores of blips on their screen, and each blip is a plane emitting identifying information, thanks to the transponder.
+The transponder, apparently switched off, stropped responding at 1:21 a.m., said Azharuddin Abdul Rahman, director of the Malaysian Department of Civil Aviation.
+"Now the plane is flying blind from the ground's point of view," Quest said. "If there is radar there, the radar will see a blip, but they won't know who it is, where they are going. They will just now know it's there."
+That's because the transponder isn't sending identifying information about the plane. Shutting off the transponder is a simple turn of a switch in the cockpit, Quest said.
+"The air-traffic controller should notice. I suppose it would cause alarm. ... (The information from) a plane that you're monitoring all of a sudden disappears," Quest said.
+Civilian radar loses contact with plane: about 1:30 a.m.
+Air traffic controllers in Subang, outside Kuala Lumpur, say they lost contact with the plane over the Gulf of Thailand between Malaysia and Vietnam at coordinates 06 55 15 N and 103 34 43 E.
+Expected ACARS transmission doesn't happen: 1:37 a.m.
+The ACARS was supposed to transmit a half-hour after it last did so. Therefore, it was supposed to transmit at 1:37 a.m. -- but it didn't, Yahya said,
+So, the ACARS was shut down sometime between 1:07 and 1:37 a.m.
+It's a significant event: Turning off ACARS takes know-how, Quest said.
+If the flight were hijacked or a target of terrorism, cutting off ACARS would be a strategic move because the system reports to satellites anything being done to the aircraft, Quest said.
+Military radar detection: 2:40 a.m.
+Though the Malaysian plane is not transmitting information -- by ACARS or transponder -- radar on the ground or elsewhere can still detect a plane in the air.
+According to a Malaysian Air Force official, military radar tracked the plane as it passed over the small island of Pulau Perak in the Strait of Malacca.
+At this point, the plane was now hundreds of miles off-course. In fact, it was on the other side of the Malaysian Peninsula.
+Military radar showed that the jetliner flew in a westerly direction back over the Malaysian peninsula, Najib said. It is then believed to have either turned northwest toward the Bay of Bengal or southwest elsewhere into the Indian Ocean, he said.
+This was the last time any civilian or military radar tracked the aircraft.
+The focus now is searching for the missing flight in the southern Indian Ocean, according to a U.S. official.
+"The southern scenario seems more plausible," the official said.
+The Malaysian military is now handing over its raw radar data to U.S. and UK officials, apparently setting aside concerns about any sensitive military intelligence.
+Quest called this sharing of information a "huge" development in the case.
+"They don't want anyone to know how good their radar is. They obviously decided that doesn't matter," he said.
+"We don't know much about the Malaysian military, and that has been one of the issues," Quest added. "It appears that Malaysia was providing an interpretation of the analysis -- and not the raw data. Now they are handing over the raw data."
+Satellite 'handshakes': 8:11 a.m.
+Malaysian Prime Minister Najib Raza revealed Saturday that a satellite tracked the plane at 8:11 a.m., more than seven hours after takeoff.
+Najib didn't provide details on the satellite tracking, but it appears that orbiters high above the ocean detected the plane as the satellite or satellites attempted a series of "handshakes" -- or electronic connections -- with the plane below, Quest said.
+It's likely that the plane didn't complete the handshake because its communication systems were disabled, Quest said. It's also possible that the airline doesn't subscribe to that part of the satellite system, he said.
+Nevertheless, the satellites would have been able to trace a plane flying below them and would have extended an electronic message equivalent to a hailing: "There's a plane: Hello, hello, hello? Do you have anything for us?" Quest said.
+The Prime Minister said the "raw satellite data" confirm that the plane was Malaysia Airlines Flight 370. The U.S. National Transportation Safety Board and the Federal Aviation Administration, along with the UK's Air Accidents Investigation Branch, concur, Najib said.
+"Due to the type of satellite data, we are unable to confirm the precise location of the plane when it last made contact with the satellite," Najib said.
+Authorities believe the plane was in one of two flight "corridors": a northern route stretching to northern Thailand, Kazakhstan and Turkmenistan and a southern route toward Indonesia and the southern Indian Ocean.
+More than a week after its takeoff, however, the whereabouts of the plane remain a mystery.
+</TEXT>
+</DOC>

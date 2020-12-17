@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>2391</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/mvDp75qUThM/</URL>
+<TITLE>Some common infections may be linked to declines in memory, cognitive performance</TITLE>
+<TIME>Thu, 13 Feb 2014 18:12:44 GMT</TIME>
+<ABSTRACT>
+Certain common infections may be associated with memory decline. 
+</ABSTRACT>
+<TEXT>
+Certain common infections may be associated with memory decline and other markers of decreased cognitive performance, according to new research presented at the American Stroke Association's International Stroke Conference 2014.
+For their study, researchers from the Leonard M. Miller School of Medicine at the University of Miami decided to analyze the link between cognitive performance and five common and often asymptomatic infections: Chlamydia pneumoniae, Helicobacter pylori, cytomegalovirus, and herpes simplex viruses 1 and 2.
+“At the time, we selected these infections because of a combination of evidence that some of these infections had been involved in vascular disease and found in atherosclerotic plaque as well as the fact that they are common infections associated with inflammation,” lead researcher Dr. Clinton Wright, scientific director of the Evelyn F. McKnight Brain Institute at the University of Miami, told FoxNews.com.
+Wright and his colleagues have long been interested in studying the link between vascular disease and cognitive performance.
+“The connection between infection and vascular damage is that we believe exposure to these infectious agents…is part of a pathway that includes inflammation and immune mediators that result in vascular damage including atherosclerosis…which may lead to decline in cognitive performance,” Wright said.
+The researchers gathered blood samples and conducted cognitive performance tests on 588 stroke-free individuals who partook in the Northern Manhattan Study, a research study of stroke and stroke risk factors in the Northern Manhattan community in New York.
+Based on the level of antibodies found in the blood samples, the researchers categorized participants according to a weighted index based on their increased risk of stroke. People who were higher on the index displayed worse performance on tests assessing memory, executive function, psychomotor speed, language and performance, compared to people lower on the index.
+An average of six years later, study participants underwent the same cognitive tests and the researchers discovered that those who ranked worse on the original index had continued to experience a decline in cognitive performance.
+Though the statistical significance of their findings decreased after being adjusted for sociodemograhpic factors, Wright said the pattern was still there. "and with a larger sample size we’re interested to see what happens.” 
+However, Wright cautioned that the research is still in its preliminary stages – and people shouldn’t be too worried about the risk of experiencing a decline in cognitive performance should they contract any of the infections studied.
+“I think that the big takeaway, scientifically, is exposure to these infections that have previously been associated with stroke risk and corroded atherosclerosis and vascular damage is now associated with cognition,” Wright said. “So there may be a link between infection, vascular damage and cognition that needs to be explored further, but we did not prove [that these] infections cause cognitive problems.”
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2318</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/s3H3ZkXtg4M/</URL>
+<TITLE>Woman's IVF prevented fatal brain disorder in her children</TITLE>
+<TIME>Tue, 04 Feb 2014 15:30:33 GMT</TIME>
+<ABSTRACT>
+A woman whose genes put her at high risk for a rare brain disorder was able to avoid passing on the condition to her children through a special in-vitro fertilization (IVF) procedure, according to a new report of the case
+</ABSTRACT>
+<TEXT>
+A woman whose genes put her at high risk for a rare brain disorder was able to avoid passing on the condition to her children through a special in-vitro fertilization (IVF) procedure, according to a new report of the case.
+The woman, a 27-year-old in the United States, had undergone genetic testing that showed she had inherited a gene that put her at risk for Gerstmann-Strussler-Scheinker (GSS) syndrome, a rare and fatal brain disorder seen in only a few families in the world. Symptoms of the condition usually appear between ages 35 and 55, and include progressively worsening speech, movement and memory problems.
+To have children, the woman and her husband used IVF, an assisted-reproduction technique in which eggs from the mother are fertilized in a laboratory. But before implanting the embryos in the uterus, doctors took an extra step and screened the embryos for the GSS genetic mutation. [7 Diseases You Can Learn About From a Genetic Test]
+This screening step is known as preimplantation genetic diagnosis, a technique that doctors already use to help couples conceive a healthy child if they are at risk for passing down fatal or debilitating conditions, the researchers said. This was the first time the technique had been used for a disease of the GSS type.
+Six out of the 12 embryos were mutation free, and the couple chose to implant two embryos. Both embryos implanted successfully, and the woman gave birth to twins after nearly 34 weeks of pregnancy. Because the babies were premature, their weight and head circumference were below normal at birth, but by 3 months of age, they had caught up, the report said. At about 2 years old, the twins were on track with their communication, social and emotional development milestones, the report said.
+GSS occurs when normal proteins in the brain, called prions, fold abnormally. Other inherited prion diseases include familial Creutzfeldt-Jakob disease and fatal familial insomnia.
+This is the first known case of a mother undergoing IVF with preimplantation genetic diagnosis to prevent a prion disease in her children, the researchers said. The report shows that preimplantation genetic diagnosis can be an option for couples with genetic prion disorders who want to conceive, the researchers said.
+The report, written by researchers at the Institute for Human Reproduction in Chicago, and Duke University in Durham, N.C., was published Feb. 3 in the journal JAMA Neurology.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

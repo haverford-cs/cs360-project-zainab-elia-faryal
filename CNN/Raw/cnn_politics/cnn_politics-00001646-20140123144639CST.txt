@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO>1646</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V4QW7s7eS_o/index.html</URL>
+<TITLE>Snowden: U.S. can recover from surveillance revelations fallout</TITLE>
+<TIME>Thu, 23 Jan 2014 15:46:39 EST</TIME>
+<ABSTRACT>
+Months after his revelations spurred outrage about the state of civil liberties in the United States, Edward Snowden expressed hope for his native nation on Thursday, saying "what makes our country strong is our system of values."
+</ABSTRACT>
+<TEXT>
+(CNN) -- Months after his revelations spurred outrage about the state of civil liberties in the United States, Edward Snowden expressed hope for his native nation on Thursday, saying "what makes our country strong is our system of values."
+"We can correct the laws, restrain the overreach of agencies, and hold the senior officials responsible for abusive programs to account," Snowden said in an online chat.
+The former government contractor's leaks last summer brought intense scrutiny to the National Security Agency's surveillance programs, causing criticism of the U.S. government, domestically and internationally.
+This uproar spurred President Barack Obama this month to unveil new guidance for intelligence-gathering as well as reforms intended to balance what he called the nation's vital security needs with concerns over privacy and liberties.
+Nonetheless, some civil libertarians, members of Congress and others complained that Obama failed to go far enough.
+Among other things, they point to the fact that someone will still collect records of the numbers and times of phone calls by every American -- one of the most controversial programs revealed by Snowden -- even if access to the those records will be tightened and they may be shifted from the NSA to elsewhere.
+Snowden echoed such critics when asked about Obama's speech in relation to Thursday's release of a privacy review board's report critical of the government. The five-member Privacy and Civil Liberties Oversight Board concluded the NSA's collection of data on nearly every U.S. phone call isn't legal and has proven largely useless in thwarting terrorism.
+Board: NSA phone data program illegal
+"When even the federal government says the NSA violated the constitution at least 120 million times under a single program, but failed to discover even a single plot, it's time to end bulk collection, which is a euphemism for mass surveillance," Snowden said, pointing to the review's report. "There is simply no justification for continuing an unconstitutional policy with a 0% success rate."
+The 30-year-old also addressed some criticism of him in the chat, batting down a report that he violated his colleagues' privacy while working as a contractor by stealing their logins and passwords.
+He wrote: "The Reuters report that put this out there was simply wrong. I never stole any passwords, nor did I trick an army of co-workers."
+The U.S. government has charged Snowden with espionage and theft of government property for collecting information on spy programs and exposing them to the world via the media
+But he has yet to face those charges, having received one-year asylum from Russia.
+From there, he's continued to speak out to journalists and online. Thursday's chat -- coordinated by The Courage Foundation, an organization set up to support him and his cause -- was one such example of outreach.
+Speaking at an event at the University of Virginia's Miller Center, U.S. Attorney General Eric Holder said "if Mr. Snowden wanted to come back to the United States and enter a plea, we would engage with his lawyers." The government would take the same tack with anyone willing to plead guilty. But Holder insisted that, for Snowden's case, "clemency isn't something that we (are) willing to consider."
+Asked by CNN's Jake Tapper in Thursday's chat about under what conditions he'd agree to return home, Snowden said -- while his coming back "is the best resolution" for all parties -- "it's unfortunately not possible in the face of current whistleblower protection laws."
+He pointed out the government's Whistleblower Protection Act don't protect someone like him as a former government contractor.
+"There are so many holes in the laws, the protections they afford are so weak, and the processes for reporting they provide are so ineffective that they appear to be intended to discourage reporting of even the clearest wrongdoing," he wrote. "... My case clearly demonstrates the need for comprehensive whistle-blower protection act reform."
+In Thursday's chat, Snowden insisted "not all spying is bad." He said his issue is more with "the new technique of indiscriminate mass surveillance, where governments are seizing billions and billions and billions of innocents' communication every single day."
+Such programs exist in part "because new technologies make it easy and cheap," not because they are particularly effective in targeting threats and wrongdoers, he claimed. Snowden said he acted because he felt compelled "to push back."
+"It's not good for our country, it's not good for the world, and I wasn't going to stand by and watch it happen, no matter how much it cost me," he wrote.
+"The NSA and the rest of the US Intelligence Community is exceptionally well positioned to meet our intelligence requirements through targeted surveillance -- the same way we've always done it -- without resorting to the mass surveillance of entire populations."
+CNN's Evan Perez contributed to this report.
+</TEXT>
+</DOC>

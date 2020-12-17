@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>2157</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/oHS3j2HTEcY/</URL>
+<TITLE>Studying genes to predict negative side effects of drugs</TITLE>
+<TIME>Wed, 15 Jan 2014 13:59:50 GMT</TIME>
+<ABSTRACT>
+Scientists searching for a way to avoid prescribing medications to patients that may cause dangerous physical or behavioral responses are turning increasingly to those patients' DNA.
+</ABSTRACT>
+<TEXT>
+Scientists searching for a way to avoid prescribing medications to patients that may cause dangerous physical or behavioral responses are turning increasingly to those patients' DNA.
+The concept of personalized medicine, tailoring treatment to patients based on their genetic makeup or other individual characteristics, is more often associated with determining which patients may respond best to which drug. Yet predicting bad reactions may be as or more important.
+"Drug prescribing is still relatively rudimentary," says Kathryn Phillips, professor and director of the University of California, San Francisco Center for Translational and Policy Research on Personalized Medicine. "We look at somebody's weight and maybe their gender. Certainly I think in the future we'll see that people get genotyped and they'll have this whole list of drugs that they should avoid."
+That day is likely years away, though scientists are making progress. Researchers at the Max Planck Institute of Psychiatry in Munich are looking for genetic markers that might indicate increased risk of suicidal thoughts from antidepressant drugs.
+Click for more from The Wall Street Journal.
+</TEXT>
+</DOC>

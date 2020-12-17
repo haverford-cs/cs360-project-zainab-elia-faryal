@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2693</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/AA2F-11mdnI/</URL>
+<TITLE>Alcohol's role in traffic deaths vastly underreported, study shows</TITLE>
+<TIME>Mon, 24 Mar 2014 14:16:31 GMT</TIME>
+<ABSTRACT>
+While much progress has been made in the fight against drunk driving, a new study from U.S. National Institute on Alcohol Abuse and Alcoholism indicates that alcohol-related traffic deaths are still vastly underreported on death certificates. 
+</ABSTRACT>
+<TEXT>
+While much progress has been made in the fight against drunk driving, a new study from U.S. National Institute on Alcohol Abuse and Alcoholism indicates that alcohol-related traffic deaths are still vastly underreported on death certificates.
+“Alcohol misuse is the fourth leading cause of death in the United States, it accounts for 89,000 deaths annually and of those, 49,500 are acute causes – they are injuries or poisonings….,” study author Ralph Hingson, of the U.S. National Institute on Alcohol Abuse and Alcoholism,  told FoxNews.com. “The one area we’ve made enormous progress in over the last 30 years is reducing alcohol involvement in traffic deaths and alcohol-related traffic deaths per 100,000 people in the U.S. have been more than cut in half.”
+However, Hingson and his colleague suspect that alcohol-related traffic fatalities are still being underreported on death certificates throughout the United States. In a report in the Journal of Studies on Alcohol and Drugs, the researchers compared information from death certificates to data from the National Highway Traffic Safety Administration’s (NHTSA) Fatality Analysis Reporting System (FARS) between 1993 and 2003.
+Nationally, about 70 percent of drivers killed in car accidents undergo blood alcohol testing and those results are logged in FARS. Any person with a blood alcohol concentration of over .08 is considered to be legally drunk.
+However, alcohol is often not listed as a cause of death on death certificates – the preferred source for mortality statistics in the U.S. – for traffic deaths and other deaths for a variety of reasons. Some states don’t require blood alcohol testing for deceased drivers, while in other cases, a death certificate may need to be issued sooner than blood alcohol content (BAC) results are processed.
+However, the NHTSA works hard to make sure that FARS includes all BAC testing results. 
+“The physicians on the other hand, who fill out death certificate, they’ll put down whether it was a heart attack, suicide, cancer, whatever, even though alcohol was a major contributor," Hingson said. 
+After analyzing the data, the researchers found that while just over 3 percent of death certificates in traffic fatalities listed alcohol as a contributing cause, data from FARS revealed that 21 percent of traffic fatalities were comprised of people who were legally drunk. Overall, alcohol involvement was 81 percent less likely to be reported in death certificates than in FARS.
+Hingson noted that reliable data is necessary in order to help policymakers, or citizen activist groups like Mothers Against Drunk Driving, formulate better and more effective laws against drunk driving and other alcohol-related problems.
+“What we hope we would do is draw attention to this issue and have states work on developing the types of medical examiner systems and policies that would create more comprehensive testing so we could get a better picture of [what the] magnitude and trends of these problems are,” Hingson said.
+Furthermore, Hingson and his colleagues suspect non-traffic-related alcohol deaths, such as those that occur due to accidents, injuries or suicides, are also underreported in the U.S.
+“As a result we don’t have as sensitive measures of what types of interventions can work to reduce those,” Hingson said. “And what’s interesting is during the same period that we’ve made enormous strides reducing traffic deaths, poisoning deaths or overdoses have increased dramatically.”
+By gathering more accurate information on alcohol-related deaths, Hingson hopes lawmakers could make progress towards reducing those deaths.  
+“What we want to do is take advantage of that knowledge and monitor more accurately where we’re doing,” Hingson said. “Are things getting better? Are things getting worse? And what kinds of programs and policies will be most effective?”
+</TEXT>
+</DOC>

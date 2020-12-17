@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>1335</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/N3BFCTbSO4M/</URL>
+<TITLE>Kelp off California coast to be tested for Fukushima radiation</TITLE>
+<TIME>Tue, 04 Feb 2014 05:32:04 GMT</TIME>
+<ABSTRACT>
+Researchers are gathering kelp from along the West Coast to analyze it for traces of radioactive material that leaked into the Pacific Ocean from Japan's Fukushima nuclear plant.
+</ABSTRACT>
+<TEXT>
+The Fukushima Daiichi Nuclear Power Plant in Japan.TEPCO
+SAN DIEGO –  Researchers are gathering kelp from along the West Coast to analyze it for traces of radioactive material that leaked into the Pacific Ocean from Japan's Fukushima nuclear plant.
+U-T San Diego reports the Kelp Project is a research program launched by Steve Manley, a Cal State Long Beach biologist who has been studying the environmental impact of the magnitude 9.0 earthquake that damaged the plant in March 2011.
+Scientists say that the radioisotopes cesium-134 and cesium-137 may have gotten picked up by ocean currents that could deliver trace amounts of the material to the California coast sometime this year.
+San Diego State biologist Matt Edwards says radiation levels may not reach harmful levels but scientists need to be vigilant about tracing the progress of the radioactive material.
+</TEXT>
+</DOC>

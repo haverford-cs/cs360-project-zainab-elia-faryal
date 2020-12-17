@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO>1489</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/Njb8pZccVLE/</URL>
+<TITLE>SpaceX to launch amazing rocket that lands itself on legs</TITLE>
+<TIME>Wed, 12 Mar 2014 14:45:00 GMT</TIME>
+<ABSTRACT>
+In the early morning hours on March 16, a SpaceX Falcon 9 rocket will launch from Cape Canaveral to deliver 8,000 pounds of supplies to the International Space Station. What’s most remarkable isn’t what’s going up but what’s coming back down.
+</ABSTRACT>
+<TEXT>
+SpaceX's Falcon 9 is a two-stage rocket used for the transport of satellites and the people into orbit. Falcon 9 made history in 2012 when it delivered the Dragon capsule into orbit for rendezvous with the International Space Station, making SpaceX the first commercial company ever to visit the space base. And did we mention it will land on legs? Legs! Learn more here.
+In the early morning hours of March 16, a SpaceX Falcon 9 rocket will launch from Cape Canaveral to  deliver 8,000 pounds of supplies to the International Space Station. What’s most remarkable isn’t what’s going up, but what’s coming back down.
+Like a panel from a sci-fi comic strip of the ’30s (think “Buck Rogers in the 25th century A.D.”), the first stage of the newest rocket from SpaceX – the stage that has always been used once and then discarded soon after launch, becoming a $100 million piece of scrap metal – will unfold a set of spindly metallic legs as it screams back through the atmosphere and fire a set of retro rockets to halt its descent.
+The company will let this rocket plop gently into the ocean. But SpaceX claims the Falcon’s first stage will ultimately be able to land on legs.
+“We build rockets that cost over $100 million each. We use them once, then we throw them away. It’s like buying a Rolls-Royce, driving it until its first tank of gas runs out, ditching it, then buying another Rolls,” explains the Space Development Steering Committee in a press release.
+- Space Development Steering Committee.
+SpaceX aims to change the equation dramatically. It currently costs about $38,000 to send a pound of material to space, but Howard Bloom, founder of the SDSC and a member of the board of governors and directors of the National Space Society, said SpaceX could lower the price to about $10 a pound if an entire rocket could be reused.
+Russia charges the U.S. around $75 million to send an astronaut into space -- the total cost is nearly three-quarters of a billion including the required water, oxygen, food, and equipment a human needs. Bloom said that could drop to $40,000 if reusable rockets became the norm.
+“All by himself Elon Musk is going to force a drastic change in the space launch business,” John Strickland, a member of the board of directors for the National Space Society, told FoxNews.com.
+Musk, the technology entrepreneur behind PayPal, the electric car manufacturer Tesla and the futuristic Hyperloop concept, is also the owner of SpaceX, which has a 12-mission contract with NASA to fly cargo to the International Space Station. Sunday’s resupply mission will be the third of the contract.
+SpaceX already has reusable Dragon capsules that take supplies and experiments to and from the ISS. But the Dragon capsule is currently the only reusable part of the rocket.
+A reusable rocket would revolutionize the space industry, dramatically lowering the price of getting people and things to space, said R.D. Boozer, an astrophysics researcher and SDSC member. SpaceX’s hope is that it can bring rockets back and have them ready to launch again less than a day later. (The company did not respond in time for this story.)[SB1]
+Boozer said while the success of the launch is almost certain, a successful landing of the first stage is “iffy.”
+“If they don’t get it right this time, then they’re determined to get it next time or even the next time,” he said.
+The first-stage rocket will have four landing legs that lie flat as it goes up. As it comes back down, the legs will extend out using hydraulics. A retro rocket will slow the descent of the first stage as it comes back through the atmosphere to keep it from burning up or crashing into the ocean.
+If the landing is successful, the rocket will be fished out of the ocean and brought back to SpaceX headquarters in Hawthorne, Calif. (the company’s address is “1 Rocket Road”) to be studied and used to create new first stage rockets that can be reused.
+However, F9 will continue to land in the ocean until we prove precision control from hypersonic thru subsonic regimes
+— Elon Musk (@elonmusk) February 24, 2014
+Bloom said that if the landing is successful next week, we may be able to see reusable rockets “in all probability in the next six to eight months” – at least for the first stage. He said figuring out reusable solutions for the other parts of the rocket “should be a relatively short hop” from there.
+The achievement could catapult SpaceX to the front of the space race and beat out all American and foreign spacecraft and rocket companies on price alone.
+Boozer said if SpaceX can create a completely reusable rocket, he believes their prices will drop so significantly that it will put out of business any company that doesn’t keep up.
+“Right now, nobody -- the Russians, the Chinese, no one -- can match SpaceX’s prices. So if they get this reusability thing, it’s just going to make the bottom fall out. I hope other American companies follow their lead, or else they’re going to go out of business. I don’t think it’s good for any company to have a monopoly, but it won’t be the fault of SpaceX if their competitors won’t stop being so risk averse.”
+Falcon 9 had a successful prelaunch check on Monday, meaning the company has the go-ahead to launch on Sunday. The launch will be at 4:41 a.m. ET – and will be streamed live at FoxNews.com.
+Lauren Blanchard is part of the Junior Reporter program at Fox News. Get more information on the program here and follow them on Twitter: @FNCJrReporters
+</TEXT>
+</DOC>

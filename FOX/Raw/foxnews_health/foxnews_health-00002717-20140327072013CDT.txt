@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2717</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/JPNjfcnV22Y/</URL>
+<TITLE>Scientists publish 'navigation maps' for human genome</TITLE>
+<TIME>Thu, 27 Mar 2014 12:20:13 GMT</TIME>
+<ABSTRACT>
+A large international team of scientists has built the clearest picture yet of how human genes are regulated in the vast array of cell types in the body - work that should help researchers target genes linked to disease.
+</ABSTRACT>
+<TEXT>
+A large international team of scientists has built the clearest picture yet of how human genes are regulated in the vast array of cell types in the body - work that should help researchers target genes linked to disease.
+In two major studies published in the journal Nature, the consortium mapped how a network of switches, built into human DNA, controls where and when genes are turned on and off.
+The three-year long project, called FANTOM5 and led by the RIKEN Center for Life Science Technologies in Japan, involved more than 250 scientists across 20 countries and regions.
+"Humans are complex multicellular organisms composed of at least 400 distinct cell types. This beautiful diversity of cell types allow us to see, think, hear, move and fight infection - yet all of this is encoded in the same genome," said Alistair Forrest, scientific coordinator of FANTOM5.
+He explained that the difference between cell types comes down to which parts of the genome they use - for instance, brain cells use different genes than liver cells, and therefore work very differently.
+"In FANTOM5, we have for the first time systematically investigated exactly what genes are used in virtually all cell types across the human body, and the regions which determine where the genes are read from the genome," he said.
+The team studied the largest ever set of cell types and tissues from humans and mice so that they could identify the location of switches within the genome that turn individual genes on or off.
+They also mapped where and when the switches are active in different cell types and how they interact with each other.
+David Hume, director of the Roslin Institute at Britain's Edinburgh University and one of the lead researchers on the project, used the analogy of an airplane:
+"We have made a leap in understanding the function of all of the parts. And we have gone well beyond that - to understanding how they are connected and control the structures that enable flight," he said.
+Although there are many years' more research ahead, researchers hope the FANTOM5 work will be a reference atlas to help them navigate the genome and figure out which genes are involved, and how, in a whole range of diseases: from cancer, to diabetes, to blood diseases, to psychiatric conditions.
+In a linked study, a Roslin Institute team used information from the atlas to investigate the regulation of an important set of genes required to build muscle and bone.
+Another study used the FANTOM5 atlas to look at the regulation of genes in cells of the blood, producing what scientists described as a roadmap of blood cells that will help them pinpoint where and how cancerous tumors start to grow.
+"Now that we have these incredibly detailed pictures of each of these cell types, we can now work backwards to compare cancer cells to the cells they came from originally to better understand what may have triggered the cells to malfunction, so we will be better equipped to develop new and more effective therapies," said Forrest.
+</TEXT>
+</DOC>

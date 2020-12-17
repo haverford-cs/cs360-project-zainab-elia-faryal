@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>561</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_tech/~3/3JRUll4YOyU/index.html</URL>
+<TITLE>Researchers: Online trolls are 'sadists'</TITLE>
+<TIME>Tue, 11 Feb 2014 17:45:55 EST</TIME>
+<ABSTRACT>
+If you've ever complained that the trolls junking up online comment sections are a bunch of sadistic psychopaths, you might be onto something.
+</ABSTRACT>
+<TEXT>
+(CNN) -- If you've ever complained that the trolls junking up online comment sections are a bunch of sadistic psychopaths, you might be onto something.
+An online survey by a group of Canadian researchers suggests that Internet trolls are more likely than others to show signs of sadism, psychopathy and "Machiavellianism": a disregard for morality and tendency to manipulate or exploit others.
+"It was sadism, however, that had the most robust associations with trolling of any of the personality measures," says an article by psychologists from the University of Manitoba, University of Winnipeg and University of British Columbia. "In fact, the associations between sadism and ... scores were so strong that it might be said that online trolls are prototypical everyday sadists."
+Sadism is a tendency to take pleasure in other people's pain or discomfort.
+The article was published last week in the journal Personality and Individual Differences.
+As defined in the article, online trolling is "the practice of behaving in a deceptive, destructive, or disruptive manner in a social setting on the Internet with no apparent instrumental purpose."
+So, as opposed to cyberbullying, saying nasty things during an argument over politics or even making hateful comments that reflect the commenter's true feelings, trolls are offensive for the sheer enjoyment of it. Or, in Internet parlance, "for the lulz."
+"Trolls operate as agents of chaos on the Internet, exploiting 'hot-button issues' to make users appear overly emotional or foolish in some manner," the article reads. "If an unfortunate person falls into their trap, trolling intensifies for further, merciless amusement. This is why novice Internet users are routinely admonished, 'Do not feed the trolls!'."
+Survey respondents were asked about their Internet behavior, including how much time they spend online and whether they comment in places like YouTube or on news websites. They also were given tests that measured responses against psychology's ominously named "Dark Tetrad": narcissism, Machiavellianism, psychopathy and sadistic personality.
+Commenters who said they enjoy trolling other users more than other options (which included debating topics and making new friends) consistently scored higher on the "tetrad" and displayed a tendency to enjoy trolling because it is pleasurable, the authors wrote.
+The questions asked to determine sadistic tendencies included ''I enjoy physically hurting people," "I enjoy making jokes at the expense of others" and "I enjoy playing the villain in games and torturing other characters."
+To be clear, the article is not based on a random sampling of respondents.
+For their final study, researchers gave their questionnaire to 188 Canadian psychology students who got extra course credit for completing the surveys and 609 United States residents who use a website that lets people fill out surveys for a small amount of money. Those respondents were paid 50 cents for filling out the questionnaire.
+But it speaks to a growing concern about behavior that has existed, certainly, since the dawn of the Internet and in other forms for much, much longer.
+Sites like YouTube and the Huffington Post have banned anonymous comments, requiring users to create an account that identifies them by name, while others have taken different tacks to try to moderate comment sections.
+"These findings provide a preliminary glimpse into the mechanism by which sadism fosters trolling behavior," the article says. "Both trolls and sadists feel sadistic glee at the distress of others. Sadists just want to have fun ... and the Internet is their playground."
+</TEXT>
+</DOC>

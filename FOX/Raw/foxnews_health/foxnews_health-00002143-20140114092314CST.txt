@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>2143</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/kzHEkxG-nUY/</URL>
+<TITLE>Vaccine linked to serious intestinal disorder in infants</TITLE>
+<TIME>Tue, 14 Jan 2014 15:23:14 GMT</TIME>
+<ABSTRACT>
+Infants who receive the rotavirus vaccine, which protects against a severe diarrheal disease, may have a very small risk of developing a serious intestinal disorder called intussusception, a new study finds
+</ABSTRACT>
+<TEXT>
+Infants who receive the rotavirus vaccine, which protects against a severe diarrheal disease, may have a very small risk of developing a serious intestinal disorder called intussusception, a new study finds.
+However, experts say the benefits of the vaccine outweigh this small risk.
+In the study, researchers examined information collected from the administration of 1.2 million doses of RotaTeq, the most common rotavirus vaccine used in the United States, and more than 100,000 doses of Rotarix, another rotavirus vaccine licensed for use in the U.S. (The rotavirus vaccination is given as a two- or three-shot series to infants ages 2 to 6 months.) [5 Dangerous Vaccination Myths]
+The researchers found that during the three weeks after vaccination, the RotaTeq vaccine was linked with about 15 extra cases of intussusception per 1 million vaccinated infants, or one case per 65,000 doses given, the study found. There were not enough infants vaccinated with Rotarix to adequately determine whether that vaccine was linked with an increased risk of intussusception.
+Intussusception is a condition in which one part of the intestine slides over another part in a "telescoping" manner, resulting in bowel blockage.
+A previous version of the rotavirus vaccine, called RotaShield, was withdrawn from the market in 1999 after it was linked with an increased risk of intussusception (about one to two cases per 10,000 people vaccinated).
+In the mid-2000s, RotaTeq and Rotarix were licensed following large clinical trials that found no increased risk of intussusception linked with the vaccines. But health officials continued to monitor outcomes of vaccination, and some other recent studies have suggested an increased risk of intussusception after vaccination with these vaccines.
+Study researcher Katherine Yih, of Harvard Medical School, said parents should be aware that "the chances of their child getting this outcome is small."
+Yih said the Centers for Disease Control and Prevention has reviewed the latest research and determined that the benefits of the rotavirus vaccine still outweigh the risks. A 2011 study found the rotavirus vaccine prevented 65,000 U.S. children from being hospitalized with rotavirus since 2006.
+Still, Yih noted for intussusception, "the risk isn't zero." Parents should watch for signs of severe abdominal pain in their children during the first week after vaccination, Yih said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

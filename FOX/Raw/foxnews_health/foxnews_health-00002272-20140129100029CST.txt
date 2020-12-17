@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>2272</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/1jM2galdn2Q/</URL>
+<TITLE>New hope for early detection of pancreatic cancer?</TITLE>
+<TIME>Wed, 29 Jan 2014 16:00:29 GMT</TIME>
+<ABSTRACT>
+Pancreatic cancer is the fourth leading cause of cancer death in the United States. But new research shows promise for early detection and the potential to save thousands of lives
+</ABSTRACT>
+<TEXT>
+Pancreatic cancer is the fourth leading cause of cancer death in the United States. In 2013 alone, 45,000 patients were diagnosed and 38,000 of them died from the disease.
+But new research shows promise for early detection and the potential to save thousands of lives.
+Why is pancreatic cancer so deadly? As with most cancers, early detection is key when it comes to pancreatic cancer survival, but 80 percent of the time, it’s found after the cancer has spread.
+Much like prostate cancer, if you can’t treat pancreatic surgically, you often cannot cure the patient. So developing a test to detect pancreatic cancer early has been on the forefront of the minds of researchers.
+There is currently a blood test marker called CA-19-9; however, it is not yet effective enough to cure patients and decrease the amount of deaths per year. The CA-19-9 tumor marker has been around for years, and 80 percent of pancreatic cancer patients have this marker.
+Where is the pancreas? The pancreas is a 6-inch organ located under the stomach. It is a very unique organ from a doctor’s perspective in the sense that it’s hard to get to and therefore hard to examine.
+The pancreas is an organ that works “double duty;” one side makes insulin and the other side makes digestive hormones that have the potential to eventually become cancerous.
+The treatment of choice is often laparoscopic surgery at the hands of an experienced surgeon. Radiation and chemotherapy are often the second round of treatment after surgery to help kill any remaining cancer cells in the body.
+Who is at risk? Men over the age of 45 with a family history of pancreatic cancer are at an increased risk for the disease and should speak with their doctor to be screened.
+Other risk factors include:
+New hope on the horizon Until recently, scientists were faced with obstacles getting to the cancer cells, as they are often surrounded by shell-like "cocoon."
+Now, with research moving toward immunotherapy, they are able to break the shell and get the chemotherapy into the cancer cells, giving the patient a better outcome.
+Other research that is being conducted is looking at genetic factors like microRNAs, regulate gene expression and play important roles in tumor growth. Genetics are the way of the future, and doctors hope to one day be able to diagnose a patient and catch the disease before it spreads.
+While these options are still years away from becoming available, they stand to improve the way pancreatic cancer is diagnosed offering more treatment options to patients and better outcomes.
+Dr. David B. Samadi is the Chairman of the Department of Urology and Chief of Robotic Surgery at Lenox Hill Hospital in New York City. He is a board-certified urologist, specializing in the diagnosis and treatment of urological disease, with a focus on robotic prostate cancer treatments. Dr. Samadi joined Fox News Channel in 2009 as a medical contributor. To learn more please visit his websites RoboticOncology.com and SMART-surgery.com. Find Dr. Samadi on Facebook.
+</TEXT>
+</DOC>

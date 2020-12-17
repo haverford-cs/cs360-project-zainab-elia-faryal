@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>2386</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/xpTRY3eTV1I/</URL>
+<TITLE>Cold weather, temperature changes tied to stroke risk</TITLE>
+<TIME>Wed, 12 Feb 2014 16:00:08 GMT</TIME>
+<ABSTRACT>
+Significant weather changes can trigger a number of public health warnings, and now new research suggests one group may need to be extra vigilant about weather changes: People who are at risk for stroke
+</ABSTRACT>
+<TEXT>
+iStock
+Significant weather changes can trigger a number of public health warnings, and now new research suggests one group may need to be extra vigilant about weather changes: People who are at risk for stroke.
+That's because stroke risk may increase as temperatures drop, and also when large temperature changes occur, according to new data presented today (Feb. 12) by researchers at Yale University. Although previous research on the relationship between weather and stroke has been conflicting with some studies showing no connection but others showing a relationship the authors said they hope their study spurs further detailed research.
+"We really need to explore more about what the weather, as an external stressor, could mean for diseases such as stroke," said study researcher Judith Lichtman, an epidemiologist at the Yale School of Public Health.
+In the new study, the researchers analyzed data on daily temperatures and dew points along with information from about 157,000 people who had suffered a stroke and were admitted to hospitals during 2009 and 2010.
+They found that each 5-degree-Fahrenheit (2.8 degrees C) increase in temperature corresponded with a 2.3 percent drop in the odds of stroke hospitalization, and a 4.1 percent drop in the chance of in-hospital death following stroke. The researchers presented their study today at the American Stroke Association International Stroke Conference in San Diego. [9 Snack Foods: Healthy or Not?]
+They also found that for every 5 degrees Fahrenheit by which the temperature changed during the day, there was also a slight rise in stroke incidence.
+Previously, some data have shown an increase in stroke in the winter, while others showed it peaked in the summer.
+Lichtman said it's unclear exactly why there may be a connection between weather and stroke, but weather has been found to affect blood pressure, and high blood pressure is a risk factor for stroke. It may also be that colder temperatures, which can result in the constricting of blood vessels, may play a role, or that certain respiratory illnesses that circulate in cold weather may contribute to stroke risk.
+The research, aimed at developing a better understanding of the reasons weather may affect stroke risk, could one day lead to interventions to prevent stroke, she told Live Science.
+"Our bodies are responsive to our environments; with greater fluctuations, it could put greater stress on individuals, particularly those who are older," Lichtman said.
+She said it might be prudent for people at risk for stroke (and their loved ones) to be vigilant during weather fluctuations.
+Daniel Lackland, an epidemiologist at the University of South Carolina and a spokesman for the American Stroke Association, said that while the new findings are very interesting, the focus should be on controllable risk factors for stroke such as high blood pressure, high cholesterol and diabetes and steps people can take to lower their risk, such as exercising and not smoking.
+"These findings are interesting, but they're really very, very preliminary," Lackland said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

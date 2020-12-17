@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO>1266</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/yOYfh3rdg50/</URL>
+<TITLE>Penn State students are building a moon lander for Google's Lunar X Prize</TITLE>
+<TIME>Mon, 20 Jan 2014 17:01:59 GMT</TIME>
+<ABSTRACT>
+In their free time, most college students join the football squad or debate club (or waste their time at the tap room). Eighty Penn State students are busy building a moon lander as well.
+</ABSTRACT>
+<TEXT>
+Gretchen Buttorf, an Aerospace Engineering junior at Penn St., tests a student-designed rocket engine test rig for the Lunar Lion moonlander.Penn State
+Forget ‘rithmetic. For these students, it's reading, writing and robotic moon landing.
+In their free time, most college students join the football squad, debate club or other group (or waste their time at the tap room). Around 80 students at Penn State are still doing those ordinary college activities. But they’re also busy building a moon lander, and hope to blast off before Dec. 31, 2015.
+“They’re still college students, they’re still out having fun. We’re still trying to guess who’s dating who,” project leader and NASA veteran Michael Paul told FoxNews.com.
+Paul's team from Penn State is the only student-led group competing for the $40 million Google Lunar X Prize, racing teams from Chile, Indonesia, Japan, India and around the globe to beat that December deadline to land a private vehicle on the moon. The X Prize aims to inspire private industry; Paul hopes to inspire students and dreamers.
+- Michael Paul, Penn State Lunar Lion team leader
+“It’s to get this into the hands of students, to excite this generation as well as the generations to follow,” he said. “For so long people have been asking what happened to America and STEM [science, technology, engineering and mathematics]? This is us doing STEM in a most exciting way.”
+The Penn State lander is called the Lunar Lion, and it can hop rather than merely touch down. After a three to five day cruise and orbit, the Lion would leave Earth’s orbit, discard its solid rocket motor and land directly on the moon.
+“The hardest part of the mission is that 2 minutes between when we first fire our rockets and when we touch down,” he said.
+That’s an understatement at best -- the hard part is the whole thing, really. Building a moon lander is a wildly complex task for anyone, much less a group of students. To get the project started, Paul worked with engineers at NASA’s Glen Research Center, who nailed down some basic parameters: how big should the thrusters be, how much power is required and so on.
+The team then based its work around proven tech where possible, using an existing rocket engine from NASA’s Johnson Space Center, for example.
+“We’re building new engines on the model of that engine: reliable, high performance and inexpensive. We’ll be testing those through the spring,” Paul told FoxNews.com.
+Students from an array of disciplines, including engineers, business majors and even theater students work in teams on various parts of the project, whether it's propulsion or guidance and controls. The team is 25 percent female, with 10 grad students and 70 undergrad -- 130 total, including faculty and staff.
+On Thursdays, while others watch “How I Met Your Mother” or “The Bachelor,” they meets to discuss rocket science.
+The students work with professional engineers, as well as corporate partners. Ball Aerospace recently posted a job description to its site for a technical intern to work on the project.
+Several graduate students have based their theses around the project, spending months detailing the launch cycle or precisely how the descent phase will work. There are 12 students regularly working in the labs, Paul said.
+“Their energy and excitment is unbelievable. I had no idea how much the students would turn this around and own it. They are so proud of being that technically astute person on campus. I had no idea how powerful it would be.”
+Help comes in other ways as well: Boeing recently donated 10 solar panels from a communication satellite to the school, a gift worth more than $7 million, Paul said. Some of the solar cells will go directly on the Lunar Lion.
+But the team needs money to meet its goals. To that end, the Lunar Lion team on Monday launched a crowd-funding campaign on Rockethub seeking $400,000 more for prototype development.
+“The last person on the moon left the moon before I was born,” Paul told FoxNews.com.
+He aims to change that equation.
+"I want kids to say, 'I want to get into space now. I didn’t know I could be a part of something this exciting and this important.'"
+Jeremy A. Kaplan is Science and Technology editor at FoxNews.com, where he heads up coverage of gadgets, the online world, space travel, nature, the environment, and more. Prior to joining Fox, he was executive editor of PC Magazine, co-host of the Fastest Geek competition, and a founding editor of GoodCleanTech.
+Nature's fury: See Mount Sinabung erupt
+</TEXT>
+</DOC>

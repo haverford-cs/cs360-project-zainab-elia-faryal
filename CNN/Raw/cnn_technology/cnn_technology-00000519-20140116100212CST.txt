@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO>519</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_tech/~3/vqPm0aoMF0k/index.html</URL>
+<TITLE>'Pay to play' on the Web? Net neutrality explained</TITLE>
+<TIME>Thu, 16 Jan 2014 11:02:12 EST</TIME>
+<ABSTRACT>
+How would you like to have to pay a fee to be able to stream YouTube videos at full speed? What if you liked downloading music from, say, Last.fm or Soundcloud, but those sites suddenly became infinitely slower than bigger sites like Amazon or iTunes?
+</ABSTRACT>
+<TEXT>
+(CNN) -- How would you like to have to pay a fee to be able to stream YouTube videos at full speed? What if you liked downloading music from, say, Last.fm or Soundcloud, but those sites suddenly became infinitely slower than bigger sites like Amazon or iTunes?
+Those are the kind of major changes to the Internet some folks are envisioning after a federal court ruling this week on what's come to be called "net neutrality."
+This stuff can get really confusing, with all the government jargon, Internet lingo and competing arguments mixed up in it.
+But it's also really important and could rework the Web as we know it -- like allowing the hypothetical situations above become realities.
+Here's a breakdown of what this week's ruling could mean to you.
+What is "net neutrality?"
+Generally speaking, when folks talk about neutrality, they're referring to the ideas that led to a set of rules the Federal Communications Commission approved in 2010. The point of the rules was to keep the companies that hold the keys to the Web from playing favorites.
+The "open Internet" rules prevent Internet service providers from blocking or "unreasonably discriminating" against any legal website or other piece of online content.
+The philosophy behind it all, preached vociferously by Web activists, is that, in 2014, Internet access is a human right. Denying access, even in part, or giving preferential treatment to one user over another, violates that right, they say.
+(The term itself was coined by Columbia law professor Tim Wu.)
+What happened this week?
+A federal appeals court ruled on Tuesday that the FCC doesn't have the right to enforce those rules. The court said that the government is tasked with overseeing crucial utilities like telephone service and electricity, but that the Internet isn't considered to be one of those utilities under current law.
+The decision harks back to statements and decisions made by the FCC and other government agencies in the early 2000s, when molasses-slow dial-up connections were the norm and Web access wasn't nearly as common or, some would say, necessary as it is today.
+The FCC has suggested it will appeal the ruling.
+So what?
+Everybody who accesses the Internet does so through an Internet service provider. And these providers have been pushing for the ability to dole out that access to us on their own terms.
+What does that mean? For one, companies like Verizon, who sued the FCC over the rules, would be able to pick and choose who gets the best access.
+So, for example, they might start charging big fees for websites to get in the "fast lane." Those fees presumably would be no problem for the Web's monster moneymakers but tougher to take for the little guys.
+Then, all of a sudden, you're starting to get two Internets -- a quick, smooth highway for the major players and a slow, bumpy trail for everybody else.
+The providers could also just blatantly play favorites. So imagine AT&T, a major provider, making traffic quicker on the websites of smartphone companies that use its mobile service and slower on the sites of phone makers who don't. We're not saying they'd do that, of course. But, theoretically, they could.
+Has this ever actually happened?
+In 2007, Comcast started blocking some peer-to-peer networks -- the kind customers use to transfer data-heavy files like entire movies and the like.
+The FCC ordered them to stop. Comcast sued the FCC. An appeals court ultimately sided with the FCC, but by that time, the backlash had been enough for Comcast to quit on its own (after paying $16 million to settle a lawsuit, that is).
+For what its worth, the Web's major service providers put out statements Tuesday saying they don't have plans to change anything based on the court's decision. Of course, it would probably be bad business to make a multimillion-dollar move before the case has played itself all the way out to the Supreme Court, which is where this one might ultimately be decided.
+What's the argument against the rules?
+The service providers and their supporters essentially say this is a free-enterprise issue. They say they provide a service and, therefore, should be able to decide how to deliver it and how they charge customers for it.
+When the FCC approved net neutrality on a 3-2 party-line vote, Commissioner Robert McDowell, one of two Republicans who opposed it, called the vote a "radical step."
+"Nothing is broken in the Internet-access market that needs fixing," he said at the time.
+Randal Milch, a Verizon executive vice president, said in a statement that Tuesday's ruling "struck down rules that limited the ability of broadband providers to offer new and innovative services to their customers."
+Bottom line -- could it cost me money?
+It's possible.
+If providers start charging a premium to websites for services, you can bet those sites will turn around and pass the cost on to their customers.
+Netflix, whose movie streaming is one of the Internet's biggest bandwidth hogs, already took a ding to its stock price after the court ruled. The presumption by some investors was that providers are most likely to charge more to sites like Netflix that use so much data.
+For fee-based services like Netflix, it's hard to imagine monthly fees not increasing if their cost of doing business increases. And while it's obviously all still speculation, it's possible that currently free services like Google-owned YouTube -- which already offers paid subscriptions -- could adopt adopt more pay models to make up the difference.
+What's next?
+The ruling wasn't a complete blasting of the FCC's position. In fact, it said the body still has the right to make rules for the Web, so the commission could possibly try again with a new set of rules.
+Congress could settle the issue once and for all with a new, clearly worded law. And there's always the Supreme Court if the FCC does, in fact, decide to appeal.
+</TEXT>
+</DOC>

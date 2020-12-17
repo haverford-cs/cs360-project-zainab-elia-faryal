@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>1317</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/liUIvbrLeKc/</URL>
+<TITLE>Can backyard hockey reveal global warming?</TITLE>
+<TIME>Fri, 31 Jan 2014 20:12:53 GMT</TIME>
+<ABSTRACT>
+Volunteers track shifts in temperature with their homemade rinks.
+</ABSTRACT>
+<TEXT>
+Ben Gallagher / Flickr
+Outdoor hockey games on suburban backyard rinks are an iconic part of the culture in Canada. Wayne Gretzky famously learned his trade on a homemade rink his father created every winter, and until recently the image of children skating on a frozen pond was featured on the back of the country's $5 bill.
+So when scientists in Montreal predicted that rising global temperatures would eventually lead to the end of outdoor skating in much of Canada, Robert McLeman and Colin Robertson, geographers at Wilfred Laurier University in Waterloo, Ontario, saw a way to get people interested in how climate change will affect them.
+"In the popular media the narrative is often about disappearing sea ice, polar bears in trouble and people in developing nations struggling with droughts and floods," said McLeman. "Those examples are very remote from the average North American family. So we thought: here's an opportunity to give people an example they can connect to on a day-to-day basis."
+McLeman and Robertson created RinkWatch, an online citizen science initiative to track the condition of outdoor rinks across North America. Anyone with a backyard rink or frozen pond can sign up and mark the location of their rink on a map. Then all they are asked to do is record, day by day throughout the winter, whether their rink is skateable or not.
+The project launched in January last year, and was an immediate hit. By the time spring rolled around and put an end to outdoor skating for another year, they had collected more than 15,000 data points from about 1,000 different rinks across Canada and the northern U.S. "We were overwhelmed by the popularity," said McLeman. The users can see how their rink compares with others, and how it changes over time, and McLeman's team have also put together a few simple graphs showing how this year compares with last year, and how skateability reliably reflects changes in local temperatures.
+The initiative does have its share of challenges, including the major problem faced by any citizen science project – unreliable data. Of the people who sign up, McLeman says around a third of them never actually post any data. Another third are a bit hit or miss, while the last third is made up of dedicated users who can be depended on to provide a steady stream of readings. But the unevenness in the data collection doesn't bother McLeman.
+"That's what citizen science is, some of it is very reliable and some is a bit fuzzy, but we have statistical tests to deal with that," he said. "I'd rather have a lot of people giving pretty reliable data than a half-dozen people giving really reliable data."
+Matthew Peros, a climate scientist at Bishop's University in Sherbrooke, Quebec, agreed that public awareness is important. "I really like the idea of data collection through community involvement in principle," he said. But he said the details of what will be done with the data are not clear, and questions whether the project could be confounded by unrelated effects, such as how well people are maintaining their rinks, independent of the climate.
+And Richard Muller, head of the independent climate research group Berkeley Earth, in Calif., says global warming is, for now, happening too slowly to be reliably captured by simple backyard experiments. "It's fun, but it's not going to give a useful answer," he said. He also worries that the project could contribute to the public's confusion over the difference between global climate trends and local weather patterns.
+McLeman though, says that while public participation is his primary goal, he is convinced the project will generate real, scientifically useful data. For example, temperature readings for cities are generally taken from one location, often an airport. But there can be a great deal of variability across urban areas, which backyard rinks could pick up. "There are hundreds of weather stations, but thousands of rinks across the country," he says. "This is an important opportunity, the ability to go to very local scales."
+While studying global climate change requires decades of data to get a clear picture of long-term trends, McLeman thinks that within a few years RinkWatch will be able to contribute something to the undertaking. "In five to six years we should have enough data to flag some of the trends in winter conditions that are worth monitoring," he says. "We can tell a really interesting story about winter climate itself."
+ 
+</TEXT>
+</DOC>

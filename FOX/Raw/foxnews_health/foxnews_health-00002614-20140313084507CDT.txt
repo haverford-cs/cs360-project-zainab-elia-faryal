@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2614</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/HjbXEF68Efo/</URL>
+<TITLE>Bacterial imbalance may play a role in Crohn's disease</TITLE>
+<TIME>Thu, 13 Mar 2014 13:45:07 GMT</TIME>
+<ABSTRACT>
+In people with Crohn's disease, harmful gut bacteria are more abundant, and beneficial gut bacteria are less prevalent, than they are in people without the intestinal condition, according to a new study.
+</ABSTRACT>
+<TEXT>
+In people with Crohn's disease, harmful gut bacteria are more abundant, and beneficial gut bacteria are less prevalent, than they are in people without the intestinal condition, according to a new study. The findings also suggest that antibiotic use may worsen symptoms of the disease.
+"These findings can guide the development of better diagnostics" for the condition, study author Dr. Ramnik Xavier, of Massachusetts General Hospital, said in a statement. "More importantly, our study identified specific organisms that are abnormally increased or decreased in disease, which forms a blueprint to develop microbial therapeutics," Xavier said.
+Crohn's disease causes chronic inflammation of the digestive tract. Some of the common symptoms include diarrhea, abdominal pain and rectal bleeding. It's difficult to know how many people have Crohn's disease because there is no "gold standard" way to diagnose the condition, according to the Centers for Disease Control and Prevention. However, according to the Crohn's and Colitis Foundation of America, as many as 700,000 people in the United States are affected by the disease. About 187,000 people were hospitalized for the condition in 2010, according to the National Institutes of Health. [Top 10 Mysterious Diseases]
+"Crohn's disease is treatable, but not curable," said Dr. Lori Mahajan, a pediatric gastroenterologist at Cleveland Clinic Children's hospital who was not involved in the study.
+In the study, the researchers examined intestinal-tissue samples from 447 people who had been diagnosed with Crohn's disease, and compared them with the samples from 221 people who did not have Crohn's but suffered from noninflammatory conditions of the digestive tract, such as abdominal pain or diarrhea. The research team also analyzed samples from participants in other studies, which resulted in a total of 1,742 samples from both children and adults.
+The researchers found that people with Crohn's disease had more bacteria in their intestines associated with inflammation, and fewer bacteria known to be non- and anti-inflammatory, than people who didn't have Crohn's.
+The team also found that the use of antibiotics worsened the imbalance between the "good" and "bad" bacteria.
+"I think it is an impressive study, just based on the size," Mahajan told Live Science. "As gastroenterologists, we often use antibiotics as the first line of therapy in our treatment of patients with Crohn's and ulcerative colitis [also an inflammatory bowel disease], so that really poses big questions for all of us."
+However, the researchers didn't look at specific antibiotics, nor did they consider the reason patients were taking antibiotics, or for how long, she said.
+Current treatments for people with Crohn's disease tend to focus on decreasing or altering immune function, she said.
+But defining which organisms are pro-inflammatory and which ones are anti-inflammatory is important, she said, as it could potentially lead to a treatment that wipes out the pro-inflammatory ones and repopulates the intestines with anti-inflammatory ones.
+"It really can change the way we treat disease in the future," Mahajan said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

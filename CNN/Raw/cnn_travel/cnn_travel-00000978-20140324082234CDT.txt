@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>978</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_travel/~3/QvTs2D1VdJI/index.html</URL>
+<TITLE>30 injured in train derailment at Chicago's O'Hare airport</TITLE>
+<TIME>Mon, 24 Mar 2014 09:22:34 EDT</TIME>
+<ABSTRACT>
+A commuter train derailed and hit a platform at Chicago's O'Hare International Airport early Monday, leaving 30 people with non-life-threatening injuries, Chicago police said.
+</ABSTRACT>
+<TEXT>
+(CNN) -- A federal investigator said he's never seen a train climb an escalator like the one that jumped the tracks at Chicago's O'Hare International Airport early Monday.
+The crash of the Chicago Transit Authority Blue Line train injured 32 people, although none seriously, according to Chicago Fire officials.
+The eight-car train failed to stop at the end of the line when it arrived at the airport station at 2:52 a.m., a Chicago Fire official said. The lead car appeared to have climbed an escalator adjacent to the passenger platform.
+"I've investigated many accidents and trains do different things," National Transportation Safety Board investigator Tim DePaepe told reporters. "It's all about kinetic force. I have not seen an accident like this personally."
+NTSB experts will examine video from station cameras and one on the front of the train for clues to the cause of the crash, DePaepe said.
+Almost all of the 32 people taken to four hospitals had been released by the afternoon, he said.
+Investigators are still waiting for the train operator to be released from the hospital so that they can talk to her, he said.
+The wrecked train will not be moved at least until Tuesday so that investigators can examine it, DePaepe said.
+Shuttle buses are carrying airport passengers to and from a nearby Blue Line station until then, a CTA official said.
+</TEXT>
+</DOC>

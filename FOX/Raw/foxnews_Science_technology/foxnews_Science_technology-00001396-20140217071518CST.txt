@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>1396</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/P_Wwbebd96c/</URL>
+<TITLE>Active volcanoes store cold magma</TITLE>
+<TIME>Mon, 17 Feb 2014 13:15:18 GMT</TIME>
+<ABSTRACT>
+Strike that iconic image of a tall, snow-capped volcano sitting atop a liquid pool of hot, molten magma.
+</ABSTRACT>
+<TEXT>
+Mount Hood, in the Oregon Cascades.Erik Klemetti
+Strike that iconic image of a tall, snow-capped volcano sitting atop a liquid pool of hot, molten magma. It turns out that many volcanoes prefer cold storage, a new study suggests.
+The findings come from a detailed study of crystals in lavas at Oregon's Mount Hood, from two different eruptions 220 years ago and about 1,500 years ago. These crystals formed inside the volcano's magma chamber, and provide a chronology and a temperature history.
+The crystals told a fairy tale story they were trapped beneath the volcano, at surprisingly cold temperatures, for as long as 100,000 years. No boiling super-villain's lair for these tiny pieces of plagioclase. Instead, the magma was so cold it was like a jar of old honey from the fridge sticky and full of crystals. That means, most of the time, it was too sluggish to erupt. The researchers think that it took a hot kiss of fresh magma, rising from deep in Earth, to reheat the molten rock until it was thin enough to blast into the sky. [50 Amazing Volcano Facts]
+"This tells us that the standard state of magma for this system is that it can't be erupted," said Kari Cooper, a geochemist at the University of California, Davis. "That means that having a magma that can erupt is a special condition. Our expectation is that there's a lot of volcanoes that behave this way."
+The findings were published today Sunday in the journal Nature.
+The results suggest that monitoring volcanoes for liquid magma could warn of coming eruptions. Not all kinds of volcanoes behave like Mount Hood Hawaii, for instance, is built differently, atop a giant hot spot but most of the world's most active volcanoes are in similar settings.
+"If you can see a body of magma that has a high amount of liquid, perhaps this magma is getting ready to erupt or at least has some potential to erupt," said study co-author Adam Kent, a geologist at Oregon State University. "It wouldn't be a slam-dunk guarantee."
+The liquid cut-off is about 50 percent crystals, the researchers said. More crystals than that and the magma is too thick to squeeze out of fractures leading to the surface.
+In the cold zone Mount Hood is a subduction zone volcano, sitting atop a collision where one of Earth's tectonic plates slides into the mantle, the hotter layer beneath Earth's crust, underneath another plate. Fluids released from the descending plate melt rocks above it, which ascend to the surface, eventually forming volcanoes.
+Looking at the "Ring of Fire" around the Pacific Ocean reveals the link between subduction zones and volcanoes. Inland of each subduction zone lies a chain of spouting volcanoes called a volcanic arc, such as Oregon's Cascades, Alaska's Aleutian Islands and Indonesia's 130 active volcanoes.
+"We have partial data sets for other systems, and they all seem to behave remarkably similarly, where they spend most of the time cold," Cooper said.
+An almost identical process to Mount Hood's recent eruptions occurred in the early 1990s at Mount Pinatubo, Kent added. "People could see the arrival of this hotter magma from below, and it eventually initiated an eruption," he said.
+Mount Hood's chilly magma reservoir sits about 2.5 to 3 miles beneath the surface. Its temperature is usually 1,380 degrees Fahrenheit, according to an analysis of the crystals.
+Cooper and Kent think the magma stored under Mount Hood quickly shifts from cold to hot once newer, warmer molten rock arrives from lower levels, deeper in Earth's crust or mantle.
+"We can see chemical traces of new magma reacting [with the old], and the time to eruption was only days to weeks, maybe months," Cooper said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

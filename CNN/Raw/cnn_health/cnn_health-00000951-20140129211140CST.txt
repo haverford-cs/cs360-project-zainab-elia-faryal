@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO>951</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/PdAubDZ80_A/index.html</URL>
+<TITLE>Stem cell breakthrough may be simple, fast, cheap</TITLE>
+<TIME>Wed, 29 Jan 2014 22:11:40 EST</TIME>
+<ABSTRACT>
+Scientists say a breakthrough has been made in regenerative medicine by imitating natural processes of injury to cells.
+</ABSTRACT>
+<TEXT>
+(CNN) -- We run too hard, we fall down, we're sick -- all of this puts stress on the cells in our bodies. But in what's being called a breakthrough in regenerative medicine, researchers have found a way to make stem cells by purposely putting mature cells under stress.
+Two new studies published Wednesday in the journal Nature describe a method of taking mature cells from mice and turning them into embryonic-like stem cells, which can be coaxed into becoming any other kind of cell possible. One method effectively boils down to this: Put the cells in an acidic environment.
+"I think the process we've described mimics Mother Nature," said Dr. Charles Vacanti, director of the laboratory for Tissue Engineering and Regenerative Medicine at Brigham & Women's Hospital in Boston and senior author on one of the studies. "It's a natural process that cells normally respond to."
+Both studies represent a new step in the thriving science of stem cell research, which seeks to develop therapies to repair bodily damage and cure disease by being able to insert cells that can grow into whatever tissues or organs are needed. If you take an organ that's functioning at 10% of normal and bring it up to 25% functionality, that could greatly reduce the likelihood of fatality in that particular disease, Vacanti said.
+This method by Vacanti and his colleagues "is truly the simplest, cheapest, fastest method ever achieved for reprogramming [cells]," said Jeff Karp, associate professor of medicine at the Brigham & Women's Hospital and principal faculty member at the Harvard Stem Cell Institute. He was not involved in the study.
+Scientists grow minibrains from stem cells
+Before the technique described in Nature, the leading candidates for creating stem cells artificially were those derived from embryos and stem cells from adult cells that require the insertion of DNA to become reprogrammable.
+Stem cells are created the natural way every time an egg that is fertilized begins to divide. During the first four to five days of cell division, so-called pluripotent stem cells develop. They have the ability to turn into any cell in the body. Removing stem cells from the embryo destroys it, which is why this type of research is controversial.
+Researchers have also developed a method of producing embryonic-like stem cells by taking a skin cell from a patient, for example, and adding a few bits of foreign DNA to reprogram the skin cell to become like an embryo and produce pluripotent cells, too. However, these cells are usually used for research because researchers do not want to give patients cells with extra DNA.
+The new method does not involve the destruction of embryos or inserting new genetic material into cells, Vacanti said. It also avoids the problem of rejection: The body may reject stem cells that came from other people, but this method uses an individual's own mature cells.
+"It was really surprising to see that such a remarkable transformation could be triggered simply by stimuli from outside of the cell," said Haruko Obokata of the Riken Center for Developmental Biology in Japan in a news conference this week.
+The process is called STAP, which stands for "stimulus-triggered acquisition of pluripotency." Karp estimates that the method is five to 10 times faster than other means of reprogramming cells.
+Have a taste of the world's first stem cell burger
+Researchers used mice to study the STAP cell phenomenon. They genetically altered the mice donating stem cells to "label" those cells with the color green. For instance, they modified mice such that their cells would light up green in response to a particular wavelength of light.
+The scientists exposed blood cells from these genetically altered mice to an acidic environment. A few days later, they saw that these cells turned into the embryonic-like state and grew in spherical clusters.
+Scientists put the cell clusters into a mouse embryo that had not been genetically modified. It turned out, the implanted clusters could form tissues in all of the organs that the researchers tested. The scientists knew that the cells came from the original mouse because they turned green when exposed to a particular light.
+Besides modifying acidity, researchers also stressed the cells in other ways, such as lowering the oxygen environment and disrupting the cell membrane. Increasing acidity was one of the most effective methods of turning mouse blood cells into STAP cells.
+There are, of course, some caveats.
+For now, the STAP cell procedure has only been demonstrated in cells from young mice. The effectiveness in humans, and the risks, are unknown.
+Researchers have not yet shown how STAP embryonic-like stem cells compare with bona fide embryonic stem cells or induced pluripotent stem cells, Karp said.
+Also, although the study was "rigorous" and "well-controlled," it did not demonstrate exactly why the stress on the cells caused them to become STAP cells, Karp said.
+As with everything in science, more research is required to confirm the findings and learn more about the implications.
+Vacanti hopes the process could get tested clinically in humans within three years. He noted that induced pluripotent stem cells are already being explored in Japan in humans and the same "platforms" could be utilized for STAP cells.
+STAP cells also have an additional property that embryonic stem cells and induced pluripotent stem cells do not: They can become placental cells. Scientists can manipulate them to contribute to tissues of either the embryo or the placenta.
+What therapeutic purpose growing more placenta could serve, Vacanti isn't sure -- unless, that is, you wanted to create an embryo and bring it to term.
+Cloning stem cells: What does it mean?
+But that's not the goal of this research. Vacanti and colleagues want to explore possible ties to cancer from the STAP cell process; it could potentially help to model the process by which cells become cancerous and explore if there is a way to reverse the process.
+Stem cell research as a field has been growing at "lightning speed," Karp said.
+New reprogramming approaches to stem cells are emerging all the time, he said, and this one in particular "looks incredibly promising."
+Follow Elizabeth Landau on Twitter at @lizlandau
+</TEXT>
+</DOC>

@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO>1021</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/W5sU45KhKjc/index.html</URL>
+<TITLE>Mammograms: Are they needed or not?</TITLE>
+<TIME>Wed, 19 Feb 2014 09:44:24 EST</TIME>
+<ABSTRACT>
+There seem to be numerous conflicting messages regarding mammograms. I have been a cancer screening expert for more than two decades and the headlines are often confusing to me.
+</ABSTRACT>
+<TEXT>
+Editor's note: CNN conditions expert Dr. Otis Brawley is the chief medical officer of the American Cancer Society and a practicing oncologist. He is also the author of the book "How We Do Harm: A Doctor Breaks Ranks About Being Sick in America."
+(CNN) -- The subject of breast cancer screening is often in the news as ongoing clinical studies publish updates and experts debate the merits of the findings.
+Breast cancer is an emotional issue because it kills thousands of women per year. Many are in the prime of their lives.
+There seems to be conflicting messages regarding screening, so I can understand how it can be confusing to the layman. I have been a cancer screening expert for more than two decades, and the headlines are often confusing to me. Perhaps I can bring some clarity to the issue.
+Mammography (breast X-ray) was developed in the 1950s. The concept of using it to search for early cancer came about soon thereafter.
+Does breast screening save lives?
+Simply finding cancer is not proof of a test's benefit. One must find the cancer, provide treatment and demonstrate that patients who would have died do not. Several screening tests for other cancers have been found not just useless but also harmful because the nature of the cancer was that early detection and treatment did not save lives.
+Long-term study questions benefits of mammogram screening
+The best way to determine whether a breast screening test is beneficial is through a prospective randomized study in which women are enrolled and randomly assigned to be screened or not, then followed over time. The goal is to determine that there are less breast cancer deaths in the heavily screened group.
+A number of these clinical trials have and are being conducted in North America and Europe. The earliest began in 1963. The last began in Europe and Canada in the 1980s. Unfortunately, no study is perfect; each has flaws.
+These studies are huge and follow women for decades. The smallest enrolled 45,000 women and the largest more than 160,000. The studies are logistical challenges; some have even reported different numbers of women enrolled in different publications.
+The studies ask different questions. Most studied women 50 and older. Only two were designed to look at women 40 to 49. Some asked whether mammography is better than no screening. Some studied whether screening with mammography and clinical breast examination is better than clinical breast examination.
+HealthMakers: Otis Brawley: Who should have a mammogram?
+When looking at these trials in 2014, there are challenges common to every study:
+• First, some women in the "do not screen" group began getting screened as initial reports of some studies showed a benefit to screening. The studies began assessing the long-term outcomes of groups of women who had been intensively screened over the years versus groups lightly screened over the past decades.
+• The quality of the mammography equipment has improved such that all the studies available used what is now obsolete imaging equipment.
+• Treatment of breast cancer has improved. Early detection may be less important today than two decades ago.
+These are the studies we have to make decisions from. It is unethical to start new studies because the consensus is that screening has some benefit; we cannot randomize women to the nonscreening arm of a new trial.
+Study questions benefit of yearly mammograms
+It is up to the screening expert to look at each of these studies and handicap them. The expert has to take into account the strengths and weaknesses of each and try to distill the truth. No one finding and certainly no one update on a single trial should change a recommendation.
+It is true some of the trials have failed to show a benefit to mammography when compared with a population getting clinical breast examination. Some of the studies show a benefit with mammography screening decreasing risk of death by 15%. Others say it's 35%.
+Mammograms should be used with caution
+There are huge inconsistencies even in the studies showing benefit. The predominance of medical opinion is there is some lifesaving benefit to screening women 40 to 75.
+Screening messages are complicated, and we in medicine often are not good at explaining them. A number of medical organizations regularly put together groups of experts to review breast cancer screening data objectively and make recommendations about screening. Most review all the trials every five to seven years.
+The following organizations suggest that average-risk women begin yearly screening with high-quality mammography and clinical breast examination at 40, with screening continuing until the woman is no longer in good health. The year of recommendation is noted in parentheses:
+• American Cancer Society (2003)
+• American Medical Association (2002)
+• National Comprehensive Cancer Network (2009)
+• American College of Obstetricians and Gynecologists (2010)
+• American College of Radiology (2012)
+• American Society of Breast Surgeons (2011)
+The U.S. Preventive Services Task Force (2009) and the American Association of Family Physicians (2012) recommend women 40 to 49 make an individual decision about screening with their doctors. Those concerned about breast cancer should get screening every one to two years while in their 40s. These two organizations recommend screening every two years from 50 to 74.
+Professors: Komen overstating benefits of mammograms
+Most of these organizations have statements that women should be informed of the limitations of mammography, including:
+• Screening is a better test for women in their 50s and 60s versus women in their 40s.
+• Screening will have some false alarms. Some women will be told they have a finding that requires further testing. Most of these women will ultimately not have cancer.
+• Screening will miss some important cancers we wish it would find.
+• Screening will find some cancers that do not need treatment and cause some women to get unnecessary treatment.
+• There is a small long-term risk of radiation-induced breast cancer.
+I am concerned that we in American medicine have led many to believe breast screening is better than it is. That is not to say it should not be used -- it should be used with caution. Women should be informed of the benefits and limitations of mammography and clinical breast examination, and we need to work hard to find a better test.
+Opinion: Mammographers, Canada cancer study is legit
+</TEXT>
+</DOC>

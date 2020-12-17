@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO>1441</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/IinoTD1xgMw/</URL>
+<TITLE>Planet bonanza: NASA announces discovery of 715 new worlds</TITLE>
+<TIME>Thu, 27 Feb 2014 05:28:38 GMT</TIME>
+<ABSTRACT>
+Scientists using the planet-hunting Kepler telescope pushed the number of planets discovered in the galaxy to about 1,700. 
+</ABSTRACT>
+<TEXT>
+This handout artist conception provided by NASA depicts multiple-transiting planet systems, which are stars with more than one planet. The planets eclipse or transit their host star from the vantage point of the observer. This angle is called edge-on.NASA
+WASHINGTON –  NASA says its Kepler telescope has discovered a bonanza of 715 planets outside our solar system, pushing the number of planets discovered in the galaxy to about 1,700.
+Scientists used a new confirmation technique to come up with the largest single announcement of a batch of exoplanets — what planets outside our solar system are called.
+"We almost doubled just today the number of planets known to humanity," NASA planetary scientist Jack Lissauer said in a Wednesday teleconference, calling it "the big mother lode."
+While Wednesday's announcements were about big numbers, they also were about implications for life behind those big numbers.  
+All the new planets are in systems like ours where multiple planets circle a star. The 715 planets came from looking at just 305 stars. They were nearly all in size closer to Earth than gigantic Jupiter. 
+- NASA planetary scientist Jack Lissauer
+And four of those new exoplanets orbit their stars in "habitable zones" where it is not too hot or not too cold for liquid water which is crucial for life to exist.
+"Four years ago, Kepler began a string of announcements of first hundreds, then thousands, of planet candidates --but they were only candidate worlds," Lissauer said in a statement. "We've now developed a process to verify multiple planet candidates in bulk to deliver planets wholesale, and have used it to unveil a veritable bonanza of new worlds." 
+Douglas Hudgins, NASA's exoplanet exploration program scientist, called Wednesday's announcement a major step toward Kepler's ultimate goal: "finding Earth 2.0."
+It's a big step in not just finding other Earths, but "the possibility of life elsewhere," said Lisa Kaltenegger, a Harvard and Max Planck Institute astronomer who wasn't part of the discovery team.
+The four new habitable zone planets are all at least twice as big as Earth so that makes them more likely to be gas planets instead of rocky ones like Earth — and less likely to harbor life.
+One of the new habitable zone planets, called Kepler-296f, orbits a star half the size and 5 percent as bright as our sun. Kepler-296f is twice the size of Earth, according to a news release.
+"The more we explore the more we find familiar traces of ourselves amongst the stars that remind us of home," said Jason Rowe, research scientist at the SETI Institute in Mountain View, Calif., and co-leader of the research.
+So far Kepler has found nine exoplanets in the habitable zone, NASA said. Astronomers expect to find more when they look at all four years of data collected by the now-crippled Kepler; so far they have looked at two years. 
+Planets in the habitable zone are likely to be farther out from their stars because it is hot close in. And planets farther out take more time orbiting, so Kepler has to wait longer to see it again.
+Another of Kepler's latest discoveries indicates that "small planets are extremely common in our galaxy," said MIT astronomer Sara Seagar, who wasn't part of the discovery team. "Nature wants to make small planets."
+And, in general, smaller planets are more likely to be able to harbor life than big ones, Kaltenegger said.
+Kepler, the first NASA mission to find potentially habitable Earth-size planets, has discovered  more than 3,600 planet candidates, of which 961 have been verified as bona-fide worlds.
+The Associated Press contributed to this report.
+Report: NASA to admit space suit leaked on two occasions
+Kepler Space Scope's Amazing Discoveries
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>1478</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/xeeeqPlFSjo/</URL>
+<TITLE>New ozone-destroying chemicals discovered in atmosphere, study says</TITLE>
+<TIME>Mon, 10 Mar 2014 17:15:16 GMT</TIME>
+<ABSTRACT>
+Four new man-made, ozone-destroying chemicals have been discovered in the upper atmosphere, and appear to be slowing the recovery of the ozone hole, according to a new report.
+</ABSTRACT>
+<TEXT>
+A false-color view of total ozone over the Antarctic pole is seen in this NASA handout image released October 24, 2012.Reuters/NASA
+Four new man-made, ozone-destroying chemicals have been discovered in the upper atmosphere, and appear to be slowing the recovery of the ozone hole, according to a new report.
+The ozone hole over Antarctica has been gradually healing ever since an international treaty known as the Montreal Protocol began limiting the production of ozone-depleting chemicals in 1989. These chemicals, known as chlorofluorocarbons (CFCs), were commonly used in refrigerators, air conditioners and aerosols until they were found to react with and break down ozone molecules in the Earth's protective ozone layer. The treaty was created to significantly cut CFC emissions and allow the ozone hole to completely close, potentially by 2050.
+In 2010, a total ban on CFCs was put in place, but certain loopholes still exist in the Montreal Protocol that allow trace amounts of the chemicals to be used in the production of certain products, including some types of insecticides and solvents used to clean electronic equipment. [Top 10 Ways to Destroy Earth]
+Now, researchers based at the University of East Anglia in the United Kingdom have calculated that these loopholes previously thought to be relatively insignificant have actually allowed more than 82,000 tons of three previously unknown CFCs, and one related compound known as an HCFC, to be released into the atmosphere. While this quantity is far smaller than peak CFC emissions in the 1980s, it is still a significant quantity that could slow the recovery of the ozone hole, the team reports Sunday in the journal Nature Geoscience.
+"In comparison to the 1980s, it is minor it is not a threat to the ozone layer just yet," said study co-author Johannes Laube.
+But emissions of two of the compounds appear to have accelerated in recent years, which could result in more serious degradation of the ozone layer within a decade, Laube told Live Science.
+To quantify the emissions of the new compounds, the researchers compared modern air samples with nearly century-old air samples trapped in old, compacted snow (known as firn snow) from Greenland. The team did not detect any of the four new compounds in snow from before the 1960s, which suggests that the compounds were man-made.
+More recent samples were collected from a relatively unpolluted region of Tasmania from 1978 to 2012. The team has also been systematically collecting hundreds of air samples in each of the past five years from commercial air flights around the world.
+It is still unclear whether the newly detected emissions are related to legal loopholes in the Montreal Protocol, or illegal chemical production, the team said. Regardless, the researchers think their findings call for a thorough examination of possible sources, and may offer a good opportunity to tighten the loopholes in the treaty, Laube said.
+The team next plans to more closely analyze their aircraft samples to try to pinpoint sources of emissions, which they currently can only trace generally to the Northern Hemisphere.
+Art of science: 2013 science and engineering visual contest winners
+</TEXT>
+</DOC>

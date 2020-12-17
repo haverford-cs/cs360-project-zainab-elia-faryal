@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>2117</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/UTbB2zCMw6Q/</URL>
+<TITLE>Simple blood test may predict patients at risk of heart attack</TITLE>
+<TIME>Fri, 10 Jan 2014 15:31:04 GMT</TIME>
+<ABSTRACT>
+Imagine knowing if you’re about to have a heart attack. A new test may soon be able to tell you just that.
+</ABSTRACT>
+<TEXT>
+iStock
+Imagine knowing if you’re about to have a heart attack. A new test may soon be able to tell you just that.  
+Developed by researchers at the Scripps Research Institute in California, the new “fluid biopsy” technique can help identify patients who are at very high risk of a heart attack by finding a specific biomarker in the bloodstream.
+The test, detailed in a study published in Physical Biology, successfully differentiated between patients who were undergoing treatment for a heart attack and individuals in a healthy control group.  The researchers hope to soon test this technique on patients who have early symptoms, but have yet to suffer from a heart attack – in order to predict who is most likely to have a cardiac event.
+“The clinical setting in this scenario is when patients come into the ER holding their chest with chest pain,” lead author Peter Kuhn, associate professor of cell biology at Scripps, told FoxNews.com.  “The question now is: Did they just have a heart attack? Are they about to have one? ...Or did they just sleep or eat wrong and it’s something completely benign? ...Wouldn’t it be nice if we had a blood test that could actually give us those answers.”
+A heart attack is caused by the slow buildup of cholesterol plaque in the arteries, a process known as atherosclerosis or “hardening of the arteries.”  When the plaque builds up too much, it can rupture, causing a sudden blood clot to form over the rupture site.  This can ultimately lead to a heart attack or stroke.
+With this concept in mind, Kuhn and his team decided to focus on endothelial cells – which line the walls of the artery.  Endothelial cells are not found in the blood of healthy individuals, but they have been strongly linked to ongoing heart attacks when circulating in the bloodstream.
+“[Plaque] rupturing puts these endothelial cells and clumps of cells out into blood circulation, and eventually they block up the heart, and that’s how you get a heart attack,” Kuhn said. “That means that probably these plaques, as they get ready to rupture, it’s not a single event. They start falling apart over time beforehand.”
+The researchers theorized that if they could detect endothelial cells circulating in the blood, then they could better understand who was at risk for a major cardiac event.  After analyzing more than 10 million cells, they were able to develop a computational algorithm that could detect the endothelial “outliers”– by their features and interactions with specific antibodies.
+They then used their procedure – called the High-Definition Circulating Endothelial Cell (HD-CEC) assay – on 79 patients who had just experienced a heart attack and 25 healthy patients.  The test, which involves taking a small sample of blood, revealed that the heart attack patients had significantly elevated levels of CECs compared to the healthy control group.
+Given the technique’s success, Kuhn hopes to utilize the procedure on patients with cardiovascular symptoms, in order to forecast who will have a heart attack within the coming days or weeks.  He is hopeful the test will be very predictive, as it correctly separated the heart attack patients from the healthy patients 100 percent of the time.
+“That is what this study delivers,” Kuhn said. “We incredibly cleanly, with very high specificity and sensitivity, can separate out those two populations.”
+</TEXT>
+</DOC>

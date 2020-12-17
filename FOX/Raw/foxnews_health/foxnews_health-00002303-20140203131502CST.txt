@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>2303</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/Thvc44-XKF0/</URL>
+<TITLE>Home births linked to higher rate of newborn deaths</TITLE>
+<TIME>Mon, 03 Feb 2014 19:15:02 GMT</TIME>
+<ABSTRACT>
+The rate of death for newborns born in home births is more than four times that of newborns born in hospitals, according to new research.
+</ABSTRACT>
+<TEXT>
+The rate of death for newborns born in home births is more than four times that of newborns born in hospitals, according to new research.
+The research, which will be presented on Friday (Feb. 7) at the Society for Maternal Fetal Medicine annual meeting in New Orleans, also found especially high rates of neonatal death among first-time mothers who gave birth at home.
+"If you deliver in the hospital with a mid-wife, you can prevent 75 percent of all neonatal death," said study co-author Dr. Amos Grunebaum, an obstetrician at Weill Cornell Physicians in New York City. Neonatal deaths are those that occur within four weeks of delivery after a baby is born alive.
+Rising trend
+Home births have been on the rise in recent years, and the safety of the practice has been fiercely debated, with studies coming to different conclusions. A 2013 study from the Netherlands found that women have fewer complications from home births than from hospital births, provided they have given birth before and had low-risk pregnancies.
+But a 2010 study in the American Journal of Obstetrics & Gynecology found that babies born at home face an increased risk of infant death. A 2012 study of Amish births attended by midwives found a lower rate of complications for mothers, and an equivalent rate of neonatal death for home births, compared with hospital births.
+Higher death rates
+The new study looked at birth and death certificates for 14 million babies born at full-term in the United States. The researchers considered only single babies, not those born in twins or triplets.
+Among deliveries by midwives in hospitals, 3.1 babies died for every 10,000 births, compared with 13.2 deaths for every 10,000 births among the babies that midwives delivered at home.
+For first time mothers, midwife-attended home births had even worse outcomes: 21.9 babies died for every 10,000 births. Risks also increased for older women, and women who were at 41 weeks of pregnancy, meaning they were more than a week past their due-date, Grunebaum said.
+Inadequate training
+Unlike in the Netherlands, where all home birth attendants are professionally trained, home birth attendants in the United States may be inadequately trained, Grunebaum said.
+In addition, home birth attendants in the United States don't have firm criteria limiting which patients they should see, and so they may attend deliveries for high-risk pregnancies.
+"They take twins, they take women who have prior C-sections, they do home deliveries in breech babies," Grunebaum told LiveScience.
+But even when looking at low-risk patients, home births are riskier, Grunebaum said. That's because even a simple, uncomplicated birth can turn into an emergency very quickly.
+"When the baby is in trouble, you have literally minutes to deliver this baby," Grunebuam said. "There's no time to transfer the patient from the home to the hospital in sufficient time."
+Women who want fewer medical interventions during labor or delivery, but still lower the risks for their babies should consider having trained midwives attend their births in a hospital, Grunebaum said.
+The study didn't look at causes of death, so the team is planning follow-up research to understand why home births are tied to increased death rates.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

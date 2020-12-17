@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>2618</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/HJN96U43sQQ/</URL>
+<TITLE>Nobel laureate calls handing of stem cell research data 'sloppy'</TITLE>
+<TIME>Fri, 14 Mar 2014 17:07:08 GMT</TIME>
+<ABSTRACT>
+The Nobel Prize-winning head of a Japanese institute whose scientists' work on stem cells was hailed as a game-changer in the field of medical biology called the lead researcher's handling of the data "extremely sloppy" and "irresponsible".
+</ABSTRACT>
+<TEXT>
+Nobel Prize-winning chemist and President of Japanese research institute Riken, Ryoji Noyori (C) bows with other Riken executives during a news conference in Tokyo March 14, 2014 after apologizing for what they called 'grave mistakes' in their stem-cell study published in Nature magazine. (REUTERS/Toru Hanai)
+The Nobel Prize-winning head of a Japanese institute whose scientists' work on stem cells was hailed as a game-changer in the field of medical biology called the lead researcher's handling of the data "extremely sloppy" and "irresponsible".
+Two papers published in the journal Nature in January detailed a simple way to reprogram mature animal cells back into an embryonic-like state that allows them to generate many types of tissue, offering hope for a simpler way to replace damaged cells or grow new organs in humans.
+But other scientists have been unable to replicate the research's results since then and there have been indications of problems with its data and images.
+"The problem here is one immature researcher collected a huge amount of research data, and her handling of data was extremely sloppy and irresponsible," president of Japanese research institute RIKEN Ryoji Noyori told a news conference.
+"I would like to offer my apology for the Nature articles, having brought into question the credibility of the science community," said Noyori, bowing deeply.
+Noyori, who won a Nobel prize for chemistry in 2001, was referring to Haruko Obokata, 30, a lead author of the papers who became an instant celebrity in Japan after they were published.
+A written statement from Obokata and two other RIKEN researchers made available at the news conference said they are discussing the possible withdrawal of the papers with other co-authors.
+Another scientist on the team, Teruhiko Wakayama of the University of Yamanashi, has already called for the papers to be withdrawn.
+"It is no longer clear what's right," Wakayama told public broadcaster NHK on Monday.
+The news conference was called to release the interim findings of investigation on the controversy by a panel of experts from within and outside RIKEN.
+The panel found, among other things, that some images in one of the papers published in Nature were taken from Obokata's doctoral dissertation, which was on different experiments, and that another image was artificially modified.
+"Regular researchers would never do something like this," said Masatoshi Takeichi, director of the RIKEN Center for Developmental Biology, a RIKEN unit where Obokata works as a research leader.
+Takeichi cautioned, however, that despite the flaws in the papers, the science community would have to wait and see if other research groups were able to replicate the results before it could assess the validity of the findings.
+According to the Nature papers and media briefings, Obokata and other researchers took skin and blood cells, let them multiply, then subjected them to stress "almost to the point of death" by exposing them to various events including trauma, low oxygen levels and acidic environments.
+One of these "stressful" situations was simply to bathe the cells in a weak acid solution for around 30 minutes.
+Within days, the scientists - Japanese researchers joined by others from Brigham and Women's Hospital and Harvard Medical School in the United States - said they had found the cells had not only survived but had also recovered by naturally reverting into a state similar to that of an embryonic stem cell.
+These stem cells - dubbed Stimulus-Triggered Acquisition of Pluripotency, or STAP, cells by the researchers - were then able to differentiate and mature into different types of cells and tissues, depending on the environments they were put in, they said.
+</TEXT>
+</DOC>

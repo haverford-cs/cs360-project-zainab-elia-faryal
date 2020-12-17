@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>2197</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/vk2Y_pgmpYQ/</URL>
+<TITLE>Researchers find brain mechanism that leads to cocaine addiction</TITLE>
+<TIME>Tue, 21 Jan 2014 17:13:40 GMT</TIME>
+<ABSTRACT>
+Researchers have identified a new molecular mechanism that alters the brain’s reward circuits after an individual has consumed cocaine.
+</ABSTRACT>
+<TEXT>
+Researchers have identified a new molecular mechanism that alters the brain’s reward circuits after an individual has consumed cocaine.
+Detailed in the journal Proceedings of the National Academy of Science, the discovery could provide a potential drug target for anti-addiction medications.
+When administering chronic cocaine to lab mice, the research team from Icahn School of Medicine at Mount Sinai saw increased levels of an enzyme called PARP-1, which led to an increase in its RAR marks at genes in the nucleus accumbens.  These epigenetic changes altered the activity of the nucleus accumbens, ultimately contributing to long-term addiction to cocaine.
+According to Kimberly Scobie, lead investigator and postdoctoral fellow, inhibiting PARP-1 could help to mediate the brain’s reward center.
+"It is striking that changing the level of PARP-1 alone is sufficient to influence the rewarding effects of cocaine," Scobie said.
+The researchers also found that the epigenetic changes induced by PARP-1 changed the expression of sidekick-1, a cell adhesion molecule found on the brain’s synapses.  Overexpression of sidekick-1 both increased the rewarding effects of cocaine and caused changes in synaptic connections of neurons in the brain reward region.
+</TEXT>
+</DOC>

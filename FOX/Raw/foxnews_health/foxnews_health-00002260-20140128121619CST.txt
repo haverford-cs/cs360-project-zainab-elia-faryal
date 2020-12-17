@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2260</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/H8dzCBzECIY/</URL>
+<TITLE>Production snag forces worldwide hold on GSK chickenpox vaccines</TITLE>
+<TIME>Tue, 28 Jan 2014 18:16:19 GMT</TIME>
+<ABSTRACT>
+GlaxoSmithKline has stopped worldwide deliveries of two chickenpox vaccines for children after discovering that some batches produced at its factory in Wavre, Belgium, were not up to standard.
+</ABSTRACT>
+<TEXT>
+GlaxoSmithKline has stopped worldwide deliveries of two chickenpox vaccines for children after discovering that some batches produced at its factory in Wavre, Belgium, were not up to standard.
+Britain's biggest drugmaker, which is also one of the world's leading vaccine manufacturers, said on Tuesday it expected shipments to begin again at the end of the first quarter.
+The quality issue affects two vaccines containing a varicella (chickenpox) component - Priorix-Tetra, a combined vaccine for measles, mumps, rubella and varicella, known as MMRV, and Varilrix, a single chickenpox shot.
+"We're committed to resolve this supply disruption situation as soon as possible and are actively involved in keeping regulatory authorities and customers informed as we look to minimize the impact of this temporary supply disruption," a GSK spokesman in London said.
+This will involve re-allocating 2014 supply to minimize the disruption, he said. Several other companies also produce similar vaccines and may be able step in to meet short-term shortages.
+The setback is likely to have some impact on GSK's vaccine sales in the first quarter, although there may be a catch-up in volumes in the three months to June. GSK does not break out revenues for the two products.
+German doctors have already been told by health officials to ration the two chickenpox vaccines. Their advice to doctors includes using MMR vaccines instead of MMRV for initial shots, and delaying booster shots.
+Vaccines that have already been delivered are safe, said Germany's federal agency for infectious diseases and its vaccination agency.
+Separately, GSK said it also expects a shortage this month in Germany of Boostrix-Polio, a combined vaccine against diphtheria, tetanus, whooping cough and polio, because an unexpected increase in demand amid limited production capacity. GSK said this shortage was a local German issue.
+</TEXT>
+</DOC>

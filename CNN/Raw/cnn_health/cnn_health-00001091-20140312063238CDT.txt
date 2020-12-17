@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO>1091</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/oig-0Qt0-AQ/index.html</URL>
+<TITLE>Migraines? Device may help</TITLE>
+<TIME>Wed, 12 Mar 2014 07:32:38 EDT</TIME>
+<ABSTRACT>
+The Food and Drug Administration has approved the first medical device for preventing migraines. It's called Cefaly and works by stimulating nerves beneath the forehead.
+</ABSTRACT>
+<TEXT>
+(CNN) -- The Food and Drug Administration has approved the first medical device for preventing migraines. It's called Cefaly and works by stimulating nerves beneath the forehead.
+Shaped like a tiara, the battery-powered device's electrode is positioned just above the patients' eyes. It delivers an electric current, creating a tingling sensation.
+In a 67-person randomized controlled trial published in the journal Neurology last month, Cefaly reduced chronic migraine attacks on average by two per month, and 38% of users had at least a 50% reduction in their number of migraine episodes. The device was not shown to reduce the severity of attacks in the study.
+Patients are meant to wear the device for no more than 20 minutes per day. In contrast to migraine medications, Cefaly has no known side effects and might be combined with other drugs.
+"New therapies are needed in migraine, and further studies of neurostimulation using innovative study designs are warranted to explore the optimum way to create an acceptable evidence base for widespread use of this potentially valuable treatment," writes Dr. Eishi Asano, associate professor of pediatrics and neurology at Wayne State University in Detroit.
+The manufacturer of the device is STX-Med, which is based in Belgium. The device is already sold in Canada, where it costs $250 on the Costco Wholesale website.
+CNN.com's Living Well: Headaches and migraines
+Chartbeat: A migraine may change your brain
+</TEXT>
+</DOC>

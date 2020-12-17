@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>2431</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/gOFEIXxsfE4/</URL>
+<TITLE>OCD genes found in dogs</TITLE>
+<TIME>Tue, 18 Feb 2014 14:07:56 GMT</TIME>
+<ABSTRACT>
+Incessant tail chasing, repetitive shadow stalking, relentless paw chewing for hours and hours every day: Dogs can suffer from obsessive compulsive disorder, too. And a new study helps explain why.
+</ABSTRACT>
+<TEXT>
+Incessant tail chasing, repetitive shadow stalking, relentless paw chewing for hours and hours every day: Dogs can suffer from obsessive compulsive disorder, too. And a new study helps explain why.
+Researchers have zeroed in on four genes that are connected to OCD in dogs. If the same genes turn out to be malfunctioning in the human version of the disorder -- and there are clues that they do -- this line of research may eventually help scientists develop better drugs for a human disease that is notoriously difficult to treat.
+"This is really exciting because psychiatric diseases tend to be very heritable, but finding genes associated with psychiatric diseases in humans has been really difficult," said Elinor Karlsson, a computational biologist at the Broad Institute at Harvard University.
+Photos: The Earliest Dogs
+The antidepressant medications that are currently available for OCD only help about 50 percent of people and dogs that use them, she added, and the medicines can cause unwanted side effects.
+"The question is: can we use genetics to pinpoint what the brain pathways are that are going wrong in these diseases? And can we design drugs that target those pathways in ways that are much more specific than we are doing now?," she added. "Anything we can use to pick apart exactly what is going wrong so we can treat these diseases is going to be a huge benefit."
+Instead of repetitive hand washing or hoarding, dogs with OCD may chew blankets or chase their tails way more than normal. Owners often say they can't distract their pets from their obsessive tasks.
+What Do Dogs Tell Each Other by Wagging?
+A few breeds of dogs exhibit particularly high rates of OCD, including Doberman Pinschers. And because dogs are genetically simpler than people, Karlsson and colleagues turned to these dogs in their search for OCD-related genes.
+The team began by sequencing and comparing a large section of the genomes of 90 Dobermans that had OCD with 60 that didn't.
+They searched for regions that looked different between sick and healthy dogs. They also searched for genes that looked the same in all of the Dobermans but that differed between that breed and others.
+When they had zeroed in on several suspicious areas of the genome, the researchers compared the suspect Doberman genes with genes from a sample of bull terriers, Shetland sheepdogs and German shepherds -- three other breeds that also suffer higher-than-usual rates of OCD.
+Those analyses pinpointed four genes that have unusually high rates of mutations in dogs with obsessive and compulsive behaviors, the team reported Sunday in the journal Genome Biology. The researchers also found OCD-linked mutations in a tiny piece of the genome more than million bases away from any gene that likely plays a role in regulating the genes that play into the disease.
+8 Outrageous Pet Projects
+The genes implicated in the new study play roles in pathways that have also been connected to human OCD, Karlsson said, suggesting that dogs could provide a helpful model system for developing better treatments for people.
+The new study is "another hard-won rung of the ladder toward unraveling the OCD mystery," said Janice Kloer-Matznick, an animal behaviorist and dog-origins researcher in Central Point, Oregon. But there is still a long way to go towards truly understanding the disease.
+"It sounds like there is more to discover, such as interaction of alleles that result in the abnormal behavior, with no single 'smoking gun,' she added. "That's too bad as it means a simple gene test will probably not be developed, one breeders could use to screen out affected dogs and avoid breeding two carriers."
+</TEXT>
+</DOC>

@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>1410</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/J208bC21mTc/</URL>
+<TITLE>Cats and dogs may see in ultraviolet</TITLE>
+<TIME>Wed, 19 Feb 2014 12:45:39 GMT</TIME>
+<ABSTRACT>
+A house cat's bizarre antics may be more than just feline folly.
+</ABSTRACT>
+<TEXT>
+Cats and other mammals can see in ultraviolet. Here's how the world might look to a cat at night.Nickolay Lamm
+A house cat's bizarre antics may be more than just feline folly. The kitty may be seeing things that human eyes can't.
+Unlike humans, many animals see in ultraviolet, and a study now suggests that cats, dogs and other mammals can, too. Knowing these animals see things invisible to humans could shed some light on the animals' behavior, the researchers say.
+"Nobody ever thought these animals could see in ultraviolet, but in fact, they do," said study leader Ron Douglas, a biologist at City University London, in England.
+Light is made up of a spectrum of colors. Visible light (that humans can see) spans from red to violet, and beyond the visible lie ultraviolet wavelengths. Many animals are known to have UV-vision, including insects (such as bees), birds, fish, some amphibians and reptiles, and a handful of mammals (such as some mice, rats, moles, marsupials and bats). [Images: See the World Through Cats' Eyes]
+Seeing in ultraviolet The lens of the human eye blocks ultraviolet light, but in animals with UV-transparent lenses, ultraviolet light reaches the retina, which converts the light into nerve signals that travel to the brain where the visual system perceives them.
+Even in animals whose retinas aren't very sensitive to UV light, some of the light is still absorbed. (In fact, humans who have had their eye lenses removed, such as in cataract surgery, without being replaced by ultraviolet-blocking lenses report being able to see in the ultraviolet.)
+- Ron Douglas, a biologist at City University London
+In this study, the researchers obtained eyes from a smorgasbord of mammals everything from hedgehogs to red pandas to macaque monkeys who had died or were killed, donated by zoos, veterinarians, slaughterhouses and science labs. The scientists measured how much light got through the lens of each animal's eye to its retina.
+The team found that many of the animals, including hedgehogs, dogs, cats, ferrets and okapis (relatives of giraffes that live in the central African rainforest), have lenses that allow some ultraviolet light through, suggesting these animals may see in the ultraviolet.
+This begs the question, what purpose does ultraviolet vision serve?
+"The question is only being asked because humans can't see it," Douglas told Live Science, adding that nobody asks why humans see other colors.
+Nevertheless, ultraviolet vision does serve several purposes. Bees and other insects use it to see colors or patterns on plants that can direct them to nectar. Rodents use it to follow urine trails. And reindeer may use ultraviolet light to see polar bears, which, in visible light, blend in with the snow.
+Why block UV? The better question, Douglas said, is why human eyes block out ultraviolet light. One possibility is that ultraviolet light damages the retina, just as it damages the skin over time. But many long-lived animals that are active during the day, such as reindeer, have ultraviolet vision, and "their eyes don't fall apart," Douglas said. [What If Humans Had Eagle Vision?]
+A more likely explanation for why human eyes filter out ultraviolet light is to improve visual acuity. Skiers wear yellow goggles that block UV light specifically for this reason. The researchers looked at the animals that blocked the most ultraviolet light, and found these were the same animals with the highest-resolution vision.
+Humans are good at seeing detail, because they have a high density of color-sensitive cells, or cones, in their retinas, which produce high-quality images with just a small amount of light. By contrast, nocturnal animals have eyes that let in as much light as possible, including ultraviolet light, though it may not serve any special purpose.
+Ultimately, knowing that many animals have ultraviolet vision could provide a deeper understanding of why they behave the way they do. Or maybe your cat really is just crazy.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

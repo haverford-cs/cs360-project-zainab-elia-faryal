@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO>2263</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/1tQ0SdCFuqI/</URL>
+<TITLE>Synthetic organ technology moving forward</TITLE>
+<TIME>Tue, 28 Jan 2014 15:41:22 GMT</TIME>
+<ABSTRACT>
+Since 2008, eight patients have successfully undergone procedures in which their badly-damaged tracheas were replaced with manmade windpipes.
+</ABSTRACT>
+<TEXT>
+A synthetic trachea in a bioreactor after it was infused with stem cells. Image courtesy of Harvard Apparatus Regenerative Technology.
+Since 2008, eight patients have successfully undergone procedures in which their badly-damaged tracheas were replaced with manmade windpipes.
+Now, a Boston-area company is preparing to manufacture the scaffolds used to grow these synthetic organs on a large scale, MIT Technology Review reported.
+Harvard Apparatus Regenerative Technology (HART) makes synthetic windpipes by growing a patient’s own stem cells on a lab-made scaffold. The company is working with the U.S. Food and Drug Administration to test the system and is currently conducting trials in Russia.
+Researchers hope that in the future, this scaffolding technique could be used to grow other organs as well, such as an esophagus, heart valve or kidney. If successful, the technology could help provide a solution to the country’s organ transplant shortage.  
+The U.S. Department of Health and Human Services estimates there are 120,000 people on waiting lists for an organ and this number underestimates the actual need, Joseph Vacanti, a surgeon-scientist at Massachusetts General Hospital and a leader in tissue-engineering research, told MIT Technology Review.
+“The only way we are going to meet that real need is to manufacture living organs,” Vacanti, who is not affiliated with HART, said.
+Click for more from MIT Technology Review.  
+</TEXT>
+</DOC>

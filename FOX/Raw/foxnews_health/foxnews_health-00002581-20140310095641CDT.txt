@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2581</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/3_U478l8cDo/</URL>
+<TITLE>Smartphone apps link with hearing aids to improve hearing, connect with technology</TITLE>
+<TIME>Mon, 10 Mar 2014 14:56:41 GMT</TIME>
+<ABSTRACT>
+New smartphone apps that link to hearing aids are helping people with impaired hearing to pump up the volume on their devices or to use them as headphones to stream phone calls, YouTube videos and music.
+</ABSTRACT>
+<TEXT>
+An employee of GN, the world's fourth largest maker of hearing aids, demonstrates the use of ReSound LiNX in Vienna November 22, 2013. (REUTERS/Heinz-Peter Bade)
+New smartphone apps that link to hearing aids are helping people with impaired hearing to pump up the volume on their devices or to use them as headphones to stream phone calls, YouTube videos and music.
+About 36 million American adults have some hearing loss, according to the National Institute of Deafness and Other Communication Disorders. But only a fifth of people who could benefit from a hearing aid wear one.
+"People will always need really good hearing aids, but moving forward, what will differentiate competitors will be connectivity (to smartphones), and it will need apps," Lars Viksmoen, chief executive of GN ReSound, a maker of hearing aids based in Denmark, said in a telephone interview.
+The company's new, free app, ReSound Smart for the iPhone, turns hearing aids into headphones and allows users to remotely configure settings on their aids - such as volume, treble and bass. It also remembers particular settings for different venues.
+"Let's say you're in a place you go to all the time, such as a coffee shop. You can make an adjustment and then it will geotag your location, so the next time you walk in, it will remember your settings," said Laurel Christensen, the company's chief audiology officer.
+In noisy locations, a selection on the app can convert the iPhone into a microphone, streaming conversation into the hearing aids for better clarity. It also helps people find their aids, if they misplace them.
+"As you walk around your house, the signal bars get stronger as you get closer to them, and it's like a game of hot and cold," Christensen said.
+The company produces hearing aids, called ReSound LiNX, that cost around $6000 for a pair and can be used with or without an iPhone.
+"I think we're going to see an explosion in this area because of baby boomers. They're into technology and they want to be connected," she said.
+Other apps connect hearing aids to smartphones through an intermediary device, including miniTek Remote App for Android which links to Siemens' line of hearing aids via a streamer.
+Steve Aiken, associate professor of audiology at Dalhousie University in Nova Scotia, Canada, said the apps were beneficial as they link hearing aids to other technology already integrated into people's lives.
+Still, there are some risks, he said.
+"One is that people could damage their hearing further if they adjust the settings incorrectly. And the other is that they miss out on the benefits if they're not configured properly because it takes people's brains a while to acclimatize to sounds they haven't heard in a long time," he said.
+</TEXT>
+</DOC>

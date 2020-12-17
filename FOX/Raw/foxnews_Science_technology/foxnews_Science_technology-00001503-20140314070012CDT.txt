@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>1503</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/uoyJ5M9_COs/</URL>
+<TITLE>SpaceX delays Dragon cargo launch to space station until March 30</TITLE>
+<TIME>Fri, 14 Mar 2014 12:00:12 GMT</TIME>
+<ABSTRACT>
+The planned Sunday launch of a commercial Dragon space capsule packed with food and supplies for astronauts in orbit has been delayed until at least March 30, its SpaceX builders said.
+</ABSTRACT>
+<TEXT>
+A SpaceX robotic Dragon space capsule is mated to the top of its Falcon 9 rocket ahead of a planned March 2014 launch to the International Space Station from Cape Canaveral Air Force Station, Florida. Image released March 11.SpaceX
+The planned Sunday launch of a commercial Dragon space capsule packed with food and supplies for astronauts in orbit has been delayed until at least March 30, its SpaceX builders said Thursday.
+SpaceX planned to launch a Falcon 9 rocket carrying the robotic Dragon spacecraft toward the International Space Station early Sunday, March 16, from Florida to mark the firm's third delivery mission for NASA under a $1.6 billion contract. But due to "remaining open items," SpaceX is now targeting a launch on March 30, with April 2 as a backup day.
+"Both Falcon 9 and Dragon are in good health," SpaceX officials said in a statement announcing the delay. "Given the critical payloads on board and significant upgrades to Dragon, the additional time will ensure SpaceX does everything possible on the ground to prepare for a successful launch." [See photos from SpaceX's latest Dragon spacecraft mission]
+SpaceX launches its Dragon missions to the space station from a pad at Cape Canaveral Air Force Station in Florida. It launched the first Dragon mission in 2010, and has flown two of 12 cargo missions under its NASA deal since then.
+Sunday's mission, called the Commercial Resupply Services 3 (CRS-3) flight, was slated to launch at 4:41 a.m. EDT (0841 GMT) to begin a four-week trip to the International Space Station. The capsule was slated to return to Earth on April 17, if all went well.
+The CRS-3 Dragon spacecraft is packed with about 4,600 lbs. of supplies and gear. That haul includes equipment for more than 150 experiments scheduled for the station's current Expedition 39 crew and its follow-on Expedition 40 increment.
+The spacecraft is also expected to carry a prototype laser communications experiment, a new spacesuit to replace a leaky suit on the station, as well as prehensile legs for NASA's Robonaut 2 robot aboard the orbiting lab. Four tiny "cubesat" satellites will also launch as piggyback payloads on the mission.
+The Dragon capsule, which is equipped with a heat shield, is expected to return about 3,600 lbs. of cargo, experiments and other gear back to Earth, SpaceX officials said.
+SpaceX is one of two U.S. spaceflight companies currently launching delivery flights to the space station for NASA. The U.S. space agency also flies cargo to the space station on vehicles built by Russia, Europe and Japan.
+The other U.S. firm with a NASA cargo delivery deal is the Dulles, Va.-based Orbital Sciences Corp., which launched its first cargo mission to the International Space Station in January. Orbital Sciences has a $1.9 billion contract for eight delivery flights using its own Cygnus spacecraft and Antares rockets, which launch from Wallops Island, Va.
+With the retirement of NASA's space shuttle fleet in 2011, the space agency is depending on private companies like SpaceX and Orbital Sciences to keep the space station stocked with supplies. SpaceX is also one of four U.S. companies developing private space taxis in order to provide flights for NASA astronauts by 2017.
+SpaceX’s amazing ‘grasshopper’ rocket lands on legs
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>2170</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/bIZzpfR-wpY/</URL>
+<TITLE>FDA approves mental disability test for infants</TITLE>
+<TIME>Fri, 17 Jan 2014 19:06:05 GMT</TIME>
+<ABSTRACT>
+The Food and Drug Administration has cleared a first-of-a-kind blood test that can help predict intellectual disabilities in infants by analyzing their genetic code.
+</ABSTRACT>
+<TEXT>
+The Food and Drug Administration has cleared a first-of-a-kind blood test that can help predict intellectual disabilities in infants by analyzing their genetic code.
+The laboratory test from Affymetrix detects variations in patients' chromosomes that are linked to Down syndrome, DiGeorge syndrome and other developmental disorders. About 2 to 3 percent of U.S. children have some sort of intellectual disability, according to the National Institutes of Health.
+The test, known as the CytoScan Dx Assay, is designed to help doctors diagnose childrens' disabilities earlier and get them appropriate care and support. It is not intended for prenatal screening or for predicting other genetically acquired diseases and conditions, such as cancer.
+Currently hospitals in all 50 states are required to screen newborns for at least 29 disorders that can be detected though laboratory testing, including sickle cell anemia and cystic fibrosis. The mandatory screening program, begun a half-century ago, is considered one of the nation's most successful public health programs.
+The FDA said it approved the new test based on studies showing it accurately analyzes a patient's entire genome and accurately spot variations associated with intellectual disabilities.
+Affymetrix Inc. is based in Santa Clara, Calif.
+</TEXT>
+</DOC>

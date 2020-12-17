@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2327</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/uTdPf2956w0/</URL>
+<TITLE>Brain rewrites memories to reflect new experiences, study says</TITLE>
+<TIME>Wed, 05 Feb 2014 15:45:14 GMT</TIME>
+<ABSTRACT>
+New research from Northwestern Medicine identifies how the brain transforms memories.
+</ABSTRACT>
+<TEXT>
+New research from Northwestern Medicine identifies how the brain transforms memories.
+"Our memory is not like a video camera," lead author Donna Jo Bridge, a postdoctoral fellow in medical social sciences at Northwestern University Feinberg School of Medicine said in a press release. "Your memory reframes and edits events to create a story to fit your current world. It's built to be current."
+To investigate how memories change, researchers studied the memory recall of 17 men and women. Participants were asked to study a computer image with 168 objects against various desktop backgrounds. They then were asked to place the objects in their original locations but on a new background. Every time, participants failed to place the objects in their original spots,
+Investigators then showed participants one object in three locations on one screen, asking them to identify the object’s position on the original screen. Participants consistently chose the incorrect location they identified initially.
+"This shows their original memory of the location has changed to reflect the location they recalled on the new background screen. Their memory has updated the information by inserting the new information into the old memory,” Bridge said.  
+Researchers say this shows how memory is built to change. They identified the hippocampus as the brain’s equivalent of a film editor and special effects team– the site where memory editing happens.
+"Everyone likes to think of memory as this thing that lets us vividly remember our childhoods or what we did last week," study author Joel Voss, assistant professor of medical social sciences and neurology at Northwestern, said. "But memory is designed to help us make good decisions in the moment and, therefore, memory has to stay up-to-date.”
+Researchers noted that the study, which was published in the Journal of Neuroscience, was done in a controlled experimental setting but believe it reflects how memory behaves in the real world.
+Click for more from Northwestern University.  
+</TEXT>
+</DOC>

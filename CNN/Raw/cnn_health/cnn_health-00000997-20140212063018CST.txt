@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>997</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/qCPXZpmPMnU/index.html</URL>
+<TITLE>Tiny motors inside your cells</TITLE>
+<TIME>Wed, 12 Feb 2014 07:30:18 EST</TIME>
+<ABSTRACT>
+Tiny rocket-shaped metal particles might one day take a wild ride inside your body, killing cancer, delivering drugs or performing surgery.
+</ABSTRACT>
+<TEXT>
+(CNN) -- Tiny rocket-shaped metal particles might one day take a wild ride inside your body.
+Researchers have, for the first time, installed "nanomotors" inside live human cells, they report in the journal Angewandte Chemie International Edition.
+These "nanomotors" are small synthetic motors, consisting of gold rods, that move around inside cells, and can wreak havoc in a way that might one day be used to treat diseases.
+"You could imagine if you had a way to get these specifically inside just cancer cells, you could then crank up the power and kill all those cells," said Tom Mallouk, senior author of the study and professor of materials chemistry and physics at Pennsylvania State University.
+Future applications of the nanomotors could also include delivering drugs and performing surgery within a cell.
+But that's all a long way off, Mallouk said. The nanomotors have not been tested inside animals of any kind, including humans -- a process that could take a decade. Mallouk's team is still at the basic science stage.
+"We're more interested in understanding how these things work and using it as a tool to understand cell biology," he said.
+Researchers used gold rods that are 300 nanometers in diameter and 3 micrometers long. That's less than the thickness of a human hair.
+What's special about nanotechnology
+Nanomotors powered by chemicals took shape for the first time 10 years ago at Penn State. In those early days, toxic fuels were needed to power the nanomotors and scientists couldn't get them to move in biological fluid. That meant they couldn't be used in human cells.
+For this study, instead of toxic fuel, scientists used ultrasonic waves to propel the nanomotors, directing the spin or forward movements. They used magnetic forces to steer the nanomotors.
+The nanomotors don't do much at low ultrasonic power. Turn it up, though, and the nanomotors start bustling. They bump into organelles -- mini-structures in a cell. Acting like egg beaters, the nanomotors can make the cell's contents homogenous. Or they can pierce the cell membrane.
+"When we tickle a certain part of the cell, we see a mechanical part in another part of the cell, which is kind of surprising," Mallouk said.
+A special line of cells was used for this study that has gotten a lot of attention: HeLa cells. These cells came from the cancerous cervical tumor of Henrietta Lacks, a poor tobacco farmer who never knew that her cells were going to be used in research.
+Scientists have used Lacks' cells for researching the genes that cause and suppress several kinds of cancer, and for developing drug treatments for a variety of conditions, writes Rebecca Skloot in her book, "The Immortal Life of Henrietta Lacks."
+Can we control our genetic destiny?
+For the nanomotor experiments, researchers used HeLa cells because of "their popularity in biomedical research, as well as their ease of handling and growth," the study said.
+The nanomotors can also attach to the surface of the cells, and move between cells.
+"If somebody who knows about cancer sees a way to cure cancer with these things, that's great," Mallouk said. "I'd be glad to talk to them.'
+</TEXT>
+</DOC>

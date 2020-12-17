@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO>631</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/internal/travel/mixed/~3/bqslPYL9kWw/</URL>
+<TITLE>Royal Caribbean unveils virtual balconies on its ships</TITLE>
+<TIME>Fri, 31 Jan 2014 15:04:28 GMT</TIME>
+<ABSTRACT>
+Caribbean is set to unveil a high-tech feature on its ships that’s something right out of the movie “Bladerunner.”
+</ABSTRACT>
+<TEXT>
+Royal Caribbean
+Royal Caribbean
+Love cruising, but don’t want to pay the money for a stateroom with an ocean view?  Now it’s no problem. Royal Caribbean is set to unveil a high-tech feature on its ships that’s something right out of the TV show “The Jetsons”
+In February a limited number of newly designed virtual balconies will be rolled out in the interior staterooms on Navigator of the Seas, which is just completing a dry-dock upgrade and will sail next week out of Galveston, Texas.  Virtual balconies are high definition screens that show what’s outside the ship in real time, so you can enjoy the scenery from inside your room, even if you don’t have a porthole or veranda.
+Originally designed for Royal Caribbean’s Quantum of the Seas, which is set to sail next November, the cruise line decided to install this futuristic feature in 81 staterooms on Navigator of the Seas.
+This is far more than just a feed from a camera to a large screen, says Ronnie Farzad, Royal Caribbean’s head of entertainment technology.
+Charlie Miller of Control Group, the concept design company behind the virtual balconies, said the rooms will feature an 80-inch, high-definition display framed to appear like a real balcony, stretching nearly floor to ceiling and wall to wall, complete with the sound of the seas in real-time from the camera location. Another interesting detail is that the virtual balconies will include a banister for a feeling of safety.
+Royal Caribbean tested a simulated virtual balcony on 30 to 40 people at the Royal Caribbean headquarters, and one recurring comment was that an open ocean view is a little scary – because there was nothing to keep passengers from “falling in,” especially if the ship is moving in high seas, Farzad said.  
+While there are only a limited number of virtual balconies planned for Navigator of the Seas, there will be one in every interior cabin on Quantum of the Seas. Even the “Studio Staterooms” for singles will have smaller versions.
+Expanding on the virtual experience
+Royal Caribbean isn’t the first cruise line to offer a virtual view on its ships. Disney was the first to offer virtual portholes in its interior cabins, but they are only 42-inch circles made to look like portholes. The display shows a video feed from a live camera outside the ship.
+There were several challenges to creating an authentic feel to Royal Caribbean’s virtual balconies.  Designers wanted to create virtual banisters and even balusters, the vertical poles that hold the banisters in place. But the banister had to appear to be outside the window, like on a real balcony. And that created a whole new set of visual challenges, because the look of a real banister changes all the time as the sun and the ship change directions. The answer was to incorporate sun movement charts and powerful GPS data to add “real” shadows and highlights to the virtual banisters. At the same time, they decided not to put virtual glass between the balusters. “It only detracted from the beautiful ocean image on the display. Plus, no one is going to fall through them, anyway,” Miller said.
+The Motion of the Ocean
+A bigger challenge was to display the motion of the ocean. Consulting experts from M.I.T. and Harvard warned of unpleasant feelings when visual perceptions of motion don’t coordinate with real physical feelings. This meant there had to be as little delay as possible between the camera feed and the screen display. An advanced technology called fibre-channel was the answer. “Once we got the latency under one second, it was no longer an issue,” Farzad said.
+Other top-of-the-line technology comes in the Academy Award-winning RED Epic HD cinema cameras, which capture the images of what passengers will see.  It was decided that the best viewing angles were not to the sides of the ship, but forward and aft, so the cameras were placed at the bow and the stern. Real balcony staterooms with the same views usually sell out first. Each virtual balcony is on a side wall and not the wall facing port or starboard. In addition, the images correspond only to the direction the virtual balcony faces. The designers chose to give each room a remote control so the guests can turn the picture on and off and control the volume, but they cannot change views between forward and aft.
+“It has to do with coordinating the visual images with the physical feelings,” Farzad said.
+Another technical decision was to use a wide-angle, “fish-eye” lens on the cameras. “These give a more accurate representation of the visuals from a real balcony,”  Miller said. Plus, they also found a drastic reduction in the feeling of motion in the image.
+In the end, virtual balconies have all the visual and aural advantages of a real balcony – including a feeling of safety and a lower price point than a real balcony. The only thing missing, of course, is the fresh air.
+The “Virtual Balcony” Debut
+Your first opportunity to cruise with a virtual balcony on Navigator of the Seas will be on a four-day cruise leaving Galveston on Feb. 5, at $429 per person. If you are interested in seeing these virtual balconies, go to Navigator of the Seas.
+Paul Motter is the editor of CruiseMates.com, an online cruise guide. Follow him on Twitter @cruisemates.
+Fittest cruise ships
+The best cruise ship cabins
+Top 10 cruise lines
+Top 10 Caribbean cruises
+Escape winter’s grasp on these 6 warm weather cruises for families
+</TEXT>
+</DOC>

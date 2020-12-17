@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2462</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/n9QeWjYW1co/</URL>
+<TITLE>Shocker! Melting snow poses electrocution risk to people, pets</TITLE>
+<TIME>Fri, 21 Feb 2014 13:00:58 GMT</TIME>
+<ABSTRACT>
+As winter's snow slowly melts, people may be happy to see that sidewalks are finally free of ice and slush.
+</ABSTRACT>
+<TEXT>
+A dog runs along a path in New York City's Central Park as it snows February 13, 2014. (REUTERS/Carlo Allegri)
+As winter's snow slowly melts, people may be happy to see that sidewalks are finally free of ice and slush. But those ice-free sidewalks and roadways may hold an even more dangerous threat: death by electrocution.
+Several blocks of busy Sixth Avenue in downtown Manhattan were cordoned off to pedestrians and vehicles on Wednesday, Feb. 19, following reports of a powerful electric current surging through sidewalk grates, manhole covers and the doorknobs of nearby buildings, Gothamist reported.
+The problem was a defective electric cable, according to service provider Consolidated Edison (Con Ed). Though no injuries were reported, similar incidents in the recent past have proved deadly to people and pets. [Top 10 Leading Causes of Death]
+In winter 2004, graduate student Jodie Lane, 30, was electrocuted to death while walking on a damp street in New York City. Con Ed later admitted that her death was the result of poorly insulated electrical wires.
+In 2007, two dogs were electrocuted in as many days after walking on New York City sidewalks where snow and ice had melted. One dog died; the other was revived after its dog walker was able to perform cardiopulmonary resuscitation (CPR) on the pet.
+And earlier this month, a pit-bull-terrier mix was electrocuted just steps from the front door of its owner's Manhattan apartment. "We were entering the building when Bella started acting funny," the dog's owner told the New York Daily News. "She let out a cry. She didn't seem to want to go into the building. Then, she went into a spasm and just laid there."
+Winter's deadly shocks
+It's not a coincidence that these electrocutions all happened in winter, during periods when the weather was just warm enough to melt the snow and ice that had accumulated on roads and sidewalks.
+Water can conduct electricity, though not very efficiently. The conductivity of water is greatly increased when salts and other inorganic chemicals (such as calcium, magnesium and chloride compounds) are dissolved in water.
+And those dissolved minerals especially sodium chloride (NaCl), calcium chloride (CaCl2), magnesium chloride (MgCl2) or potassium chloride (KCl) are the exact compounds found in deicers commonly spread on sidewalks and roads to melt ice and snow.
+So when ice and snow begin to melt, deicing minerals are dissolved in the meltwater, creating a perfect conduit for any electrical charge that may be present in wires that are frayed or have cracked insulation.
+In the most recent case of electrocution, Con Ed was able to determine that the electric current from a frayed electric wire on a building's scaffolding was responsible for the dog's death.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

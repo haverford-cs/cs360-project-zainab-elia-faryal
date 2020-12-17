@@ -1,0 +1,7 @@
+crime 1
+entertainment 2
+health 3
+living 4
+politics 5
+technology 6
+travel 7

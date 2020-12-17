@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO>966</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_travel/~3/kczYDhFdw6s/index.html</URL>
+<TITLE>Flight 370: How do passenger jets change flight paths?</TITLE>
+<TIME>Wed, 19 Mar 2014 17:13:46 EDT</TIME>
+<ABSTRACT>
+You may think that pilots fly passenger jets by steering a joystick. In reality, a lot of the turns the aircraft makes are predetermined.
+</ABSTRACT>
+<TEXT>
+(CNN) -- It appears Malaysia Airlines Flight 370 was programmed to steer off course before the pilots signed off with air traffic control, and that the change of direction may have been transmitted to controllers.
+So how does that happen?
+The flight's Aircraft Communications Addressing and Reporting System communicates various data to the ground, including engine reports, maintenance requirements and weather conditions. The last transmission from Flight 370's ACARS system came at 1:07 a.m.
+The next update was due at 1:37 a.m. It never came.
+While all information so far indicates that someone inside the cockpit, believed to be the co-pilot, made the last verbal communication with air traffic controllers -- "All right, good night" -- at 1:19 a.m., a law enforcement official told CNN that the plane's programmed change in direction was entered at least 12 minutes before the plane's verbal signoff.
+Thus, it appears the plane's ACARS would have transmitted the information that the flight path was reprogrammed. But other authorities have cast doubt on that theory, saying course changes typically are not communicated to the ground via ACARS.
+The disclosure that the first major change of course by missing Malaysia Airlines Flight 370 was most likely programmed through a computer in the cockpit has raised questions about how modern planes navigate.
+Here's a quick primer on how it works.
+Before takeoff
+An airline dispatcher creates the flight plan. When the pilots arrive at the plane, their route is already set and programmed into the plane's flight management system.
+Malaysia Airlines Chief Executive Ahmad Jauhari Yahya says that as far as he is concerned, the missing Boeing 777-200 was programmed to fly to Beijing, its intended destination. "That's the standard procedure," he said Tuesday.
+After the pilots arrive
+Changing the flight path is simple, said Mark Weiss, a former Boeing 777 pilot. He says a pilot can punch a few commands into the airplane's flight management system, which operates like a car's GPS.
+A U.S. official told CNN that somebody programmed Flight 370 to fly off course. But it's unclear if that happened during the flight or before takeoff.
+"We don't know when specifically it was entered," said Mary Schiavo, a CNN aviation analyst and former inspector general for the U.S. Department of Transportation.
+How do ocean recoveries work?
+In flight
+Pilots often have reason to alter their flight path when they're in the air, Weiss says: "That's a very typical scenario. You may have weather in your path, you may have oncoming traffic in your path." To change the course, they type a new navigational waypoint, a kind of virtual checkpoint in the sky, into the system.
+Reports, not yet confirmed by authorities, have suggested that Flight 370 followed navigational waypoints after it turned off its original route less than an hour into its journey on March 8.
+Malaysian Transport Minister Hishammuddin Hussein said Wednesday that "there is no additional waypoint on MH370's documented flight plan, which depicts normal routing all the way to Beijing."
+Why were there no phone calls?
+Ability required
+Programming waypoints into the flight management system of a Boeing 777-200 is "a task that would have been beyond the abilities of anyone but a professional pilot," said Robert Goyer, the editor in chief of Flying magazine and a commercial jet-rated pilot.
+Once the pilots are in the aircraft, "anything is possible," said Ahmad Jauhari.
+Experts answer #370Qs tweets
+Will pilot's simulator give up clues?
+</TEXT>
+</DOC>

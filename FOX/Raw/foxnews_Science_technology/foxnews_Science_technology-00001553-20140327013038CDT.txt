@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>1553</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/r17bl2v8RBg/</URL>
+<TITLE>A planet past Pluto? Astronomers redefine the solar system's edge</TITLE>
+<TIME>Thu, 27 Mar 2014 06:30:38 GMT</TIME>
+<ABSTRACT>
+Scientists have discovery a distant dwarf planet found well past Pluto -- and its existence suggests there may be another planet out there, a rogue giant ten times bigger than Earth.
+</ABSTRACT>
+<TEXT>
+Our little corner of the universe just got a little more crowded.
+Scientists at the Carnegie Carnegie Institution for Science announced Wednesday the discovery of a new cosmic neighbor -- a distant dwarf planet named 2012 VP113 that was found spinning in the depths of space well past Pluto. Its existence suggests there may be another actual planet out there, they said, a rogue giant ten times bigger than Earth orbiting in the distant blackness.
+One thing is clear: Astronomers will have to rethink the cosmic limits of our solar system.
+"This is an extraordinary result that redefines our understanding of our solar system," Linda Elkins-Tanton, director of Carnegie’s Department of Terrestrial Magnetism, said in a press release.
+- Scott Sheppard of the Gemini Observatory
+The solar system as we know it today is divided into three parts: First come the rocky, Earth-like planets that are closest to the sun, next the gas giant planets like Jupiter and Saturn, and finally the frozen objects in the Kuiper Belt outside of Neptune's orbit.
+Pluto, which was demoted from planet status to dwarf planet in 2006, lives in the Kuiper Belt. And in it there appears to be a clear edge to the solar system 50 astronomical units out (AUs, a measure of the distance from the Earth to the sun) -- with the exception of the 2003 discovery of Sedna, one of those frozen objects that was believed until now to be the furthest known thing from the sun.
+Sedna lives in a region of space called the Oort cloud, a vast region of space that may be where many comets come from. Sedna lives in it, and the discovery of 2012 VP113 suggests that there may nearly 1,000 objects beyond that 50 AU "end" of the solar system.
+"The search for these distant inner Oort cloud objects beyond Sedna and 2012 VP113 should continue, as they could tell us a lot about how our solar system formed and evolved," Carnegie’s Scott Sheppard of the Gemini Observatory said in a press release.
+2012 VP113 is located 80 times the distance of the Earth from the sun (80 AUs), while Sedna is at 76 AU.
+Sheppard and fellow researcher Chadwick Trujillo determined that the Oort cloud is likely bigger than the Kuiper Belt and main asteroid belt. And the similarity in the orbits of Sedna, 2012 VP113 and a few other objects out there suggests that a massive planet may be shepherding them. Sheppard and Trujillo suggest a super Earth or an even larger object at hundreds of AU could create the shepherding effect seen in the orbits of these objects, which are too distant to be pulled on significantly by any of the known planets.
+"Some of these inner Oort cloud objects could rival the size of Mars or even Earth," said Sheppard. "This is because many of the inner Oort cloud objects are so distant that even very large ones would be too faint to detect with current technology."
+The findings are published in the March 27 edition of Nature.
+10 need-to-know things about our solar system
+These are the discovery images of 2012 VP113, nicknamed Biden because of the VP in the provisional name. Three images of the night sky, each taken about two hours apart, were combined into one. The first image was artificially colored red, second green and third blue. 2012 VP113 moved between each image as seen by the red, green and blue dots. The background stars and galaxies did not move and thus their red, green and blue images combine to show up as white sources.
+The solar system is made up the sun, eight planets, 138 moons and many comets, asteroids and other space rocks.
+This is an orbit diagram for the outer solar system. The Sun and Terrestrial planets are at the center. The orbits of the four giant planets, Jupiter, Saturn, Uranus and Neptune, are shown by purple solid circles. The Kuiper Belt, including Pluto, is shown by the dotted light blue region just beyond the giant planets. Sedna's orbit is shown in orange while 2012 VP113's orbit is shown in red. Both objects are currently near their closest approach to the Sun (perihelion).
+SpaceX’s amazing ‘grasshopper’ rocket lands on legs
+</TEXT>
+</DOC>

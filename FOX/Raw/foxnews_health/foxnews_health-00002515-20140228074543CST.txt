@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2515</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/f_MfTcBZBBU/</URL>
+<TITLE>Stethoscopes more contaminated than doctors' hands</TITLE>
+<TIME>Fri, 28 Feb 2014 13:45:43 GMT</TIME>
+<ABSTRACT>
+Stethoscopes tend to be more contaminated than the palms of physicians' hands, new research shows
+</ABSTRACT>
+<TEXT>
+Stethoscopes tend to be more contaminated than the palms of physicians' hands, new research shows.
+In a recent Swiss study, researchers discovered that more bacteria cover a stethoscope's diaphragm (the part that's held against a patient's body) than all regions of a physician's hands, except the fingertips.
+The study also found a close correlation between the degree of the contamination of the diaphragm and that of the physician's fingertips. There are no official guidelines that tell doctors how often they should clean their stethoscopes, the researchers said.
+"The more you have bacteria on the fingertips, the more you find bacteria on the membrane of the stethoscope," said study author Dr. Didier Pittet, director of infection control at the University of Geneva Hospitals. [10 Weird and Terrifying Medical Instruments from the Past]
+In the study, 71 patients were examined by one of three physicians who used sterile gloves, and a sterile stethoscope. After the examination, the researchers checked the degree of bacterial contamination on two parts of the stethoscope the tube and membrane and four regions of the physician's hands back, fingertips, the region near the base of the thumb and the region near the little finger.
+Researchers found more contamination in the diaphragm than in all regions of the physician's hand, except the fingertips. The tube of the stethoscope also showed more contamination than the back of the physician's hand.
+"What was relatively surprising is the degree of colonization, which is pretty high," Pittet said.
+The findings may have implications for patient safety regulations.
+"It means that the stethoscope needs to be cleaned, some people say 'decontaminated' or 'disinfected,' after each single clinical use," which is not routinely done, Pittet said.
+There are currently no recognized guidelines for cleaning stethoscopes anywhere in the world, he said.
+However, doctors do use a separate stethoscope for patients infected with bacteria that are resistant to drugs, Pittet said. The new research could lead to additional precautions, he said.
+"So this paper would certainly push people to think about it and to evolve the guidelines," Pittet said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

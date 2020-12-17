@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO>1447</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/lDAfZBaDirk/</URL>
+<TITLE>Over 100 published science journal articles just gibberish</TITLE>
+<TIME>Sat, 01 Mar 2014 11:00:33 GMT</TIME>
+<ABSTRACT>
+Do scientific papers ever seem like unreadable gibberish to you? Well, sometimes they really are.
+</ABSTRACT>
+<TEXT>
+But how could gibberish end up in respectable science papers? The man who discovered the recent frauds said it showed slipping standards among scientists.FoxNews.com
+Do scientific papers ever seem like unreadable gibberish to you? Well, sometimes they really are.
+Some 120 papers published in established scientific journals over the last few years have been found to be frauds, created by nothing more than an automated word generator that puts random, fancy-sounding words together in plausible sentence structures. As a result they have been pulled from the journals that originally published them.
+The fake papers are in the fields of computer science and math and have titles such as “Application and Research of Smalltalk Harnessing Based on Game-Theoretic Symmetries”; “An Evaluation of E-Business with Fin”; and “Simulating Flip-Flop Gates Using Peer-to-Peer Methodologies.” The authors of those papers did not respond to requests for comment from FoxNews.com.
+This is not the first time nonsense papers have been published.
+In 1996, as a test, a physics professor submitted a fake paper to the philosophy journal Social Text. His paper argued that gravity is “postmodern” because it is “free from any dependence on the concept of objective truth.” Yet it was accepted and published.
+- Eric Merkel-Sobotta, a spokesman for the publisher Springer
+But how could gibberish end up in respectable science papers? The man who discovered the recent frauds said it showed slipping standards among scientists.
+"High pressure on scientists leads directly to too prolific and less meaningful publications," computer scientist Cyril Labbé of Joseph Fourier University in France, told FoxNews.com.
+But he has no explanation as to why the journals published meaningless papers.
+"They all should have been evaluated by a peer-review process. I've no explanation for them being here. I guess each of them needs an investigation," he said.
+The publishers also could not explain it, admitting that the papers “are all nonsense.”
+“We are in the process of investigating… [and] taking the papers down as quickly as possible. A placeholder notice will be put up once the papers have been removed. Since we publish over 2,200 journals and 8,400 books annually, this will take some time,” Eric Merkel-Sobotta, a spokesman for the publisher Springer, which published 16 of the fake papers, told FoxNews.com.
+The fraud was first reported in the journal Nature.
+Labbé has made it his mission to detect fakes, and ironically has published a paper in a Springer journal about how to automatically detect fake papers. He also built a website that detects whether papers are computer generated.                                                                                     
+“Our tools are very efficient to detect SCIgen papers and also to detect duplicates and plagiarisms,” Labbé said. SCIgen is the program that generates random papers.
+Some professors said that pay rules that base professor salaries on the number of papers they publish may lead to fakes.
+“Most schools have merit raise systems of some kind, and a professor’s merit score is affected by his or her success in publishing scholarly papers,” Robert Archibald, a professor of economics at the College of William and Mary, who studies the economics of higher education, told FoxNews.com.
+He noted that because other professors may not read the paper, “publishing a paper that was computer-generated might help with merit pay.”
+Labbé also said that overly numerical measures might encourage fraud.
+“In aiming at measuring science it is perturbing science,” he said.
+The author of this piece, Maxim Lott, can be reached on twitter at @maximlott or at maxim.lott@foxnews.com
+</TEXT>
+</DOC>

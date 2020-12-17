@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>2166</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/10U6Z5eJOaE/</URL>
+<TITLE>Gene therapy improves vision in patients with form of incurable blindness</TITLE>
+<TIME>Thu, 16 Jan 2014 13:00:34 GMT</TIME>
+<ABSTRACT>
+In a new study published in researchers used a novel gene therapy technique on choroideremia patients, which helped restore some of the sight they had already lost over the years.
+</ABSTRACT>
+<TEXT>
+For patients with choroideremia – a rare form of progressive blindness – there are no current treatment options that can help stop their visual degeneration.  But now a new innovative procedure may be the key.
+In a new study published in The Lancet, researchers used a novel gene therapy technique on choroideremia patients, which helped restore some of the sight they had already lost over the years.  Gene therapy involves injecting patients with a vital gene that is either missing or defective in their genetic code.
+“Gene therapy is exciting; it’s a new type of medicine,” lead author Robert MacLaren, a professor at the University of Oxford, told FoxNews.com.  “And what we’re doing is it on a very small scale, because we’re looking at a very straightforward gene to replace.”
+Caused by a mutation in the CHM gene on the X chromosome, choroideremia causes progressive blindness due to degeneration of the choroid, retinal pigment epithelium and retina.  Patients with this disease can start their lives with perfect vision, but eventually start to experience problems with light sensitivity and peripheral vision as they age.
+The condition, which affects 1 in every 50,000 people, ultimately leads to the death of the photoreceptor cells in the retina – causing complete blindness in middle age.
+“It’s like looking down through a telescope at a small central island of vision,” MacLaren explained of the disorder.  “And by the time they’re in their 40s and 50s, they lose vision completely.”
+Because choroideremia is caused by a defect in a single gene, MacLaren believed that gene therapy could hold promise for patients with this form of progressive blindness.  Additionally, because the cellular degeneration occurs so slowly, the researchers had a large window of opportunity in which they could test their treatment – before complete visual loss occurred.
+In order to “fix” the mutation found in choroideremia patients, MacLaren and his colleagues genetically altered an adeno-associated virus (AAV), so that it carried a corrective copy of the CHM gene.
+“The virus is a small biological organism, and it’s very good at getting into cells,” MacLaren said.  “…But rather than deliver the virus’s DNA, we’ve taken out most of the viral DNA and instead put in the missing gene.  So it releases the DNA into the nucleus – it’s a single stranded DNA with the missing [CHM] gene.”
+The researchers injected their engineered virus into the retinas of six patients between the ages of 35 and 63, all of whom were experiencing different stages of choroideremia.  Four of the patients still had good eyesight, though they had almost no peripheral vision, and the other two patients had already started to experience vision loss.
+Six months after the gene had been delivered, all of the patients recovered their visual acuity from before the procedure and developed increased sensitivity to light.  Additionally, the two patients who had begun to suffer vision loss showed substantial improvements in their sight – with one able to read three additional lines on an eye chart.
+MacLaren said the study’s results are significant, as it is the first time gene therapy has been used to treat patients with mostly normal vision – before they suffered significant thinning of the retina.  He and his team intend to continue studying their technique, as they are hopeful it might be able to stop vision loss in choroideremia patients altogether.
+“Now that we know the virus is doing what it should do, we need to follow the patients up and see if the improvement is correlated with the stopping of degeneration,” MacLaren said.  “…We’re hoping to help more people with this disease, because it’s a terrible diagnosis to have.”
+MacLaren noted that their study’s success could also pave the way for the use of gene therapy on other conditions that cause vision loss – as long as they are caused by mutations in a single gene.
+“Any type of retinitis pigmentosa potentially could be helped by gene therapy,” MacLaren said. “…For those patients, we don’t yet know what genes to use, but the concept of this gene therapy can be applied before the onset of vision loss.  So in this case, genetic modification is a good thing, not necessarily a bad thing.”
+</TEXT>
+</DOC>

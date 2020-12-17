@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO>2611</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/6tCXUE0d2ic/</URL>
+<TITLE>Vaginal gel may protect women from HIV infection</TITLE>
+<TIME>Thu, 13 Mar 2014 15:31:50 GMT</TIME>
+<ABSTRACT>
+Researchers may be one step closer to protecting against human immunodeficiency virus (HIV), Counsel and Heal reported.
+</ABSTRACT>
+<TEXT>
+Scanning electron micrograph of HIV-1 budding from cultured lymphocyte. The multiple round bumps on cell surface represent sites of assembly and budding of virions.CDC.gov
+Researchers may be one step closer to protecting against human immunodeficiency virus (HIV), Counsel and Heal reported.
+A new study published in Science Transitional Medicine demonstrated the efficacy of a novel vaginal gel in preventing HIV infection in female monkeys – after they had been exposed to the virus.  
+The gel is made with a 1 percent solution of a drug called raltegravir, which inhibits HIV’s ability to integrate its DNA into the genetic makeup of animal cells. Experts believe this DNA integration occurs six hours after exposure.
+To test their gel, scientists first exposed six monkeys to an animal-human laboratory strain of HIV. Three hours later, researchers administered the antimicrobial gel to the monkeys. Of the six monkeys test, five were protected from infection.
+Previously, vaginal gels containing HIV-blocking medicines have had mixed success in human clinical trials. However, the Centers for Disease Control and Prevention (CDC), which led the study, said the findings are promising as they show proof of concept.
+"Studies still need to be done to look at the window [of opportunity]. Is it six, eight, 24 hours?” Dr. Charles Dobard, of the CDC’s division of HIV/AIDS prevention, told BBC News.
+While the findings are encouraging, researchers and experts say human trials are still a few years off.
+"Much larger human trials would be required before such a gel could be licensed for routine use," Dr. Andrew Freedman, reader and consultant in infectious diseases at Cardiff University School of Medicine in Wales, told BBC News.
+Click for more from Counsel and Heal.
+</TEXT>
+</DOC>

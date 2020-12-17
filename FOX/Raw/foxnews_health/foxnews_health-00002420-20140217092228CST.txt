@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2420</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/CjGUGwmjL5M/</URL>
+<TITLE>Your diet may not fit your genes</TITLE>
+<TIME>Mon, 17 Feb 2014 15:22:28 GMT</TIME>
+<ABSTRACT>
+You are what you eat, and what you eat could be making you age prematurely; in fact, it may even be killing you.
+</ABSTRACT>
+<TEXT>
+You are what you eat, and what you eat could be making you age prematurely; in fact, it may even be killing you.
+And it's not all about 64-ounce cups of sugary soda pop. It may just be that those skinny jeans don't fit your genes.
+Your diet can trigger genetic effects that cause you to age more rapidly, according to a recently completed study at the University of Southern California Davis. The study's authors, Sean Curran and Shanshan Pang, identified a collection of genes that allow an organism to adapt to different diets and showed that without them, even minor dietary changes can cause premature aging, even death.
+The researchers also revealed a reason why some diets work for specific groups of people and are ineffective for others.
+- Sean Curran with the University of Southern California Davis
+"The ability to utilize any diet requires a suite of enzymes working in concert," Curran, who specializes in biogerontology, told FoxNews.com. "It is for this reason that we believe some diets are more ideal for some [people] but not others.”
+In the study, for example, the scientists identified a gene called alh-6 that delayed the effects of aging depending on what type of diet a worm was fed, by protecting it against diet-induced defects. The worm, known as the Caenorhabditis elegans, has been used in genetic research for decades because many of its genes have similar functions in humans. But the researchers do not know precisely what element of the worm's diet triggered the mitochondrial defects that resulted in advanced aging.
+So don't expect to see personalized prescription diets soon, though related research indicates this may eventually happen.
+Earlier studies have contributed to the area of nutrigenetics, which examines the role of genetic variation on interactions between diet and health. A study last year looked at 3,500 people and the two expressions of a gene, the C and T versions of APOA2, and found that people who had the C version of the gene and ate a diet high in saturated fats gained weight. But those with the T version were less vulnerable to the high-fat diet.
+Genetics are not a get-out-of-fat-free card, though. When both groups ate a healthier low-fat diet, they both benefited with a lower body mass index reading.
+Nevertheless, the day could arrive when doctors tell some patients that it's safe to eat doughnuts and fried foods, while others have to stick to Brussels sprouts and kale.
+Curran points out that full genome sequencing is available now for less than $1,000, meaning it's possible to start doing clinical studies of specific diets and genetic markers.
+"Imagine one day," he said, "when an infant is born, its genome is sequenced and optimal diets can be predicted accurately."
+</TEXT>
+</DOC>

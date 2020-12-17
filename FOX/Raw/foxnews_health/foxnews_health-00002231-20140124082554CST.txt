@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>2231</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/G8rFbnVQ3fg/</URL>
+<TITLE>Vitamin D supplements may not be necessary, study shows</TITLE>
+<TIME>Fri, 24 Jan 2014 14:25:54 GMT</TIME>
+<ABSTRACT>
+There is little evidence to suggest that healthy people benefit from taking vitamin D supplements. 
+</ABSTRACT>
+<TEXT>
+There is little evidence to suggest that healthy people benefit from taking vitamin D supplements, BBC News reported.
+In a study published in the Lancet, researchers carried out a meta-analysis of 100 trials analyzing the effects of vitamin D supplementation in the adult population .
+Overall, the researchers found that vitamin D supplements failed to significantly reduce the risk of death, heart disease, cancer and stroke among study participants. Among both healthy and hospitalized patients, Vitamin D supplements also failed to noticeably reduce the risk of hip fractures.
+Even people with a mild vitamin D deficiency may benefit more from lifestyle changes, compared to supplements, experts noted.
+“(General practicioners) shouldn't be rushing around getting blood tests done for the average healthy person,” Dr Colin Michie, consultant senior lecturer in pediatrics and chairman of the nutrition committee at the Royal College of Pediatrics and Child Health told BBC News. "Instead, the old-fashioned advice still holds true. Eat more fish, watch your diet and how you lead your life - unless you're specifically at risk."
+Click for more from BBC News.
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>1255</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/d3ZF3sW_boQ/</URL>
+<TITLE>Alien planet found orbiting the Sun's twin</TITLE>
+<TIME>Thu, 16 Jan 2014 14:15:40 GMT</TIME>
+<ABSTRACT>
+Scientists using a powerful telescope in Chile have found an alien planet circling a star that is nearly identical to the sun and located in a star cluster 2,500 light-years from Earth.
+</ABSTRACT>
+<TEXT>
+This artist's illustration shows one of three newly discovered planets in the star cluster Messier 67. Image released Jan. 15, 2014.ESO/L. Calçada
+The Messier 67 star cluster shines in the center of this image. The star cluster plays host to about 500 stars that are all around the same age and composition as the sun. Image released Jan. 15, 2014.ESO/Digitized Sky Survey 2 Acknowledgement: Davide De Martin
+Scientists using a powerful telescope in Chile have found an alien planet circling a star that is nearly identical to the sun and located in a star cluster 2,500 light-years from Earth.
+The discovery marks the first time that scientists have found an exoplanet circling a solar twin in a star cluster, according to European Southern Observatory officials, the group that operates the telescope instrument that made the discovery. Scientists used ESO's HARPS telescope instrument to find the exoplanet, which is a little smaller than Jupiter and takes seven days to orbit its star. The strange world, along with two other exoplanets also found by the HARPS instrument, are located in Messier 67, a star cluster populated by about 500 stars. 
+ESO scientists also created a video explanation of the sunlike-star's alien planet, as well as the discovery of two other exoplanets that were found in the same study. While exoplanets have been found in star clusters before, this is the first time one has been found circling a sun twin in a cluster. [The Strangest Alien Planets (Gallery)]
+"In the Messier 67 star cluster the stars are all about the same age and composition as the sun," Anna Brucalassi of the Max Planck Institute for Extraterrestrial Physics, leader of the new study, said in a statement. "This makes it a perfect laboratory to study how many planets form in such a crowded environment, and whether they form mostly around more massive or less massive stars."
+Two other planets were also found orbiting stars in the cluster. By using the HARPS planet-hunting instrument on the 3.6-meter telescope at the La Silla Observatory in Chile, scientists were able to observe 88 stars in Messier 67 over six years to try to find planets orbiting the stars.
+In all, the scientists found three planets orbiting three different stars in the cluster. Aside from the solar twin and its planet, the researchers also found another planet one-third the size of Jupiter circling a sun-like star and a planet larger than Jupiter circling a massive red giant star.
+Two of the three planets are considered "hot Jupiters" or planets that are somewhat like Jupiter in size, but orbit closer to their host stars, ESO officials said. All three of the planets are too close to their parent stars for liquid water to exist, ESO officials added.
+"These new results show that planets in open star clusters are about as common as they are around isolated stars — but they are not easy to detect," Luca Pasquini of ESO, co-author of the new study to appear in the journal Astronomy & Astrophysics, said in a statement. "The new results are in contrast to earlier work that failed to find cluster planets, but agrees with some other more recent observations. We are continuing to observe this cluster to find how stars with and without planets differ in mass and chemical makeup."
+In pictures: ISON, 'comet of the century' no more?
+</TEXT>
+</DOC>

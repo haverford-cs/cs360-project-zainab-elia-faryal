@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>1459</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/5F8WREh2Xg0/</URL>
+<TITLE>Giant virus resurrected from permafrost after 30,000 years</TITLE>
+<TIME>Tue, 04 Mar 2014 12:45:20 GMT</TIME>
+<ABSTRACT>
+A mysterious giant virus buried for 30,000 years in Siberian permafrost has been resurrected.
+</ABSTRACT>
+<TEXT>
+An ultrathin section of a Pithovirus particle in an infected Acanthamoeba castellanii cell observed by transmission electron microscopy with enhancementJulia Bartoli and Chantal Abergel, IGS and CNRS-AMU
+A mysterious giant virus buried for 30,000 years in Siberian permafrost has been resurrected.
+The virus only infects single-celled organisms and doesn't closely resemble any known pathogens that harm humans.
+Even so, the new discovery raises the possibility that as the climate warms and exploration expands in long-untouched regions of Siberia, humans could release ancient or eradicated viruses. These could include Neanderthal viruses or even smallpox that have lain dormant in the ice for thousands of years.
+"There is now a non-zero probability that the pathogenic microbes that bothered [ancient human populations] could be revived, and most likely infect us as well," study co-author Jean-Michel Claverie, a bioinformatics researcher at Aix-Marseille University in France, wrote in an email. "Those pathogens could be banal bacteria (curable with antibiotics) or resistant bacteria or nasty viruses. If they have been extinct for a long time, then our immune system is no longer prepared to respond to them."
+(A "non-zero" probability just means the chances of the event happening are not "impossible.")
+Giant viruses In recent years, Claverie and his colleagues have discovered a host of giant viruses, which are as big as bacteria but lack characteristic cellular machinery and metabolism of those microorganisms. At least one family of these viruses likely evolved from single-celled parasites after losing essential genes, although the origins of other giant viruses remain a mystery, Claverie said. [Tiny Grandeur: Stunning Images of the Very Small]
+- Jean-Michel Claverie, a bioinformatics researcher at Aix-Marseille University in France
+In the researchers' hunt for more unknown pathogens, they took a second look at permafrost samples collected from Kolyma in the Russian Far East in 2000. Because the permafrost was layered along steep cliffs, drillers could extract samples from 30,000 years ago by drilling horizontally into the ice, thereby avoiding contamination from newer samples.
+The team then took samples of this permafrost and put them in contact with amoebas (blob-like single-celled organisms) in Petri dishes. The researchers then waited to see what happened.
+Some of the amoebas burst open and died. When the scientists investigated further, they found a virus had killed the amoebas.
+The ancient virus infects only amoebas, not humans or other animals. This pathogen belongs to a previously unknown family of viruses, now dubbed Pithovirus, which shares only a third of its genes with any known organisms and only 11 percent of its genes with other viruses. Though the new virus resembles the largest viruses ever found, Pandoraviruses, in shape, it is more closely related to classical viruses, which have an isocahedral shape (with 20 triangular-shaped faces), Claverie said.
+Pathogens reawakened? The findings raise the possibility that other long-dormant or eradicated viruses could be resurrected from the Arctic. As the climate warms and sea ice and permafrost melt, oil and mining companies are drilling many formerly off-limit areas in Russia, raising the possibility that ancient human viruses could be released.
+For instance, Neanderthals and humans both lived in Siberia as recently as 28,000 years ago, and some of the diseases that plagued both species may still be around.
+"If viable virions are still there, this is a good recipe for disaster," Claverie said. "Virions" is the term used for the virus particles when they are in their inert or dormant form.
+But not everyone thinks these viruses spell potential doom.
+"We are inundated by millions of viruses as we move through our everyday life," said Curtis Suttle, a marine virologist at the University of British Columbia in Canada, who was not involved in the study. "Every time we swim in the sea, we swallow about a billion viruses and inhale many thousands every day. It is true that viruses will be archived in permafrost and glacial ice, but the probability that viral pathogens of humans are abundant enough, and would circulate extensively enough to affect human health, stretches scientific rationality to the breaking point."
+"I would be much more concerned about the hundreds of millions of people that will be displaced by rising sea levels than the risk of being exposed to pathogens from melting permafrost."
+The findings were published March 3 in the journal Proceedings of the National Academy of Sciences.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

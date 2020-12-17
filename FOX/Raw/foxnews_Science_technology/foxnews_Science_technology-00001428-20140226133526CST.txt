@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>1428</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/bv4vJH-DmXs/</URL>
+<TITLE>NASA could have prevented near-drowning of astronaut during July spacewalk, report reveals</TITLE>
+<TIME>Wed, 26 Feb 2014 19:35:26 GMT</TIME>
+<ABSTRACT>
+NASA admits they could have prevented the near-drowning of an astronaut on a spacewalk last summer, FoxNews.com learned in a teleconference from the Space Agency.
+</ABSTRACT>
+<TEXT>
+In this Tuesday, July 16, 2013 image from video made available by NASA, astronaut Karen Nyberg assists astronaut Luca Parmitano remove his space suit after an aborted spacewalk aboard the International Space Station.AP/NASA
+In this Tuesday, July 16, 2013 image provided by NASA, European Space Agency astronaut Luca Parmitano participates in a spacewalk outside the International Space Station.AP/NASA
+NASA officials admitted the near-drowning of an astronaut on a spacewalk last summer could have been prevented, investigators said in a report issued Wednesday.
+That's the conclusion of an investigation board created by NASA in the wake of last July's close call outside the International Space Station.
+Italian astronaut Luca Parmitano nearly drowned when his helmet filled with water around 45 minutes into the operation on July 16. He barely made it back inside alive.
+But according to the report, his helmet had also leaked one week earlier, at the end of his first spacewalk. The report says the space station team misdiagnosed the first failure and should have delayed the second spacewalk until the problem was understood.
+"The event was not properly investigated, which could have prevented putting a crew member at risk a week later," Chris Hansen, chairman of the Mishap Investigation Board, told reporters in a teleconference.
+While the root cause of the leak remains under investigation, the probe traced the leak to a blocked water separator inside Parmitano's spacesuit. The spacesuits are nearly 35 years old, but Hansen said "nothing in our investigation pointed to aging issues with the suit."
+Hansen and his team gave NASA a total of 49 recommendations to help the space agency improve internal communications and safety procedures. Hansen noted that NASA had already incorporated many of the investigators' suggestions. 
+"We've already resolved many of these items," Bill Gerstenmaier, NASA's associate administrator for human exploration and operations, said in the teleconference.
+"This tells us we need to always be vigilant," International Space Station program manager Michael Suffredini said in the teleconference. "The report kind of brought home to us, at least in the case of the normal operations in a program that's 15 years old, that we evolve over time and we build processes and technologies that we think allow us to operate as safe as we can."
+So much water filled Parmitano's helmet — an estimated 1½ liters — that he could barely see and could not hear or speak. Investigators said Parmitano's "calm demeanor" during the incident quite possibly saved his life.
+Now 37, Parmitano is a former test pilot and an officer in the Italian Air Force who was making his first space mission. He returned to Earth in November.
+U.S. spacewalks were put on hold after the incident. An exception was made right before Christmas so two U.S. astronauts could repair a crippled cooling system at the orbiting outpost. As a precaution, they had snorkels in their suits and water-absorbent pads in their helmets, but there were no problems.
+Six men currently reside on the space station: three Russians, two Americans and one Japanese.
+The Associated Press contributed to this report.
+ 
+Snorkels in space: NASA's 'MacGyver' solution for spacewalks
+Report: NASA to admit space suit leaked on two occasions
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>1401</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/UjQDi2hAx8k/</URL>
+<TITLE>Supply ship departs space station after 5 weeks</TITLE>
+<TIME>Tue, 18 Feb 2014 13:01:07 GMT</TIME>
+<ABSTRACT>
+The International Space Station has one less capsule and a lot less trash: A commercial cargo ship ended its five-week visit Tuesday morning, 260 miles above the Atlantic Ocean.
+</ABSTRACT>
+<TEXT>
+Feb. 18, 2014: The Cygnus supply ship is released from the International Space Station. Cygnus is filled with garbage and will burn up when it plunges through the atmosphere Wednesday.AP Photo/NASA
+CAPE CANAVERAL, Fla. –  The International Space Station has one less capsule and a lot less trash. 
+A commercial cargo ship ended its five-week visit Tuesday morning. NASA astronaut Michael Hopkins used the space station's big robot arm to release the capsule, called Cygnus, as the orbiting lab sailed 260 miles above the South Atlantic.
+Cygnus is filled with garbage and will burn up Wednesday when it plunges through the atmosphere, over the Pacific. Orbital Sciences Corp. launched the capsule last month from Virginia under a $1.9 billion contract with NASA. The Cygnus delivered 3,000 pounds of goods, including belated Christmas gifts for the six-man crew and hundreds of ants for a student experiment.
+The ants are still aboard the space station. They'll return to Earth aboard another company's cargo ship, the SpaceX Dragon. SpaceX -- or Space Exploration Technologies Corp., based in Southern California -- will launch its next Dragon from Cape Canaveral on March 16 with a fresh load of supplies.
+NASA is paying Orbital Sciences and SpaceX to keep the space station stocked. Russia, Japan and Europe also take turns making deliveries. The SpaceX Dragon is the only craft capable of safely returning a pile of items, now that NASA's space shuttles are retired. The Russian Soyuz crew capsule has just enough room for three astronauts and a few odds and ends.
+A handful of American companies, including SpaceX, are working to develop craft to carry space station crews. Until that happens, NASA must continue to buy Soyuz seats for its astronauts. Americans have not launched from U.S. soil since the last shuttle flight in 2011. NASA expects it will be 2017 before U.S. astronauts rocket into orbit from their homeland.
+</TEXT>
+</DOC>

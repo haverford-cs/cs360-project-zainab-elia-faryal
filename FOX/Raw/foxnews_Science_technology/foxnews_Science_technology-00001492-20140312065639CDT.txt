@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>1492</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/hZEcHiOigBg/</URL>
+<TITLE>Chimpanzees can play video games better than kindergartners</TITLE>
+<TIME>Wed, 12 Mar 2014 11:56:39 GMT</TIME>
+<ABSTRACT>
+Panzee, a 22-year-old female chimp, significantly outperformed 12 children and 4 adults on a complex maze in a virtual-reality computer game
+</ABSTRACT>
+<TEXT>
+Panzee, a chimpanzee at the Language Research Center at Georgia State.Language Research Center, Georgia State University
+Look out, gamers: Chimpanzees might be coming for your high scores. Panzee, a 22-year-old female chimp, significantly outperformed 12 children and 4 adults on a complex maze in a virtual-reality computer game.
+Researchers pitted four adult chimps against twelve human children ranging from 3 to 12 years old, and four adult humans. The chimpanzees tended to do about as well as the kids between 3 and 6 years old, completing the maze in a similar amount of time. The scientists were also recording “travel efficiency,” or how much distance the gamers covered before beating the game. That’s where Panzee shined: on the most difficult maze, she took a significantly shorter route to the prize than the kids - and even the adults.
+As the games became more complicated, some of the humans tried to get a boost from their species-mates in the room. “The humans would ask me for answers, but I would tell them, 'I can’t give the chimps answers,'” said Francine Dolins, a primatologist at the University of Michigan-Dearborn and first author on the study, which was published online in the American Journal of Primatology in January.
+The humans and chimps were both evenly split, gender-wise. The humans were British; the chimpanzees were from the Language Research Center at Georgia State University. All the primates at the LRC - chimps included - volunteer to participate in any given experiment.
+If a scientist asked Panzee, or any of her fellow chimps, to work and she didn’t feel up to the task, she could shake her head "no" and play hooky for the day. The researchers, however, were not above bribing a reluctant primate with a grape, or the universal favorite, M&Ms. The human adults were coaxed along with the promise of a bookstore gift certificate, while the human kids were rewarded with pencils and stickers.
+The joysticks used in the game were oriented so each position was associated with a cardinal direction – for example, up was north, and east was right. The humans were given 10 to 20 training sessions. The chimpanzees, who already had experience with the joystick and similar virtual reality games, were given five to 10 sessions to review how the game worked.
+Throughout the game, players had to search through alleys and peek around the corners of “brick” walls, looking for the goal. Each wall had either a blue square, to let the gamer know they were on the right track, or a brown triangle to warn them away.
+“Everything about testing is easier on a computer screen. You have so much more control, especially in non-human animals. You can’t just take them to a mall and say, ‘Go from here to there,’” said Dorothy Fragaszy, the director of the Primate Cognition and Behavior Laboratory at the University of Georgia in Athens. She has worked with all of the chimps in the virtual-reality study before, though she was not a part of the study itself.
+Video games make it easy to add a symbol or change a maze, but they can never recreate the entire environment familiar to a wild chimp. An ape raised in the Language Research Center spends its entire life well-fed, so it doesn’t have the same pressure to find food or starve.
+Wild chimps must also compete with one another for food. Male chimps tend to rove in bands, beating up on unwary females, who have to find less obvious sources of food. Dolins thinks this might be one explanation for a pattern she’s seen - “In the small number of studies I’ve done, females do better than males” on goal-oriented maze and puzzle games, she said.
+When it comes to judging a captive chimp over one raised in the forest, three of the four chimps at the Language Research Center have a decidedly unnatural skill, which might indirectly reinforce their video game ability. From a young age, they’ve been taught to use a Lexigram board. The board has a series of symbols that represent words; when the chimp presses a symbol, a computer says the word aloud.
+All but one of the chimps, Mercury, know how to use the board. This gives them a leg-up in the treat department. While Mercury understands English and can shake his head yes or no to an offered snack, the others can ask for their favorites by name by pressing a key on the board. “Panzee is especially fond of Chex Mix,” Dolins said.
+The language training might also help chimps on maze tasks, if researchers put symbols they recognize on the walls of the maze. “In a sense, symbols are like landmarks - which exist in the wild, of course, but you give them meaning. Chimpanzees who have practice learning these linguistic skills may do better on these kinds of tests than those who don’t,” said Paul Garber, a primatologist at the University of Illinois at Urbana-Champaign who was not involved with the study.
+So will humans one day be fending off Panzee in Skyrim? “If you gave a chimp who liked doing the task enough time, maybe,” said Dolins. “They’re curious, and intrinsically motivated to find more information about the world.”
+At SXSW 2014, secrets, spying and chef Watson
+</TEXT>
+</DOC>

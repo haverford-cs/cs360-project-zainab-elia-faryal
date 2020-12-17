@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO>898</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/TuHGNEGNzeE/index.html</URL>
+<TITLE>What is 4-methylcyclohexane methanol?</TITLE>
+<TIME>Fri, 10 Jan 2014 16:35:34 EST</TIME>
+<ABSTRACT>
+Some 300,000 people in central and southern West Virginia have been advised not to drink the water because it's possibly unsafe. A 48,000-gallon storage tank along the Elk River is leaking a chemical called 4-methylcyclohexane methanol. It's often confused with other similarly named chemicals that can potentially be lethal.
+</ABSTRACT>
+<TEXT>
+(CNN) -- Some 300,000 people in central and southern West Virginia have been advised not to drink the water because it's possibly unsafe. A 48,000-gallon storage tank along the Elk River is leaking a chemical called 4-methylcyclohexane methanol. It's often confused with other similarly named chemicals that can potentially be lethal.
+To help avoid confusion, here's some information about 4-methylcyclohexane methanol, taken from the American Association of Poison Control Centers and CNN's previous reporting:
+This chemical is used to:
+-- Wash coal before it goes to market to reduce ash, also known as the "froth flotation process" of coal preparation
+People can be exposed to this chemical by:
+-- Inhalation
+-- Ingestion
+-- Skin and/or eye contact
+Symptoms:
+-- Nausea
+-- Vomiting
+-- Dizziness
+-- Headaches
+-- Diarrhea
+-- Red or irritated skin
+-- Itching
+-- Rashes
+Little is known about the safety implications for 4-methylcyclohexane methanol, according to the state's Poison Control director Dr. Elizabeth Scharman because it hasn't been adequately studied.
+West Virginians told not to drink or bathe in water
+The Material Safety Data Sheet, mandated by the Occupational Health and Safety Administration and provided by the chemical's manufacturer, says, "No specific information is available in our data base regarding the toxic effects of this material for humans."
+Aside from basic first aid measures such as washing or flushing affected areas and seeking medical attention, the data sheet does not provide detailed treatment for exposure.
+Read the data sheet.
+</TEXT>
+</DOC>

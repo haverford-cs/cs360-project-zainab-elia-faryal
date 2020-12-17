@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO>1560</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/LKTLoYTQpmU/</URL>
+<TITLE>Search for potential 'planet X' far from over</TITLE>
+<TIME>Fri, 28 Mar 2014 13:27:59 GMT</TIME>
+<ABSTRACT>
+The hunt for the hypothetical "Planet X" has been fruitless so far, but that doesn't mean astronomers are calling it off.
+</ABSTRACT>
+<TEXT>
+An ostensibly friendly alien acts as an advance scout to lead his civilization from its dying planet to Earth in the 1951 sci-fi film "The Man From Planet X."United Artists
+The hunt for the hypothetical "Planet X" has been fruitless so far, but that doesn't mean astronomers are calling it off.
+A new analysis of data collected by NASA's Wide-Field Infrared Survey Explorer (WISE) spacecraft revealed no sign of the mysterious Planet X hypothesized to exist in the outer solar system. But scientists are keeping up the search for a planet or dim star far from the sun.
+"I think astronomers will continue to search for a distant companion to the sun with every new, deeper survey," Kevin Luhman of the University of Pennsylvania told Space.com by email. Luhman, who studies low-mass stars and "failed stars" known as brown dwarfs, recently published the results of his search for Planet X using WISE. [Images from NASA's WISE Space Telescope]
+"We have a natural desire to better determine the contents of our solar system," Luhman said. "There's a vast volume of space in the outer solar system, and we would like to know what's out there."
+And a recent find may give a boost to the hunt for Planet X. On Wednesday, March 26, researchers announced they had discovered a dwarf planet orbiting the sun in a distant, largely unexplored region known as the inner Oort Cloud.
+Further, the orbits of the newfound object, known as 2012 VP113, and some of its neighbors are consistent with (though by no means proof of) the existence of a planet-size "perturber" far from the sun — perhaps so distant that it cannot be detected with current instruments.
+An unseen companion For more than a century, astronomers have considered the possibility that another massive body exists in the outer solar system.
+Percival Lowell coined the term "Planet X" at the turn of the 20th century to refer to an undiscovered large planet that could be responsible for perturbing the orbits of Uranus and Neptune. More recently, the idea grew to incorporate a possible dwarf-star companion to the sun, nicknamed " Nemesis."
+In the 1980s, scientists suggested that a solar companion could be responsible for causing mass extinctions on Earth every 26 million years. They theorized that a small, dim star or a large brown dwarf —a body larger than a planet but too small to ignite the fusion reactions that power stars —could periodically pass through the Oort Cloud, the faraway comet repository that surrounds the solar system.
+Gravitational tugs from this body could send a rain of comets hurtling toward the inner solar system, where some would collide with Earth and threaten any life that existed. [Wipe Out: History's Most Mysterious Extinctions]
+The Infrared Astronomical Satellite (IRAS), the first space telescope to scan the entire sky in the infrared, collected a wealth of data in the early 1980s but found no sign of the putative distant object. More detailed data came back from NASA's Two Micron All-Sky Survey (2MASS) a decade and a half later, with the same result.
+But that didn't end the search for the mysterious body. A 1999 study, for example, claimed to find subtle anomalies in the orbits of comets — possible evidence for a distant solar companion. A follow-up study by the same authors in 2011 made the same claim. The team of astronomers suggested that the oddities could be the result of a gas giant planet that they nicknamed "Tyche."
+Still scanning the heavens Most astronomers today don't give much credence to the claims of historical evidence for a companion star or distant planet, Luhman said. Yet the hunt continues, because the possibility such a body could exist is always there. (An Earth-size object would likely be undetectable with current instruments if it lay about 250 Earth-sun distances away, researchers say.)
+The recent results from WISE provide an even more detailed look at cool bodies within the solar system. Luhman's work, published in The Astrophysical Journal, found no sign of Saturn-size bodies to a distance of 10,000 times the Earth-sun distance. (The distance from Earth to the sun, known as an astronomical unit or AU, is about 93 million miles, or 150 million kilometers).
+The survey also sought Jupiter-like and larger bodies, which would include brown dwarfs and low-mass stars, as far away as 26,000 AU. It turned up no hint of the hypothesized body.
+If scientists hadn't suggested that an unseen star or planet could be affecting life on Earth, would astronomers still search for Planet X? Luhman thinks so.
+"Even if no one had previously claimed to find evidence of a large body in the solar system, one would naturally search for an object of that kind with every new all-sky survey that is able to see fainter objects than the previous survey," he said.
+Improving technology could make the difference when it comes to turning up a solar companion. According to Luhman, there is a small chance that a distant companion to the sun could have been missed if it was aligned close to a bright star. Data from the bright star could then have overwhelmed the companion, much as the sun overpowers a flashlight beam.
+A companion could also have escaped detection by WISE if it has a relatively small mass and lies extremely far away. The smaller and dimmer an object is, the harder it becomes to spot as it draws farther away.
+"I think people are amazed by the fact that we can detect galaxies billions of light-years away, and yet there are parts of our own solar system that remain uncharted and unexplored," Luhman said.
+Follow us @Spacedotcom, Facebook or Google+. Originally published on Space.com.
+NASA Dreams of Alien Worlds
+The Art of NASA: Brilliant Mission Patches
+</TEXT>
+</DOC>

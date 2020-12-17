@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>2203</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/CkxUrZ4P9T4/</URL>
+<TITLE>Overnight shift, jet lag cause 'chaos' in body</TITLE>
+<TIME>Tue, 21 Jan 2014 13:38:35 GMT</TIME>
+<ABSTRACT>
+Working overnight causes “chaos” in the body and could lead to long-term damage, BBC News reported.
+</ABSTRACT>
+<TEXT>
+Working overnight causes “chaos” in the body and could lead to long-term damage, BBC News reported.
+In a study published in Proceedings of the National Academy of Sciences, researchers found that subjects who went from a normal sleep pattern to that of a night-shift worker experienced changes at the molecular level.
+Researchers reported that 6 percent of genes are precisely timed to function at specific times of the day. Working the night-shift seemed to throw off that genetic fine-tuning, which may explain why people experience everything from changes in body temperature to decreased athletic ability when they are thrown off their sleep schedule.
+"It's chrono-chaos. It's like living in a house. There's a clock in every room in the house and in all of those rooms those clocks are now disrupted, which of course leads to chaos in the household,” study author Derk-Jan Dijk, of the University of Surrey, told BBC News.
+Previous research has shown too little sleep at the wrong time of day has been linked to an increased risk of Type 2 diabetes and obesity and some research has also found that heart attacks are more common in night workers.
+The changes in rhythmic patterns of gene expression may be related to these long-term health consequences, researcher said.
+Click for more from BBC News.  
+</TEXT>
+</DOC>

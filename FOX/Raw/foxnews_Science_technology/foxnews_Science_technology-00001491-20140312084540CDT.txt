@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO>1491</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/xHRXyWLZkj4/</URL>
+<TITLE>NASA's Mars Orbiter sidelined by glitch</TITLE>
+<TIME>Wed, 12 Mar 2014 13:45:40 GMT</TIME>
+<ABSTRACT>
+NASA's Mars Reconnaissance Orbiter (MRO) put itself into a precautionary "safe mode" Friday, March 7, but the venerable spacecraft is now on the mend, agency officials say.
+</ABSTRACT>
+<TEXT>
+This artist's concept shows NASA's Mars Reconnaissance Orbiter mission over the Red Planet.NASA/JPL
+NASA's Mars Reconnaissance Orbiter (MRO) put itself into a precautionary "safe mode" Friday, March 7, but the venerable spacecraft is now on the mend, agency officials say.
+MRO switched over to safe mode after unexpectedly swapping from one main computer to another, NASA officials said Tuesday. As a result of the glitch, science operations have been suspended, and the probe is not relaying data from the space agency's two active Mars rovers back to Earth at the moment.
+But things should change soon, as MRO's handlers have begun bringing the spacecraft back up to speed, officials said.
+"The spacecraft is healthy, in communication and fully powered," MRO project manager Dan Johnston, of NASA's Jet Propulsion Laboratory in Pasadena, Calif., said in a statement. "We have stepped up the communication data rate, and we plan to have the spacecraft back to full operations within a few days."
+The $720 million Mars Reconnaissance Orbiter mission launched in August 2005 and arrived at the Red Planet in March 2006. During its eight years in orbit around Mars, the spacecraft has returned more data than all other interplanetary missions, past or present, combined, NASA officials said.
+MRO also serves as a vital relay link between NASA's Opportunity rover, which landed in January 2004, and the agency's 1-ton Curiosity rover, which touched down in August 2012. MRO's current issues haven't left the two rovers out in the cold, however; their data continues to come home via Mars Odyssey, a NASA orbiter that has been circling Mars since October 2001.
+Spacecraft enter safe mode when they detect an anomalous condition. It's not an uncommon occurrence; MRO, for example, has now entered safe mode five times following unscheduled computer swaps, with the most recent event before Friday's glitch coming in November 2011, officials said.
+Friday's computer swap also featured a switch over to a redundant radio transponder on MRO. While the probe can operate just fine with this instrument, engineers are trying to figure out what happened to the out-of-service transponder, and whether or not it can be brought back online, NASA officials said.
+Originally published on Space.com.
+</TEXT>
+</DOC>

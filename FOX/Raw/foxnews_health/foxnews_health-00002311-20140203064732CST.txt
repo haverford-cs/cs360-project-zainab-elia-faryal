@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>2311</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/7dT2MvRogK4/</URL>
+<TITLE>New colon camera pill gets clearance from FDA</TITLE>
+<TIME>Mon, 03 Feb 2014 12:47:32 GMT</TIME>
+<ABSTRACT>
+Camera-in-a-pill maker Given Imaging said on Monday it received U.S. Food and Drug Administration clearance for a pill to provide visualization of the colon that has a global market of 3 million procedures a year.
+</ABSTRACT>
+<TEXT>
+Reuters
+Camera-in-a-pill maker Given Imaging said on Monday it received U.S. Food and Drug Administration clearance for a pill to provide visualization of the colon that has a global market of 3 million procedures a year.
+The pill, called the PillCam Colon, may be used for detection of colon polyps in patients after an incomplete optical colonoscopy, the Israeli medical device maker said.
+There are 750,000 patients in the United States alone who experience an incomplete colonoscopy each year, Given Imaging said, and they often incur additional costs, along with the inconvenience and risk associated with other procedures to complete the colorectal examination.
+Given Imaging is a developer of technology for visualizing, diagnosing and monitoring the digestive system, including its PillCam, a swallowed capsule endoscope.
+In December, medical device maker Covidien PLC said it would acquire Given Imaging for $860 million. The transaction is expected to be completed by March 31.
+</TEXT>
+</DOC>

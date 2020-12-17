@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO>1524</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/7IclbTBMla8/</URL>
+<TITLE>How to return to the moon in just four years</TITLE>
+<TIME>Wed, 19 Mar 2014 12:15:10 GMT</TIME>
+<ABSTRACT>
+What if I told you there was a relatively easy way to get Americans back on the moon?
+</ABSTRACT>
+<TEXT>
+After Apollo 12 left lunar orbit on November 24, 1969, this image of the moon was taken from the command module.NASA
+A moon rock brought to Earth by Apollo 11, humans' first landing on the moon in July 1969, floats aboard the International Space Station.Reuters/NASA
+Part three in an exclusive, five-part series exploring how America could once again put men on the moon.
+What if I told you there was a relatively easy way to get Americans back on the moon?
+To build a program to take humans back to the moon takes infrastructure and effort -- but a combination of NASA know-how and private enterprise could make it possible in the next few years.
+NASA has made significant progress on Orion, a capsule like the Apollo-era ones that carried men to the moon in the ’60s and ’70s. It still has a ways to go, but with proper funding a flight in the next three or four years is doable.
+The biggest obstacle is the lack of a rocket, called a super heavy launch vehicle, to lift it off the planet. NASA is working on one, called the Space Launch System, but the agency is constrained by its budget and the likelihood of it flying in that time frame is slim.
+Monday: It’s time to return
+It would be truly amazing, and a huge milestone in human history.
+Tuesday: China’s moon rover a wake-up call
+Why shouldn’t the U.S. continue to lead in space exploration?
+Wednesday: Return to the moon in four years
+What if I told you there was an easy way to get Americans back on the moon?
+Coming up
+Thursday: How America can lead the world back
+China can choose either to compete or join us.
+Friday: Why now is the time for a moon base
+The U.S. must lead the world in allowing humans to break the bonds that hold us to our Earth.
+But there’s an interim solution: SpaceX’s Falcon Heavy, which will have its maiden flight this year and can supposedly launch up to 53 metric tons into orbit. This is a huge increase over current vehicles such as the Delta heavy, which can carry 23 tons, and Ariane 5, which can haul 21. Plus the Falcon Heavy's advertised cost is $150 million or less, which is extremely cheap as space-going vehicles go.
+The scientists and engineers in the ’60s and ’70s who sent Neil Armstrong, Buzz Aldrin and 12 others to the moon had no one to copy or learn from when performing this amazing feat. They used a massive, single-launch rocket called Saturn to carry the Apollo capsule and then speed it to the moon. The Falcon Heavy can't launch humans in a single mission to the moon as NASA did in the Apollo days, but it can easily carry the astronauts, lunar landers and thrusters in fewer than five missions.
+This would require a third stage, or “moon injection stage,” to propel the vehicles and astronauts to the moon.
+Bear with me: Since chemical propulsion is limited in its ability to propel us to orbit and other worldly bodies, rockets have multiple stages to get rid of tank weight as they progress toward their targets. Propellant and tankage dominate the weight of these vehicles -- at least in current designs. How many stages there are and how they burn is defined by the maker.
+The Falcon Heavy's third stage would be similar to but bigger than the Centaur upper stage from United Launch Alliance (ULA), which is currently used on the Atlas launch vehicle. Centaur weighs less dry as a percentage of total fully loaded weight than any other upper stage -- and weight is king. 
+Centaur optimizes it's weight better than any other upper stage. Its hardware mass -- dry, that is, meaning without any fuel -- is a lower percentage of a fully loaded vehicle than any other current vehicle that uses liquid hydrogen and liquid oxygen.  
+ULA is jointly owned by Boeing and Lockheed and has been the major launch provider for the military for many years. SpaceX and ULA are major competitors -- but they could come together for this stage, since ULA is an expert in lightweight tank design.
+In a four-launch scenario, the lander would precede the crew to the moon. The first two launches would be a moon injection stage followed by a lunar lander. These two vehicles would rendezvous in Earth’s orbit before the moon injection stage would send the lander ahead to the moon. The next two Falcon launches would carry a second moon injection stage and then the crew in their capsule/service module. After a similar boost in a moon-injection stage, they would meet up with the lander in lunar orbit.
+The rest of the mission would be like the Apollo mission -- Americans on the moon, once again taking giant leaps for mankind.
+Based on SpaceX estimates, the cost for these four launches would be $600 million. And that’s for a human mission; a cargo-only mission would take just two launches and could deliver 8 metric tons to the lunar surface for $300 million.
+To get astronauts to the moon would require the Apollo-like service module and lander. NASA’s Orion program has worked on a service module, and the lander has made significant progress over the last few years within NASA. These programs could share many of the same propulsion components if jointly developed together.
+The crew habitat of the lander would be the biggest challenge. But NASA’s knowledge of long-term human support systems should give this part of the project a jump-start. The need would be to keep the lander and service module weights within the moon injection stages’ boost capability. Studies suggest this is entirely doable.
+The service module and lander vehicles should cost less than the launch vehicle's cost of $600 million. Add in management, operations, astronaut training and so on and the total operational cost per mission could fall under $1.5 billion -- with an eventual target of an even $1 billion per mission. This is less than half the cost of an Apollo mission, which you would expect with the vast increase in technology since the ’60s.
+There are options for lowering cost further. SpaceX’s heavy lift vehicle uses a less than optimum fuel for its second stage, to share components across stages and lower costs. But the moon injection stage would have to use oxygen and hydrogen for fuel to maximize performance.  NASA and SpaceX could evaluate a joint moon injection stage and Falcon second stage design that share many components.  This might boost the current lift capability and drop the number of fights needed, saving even more money.
+This approach has a chance of sending humans to the moon in this decade. If not, definitely early in the next. Our satellite is easily within our reach -- and for far less than you might think.
+Gene R. Grush is the former propulsion and power division chief at NASA Johnson Space Center in Houston. In an exclusive series of articles for FoxNews.com, Grush details the steps America can take to return to the moon. He can be reached at ggrushsprint@earthlink.net.
+'Red Eye' debate: Should humans live on the moon?
+Check it out: College students' mission to the moon
+SpaceX’s amazing ‘grasshopper’ rocket lands on legs
+</TEXT>
+</DOC>

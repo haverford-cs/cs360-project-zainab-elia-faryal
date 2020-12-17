@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>667</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/internal/travel/mixed/~3/Chab6BGTs30/</URL>
+<TITLE>Southwest cites storm, halting flights in Chicago</TITLE>
+<TIME>Fri, 21 Feb 2014 00:28:15 GMT</TIME>
+<ABSTRACT>
+Southwest Airlines says it will stop flights in Chicago as another winter storm brings rain and high winds through the American Midwest.
+</ABSTRACT>
+<TEXT>
+Southwest Airlines says it will stop flights in Chicago as another winter storm brings rain and high winds through the American Midwest.
+Nationwide on Thursday, U.S. airlines had canceled about 650 flights and another 3,000 were delayed by mid-afternoon, according to tracking service FlightAware.com.
+Southwest spokeswoman Michelle Agnew says all flights after 4 p.m. at Midway Airport — the airline's biggest base — will be canceled. That pushes Southwest's cancellations Thursday to 170 in Chicago and 190 overall, the most among major U.S. airlines.
+At nearby O'Hare Airport, a hub for American Airlines and United Airlines, about one in 10 flights are canceled and one in four are running late. United Express, which operates smaller planes, canceled 70 flights.
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>2488</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/pxTlCAd7pyE/</URL>
+<TITLE>Simple tests could improve sideline concussion diagnosis, study shows</TITLE>
+<TIME>Wed, 26 Feb 2014 21:05:01 GMT</TIME>
+<ABSTRACT>
+New research indicates that a quick vision test, combined with a series of other simple tests, could yield near-perfect concussion detection rates on the sidelines of a game.
+</ABSTRACT>
+<TEXT>
+The King-Devick test, shown here, requires athletes to read rows of numbers during a timed test to determine whether or not they have experienced a concussion. (Image courtesy of NYU.)
+As awareness about the dangers of concussions grows, greater urgency has been placed on detecting head injuries in athletes as early as possible – in order to prevent injured players from risking grave injury by returning to a game.
+New research presented at the American Academy of Neurology's 66th Annual Meeting in Philadelphia indicates that a quick vision test, known as the King-Devick test, combined with a series of other simple tests, could yield near-perfect concussion detection rates on the sidelines of a game.
+Dr. Laura Balcer, professor and vice chair of neurology at New York University’s Langone Medical Center, said vision tests can be an important tool for detecting neurological issues.
+“Since the visual pathways take up more than half of the brain’s pathways, we [thought] including a vision test could help identify concussions on the sidelines,” Balcer told FoxNews.com.
+The King-Devick test requires athletes to read lines of single-digit numbers on a series of three index cards. Each of the three cards is progressively harder to read, as the numbers become staggered or grouped together – but on average, the test takes a healthy collegiate athlete about a minute to complete.
+“Concussion affects vision in so many ways— people describe blurred vision, double vision, they can have trouble coordinating their eyes and head, trouble focusing, bringing the eyes together,” Balcer said. “[It] can manifest through reading, which is why one of the ways to capture visual symptoms is rapid number naming.”
+In a retrospective study of 217 athletes at the University of Florida, each athlete underwent a series of concussion tests at the beginning of the season to determine their baseline scores. In addition to the King-Devick test, the athletes took a Standardized Assessment of Concussion (SAC) test, which consists of cognitive challenges such as remembering a series of words, or repeating back sequences of numbers. They also took the Balance Error Scoring System (BESS) test, which measures athletes’ ability to balance.
+Overall, the King-Devick test proved to be an effective means of detecting concussion throughout the course of the season.
+“We found 79 percent of athletes who had a concussion, and sometimes they don’t report it right away, had a worsening of the score on the King-Devick test compared to preseason,” Balcer said.
+And when researchers combined the results of the King-Devick test with results of the SAC test and the BESS test, the three assessments together provided a 100 percent success rate in identifying concussions among athletes.
+“We believe a composite, or a group of tests, that can capture the major things going on with concussion – balance, cognitive and vision – could allow us to identify more (injured) athletes,” Balcer said.
+The researchers hope to someday create a ‘toolbox’ of concussion detection tests that could be utilized in players all the way from youth leagues through the professional level. Currently, Balcer and her colleagues are conducting a study on youth hockey players, to assess whether parent coaches and volunteers are able to successfully administer these tests to injured athletes on the sidelines of games.
+Furthermore, as more research is done into potential treatments for traumatic brain injuries, the researchers noted that early detection will become even more critical.
+“We don’t have those treatments yet, but one of the goals of developing tests is not only diagnosis but, can they show if a therapy works?” Balcer said. “So once we develop therapies it would be helpful to have a toolbox of tests [to assess how those therapies work]."
+</TEXT>
+</DOC>

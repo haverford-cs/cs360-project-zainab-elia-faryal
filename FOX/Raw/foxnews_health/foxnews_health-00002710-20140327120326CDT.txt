@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2710</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/xsmVEQxfosE/</URL>
+<TITLE>US cases of invasive cancer drop slightly</TITLE>
+<TIME>Thu, 27 Mar 2014 17:03:26 GMT</TIME>
+<ABSTRACT>
+Rates of new cancer cases in the United States have fallen slightly in recent years, according to a new report from the Centers for Disease Control and Prevention
+</ABSTRACT>
+<TEXT>
+iStock
+Rates of new cancer cases in the United States have fallen slightly in recent years, according to a new report from the Centers for Disease Control and Prevention.
+Between 2009 and 2010, the rate of invasive cancer in the country dropped from 459 new cases per 100,000 people, to 446 new cases per 100,000 people, the report found. Invasive cancers are those that have spread beyond their site of origin into the surrounding tissue.
+Rates were higher among men than women (503 new cases per 100,000 people for men compared to 405 new cases per 100,000 people for women), according to the report. [10 Do's and Don'ts to Reduce Your Risk of Cancer]
+The most common invasive cancers were prostate cancer, breast cancer in women, lung and bronchus cancer, and colon and rectum cancers, which all together make up about half of U.S. cancer cases, the CDC said.
+"The good news is that we are seeing slightly lower cancer rates in 2010 than in 2009," Dr. David Espey, acting director of the CDC's Division of Cancer Prevention and Control, said in a statement. "However, far too many people are disabled and die from preventable cancers. It's important to continue to offer the cancer preventive services that we know works to reduce cancer rates and save lives," Espey said.
+Cancer rates were highest in Kentucky (511 new cancer cases per 100,000 people) and lowest in Arizona (380 new cancer cases per 100,000 people).
+In 2010, 24 states met national goals for reducing cervical cancer rates, and 15 states met goals for reducing colorectal cancer rates, the report said. (In 2009, 19 states had met cervical cancer rate goals, and seven had met colorectal cancer rate goals.)
+Many factors contribute to a person's cancer risk, including smoking, obesity and infection with HPV, and new policies may help reduce population differences in these risk factors, the CDC said. For example, the Affordable Care Act could increase people's access to cancer screenings, smoking cessation services and vaccination against HPV, the CDC said.
+Increasing HPV vaccination rates from the current 30 percent to 80 percent could prevent 53,000 cases of cervical cancer over the lifetimes of girls 12 and under, according to CDC estimates.
+There is also a goal to increase colorectal cancer screening to 80 percent for adults ages 50 and older by 2018. (Currently, about 50 percent of adults in this age group are up to date with colorectal cancer screening.)
+The new report will be published tomorrow (March 28) in the CDC's Morbidity and Mortality Weekly Report.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

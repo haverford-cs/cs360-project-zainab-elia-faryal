@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2459</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/sgMvlb9HK6E/</URL>
+<TITLE>Dogs can detect emotion in human voices, study shows</TITLE>
+<TIME>Fri, 21 Feb 2014 14:42:45 GMT</TIME>
+<ABSTRACT>
+Think your dog can tell when you’re feeling sad or happy? You may be right.
+</ABSTRACT>
+<TEXT>
+Walter, a Golden Retriever, lies in a MRI scanner in order to help researchers understand how dogs can be so remarkably good at tuning into the feelings of their human owners. (REUTERS/Bernadett Szabo)
+Think your dog can tell when you’re feeling sad or happy? You may be right.
+Dogs are sensitive to cues of emotion in human voices, according to a new study from Current Biology. Researchers suspect the area of the brain responsible for voice and sounds in both dogs and humans evolved at the same time, 100 million years ago, when the two species shared common ancestors.
+"Dogs and humans share a similar social environment," Attila Andics, of MTA-ELTE Comparative Ethology Research Group in Hungary, said in a press release. "Our findings suggest that they also use similar brain mechanisms to process social information. This may support the successfulness of vocal communication between the two species."
+For their study, researchers trained 11 dogs to sit still in a functional magnetic resonance imaging (fMRI) scanner. The researchers than analyzed the brain activity of both dogs and humans as they listened to 200 different dog and human sounds, ranging from crying to playful barking and laughing.
+While the brains of both dogs and humans responded most strongly to noises produced by their own species, they processed emotionally-loaded sounds in similar ways. For example, both species experienced a greater activation of the brain’s primary auditory cortex when hearing happy sounds.
+Some differences were noted as well: Dogs responded more strongly to non-vocal noises, compared to humans.
+The researchers believe this study may lead to a better understanding of why dogs are so in tune with their owner’s emotions.
+"This method offers a totally new way of investigating neural processing in dogs," Andics said. "At last we begin to understand how our best friend is looking at us and navigating in our social environment."
+</TEXT>
+</DOC>

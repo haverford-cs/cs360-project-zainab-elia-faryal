@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>1229</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/sK7UDMXwLxY/</URL>
+<TITLE>'Hand of God' spotted by NASA space telescope</TITLE>
+<TIME>Thu, 09 Jan 2014 21:00:36 GMT</TIME>
+<ABSTRACT>
+Religion and astronomy may not overlap often, but a new NASA X-ray image captures a celestial object that resembles the "Hand of God."
+</ABSTRACT>
+<TEXT>
+The hand might look like an X-ray from the doctor's office, but it is actually a cloud of material ejected from a star that exploded. NASA's NuSTAR spacecraft has imaged the structure in high-energy X-rays for the first time, shown in blue. LowNASA/JPL-Caltech/McGill
+Religion and astronomy may not overlap often, but a new NASA X-ray image captures a celestial object that resembles the "Hand of God."
+The cosmic "hand of God" photo was produced when a star exploded and ejected an enormous cloud of material, which NASA's Nuclear Spectroscopic Telescope Array, or NuSTAR, glimpsed in high-energy X-rays, shown in blue in the photo. NASA's Chandra X-ray Observatory had imaged the green and red parts previously, using lower-energy X-rays.
+"NuSTAR's unique viewpoint, in seeing the highest-energy X-rays, is showing us well-studied objects and regions in a whole new light," NuSTAR telescope principal investigator Fiona Harrison, of the California Institute of Technology in Pasadena, said in a statement.
+- Hongjun An, of McGill University in Montreal
+The new image depicts a pulsar wind nebula, produced by the dense remnant of a star that exploded in a supernova. What's left behind is a pulsar, called PSR B1509-58 (B1509 for short), which spins around 7 times per second blowing a wind of particles into material ejected during the star's death throes.
+As these particles interact with nearby magnetic fields, they produce an X-ray glow in the shape of a hand. (The pulsar is located near the bright white spot in the image but cannot be seen itself, NASA officials said.)
+Scientists aren't sure whether the ejected material actually assumes the shape of a hand, or whether its interaction with the pulsar's particles is just making it appear that way.
+"We don't know if the hand shape is an optical illusion," Hongjun An, of McGill University in Montreal, said in a statement. "With NuSTAR, the hand looks more like a fist, which is giving us some clues."
+The red cloud appearing at the fingertips is a separate structure called RCW 89. The pulsar's wind may be heating the cloud to produce the low-energy X-ray glow, astronomers believe.
+The X-ray energies seen by NuSTAR range from 7 to 25 kiloelectron volts, or keV, whereas the energies seen by Chandra range from 0.5 to 2 keV.
+The Hand of God is an example of pareidolia, the psychological phenomenon of perceiving familiar shapes in random or vague images. Other common forms of pareidolia include seeing animals or faces in clouds, or the man in the moon. Despite its supernatural appearance, the Hand of God was produced by natural astrophysical phenomena.
+</TEXT>
+</DOC>

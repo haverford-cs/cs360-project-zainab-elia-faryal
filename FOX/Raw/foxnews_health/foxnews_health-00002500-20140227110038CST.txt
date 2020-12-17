@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>2500</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/TjQe9deoMLI/</URL>
+<TITLE>Study reveals why autism is more common in males</TITLE>
+<TIME>Thu, 27 Feb 2014 17:00:38 GMT</TIME>
+<ABSTRACT>
+While boys have a one in 52 chance of developing autism spectrum disorders (ASD), the risk is only one in 252 for girls, according to the U.S. Centers for Disease Control and Prevention (CDC).
+</ABSTRACT>
+<TEXT>
+It has long been known that men have a greater risk for developing autism and other neurodevelopmental disorders, compared to women. While boys have a one in 52 chance of developing autism spectrum disorders (ASD), the risk is only one in 252 for girls, according to the U.S. Centers for Disease Control and Prevention (CDC).
+Now, a new study published by the American Journal of Human Genetics reveals why so many more men are affected by these diseases.  
+Previously, researchers had speculated that mutations on the X chromosome may be to blame for the prevalence of ASD among men. However, study author Evan Eichler, a professor of genome sciences at the University of Washington School of Medicine, said that doesn’t seem to be the case.
+“Five percent [of genes responsible for brain development] map to the X chromosome,” Eichler told FoxNews.com.  “…There are not enough brain development genes on the X chromosome to account for that big of a difference in terms of gender bias.”
+In an effort to puzzle out the gender disparity seen in autism and other disorders, Eichler and his colleague Sébastien Jacquemont, of the University Hospital of Lausanne in Switzerland, paired up to analyze DNA samples from nearly 16,000 people with neurodevelopmental disorders. They also analyzed additional samples from a separate cohort of 800 families affected by ASD.
+Through their analyses, the researchers began to notice that despite the fact that more boys are affected by ASD, the serious genetic mutations responsible for these diseases were more likely to be passed to children through their mother’s DNA, as opposed to from their father.
+“We started to see this bias coming from mothers, who were supposed to be unaffected, that they were more likely to be transmitting mutations we thought were deleterious,” Eichler said.
+After analyzing the cohort of 16,000 individuals with neurodevelopmental disorders, Eichler and his colleagues also discovered that female children seemed to have a larger number of genetic mutations associated with neurodevelopmental disorders, compared to male children.
+“If we divide [the cohort] into females and males, and look at really big mutations, do we see a difference between boys and girls in terms of frequency?” Eichler said. “The answer was, unequivocally, yes. Girls tend to have more of these than boys. Boys have fewer than females.”
+In analyzing the cohort of 800 families affected by ASD, the researchers also saw that girls had more major genetic deletions – and more small mutations – compared to boys.
+Furthermore, the researchers discovered that 60 percent of these severe genetic mutations were coming from a child’s mother, as opposed to 40 percent that came from the father.
+“And that tells us something important, because the mothers are unaffected – even though the females have more mutations and they are more likely to be transmitting them,” Eichler said.
+The researchers theorized that women are better able to overcome genetic mutations, compared to men. Despite the fact that females had more mutations – and larger mutations – they were less likely to develop diagnosable neurodevelopmental problems.
+“What it says is females are better at dealing with these severe mutations and males are more at risk for having them result in disease,” Eichler said. “It’s not necessarily an X chromosome effect, per say, but it has to do with effect that males are more at risk for developing these diseases with fewer mutations, and for females it takes more to push them into a state of intellectually disability.”
+While Eichler said they aren’t certain why women seem less affected by these genetic mutations, they speculated that it may have to do with the fact that women possess two X chromosomes.
+“When you look at the X chromosome, there are 1,500 genes and 5 percent are important to brain development…imagine you’re a male, any mutation that even makes the protein produced a little weaker or less efficient, now you’re stuck with that,” Eichler said. “The female, because she has two X chromosomes, chances are if she has a defective mutation on one of those genes, she can compensate because she has one from the other parent.”
+And while this research indicates that women pass down the majority of the inherited genetic mutations responsible for ASD and other disorders, Eichler said men are more likely to pass down de novo - new - mutations.
+“I want to be sure I don’t leave the impression that females are to blame for this, both parents contribute to the risk but in very different ways,” Eichler said. “Dads are more likely to contribute new mutations; mothers are more likely to contribute inherited mutations.”
+Eichler and his colleagues hope to continue their research on a larger cohort to develop a better understanding of which genetic mutations put children at the greatest risk of developing ASD or other neurodevelopmental disorders.
+“We have to nail it down at the gene level because those become the proteins that become the target for therapies,” Eichler said.
+</TEXT>
+</DOC>

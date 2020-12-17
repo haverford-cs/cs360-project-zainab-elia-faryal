@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2535</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/1uhZM8GKfC0/</URL>
+<TITLE>Antibiotic misuse putting hospital patients at risk, CDC says</TITLE>
+<TIME>Tue, 04 Mar 2014 18:26:56 GMT</TIME>
+<ABSTRACT>
+The improper use of antibiotics is widespread and putting hospital patients at risk, according to a new report from the Centers for Disease Control and Prevention (CDC).
+</ABSTRACT>
+<TEXT>
+The improper use of antibiotics is widespread and putting hospital patients at risk, according to a new report from the Centers for Disease Control and Prevention (CDC).
+According to a CDC “Vital Signs” report released this afternoon, poor antibiotic prescribing practices put hospital patients at increased risk for drug-resistant infections, as well as Clostridium difficile infection (CDI), a potentially deadly form of diarrhea.
+The report found that doctors at some hospitals prescribed three times as many antibiotics as doctors at other hospitals to treat similar patients. And researchers found that in roughly one-third of cases, hospital prescriptions to treat urinary tract infections and prescriptions for the common drug vancomycin were given for too long, or without proper evaluation of the patient.
+“Doctors are handing out antibiotics like they’re candy because they’re practicing defensive medicine,” said Dr. Marc Siegel, a Fox News contributor and professor at NYU Langone Medical Center. “They think, ‘Maybe there’s a 1 percent chance that this is bacteria and I don’t want to miss that.’ You know, it is a knee jerk. It is also patient pressure. And it is also doctors not being properly informed. This has got to stop.”
+While antibiotics are considered “miracle drugs” for their ability to kill a wide range of harmful bacteria, they also pose risks to beneficial bacteria. Although Clostridium difficile (C. diff) is one of many types of naturally-occurring bacteria in the colon, it can overgrow and produce toxins when antibiotics kill off competing bacteria.
+The CDC report estimates that if hospitals reduced their use of antibiotics most often associated with C. diff infections (CDI) by 30 percent, they could reduce cases of this illness by 26 percent. Currently, CDI is responsible for at least 250,000 infections and 14,000 deaths in hospital patients each year, according to the CDC.
+Public health officials say improved prescription standards for antibiotics would also slow the development of drug-resistant bacteria, thereby protecting current patients and extending the usefulness of drugs for future patients.
+“Some of the big guns in terms of antibiotics may be overused,” said CDC Director Dr. Tom Frieden. “We need to reserve those for the most severe infections.”
+Public health officials say improved prescription policies can also benefit a hospital’s bottom line. Recent studies have shown annual savings between $200,000 and $900,000 at larger medical facilities adopting such measures.
+The CDC recommends that every hospital offer education about drug resistance and develop strong oversight for evaluating and tracking prescriptions. Federal health officials say such guidelines are important because more than half of patients receive an antibiotic over the course of an average hospital stay.
+“We need to make sure that every hospital in this country has an antibiotic stewardship program,” Frieden said. “We need to ensure that doctors are prescribing effectively and that patients recognize that more is not better. Better is better.”
+Frieden said hospital patients can also take action by asking their caretakers what tests will be done to ensure they receive the right antibiotic (if such medication is needed) and insisting that everyone wash hands before touching them to reduce the risk of infection requiring antibiotics in the first place.
+Jonathan Serrie joined Fox News Channel (FNC) in April 1999 and currently serves as a correspondent based in the Atlanta bureau.
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>2656</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/bgf3zdWLw8w/</URL>
+<TITLE>Erasing bad memories: Wiping out unconscious traces is possible</TITLE>
+<TIME>Wed, 19 Mar 2014 17:45:21 GMT</TIME>
+<ABSTRACT>
+Bad memories are not only part of our conscious mind, they also leave a trace in our unconscious.
+</ABSTRACT>
+<TEXT>
+Bad memories are not only part of our conscious mind, they also leave a trace in our unconscious. But now, new research shows that actively trying to forget an unwanted memory can help erase this unconscious trace.
+In a new study, researchers showed people pairs of images, and sometimes asked the participants to try to forget the first image of an object. The researchers wanted to see whether such willful forgetting could change how easily the participants could later identify an image of that object, this time hidden almost imperceptibly behind "visual noise," or a scrambled image of the object.
+Generally, after people have seen an image, say of a coffee cup, they can more easily identify another image of that coffee cup even if it is masked by such visual noise. That's because the brain does a bit of work to set up a mental representation of the coffee cup the first time around. [10Things You Didn't Know About the Brain]
+However, in the study, it turned out that participants had a harder time identifying an object within the background noise if they had tried to forget the first.
+Moreover, actively trying to forget an object also changed the unconscious brain representation of that image the second time around, according to the study published March 17 in the journal Proceedings of the National Academy of Sciences.
+When people try to forget something, "Basically, you're shutting down regions that would ordinarily play a role in seeing that object, just to keep it from coming into the consciousness," said study researcher Michael Anderson, a neuroscientist at University of Cambridge, in England. "The side effect of doing that is that whatever memory traces of the coffee cup were there, they are weakened, and later on, when you have to detect the cup in visual noise, you find just a bit harder."
+Out of mind, out of sight
+The mental representation of an object, for example, the first coffee cup, is believed to be stored in the visual cortex, the parts of the brain that actually do the "seeing," Anderson said. This kind of memory trace is distinct from a conscious memory that a person can recall.
+In the study, researchers using fMRI looked at participants' brain activity as they were watching the images, and found that when people were reminded of an image they had tried to forget, the activity in the visual perception areas of the brain was reduced, compared with when they were reminded of images they hadn't tried to forget.
+This suggests that people can willfully limit the reactivation of a visual perception of those memories, and prevent them from coming into their conscious mind, the researchers said.
+Learning to forget
+Although this finding points to the possibility that actively trying to forget a memory could help people who have experienced trauma, the researchers said that trying to forget an emotionally strong memory may not be as simple as forgetting the memory of a coffee cup, as done in the experiments in the study.
+"I certainly don't think that it's something that you can do in one shot. I think you have to keep at it," Anderson said.
+In the study, researchers examined people's memory responses shortly after they had seen the images. One open question is how long after an event people might be able suppress an unwanted memory in a way that impairs the unconscious trace of the memory.
+"It could be that things work a bit differently if we waited a bit of time," Anderson said.
+In future studies, researchers are planning on asking people to suppress memories from their own personal life, to see whether the same effects exist for memories that are long engrained in the consciousness.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

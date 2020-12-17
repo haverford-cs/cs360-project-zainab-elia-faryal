@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>2458</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/9pAxQKBHiDw/</URL>
+<TITLE>Advanced prostate cancer linked to mutations in 8 genes</TITLE>
+<TIME>Fri, 21 Feb 2014 14:45:06 GMT</TIME>
+<ABSTRACT>
+Men who carry mutations in eight specific genes may have an increased risk of developing an aggressive type of prostate cancer that runs in families, a new study from the United Kingdom suggests
+</ABSTRACT>
+<TEXT>
+iStock
+Men who carry mutations in eight specific genes may have an increased risk of developing an aggressive type of prostate cancer that runs in families, a new study from the United Kingdom suggests.
+Researchers analyzed blood samples from 191 men with prostate cancer who also had at least two relatives with prostate cancer. The researchers analyzed their DNA, looking for mutations in 22 known cancer genes.
+They found 13 mutations in eight genes that were linked with aggressive prostate cancer. [5 Things You Should Know About Prostate Cancer]
+Among men who carried at least one of these mutations, 21 percent developed advanced prostate cancer that spread to another part of their body, compared with just 3 percent of men without these mutations.
+After taking into account the men's ages, the researchers found that the odds of having advanced prostate cancer were 13 times higher for men with these mutations than for men without these mutations.
+The eight genes linked with advanced prostate cancer are all involved in repairing genetic material after it has been damaged. Two of these genes are BRCA1 and BRCA2, which are already known to increase the risk of breast and ovarian cancers.
+In the future, men with a family history of cancer may be screened for mutations in these eight genes, similar to the way some women with a family history of breast and ovarian cancers are screened for BRCA1 and BRCA2, the researchers said.
+"Our study shows the potential benefit of putting prostate cancer on a par with cancers such as breast cancer when it comes to genetic testing," study researcher Dr. Rosalind Eeles, a professor of cancer genetics at The Institute of Cancer Research in London, said in a statement. "Although ours was a small, first-stage study, we proved that testing for known cancer mutations can pick out men who are destined to have a more aggressive form of prostate cancer."
+It's important to note that even among men with a family history of prostate cancer, these mutations were not common. Just 7.3 percent of men in the study had at least one of the 13 mutations.
+Future studies are needed to prove that early detection of cancer in men with these mutations actually increases their survival, Eeles said.
+"If so, then in the future, genetic testing may be needed as part of the prostate-cancer care pathway," Eeles said.
+Although this study found mutations in eight genes, there may be many more genes linked with aggressive prostate cancer, the researchers said.
+The new finding "is one small step toward understanding some of the aggressive prostate cancers better," said Dr. David Samadi, chairman of urology and chief of robotic surgery at Lenox Hill Hospital in New York City, who was not involved in the study.
+Current screening tests for prostate cancer look at levels of a protein called prostate specific antigen (PSA), which is often elevated in men with prostate cancer.
+However, a man's prostate-cancer risk is difficult to interpret with just PSA alone, Samadi said. "We need better tools," he said. (Some groups have recommended against PSA screening because they say the harms of the test, including unnecessary treatment, outweigh the benefits.)
+Genetic testing might help doctors better distinguish between people at risk for prostate cancer and those who are not, Samadi said.
+If a man's genes showed he was at risk for aggressive prostate cancer, doctors would be more likely to have him undergo either a biopsy to diagnose cancer or aggressive treatment if he is found to have cancer, Samadi said. The new study was published Friday (Feb. 21) in the British Journal of Cancer.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

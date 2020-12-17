@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>2087</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/J776MC5SPM0/</URL>
+<TITLE>Cancer death rates continue to decline in 2014</TITLE>
+<TIME>Tue, 07 Jan 2014 15:41:23 GMT</TIME>
+<ABSTRACT>
+The start of the New Year has brought some good news in regards to the fight against cancer: Death rates from the disease continue to drop.
+</ABSTRACT>
+<TEXT>
+The start of the New Year has brought some good news in regards to the fight against cancer: Death rates from the disease continue to drop.
+In Cancer Statistics 2014, the annual report from the American Cancer Society (ACS), researchers reported that cancer death rates have steadily declined for the past two decades – equating to a 20 percent decrease in the overall risk of dying from cancer.
+Additionally, while rates have declined for the overall population, individual sub-populations have also made significant strides in reducing their risk of cancer death.
+“Between 1991 and 2010, overall cancer death rates have decreased by about 20 percent;  this translates to 1.3 million deaths in this time period,” lead author Ahmedin Jemal, vice president for surveillance and health services research at the ACS , told FoxNews.com. “But the most interesting finding is that the decrease in death rates was [substantial], specifically for middle-aged black men.  Between 1991 and 2010, death rates decreased by 55 percent in middle-aged black men.”
+Each year, the ACS annual report utilizes cancer statistics and trends to estimate the amount of new cancer cases and deaths that can be expected for the coming year.  The researchers use data compiled by the National Cancer Institute, the Centers for Disease Control and Prevention and the National Center for Health Statistics.
+Cancer rates remain stable
+In the 2014 report, Jemal and his team estimated that this year will see 1,665,540 new cancer cases in the United States, which will ultimately lead to 585,720 deaths.  The researchers noted that incidence of cancer has not altered much over the years, remaining somewhat stable.  
+But Jemal said people should focus on death rate statistics more than incidence statistics – as the aging population in the U.S. will almost certainly lead to more cancer cases overall.  He also noted that incidence statistics don’t always paint an accurate picture of cancer treatment in America.
+“It’s difficult to interpret incidence rates,” Jemal said.  “They’re affected by changes in detection and also affected by screening and imaging techniques.  You can accidentally find cancer that would not have been detected through clinical symptoms. So it is difficult, because it’s affected by so many factors.  The best measure [of improvement] is changes in death rates.”  
+The 585,720 cancer death number ultimately corresponds to approximately 1,600 deaths every day.  While this may seem like a substantial number, the rate of cancer death has dropped from 215.1 per 100,000 in 1991 to 171.8 per 100,000 in 2010.  This decrease equates to the prevention of 1,340,400 deaths from cancer over the past 20 years.
+Prevention key to improvement
+Jemal attributed the improvement to both medical and behavioral changes that have occurred over the years.
+“[The decrease] is primarily due to prevention, improvements in early detection and treatment,” Jemal said, “primarily in relation to smoking use, which has decreased by more than 50 percent over the past five decades.  Also there’s been improvement in early detection and treatment for major cancer sites, such as breast and colorectal cancer.”
+However, Jemal noted that there is still a long way to go.  Although smoking rates have dropped, lung cancer still remains one of the deadliest forms of the disease.  Lung, colon, prostate and breast cancers were found to be the most common causes of cancer death – with lung cancer responsible for one in four deaths.
+“Yes we’re making progress, but there are still 20 percent of adults who smoke and over a third of adults are obese and 2/3 of adults are overweight,” Jemal said.  “We know that these are major risk factors for cancer.  People have to quit smoking … and maintain a healthy body weight and eat a healthy diet… These are really the things we should be doing.”
+Cancer Statistics is published in CA: A Cancer Journal for Clinicians, along with a companion article, Cancer Facts & Figures.
+</TEXT>
+</DOC>

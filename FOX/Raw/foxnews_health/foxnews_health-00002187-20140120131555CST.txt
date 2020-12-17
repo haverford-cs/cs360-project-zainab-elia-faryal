@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2187</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/VGoSo9wCKhU/</URL>
+<TITLE>Sunshine may lower your blood pressure</TITLE>
+<TIME>Mon, 20 Jan 2014 19:15:55 GMT</TIME>
+<ABSTRACT>
+Warnings to stay out of the sun may be overlooking a potentially important health benefit of sunshine, new findings suggest.
+</ABSTRACT>
+<TEXT>
+Warnings to stay out of the sun may be overlooking a potentially important health benefit of sunshine, new findings suggest. While too much sun exposure may bring on skin cancer, researchers have found evidence getting some rays could protect against high blood pressure, a condition known as the silent killer.
+Researchers in the United Kingdom gave healthy study volunteers a dose of Ultraviolent-A (UVA) radiation in a lab, corresponding to what they would receive while under the sun for about 30 minutes during summer in Southern Europe. In response, the participants' blood vessels dilated, and their blood pressure decreased, the researchers report.
+High blood pressure, also known as hypertension, can lead to potentially fatal cardiovascular diseases, such as heart failure or stroke, although many people may not even know they have it.
+A number of risk factors for hypertension including smoking, inactivity and eating a high-sodium diet are well known. "But sunlight and the potential contribution the skin may make has never been on the radar," said study researcher Martin Feelisch, professor of experimental medicine and integrative biology at the University of Southampton.
+While its unclear exactly how sun exposure could lower blood pressure, the researchers suggested that a compound called nitric oxide and other chemicals derived from it, including nitrite and nitrate, play a role.
+Scientists know that nitric oxide plays a role in regulating blood pressure. Cells in the inner lining of blood vessels produce nitric oxide to relax, or dilate, the vessels, reducing the pressure against which the heart must work. [10 Amazing Facts About Your Heart]
+While some nitric oxide and the molecules derived from it circulate in the blood, a much larger storage pool has been found in skin. Feelisch and his colleagues proposed that sunlight somehow mobilizes these molecules, so they travel from skin to blood, where they dilate blood vessels and lower blood pressure.
+Their results support their hypothesis, while alternative explanations that the blood pressure drop was due to the light's warmth, or to changes in study participants' nitrite or nitrate consumption did not hold up when tested, the researchers said.
+The team noted that the changes they documented may appear small, however, any reduction in blood pressure helps protect against dying from cardiovascular disease.
+Many unknowns remain, they said. For instance, its not clear if a person's blood pressure would continue to drop after repeated UVA exposure, or if the response to sunlight would vary depending on a persons age, sex or disease.
+If supported by further research, the results of the new study could change how researchers assess the balance of health risks and benefits of sun exposure, they wrote in work published Jan. 20 in the Journal of Investigative Dermatology.
+In an unrelated process, sunlight also helps the body synthesize the nutrient vitamin D.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

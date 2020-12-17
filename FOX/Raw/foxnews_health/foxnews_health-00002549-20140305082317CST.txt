@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>2549</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/IAFMMdunM-I/</URL>
+<TITLE>Doctors grow ears, noses using body fat stem cells</TITLE>
+<TIME>Wed, 05 Mar 2014 14:23:17 GMT</TIME>
+<ABSTRACT>
+Doctors in London have devised a way to reconstruct human ears and noses with stem cells taken from body fat. 
+</ABSTRACT>
+<TEXT>
+Doctors in London have devised a way to reconstruct human ears and noses with stem cells taken from body fat, BBC News reported.
+In a study published in the journal Nanomedicine, researchers from Great Ormond Street Hospital in London said they’ve successfully used fat stem cells to grow cartilage in a laboratory setting. Using ear-shaped scaffolding to ensure that the stem cells grow into the desired shape, physicians said they hope to someday be able to implant lab-grown cartilage underneath a person’s skin to correct facial abnormalities.
+While more testing needs to be done before the technique is used in patients, researchers hope to use this method to help patients with conditions like microtia –  a congenital deformity that can leave a child with a missing or malformed ear. Currently, the only corrective procedure available to these children involves taking cartilage from the child’s ribs – a procedure that leaves permanent scaring and requires multiple surgeries.
+"It would be the Holy Grail to do this procedure through a single surgery," study author Dr Patrizia Ferretti told BBC News. "So, decreasing enormously the stress for the children and having a structure that hopefully will be growing as the child grows." 
+The researchers also said the technique could be useful in correcting cartilage damage in the nose.
+Click for more from BBC News.
+</TEXT>
+</DOC>

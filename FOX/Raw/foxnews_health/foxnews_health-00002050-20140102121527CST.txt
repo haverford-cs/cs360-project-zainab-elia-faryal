@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>2050</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/dAJTN-PDtM8/</URL>
+<TITLE>3D brain maps guide doctors — via iPhone</TITLE>
+<TIME>Thu, 02 Jan 2014 18:15:27 GMT</TIME>
+<ABSTRACT>
+Far from the state-of-the-art medical facilities available in the United States, many brain surgeons in developing countries look to their smartphones for guidance.
+</ABSTRACT>
+<TEXT>
+Here, the brain has been neatly sliced in half.Albert L. Rhoton Jr., MD, 2007.
+Far from the state-of-the-art medical facilities available in the United States, many brain surgeons in developing countries look to their smartphones for guidance. The phones have started to fulfill this role, in part, thanks to the thousands of 3D brain images, produced by Dr. Albert Rhoton at the University of Florida, that are freely available online.
+"I've had young surgeons from Africa, Brazil and other countries tell me they're pulling the images into the operating room" and using them during surgery, said Rhoton, head of the Neuro-Microanatomy Lab at the University of Florida's McKnight Brain Institute.
+From its beginnings as a training tool for surgical residents, the doctor's image library has grown into the world's largest collection of 3D brain images. Physicians across the globe now use the detailed anatomical images to train residents, prepare for surgeries and even guide them when performing surgery. [Gallery: See the Amazing 3D Images of the Human Brain]
+The images are "our small contribution to making what is a delicate, awesome experience for neurosurgery patients more accurate, gentler and safer," Rhoton told LiveScience.
+Rhoton has collected images of brain anatomy for as long as he's been teaching surgery 50 years and began moving to 3D technology 25 years ago. Only recently, however, did he realize how smartphones and online download venues could expand the reach of his educational tools. Two and a half years ago, Rhoton and his colleagues began working with the American Association of Neurological Surgeons (AANS) to make the brain images and videos available on iTunes University all at no cost.
+Even before the iTunes U venture, Rhoton had shared his brain images with hospitals and universities as a visiting instructor. "I've always given these images to those who wanted to use them," he said, "in the hopes that they would help some patient I'll never know and never meet."
+The guides show the detailed structures of various sections of the brain, with blood vessels and nerves color-coded in bright red and blue. The colors make the details of neural anatomy much clearer than in the normal, grayish brain matter.
+Rhoton and the residents he instructs have built up the library over decades, performing careful dissections and transferring the images they obtain to 3D photography and video. The iTunes U content is engineered to be usable across device platforms, from iPhones to laptops to 3D television.
+Having images in 3D provides advantages over 2D images for brain surgeons, Rhoton said. For instance, two-dimensional content tends to flatten brain anatomy, obscuring the way nerves, veins and other structures traverse the brain matter, he said. Surgeons viewing the 3D images, in contrast, can plan a precise surgical path, avoiding delicate structures whose damage would have dire consequences.
+With 3D images, "the anatomy is displayed in such a way that you can orient the images to the direction of approach the surgeon is using in the OR [operating room]," Rhoton said. "You can see where the nerves and structures are that need to be protected in that particular area, using that specific approach, in that specific direction."
+Rhoton and AANS have formatted the images with a menu, so that users can control the angle and area of the brain they want to view; users can even click links to call up medical literature related to the portion of the brain they're viewing.
+Rhoton's work earned him the 2011 Surgeon of the Year award from the journal World Neurosurgery. His images and educational efforts have helped "several thousands of neurosurgeons scattered across the planet to save millions of lives," Dr. Hildo Azevedo-Filho, chairman of neurological surgery at the University of Pernambuco in Brazil, wrote in recognizing the award.
+After seeing how surgeons have used his images during actual surgeries, Rhoton and the AANS next hope to feed the brain maps directly into endoscope screens used in surgery. They're developing technology that would split that screen to show Rhoton's images side by side with the live feed from cameras inserted into the patient's brain.
+Moreover, Rhoton said the library of images and videos will only continue to grow. "We've just scratched the surface on the number of images," he said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

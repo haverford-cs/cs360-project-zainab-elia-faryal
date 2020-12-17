@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO>2227</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/mgPLEQB1yAM/</URL>
+<TITLE>Artificial bone marrow could be used to treat leukemia</TITLE>
+<TIME>Fri, 24 Jan 2014 17:45:58 GMT</TIME>
+<ABSTRACT>
+For decades, doctors have been treating leukemia patients by transplanting stem cells from people with healthy bone marrow.
+</ABSTRACT>
+<TEXT>
+Scanning electron microscopy of stem cells (yellow / green) in a scaffold structure (blue) serving as a basis for the artificial bone marrow.C. Lee-Thedieck/KIT
+For decades, doctors have been treating leukemia patients by transplanting stem cells from people with healthy bone marrow. But even though transplants can be a fairly effective treatment, there aren't enough tissue donors to treat every leukemia patient.
+Now, researchers are taking the first steps toward making bone marrow in a lab: They are growing stem cells in a setting that mimics the natural environment of bone marrow.
+Leukemia is a cancer that starts in the bone marrow, the soft tissue inside bones that produces blood cells. The researchers' goal is to create artificial bone marrow that is capable of growing blood stem cells outside the body, said study researcher Cornelia Lee-Thedieck,of the Karlsruhe Institute of Technology (KIT) in Germany. Such stem cells could then be used to treat leukemia patients.
+But creating bone marrow in a lab isn't easy. "Bone marrow is very complex, with many, many different cell types, molecules, proteins," Lee-Thedieck said. What's more, the stem cells that could be used to treat patients can only grow and keep their properties in an environment that closely mimics real human bone marrow. [5 Crazy Technologies That Are Revolutionizing Biotech]
+In the new lab work, the researchers recreated the spongy structure of bone marrow by making a hydrogel (like the material used to make contact lenses) around salt crystals, and then removing the crystals to leave holes for the stem cells to grow inside. They then added proteins and cells that support stem cells. Finally, they injected stem cells taken from umbilical-cord blood.
+Their work successfully produced hematopoietic stem cells, which are the cells within the marrow that give rise to all types of blood cells. The stem cells reproduced in the artificial bone marrow, and more than 90 percent of cells still had the markings of stem cells after four days, a sign they retained their ability to form any type of blood cell, according to the study, detailed online this month in the journal Biomaterials.
+Next, the researchers hope to grow the cells in the artificial environment for longer periods, and find ways to retrieve the cells from their scaffold. They also hope to "get a deep understanding of how the cells are influenced by the 3D environment and the material itself," Lee-Thedieck told LiveScience.
+This method of growing stem cells still needs to be refined and tested in both animals and clinical trials before being used in humans. The soonest this treatment could be ready is in 15 years, if all goes smoothly, Lee-Thedieck said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>2651</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/7bU04kmMQtc/</URL>
+<TITLE>Doctors use 3D-printed device to help baby breathe on his own</TITLE>
+<TIME>Tue, 18 Mar 2014 12:48:59 GMT</TIME>
+<ABSTRACT>
+One baby born with a defective windpipe now has hope of breathing normally thanks to 3-D printing technology, NPR reported.
+</ABSTRACT>
+<TEXT>
+Garrett Peterson resting in his hospital bed at C.S. Mott Children’s Hospital.NICOLE HALEY/University of Michigan Health System
+A model of Garrett's trachea, shown with splints similar to those used in the surgery.JULIET FULLER/University of Michigan Health System
+Garrett and his parents, Natalie and Jake in their room at C.S. Mott.NICOLE HALEY/University of Michigan Health System
+One baby born with a defective windpipe now has hope of breathing normally thanks to 3-D printing technology, NPR reported.
+Garrett Peterson, now 18 months old, was born with tracheomalacia – a condition that caused his trachea to be so weak that it collapsed easily, leaving him unable to breathe. The condition terrified his parents, who turned to specialist Dr. Glenn Green at the University of Michigan for a possible treatment.
+Along with Scott Hollister, a biomedical engineer who runs the university’s 3-D printing lab, Green designed a device that can hold open Garrett’s windpipe until it’s strong enough to function independently. After taking a CT scan of Garrett’s windpipe to make a replica of it, they made the “splint” with a 3-D printer.
+"It's like a protective shell that goes on the outside of the windpipe, and it allows the windpipe to be tacked to the inside of that shell to open it up directly," Green told NPR.
+Because Garrett’s condition was critical and his survival in question, Green and Hollister had to convince the Food and Drug Administration (FDA) to give them an emergency waiver to use the unapproved device. Then, on January 31, Garrett had his surgery.
+Surgeon Dr. Richard Ohye opened up Garrett’s chest and saw that his windpipe had completely collapsed and one of his lungs was completely white—a condition Ohye had only seen in dead bodies. After eight hours of surgery and careful placement of a splint on either side of Garrett’s windpipe, it was time for the big test: What would happen when they let air flow through the windpipe into Garrett’s lungs?
+To everyone’s relief, Garrett’s windpipe stayed open, and his white lung turned healthy pink color.
+Though he still remains in the hospital, Garrett has gotten stronger and needs less assistance breathing in the weeks since his surgery.  His parents are overjoyed, saying he’s starting to act more interactive and alert.
+As Garrett grows, the splint will expand and eventually dissolve in his body as his own windpipe strengthens enough to work independently.
+3-D printing technology has allowed doctors to help patients in ways they hope will continue to grow.
+"We're talking about taking something like dust and converting it into body parts," Green said. "And we're able to do things that were never possible before."
+Click for more from NPR.
+</TEXT>
+</DOC>

@@ -1,0 +1,76 @@
+<DOC>
+<DOCNO>940</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_travel/~3/HI3W6gNufmc/index.html</URL>
+<TITLE>Jet turned off course, Malaysian air force says</TITLE>
+<TIME>Tue, 11 Mar 2014 17:27:20 EDT</TIME>
+<ABSTRACT>
+More than three days after Malaysia Airlines Flight 370 vanished from the skies, there were still no signs Tuesday of the missing plane's whereabouts.
+</ABSTRACT>
+<TEXT>
+(CNN) -- Malaysia Airlines Flight 370 was hundreds of miles off course, traveling in the opposite direction from its original destination and had stopped sending identifying transponder codes before it disappeared, a senior Malaysian air force official told CNN Tuesday.
+If correct, these are ominous signs that could call into question whether someone in the cockpit might have deliberately steered the plane away from its intended destination, a former U.S. aviation investigator said.
+"This kind of deviation in course is simply inexplicable," said Peter Goelz, former managing director of the National Transportation Safety Board.
+However, veteran pilot Kit Darby, president of Aviation Information Resources, told CNN's Wolf Blitzer that mechanical problems could still explain everything: A power failure would have turned off the main transponder and its backup, he said.
+CNN law enforcement analyst Tom Fuentes said the news "still leaves mechanical, terrorism (and) other issues as much in the air as they were before."
+According to the Malaysian Air Force official, who declined to be named because he is not authorized to speak to the media, the plane's transponder apparently stopped working at about the time flight controllers lost contact with it, near the coast of Vietnam. A transponder is an electrical instrument in commercial airline cockpits that continuously transmits information such as altitude, location, direction and speed.
+The Malaysian Air Force lost track of the plane over Pulau Perak, a tiny island in the Strait of Malacca -- many hundreds of miles from the usual flight path for aircraft traveling between Kuala Lumpur and Beijing, the official said.
+If the data cited by the source is correct, the aircraft was flying away from Beijing and on the opposite side of the Malay Peninsula from its scheduled route.
+Earlier, the head of the international police organization Interpol said that his agency increasingly believed the incident was not related to terrorism.
+"The more information we get, the more we're inclined to conclude that it was not a terrorist incident," Interpol Secretary General Ronald Noble said at a news conference in Lyon, France.
+Terrorism or not?
+Among the evidence pointing in that direction, Noble said: news from Malaysian authorities that one of two people said to be traveling on stolen passports, an Iranian, was trying to travel to his mother in Germany.
+Further, there's no evidence to suggest either person traveling with a stolen passport was connected to any terrorist organizations, according to Malaysian investigators.
+However, CIA Director John Brennan said his agency is not yet willing to discount the possibility of a terror link in what he called a "very disturbing" mystery.
+"No, we're not ruling it out. Not at all," he said Tuesday at a Council on Foreign Relations event.
+The two passengers who have dominated headlines the last two days entered Malaysia using valid Iranian passports, Noble said at a news conference. But they used stolen Austrian and Italian passports to board the missing Malaysian plane, he said.
+Noble gave their names and ages as Pouri Nourmohammadi, 18, and Delavar Seyed Mohammad Reza, 29.
+Malaysian police had earlier identified Nourmohammadi, using a slightly different name and age, and said they believed he was trying to migrate to Germany.
+Inspector General Khalid Abu Bakar of the Royal Malaysian Police said it doesn't appear the younger Iranian posed a threat.
+"We have been checking his background," Khalid said, noting "other police organizations" have been consulted. "And we believe that he is not likely to be a member of any terrorist group," Khalid said.
+After he failed to arrive in Frankfurt, the final destination of his ticket, his mother contacted authorities, Khalid said. According to ticketing records, the ticket to Frankfurt was booked under the stolen Austrian passport.
+Retracing Flight 370's final moments
+The identifications help peel away a thin layer of the mystery surrounding the passenger jet, which disappeared about an hour into its flight from Kuala Lumpur to Beijing.
+But the bigger puzzle as to what happened to Flight 370 remains a mystery.
+One key would be to determine why the plane stopped sending information via its transponder, and why it kept flying on.
+Why did the transponder stop working? Was it intentional, perhaps flicked off by a hijacker? That is a distinct possibility, says Goelz, the former NTSB managing director, who believes the "mechanical explanations" that might explain what happened "are narrowing quickly."
+"You have to have a very deliberate process to turn the transponder off," he added. "If someone did that in the cockpit, they were doing it to disguise the route of the plane."
+Yet not everyone is convinced.
+Darby, for one, believes purely mechanical issues remain the most valid explanation right now. His main point is: "Everything is electrical." In other words, if there's some sort of "catastrophic failure" for whatever reason, that could knock out systems like the transponder.
+If that would happen, the plane could fly for some time without electricity but not indefinitely.
+In such a scenario, it would be natural for a pilot to steer back to where he came from, though that would not be easy in the dark without functioning flight instruments. That's what Darby, a retired United captain, believes might have happened.
+The bigger piece of the puzzle
+Outwardly at least, authorities didn't appear much closer Tuesday to knowing where the plane and its 239 people on board ended up.
+Every lead that has raised hopes of tracing the commercial jet and the 239 people on board has so far petered out.
+"Time is passing by," a middle-aged man shouted at an airline agent in Beijing on Tuesday. His son, he said, was one of the passengers aboard the plane.
+Most of those on the flight were Chinese. And for their family members, the wait has been agonizing.
+There were also three U.S. citizens on the plane, including Philip Wood.
+"As of yet, we know as much as everyone else," Wood's brother, Tom, told CNN's "AC360" Monday. "It seems to be getting more bizarre, the twists in the story, where they can't find anything. So we're just relying on faith."
+The challenge facing those involved in the huge, multinational search is daunting; the area of sea they are combing is vast.
+And they still don't know if they're looking in the right place.
+Four scenarios
+Days, weeks or even months
+Over the past few days, search teams have been scouring tens of thousands of square miles of ocean off the west coast of the Malay Peninsula, in the Strait of Malacca, and north into the Andaman Sea.
+The search also encompasses the land in between the two areas of sea.
+But it could be days, weeks or even months before the searchers find anything that begins to explain what happened to the plane, which disappeared early Saturday en route to Beijing.
+In the case of Air France Flight 447, which disappeared over the Atlantic in 2009, it took five days just to find the first floating wreckage.
+And it was nearly two years before investigators found the bulk of the French plane's wreckage and the majority of the bodies of the 228 people on board, about 12,000 feet below the surface of the ocean.
+The Gulf of Thailand, the area where the missing Malaysian plane was last detected, is much shallower, with a maximum depth of only 260 feet and an average depth of about 150 feet.
+"If the aircraft is in the water, it should make recovery easier than the long and expensive effort to bring up key parts of the Air France plane," Bill Palmer, an Airbus A330 captain for a major airline, wrote in an opinion article for CNN.
+Still, they have to find it first. The newly disclosed revelation about the plane's direction doesn't help, as it means less certainty and more time for currents to move the wreckage around.
+"Crucial time is passing," David Gallo, with the Woods Hole Oceanographic Institution, told CNN's Wolf Blitzer on Monday. "That search area -- that haystack -- is getting bigger and bigger and bigger."
+Technology put to use
+Countries involved in the search have deployed sophisticated technology to help try to track down the plane.
+China has adjusted the commands for as many as 10 satellites in orbit so that they can assist with weather monitoring, communications and other aspects of the search, the Chinese state news agency Xinhua reported.
+And the United States has put a range of naval technology to use in the search.
+That includes a Navy P-3C Orion aircraft, which can cover about 1,000 to 1,500 square miles every hour, according to the U.S. 7th Fleet.
+The Orion, which is focused on the area off the west coast of Malaysia, has sensors that allow the crew to clearly detect small debris in the water, the fleet said. White House spokesman Jay Carney said two other warships -- the USS Pinckney and USS Kidd -- are also on site, along with helicopters on board to assist in the effort.
+Carney noted that the United States is one of many nations participating in the search, along with Thailand, Singapore, Indonesia, Vietnam and Australia, in addition to China and Malaysia.
+CNN aviation correspondent Richard Quest described the search as "extremely painstaking work," suggesting a grid would have been drawn over the ocean for teams to comb, bit by bit.
+Quest said that the expanding search area shows how little idea rescue officials have of where the plane might be. But he's still confident they'll find it eventually.
+"It's not hopeless by any means. They will find it," he said. "They have to. They have to know what happened."
+READ: Missing Malaysia Airlines Flight 370: What we know and don't know
+READ: Agonized families await answers over missing Malaysia Airlines Flight 370
+READ: How does a jet disappear?
+CNN's Jim Sciutto, Greg Botelho, Catherine E. Shoichet, Jason Hanna and Khushbu Shah contributed to this report.
+</TEXT>
+</DOC>

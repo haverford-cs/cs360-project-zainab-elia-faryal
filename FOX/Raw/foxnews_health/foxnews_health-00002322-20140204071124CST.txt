@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>2322</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/DVm1X85V1yU/</URL>
+<TITLE>Ten rivals join with NIH to search for new drugs</TITLE>
+<TIME>Tue, 04 Feb 2014 13:11:24 GMT</TIME>
+<ABSTRACT>
+Ten big rival drug companies have formed a pact to cooperate on a government-backed effort to accelerate the discovery of new drugs, the Wall Street Journal reported.
+</ABSTRACT>
+<TEXT>
+Ten big rival drug companies have formed a pact to cooperate on a government-backed effort to accelerate the discovery of new drugs, the Wall Street Journal reported.
+The companies and the National Institutes of Health (NIH) will share scientists, tissue and blood samples, and data, to identify targets for new drugs for diseases such as Alzheimer's, Type 2 diabetes, rheumatoid arthritis and lupus, the Journal said.
+The collaboration, called the Accelerating Medicines Partnership, will cost about $230 million and involves drugmakers such as Bristol-Myers Squibb Co, Johnson & Johnson, GlaxoSmithKline, Takeda Pharmaceuticals and Sanofi. (link.reuters.com/guw56v)
+The agreement prohibits participants from using any discovery for their own drug development until the project makes data public on that discovery.
+The NIH, GlaxoSmithKline, Bristol-Myers, Sanofi, Takeda, and Johnson & Johnson could not be immediately reached for comments by Reuters.
+</TEXT>
+</DOC>

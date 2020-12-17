@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO>502</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_tech/~3/5tRi6cuUEqM/index.html</URL>
+<TITLE>TV trends at CES: 4K and curves</TITLE>
+<TIME>Tue, 07 Jan 2014 10:04:13 EST</TIME>
+<ABSTRACT>
+Remember 3D televisions? WebTV? Television have been a core CES category for many years. The devices got a bump with flat-screen technology but in recent years, television manufacturers have struggled to bring excitement back to the household staple.
+</ABSTRACT>
+<TEXT>
+Las Vegas, Nevada (CNN) -- Remember 3D televisions? WebTV? Television have been a core CES category for many years. The devices got a bump a decade ago with flat-screen technology, but in recent years manufacturers have struggled to bring excitement back to the living room staple.
+Grasping for flashy features, companies tried for three years to sell 3D as the "next big thing," but consumers didn't bite. This year they've switched tactics and are trying to revitalize sales with a list of new features meant to inspire consumers to upgrade their old dusty TVs.
+Which of the new features will catch on and help boost the TV industry, and which will go the way of 3D? Here are some of this year's TV trends.
+Packing in the pixels
+TV manufacturers are still pushing hard for 4k, the ultra high-definition screens that pack in four times the resolution of current HD TVs. High prices (sets typically start at $2,000) and limited amounts of 4K content have slowed adoption of the sets. Ultra HD also only looks noticeably different on larger sets, 50-inches and up. This year the companies have rolled out some big names to give 4K a marketing boost.
+First came Google. The amount of bandwidth necessary to stream or download 4K content has been a concern, and ahead of CES Google announced a new 4K streaming format, VP9, that would cut in half the bandwidth necessary to stream 4k from sites like YouTube.
+LG also addressed the streaming angle and brought out Netflix CEO Reed Hastings at its CES press conference. Hastings talked up future 4K content that will be available on Netflix, like the next season of "House of Cards."
+Six odd and crazy technologies at CES
+Samsung's plans to make a splash at its press conference went awry when guest Michael Bay, director of the Transformers movies, walked off the stage after his teleprompter went off script. (He later apologized in a blog post saying, "I guess live shows aren't my thing.") Bay is promoting 4k footage from Transformers 4.
+According to research firm NPD DisplaySearch, the marketing is working, at least in China. It expects shipments of 4k televisions to jump from 1.9 million in 2013 to 12.7 million in 2014, with early adoption in China leading the way, making up 78 percent of those sales in the coming year.
+More content is also starting to trickle in for 4K. Major movie studios are working with Amazon to stock up on 4K content, and Comcast is working with Samsung to up its 4K streaming offerings for people who have Samsung 4K TVs and Xfinity TV.
+Bends and curves and wedges
+The flat screen has been embraced as the default TV form factor. It's sleek, it can hang on walls, it occupies a minimal amount of space. Now manufacturers are working on a new feature to save us from all that dull flatness: curved screens.
+Television companies claim a slightly curved screen offers a better viewing experience by reducing glare and improving visibility for people sitting to the sides of a TV set, say, at a crowded Super Bowl party. The effect also is supposed to be more immersive, similar to IMAX screens. There's still no consensus about whether or not that's true, but it's a flashy way for some companies to set their screens apart.
+5 trends to watch at CES
+Both Samsung and LG announced new curved 105-inch 4K televisions. Samsung has an 85-inch prototype that's bendable, meaning it can transform from flat screen to curved, and four other curved models.
+Sony is also toying with a different shape it calls the wedge. The company announced its new 1080p television with a tapered wedge design on the edges, meant to take up minimal space but incorporate good front-facing speakers.
+Smarter but still catching up to smartphones
+Like 3D, smart TVs have been featured heavily at CES in the past. Attempts to bring Internet connections, apps and streaming to traditional televisions have been clumsy and inconsistent. Third-party offerings like Roku, Apple TV and Chromecast have done a far better job at creating TV-friendly user interfaces than the TV companies themselves. And of course, people can just fire up their Android or iOS tablet for the best streaming interfaces.
+While smart TVs are taking a backseat to the big 4K and curved pushes, they're still an important feature at this year's show. Now some manufacturers are doing something actually smart and turning to the experts.
+Hisense and TCL are teaming up with Roku to include the service in televisions automatically, without the need for the separate box. Roku's new TV platform will roll out on select sets in the fall, but could expand to other companies.
+LG announced plans to bring webOS (the old Palm mobile software) to its televisions, and FIrefox is working with Panasonic to bring a version of the Firefox OS to televisions.
+The variety of platforms does make things harder for the popular streaming services like Amazon and Netflix, which have to create a version of their streaming apps for each new platform that pops up.
+When in doubt, go big
+The super high-end sets get attention, but aren't meant for mass adoption. Still, if you're in the market for big and price isn't a barrier, there are a few new options that make 4K look its best.
+In addition to the two 105-inch curved sets from LG and Samsung, Vizio announced a 120-inch 4K television, but didn't share a shipping date or price. At the end of last year, Samsung announced its own 110-inch set that costs just $152,000.
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>938</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/dRukM3B5X64/index.html</URL>
+<TITLE>Flu activity persists, appears to be slowing</TITLE>
+<TIME>Fri, 24 Jan 2014 13:16:40 EST</TIME>
+<ABSTRACT>
+The spread of flu appears to be slowing over the past couple of weeks, but it's too soon to predict the end of flu season.
+</ABSTRACT>
+<TEXT>
+(CNN) -- The number of states reporting widespread flu activity has only grown by one for the week ending January 18, bringing the total number of states to 41, the Centers for Disease Control and Prevention said Friday in its weekly flu report.
+"Widespread" means that more than 50% of geographic regions in a state -- counties, for example -- are reporting flu activity. The designation addresses the spread of the flu, not its severity.
+The number of states reporting high influenza-like activity, meanwhile, decreased for the second week in a row. The CDC says 13 states -- down one from the previous week -- are reporting high flu-like illness: Arkansas, Kansas, Louisiana, Minnesota, Mississippi, Missouri, New Mexico, North Carolina, Oklahoma, Oregon, Tennessee, Texas and Virginia. Alabama has dropped to moderate levels.
+Eight flu-related deaths were reported in children during the week ending January 18, bringing the overall pediatric death tally since September to 28, the CDC said.
+Adult flu deaths are not reported on a national basis, but the CDC estimates that between 3,000 and 49,000 people die each year because of the flu and flu-related illness.
+It's too soon to say whether we've turned the corner, however. Texas, for example, is no longer reporting widespread flu activity, which had been the case for the past month. But that state continues to report high flu-like illnesses -- and has since the week ending November 30.
+So far the Northeast has been spared a lot of flu-like illness, but the CDC says flu usually peaks "in January or later" -- so it's too early to predict the beginning of the end.
+Health officials continue to recommend getting a flu vaccine. The H1N1 flu strain continues to be the dominant strain this season. There was no vaccine when the strain emerged in 2009, but it is included in all flu shots and nasal vaccines this year.
+The CDC continues to recommend that everyone who is at least 6 months of age should get a flu vaccine.
+"People who are young and healthy should be aware that they may get the flu and it could be serious," says Dr. Susan Rehm, medical director for the National Foundation for Infectious Diseases.
+Pregnant women are at particularly high risk of developing serious complications like pneumonia.
+Leslie Creekmore of Arkansas was 20 weeks pregnant when she contracted the flu earlier this month. Five days after checking into a hospital, she miscarried. Her doctor had discouraged her from getting a flu shot in her early trimester, according to her husband, Chris.
+"Vaccination early in the season and regardless of gestational age is optimal," says the American College of Obstetricians and Gynecologists. The organization supports the CDC recommendation that all women get vaccinated if they will be pregnant during flu season.
+A recently published study -- the first to use laboratory-confirmed influenza outcomes among pregnant women -- shows getting a flu vaccine significantly reduces flu-related illnesses in pregnant women, the CDC says.
+</TEXT>
+</DOC>

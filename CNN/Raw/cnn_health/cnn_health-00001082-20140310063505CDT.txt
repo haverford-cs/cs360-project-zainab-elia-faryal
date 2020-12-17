@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO>1082</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/HRwMG4CiCVw/index.html</URL>
+<TITLE>Blood test predicts Alzheimer's</TITLE>
+<TIME>Mon, 10 Mar 2014 07:35:05 EDT</TIME>
+<ABSTRACT>
+In a first-of-its-kind study, researchers have developed a blood test for Alzheimer's disease that predicts with astonishing accuracy whether a healthy person will develop the disease.
+</ABSTRACT>
+<TEXT>
+(CNN) -- In a first-of-its-kind study, researchers have developed a blood test for Alzheimer's disease that predicts with astonishing accuracy whether a healthy person will develop the disease.
+Though much work still needs to be done, it is hoped the test will someday be available in doctors' offices, since the only methods for predicting Alzheimer's right now, such as PET scans and spinal taps, are expensive, impractical, often unreliable and sometimes risky.
+"This is a potential game-changer," said Dr. Howard Federoff, senior author of the report and a neurologist at Georgetown University Medical Center. "My level of enthusiasm is very high."
+The study was published in Nature Medicine.
+'We were surprised'
+In the beginning, the researchers knew they wanted to find a blood test to detect Alzheimer's but didn't know what specifically to look for. Should they examine patients' DNA? Their RNA? Or should they look for the byproducts of DNA and RNA, such as fats and proteins?
+They decided to start with fats, since it was the easiest and least expensive. They drew blood from hundreds of healthy people over age 70 living near Rochester, New York, and Irvine, California. Five years later, 28 of the seniors had developed Alzheimer's disease or the mild cognitive problems that usually precede it.
+Scouring more than 100 fats, or lipids, for what might set this group apart, they found that these 28 seniors had low levels of 10 particular lipids, compared with healthy seniors.
+To confirm their findings, the researchers then looked at the blood of 54 other patients who had Alzheimer's or mild cognitive impairment. This group also had low levels of the lipids.
+Overall, the blood test predicted who would get Alzheimer's or mild cognitive impairment with over 90% accuracy.
+"We were surprised," said Mark Mapstone, a neuropsychologist at the University of Rochester Medical Center and lead author of the study. "But it turns out that it appears we were looking in the right place."
+Alzheimer's risk before symptoms: Do you want to know?
+The 'holy grail'
+The beauty of this test, Mapstone says, is that it caught Alzheimer's before the patient even had symptoms, suggesting that the disease process begins long before people's memories start failing. He says that perhaps the lipid levels started decreasing at the same time as brain cells started dying.
+He and his team plan to try out this test in people in their 40s and 50s. If that works, he says, that would be the "holy grail," because then researchers could try experimental drugs and treatments in a group that's almost sure to get the disease. That would speed research along immensely.
+Plus, people could get a heads up that they were probably destined to get Alzheimer's. Although some people might not want to know that they're destined for a horrible disease, others might be grateful for the warning.
+Federoff said he would want to know whether he was on his way to getting the disease, even though there's nothing he could do about it. He might want to take a family trip he'd been thinking about or might want to appoint a successor at work.
+"I would make sure that things that are important to me get done," he said.
+But, Federoff added, others might not want to know they were about to get a devastating disease they were powerless to stop.
+"I think it's a very personal decision," Federoff said. "It would have to be thought through on multiple dimensions. Patients and their families would have to be counseled."
+Next steps
+Other research teams are looking at other possible tests for Alzheimer's. The need for a screening test of some kind for Alzheimer's has never been greater: A report released last week says the disease claims the lives of perhaps a half a million Americans, making it nearly as deadly as heart disease and cancer.
+If any of these tests work out -- and that's still an if -- it would take years to make it to doctors' offices, since the test would need to be validated by other labs and with larger groups of people. Thee test developed by the Georgetown and Rochester researchers, for example, was used mainly in white people, and it might not work as well with other groups.
+Heather Snyder, a spokeswoman for the Alzheimer's Association, said the study was well done but much work is still needed.
+"It's an interesting paper. It's an intriguing study. But it is very preliminary," she said.
+Overwhelming burden, cost of Alzheimer's to triple, report says
+</TEXT>
+</DOC>

@@ -1,0 +1,4 @@
+health 1
+Science_technology 2
+sports 3
+travel 4

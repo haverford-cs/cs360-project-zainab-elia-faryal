@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO>1006</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/90UJqxYoswA/index.html</URL>
+<TITLE>Chemicals affecting your child's brain?</TITLE>
+<TIME>Fri, 14 Feb 2014 18:34:29 EST</TIME>
+<ABSTRACT>
+The number of chemicals known to be toxic to children's developing brains has doubled over the last seven years, researchers said.
+</ABSTRACT>
+<TEXT>
+(CNN) -- The number of chemicals known to be toxic to children's developing brains has doubled over the last seven years, researchers said.
+Dr. Philip Landrigan at Mount Sinai School of Medicine in New York and Dr. Philippe Grandjean from Harvard School of Public Health in Boston, authors of the review published Friday in The Lancet Neurology journal, say the news is so troubling they are calling for a worldwide overhaul of the regulatory process in order to protect children's brains.
+"We know from clinical information on poisoned adult patients that these chemicals can enter the brain through the blood brain barrier and cause neurological symptoms," said Grandjean.
+"When this happens in children or during pregnancy, those chemicals are extremely toxic, because we now know that the developing brain is a uniquely vulnerable organ. Also, the effects are permanent."
+The two have been studying industrial chemicals for about 30 years. In 2006, they published data identifying five chemicals as neurotoxicants -- substances that impact brain development and can cause a number of neurodevelopmental disabilities including attention-deficit hyperactivity disorder, autism, dyslexia and other cognitive damage, they said.
+Those five are lead, methylmercury, arsenic, polychlorinated bipenyls, or PCBs, and toluene.
+Banned in the United States in 1979, PCBs were used in hundreds of products including paint, plastic, rubber products and dyes. Toluene is in household products like paint thinners, detergents, nail polish, spot removers and antifreeze.
+7 chemicals in your food
+Now, after further review, six more chemicals have been added to the list: manganese; fluoride; tetrachloroethylene, a solvent; a class of chemicals called polybrominated diphenyl ethers, or flame retardants; and two pesticides, chlorpyrifos, which is widely used in agriculture, and dichlorodiphenyltrichloroethane, or DDT.
+"The continuing research has identified six new chemicals that are toxic to the developing human brain," said Landrigan. "We're turning up chemicals at the rate of about one a year that we're discovering are capable of damaging the developing brain of a human fetus or human infant."
+To examine fluoride, which is in tap water in many areas, Landrigan and Grandjean looked at an analysis of 27 studies of children, mostly in China, who were exposed to fluoride in drinking water at high concentrations. The data, they said, suggests a decline on average of about seven IQ points.
+There's another big concern: "We are very worried that there are a number of other chemicals out there in consumer products that we all contact every day that have the potential to damage the developing brain, but have never been safety tested," Landrigan said.
+"Over the last six or seven years we are actually adding brain toxic chemicals at a greater speed than we are adding toxicity evidence in children's brains," Grandjean said.
+"At least 1,000 chemicals using lab animals have shown that they somehow interfere with brain function in rodents -- rats and mice -- and those are prime candidates for regulatory control to protect human developing brains. But this testing has not been done systematically."
+At greatest risk? Pregnant women and small children, according to Grandjean. According to the review, the biggest window of vulnerability occurs in utero, during infancy and early childhood.
+The impact is not limited to loss of IQ points.
+"Beyond IQ, we're talking about behavior problems -- shortening of attention span, increased risk of ADHD," Landrigan said.
+"We're talking about emotion problems, less impulse control, (being) more likely to make bad decisions, get into trouble, be dyslexic and drop out of school. ... These are problems that are established early, but travel through childhood, adolescence, even into adult life."
+BPA, phthalate exposure may cause fertility problems
+It's not just children: All these compounds are toxic to adults, too. In fact, in 2006 the pair documented 201 chemicals toxic to the adult nervous system, usually stemming from occupational exposures, poisonings and suicide attempts.
+The American Chemistry Council, meanwhile, called the review a "rehash" of the authors' first review.
+"This iteration is as highly flawed as the first, as once again the authors ignore the fundamental scientific principles of exposure and potency," said council spokesman Scott Jensen.
+"What is most concerning is that the authors focus largely on chemicals and heavy metals that are well understood to be inappropriate for children's exposure, are highly regulated and/or are restricted or being phased out. They then extrapolate that similar conclusions should be applied to chemicals that are more widely used in consumer products without evidence to support their claims. Such assertions do nothing to advance true scientific understanding and only create confusion and alarm."
+Landrigan and Grandjean now say all untested chemicals in use and all new chemicals should be tested for developmental neurotoxicity.
+This is not a new concept. In 2007, the European Union adopted regulations known as REACH -- Registration, Evaluation, Authorisation and Restriction of Chemicals -- to protect human health from risks posed by chemicals. REACH covers all chemicals, placing the burden of proof on companies to prove that any chemicals they make are safe.
+"We are behind right now and we're falling further behind," Landrigan said. "... I find it very irritating some of the multinational manufacturers are now marketing products in Europe and the U.S. with the same brand name and same label, but in Europe (they) are free of toxic chemicals and in the U.S. they contain toxic chemicals."
+The best example of this, he said, is cosmetics and phthalates. Phthalates are a group of chemicals used in hundreds of products from cosmetics, perfume, hair spray, soap and shampoos to plastic and vinyl toys, shower curtains, miniblinds, food containers and plastic wrap.
+You can also find them in plastic plumbing pipes, medical tubing and fluid bags, vinyl flooring and other building materials. They are used to soften and increase the flexibility of plastic and vinyl.
+In Europe, cosmetics don't contain phthalates, but here in the United States some do.
+Phthalates previously were used in pacifiers, soft rattles and teethers. But in 1999, after a push from the U.S. Consumer Product Safety Commission, American companies stopped using them in those products.
+"We certainly have the capability, it's a matter of political will," Landrigan said. "We have tried in this country over the last decade to pass chemical safety legislation but the chemical industry and their supporters have successfully beat back the effort."
+However, the Food and Drug Administration said two of the most common phthalates, -- dibutylphthalate, or DBP, used as a plasticizer in products such as nail polishes to reduce cracking by making them less brittle, and dimethylphthalate, or DMP used in hairsprays -- are now rarely used in this country.
+Diethylphthalate, or DEP, used in fragrances, is the only phthalate still used in cosmetics, the FDA said.
+"It's not clear what effect, if any, phthalates have on human health," according to the FDA's website. "An expert panel convened from 1998 to 2000 by the National Toxicology Program (NTP), part of the National Institute for Environmental Safety and Health, concluded that reproductive risks from exposure to phthalates were minimal to negligible in most cases."
+But Grandjean is unfazed.
+"We know enough about this to say we need to put a special emphasis on protecting developing brains. We are not just talking about single chemicals anymore. We are talking about chemicals in general."
+"This does not necessarily mean restrict the use of all chemicals, but it means that they need to be tested whether they are toxic to brain cells or not," he said.
+"We have the test methods and protocols to determine if chemicals are toxic to brain cells. If we look at this globally, we are looking at more than a generation of children -- a very high proportion of today's children have been exposed to lead, mercury and other substances, including substances that have not yet been tested but are suspect of being toxic to brain development."
+The Environmental Working Group is an environmental health research organization that specializes in toxic chemical analysis and has long called for reforms. In 2004, the group tested 10 samples of umbilical cord blood for hundreds of industrial pollutants and found an average of 200 in each sample.
+"Here in the U.S., the federal law put in place to ostensibly protect adults and children from exposures to dangerous chemicals, including those that can present serious risks to the brain and nervous systems, has been an abject failure," said Environmental Working Group spokesman Alex Formuzis.
+"The 1976 Toxic Substances Control Act has instead been largely responsible for the pollution in people beginning in the womb, where hundreds of industrial contaminants literally bathe the developing fetus."
+Landrigan is recruiting pregnant women for a new study that will test for chemical exposures. He said it's inevitable that over the next few years more chemicals will be added to the list.
+His concern? "The ability to detect these chemicals lags behind the chemical industries' ability to develop new chemicals and put them into consumer products. That's why we need new legislation in this country to close that gap."
+"We are lagging behind," Grandjean said. "And we are putting the next generation of brains in danger."
+</TEXT>
+</DOC>

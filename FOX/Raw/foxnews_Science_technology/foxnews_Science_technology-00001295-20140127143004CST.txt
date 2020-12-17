@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO>1295</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/_QwyOjDhVC8/</URL>
+<TITLE>Russian astronauts spacewalk to complete camera hookup, cables thwarted Dec. attempt</TITLE>
+<TIME>Mon, 27 Jan 2014 20:30:04 GMT</TIME>
+<ABSTRACT>
+Two Russian space station astronauts took a spacewalk Monday to complete a camera job left undone last month.
+</ABSTRACT>
+<TEXT>
+A Russian astronaut on a November spacewalk to install a camera system to the International Space Station, which will stream full color, ultra HD video of Earth.UrtheCast
+A specially constructed, ultra HD camera that will be installed outside of the International Space Station, to ultimately stream a real time video feed of the Earth.UrtheCast
+The UrtheCast camera was installed outside of the International Space Station in November, but later removed due to a glitch in the feed.UrtheCast
+INTERNATIONAL SPACE STATION –  Two Russian space station astronauts took a spacewalk Monday to complete a camera job left undone last month.
+Oleg Kotov and Sergey Ryazanskiy wrapped up the installation of a pair of high fidelity cameras that experienced connectivity issues when they first tried to install them on Dec. 27. Kotov and Ryazanskiy also retrieved scientific gear outside the station’s Russian segment.
+The two men worked so hard -- determined to accomplish the job this time around -- that Russian Mission Control outside Moscow urged them to "get your breath."
+"We'll force ourselves to rest," one of the spacewalkers replied in Russian.
+The astronauts had hooked up the Earth-observing cameras during a spacewalk right after Christmas. But ground controllers received no data from the cameras, and the spacewalkers had to haul everything back in.
+The problem was traced to indoor cabling and fixed, according to NASA.
+This time, after the spacewalkers reattached the high-definition camera to the outside of the Russian portion of the space station, good electrical connectivity was reported between the instrument and Russian Mission Control.
+NASA spokesman Rob Navias said Russian flight controllers were pleased with the results.
+"The second time a charm for its installation and activation," Navias said.
+Next, Kotov and Ryazanskiy tackled the medium-resolution camera.
+Images from these new cameras will be distributed by the Canadian company that owns them, UrtheCast (pronounced EARTH-cast) Corp. The cameras were launched to the space station last November in a deal between the Vancouver-based UrtheCast and the Russian Space Agency.
+UrtheCast will post near-real-time video on its website and sell images. The company envisions customers wanting video feeds for environmental, agricultural and humanitarian purposes.
+The company expects it will take three months to calibrate the cameras, and that the system should be fully operational by summer.
+Because of all the camera data trouble during the Dec. 27 spacewalk, which dragged on for eight hours, Kotov and Ryazanskiy had to put off other chores. Those tasks were on Monday's to-do list.
+The four other space station astronauts -- two Americans, one Japanese and another Russian -- kept tabs on the spacewalk from inside.
+Russian flight controllers outside Moscow directed Monday's 260-mile-high excursion.
+Earth from above: 10 best images from 40 years of Landsat
+Earth from above: Astronauts photograph our planet
+</TEXT>
+</DOC>

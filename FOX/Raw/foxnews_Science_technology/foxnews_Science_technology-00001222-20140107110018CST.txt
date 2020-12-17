@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>1222</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/LGiqBVlkgdU/</URL>
+<TITLE>Abundant 'mini-Neptunes' form new class of alien planets</TITLE>
+<TIME>Tue, 07 Jan 2014 17:00:18 GMT</TIME>
+<ABSTRACT>
+There's a new kind of planet to add to Kepler's cornucopia of alien worlds, and you won't find it in Earth's own solar system.
+</ABSTRACT>
+<TEXT>
+Sub-Neptunian planets range in size from about 1.5 to 4 times the size of Earth and have a rocky core and puffy gaseous shell of varying thickness.Geoff Marcy
+This NASA chart depicts the number alien planet candidates identified by NASA's Kepler spacecraft as of January 2014. Image released Jan. 6, 2014.NASA Ames Research Center
+There's a new kind of planet to add to Kepler's cornucopia of alien worlds, and you won't find it in Earth's own solar system.
+Ground-based follow-up observations of planets found by NASA's Kepler spacecraft reveal the masses and densities of 16 new planets ranging between one and four times the size of Earth. Many of the newfound orbs, described here yesterday at a meeting of the American Astronomical Society, have a rocky core surrounded by a puffed-up envelope of gas, which scientists are calling "sub-Neptunes" or "mini-Neptunes."
+"This marvelous avalanche of information about the sub-Neptunian planets is telling us about their core-envelope structure, not unlike a peach with its pit and fruit," study leader Geoff Marcy, a professor of astronomy at University of California, Berkeley, said in a statement. [The Strangest Alien Planets (Gallery)]
+Marcy and colleagues confirmed 41 of the planets discovered by Kepler, which spies the tiny dimming in starlight when a planet transits in front of its host star. The scientists used the ground-based telescopes at the Keck Observatory in Hawaii to measure the wobble of the host star as the planet exerts a slight gravitational tug on it.
+Using this Doppler method, the team found the mass of 16 of the planets. Combining the planetary masses and their radii, inferred from the Kepler dimming data, the team determined the planets' densities, offering clues to whether they are rocky, gaseous or some hybrid of the two.
+Five of the new planets are rocky, including Kepler-406b, a planet 1.4 times the radius of Earth that orbits its planet every 2.4 days.
+But the majority of them appear to have a rocky core encased in a hydrogen- and helium-rich envelope. These kinds of mysterious planets don't exist in the solar system. The planets vary from having a puffy, thick envelope to having no envelope at all. The findings, published in the Astrophysical journal, confirm 38 new planets, six of which weren't seen by Kepler.
+There's another way to determine the mass of a planet besides measuring the wobble of its host star. Neighboring planets gravitationally tug on each other, making one planet speed up in its orbit while the other slows down. By measuring variations in the timing of planetary transits, astronomers can figure out the mass.
+Ji-Wei Xie of the University of Toronto and colleagues used this method to confirm 15 pairs of Kepler's planets between Earth-size and slightly larger than Neptune. The team reported the masses of these 30 planets in the Astrophysical Journal.
+The primary objective of the Kepler mission is to determine the prevalence of Earth-like planets in the galaxy. To date, Kepler has identified more than 3,500 potential planets, including many orbiting in a habitable region around their stars. But whether they are rocky or could support alien life remains elusive.
+The masses and densities of these newest planets start to answer these questions, allowing scientists to determine what fraction of stars harboring Earth-size planets in fact have rocky planets — which could hint at whether or not humans are alone.
+In pictures: ISON, 'comet of the century' no more?
+</TEXT>
+</DOC>

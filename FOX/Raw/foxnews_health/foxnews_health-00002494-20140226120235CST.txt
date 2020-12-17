@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO>2494</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/v1Dmkl741xE/</URL>
+<TITLE>New blood test could predict prostate cancer risk</TITLE>
+<TIME>Wed, 26 Feb 2014 18:02:35 GMT</TIME>
+<ABSTRACT>
+Prostate cancer is the most common cancer in men and second most common cause of cancer death, but a new screening tool could help detect men at risk and save lives 
+</ABSTRACT>
+<TEXT>
+Prostate cancer is the most common cancer in men and second most common cause of cancer death. Over 240,000 men are diagnosed with the disease every year, and nearly 30,000 of them will die from prostate cancer in 2014.
+Screening tests Currently, we test for prostate cancer by looking at prostate-specific antigen (PSA) levels in the blood. However, this test is not prostate-cancer specific and an elevated PSA level can indicate more benign conditions like an enlarged prostate, inflammation or infection.
+Once we determine what the patient has, a biopsy is done to either confirm or rule out cancer. Depending on the pathology report, your doctor will either chose radical prostatectomy to remove the cancerous organ or a “watch and wait” approach, in which he or she will watch monitor your PSA levels over time.
+But a new kind of screening test is currently being researched in the UK, and results were recently published in the British Journal of Cancer. Scientists hope that this test might be able to better predict which men are at higher risk for prostate cancer.
+Researchers studied 191 men in the UK using a blood test to look for gene mutations that put patients at risk for an aggressive form of prostate cancer, including BRCA1, BRCA2, CHEK2, PALB2 and ATM. These gene mutations are also the same mutations that put women at risk for aggressive forms of breast cancer.
+One of the most exciting things about this study is that it gives us hope that we will soon be able to tailor screenings for each patient based on their genetic makeup. This will help cut down on unnecessary surgeries and radiation, and help doctors figure out the best course of treatment based on a patient’s individual need.
+This goes beyond just a family history of prostate cancer. By being able to deploy genetic tumor markers, the physician will be able to determine if the patient will get prostate cancer -- and knowing this information ahead of time is key.
+Early prediction of the disease will allow doctors to help their patients change their dietary needs and could possibly change how the patient is diagnosed.
+With this information, doctors will be able to plan better patient treatment, such as who will get surgery and who will get surgery and radiation.
+The future of screening tests This new screening test is still about a year away from becoming available, but the outcomes are limitless. In the future, it may be possible identify the exact gene mutation a patient has so that we can re-engineer the gene before it ever has time to mutate.
+With breakthroughs like this, we hope one day to be able to help each patient beat this “silent killer” and live cancer free.
+Dr. David B. Samadi is the Chairman of the Department of Urology and Chief of Robotic Surgery at Lenox Hill Hospital in New York City. He is a board-certified urologist, specializing in the diagnosis and treatment of urological disease, with a focus on robotic prostate cancer treatments. Dr. Samadi joined Fox News Channel in 2009 as a medical contributor. To learn more please visit his websites RoboticOncology.com and SMART-surgery.com. Find Dr. Samadi on Facebook.
+</TEXT>
+</DOC>

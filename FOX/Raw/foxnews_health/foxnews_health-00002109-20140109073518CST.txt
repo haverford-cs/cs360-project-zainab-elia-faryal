@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>2109</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/zmfpShP2-tM/</URL>
+<TITLE>Premature birth may be triggered by bacteria</TITLE>
+<TIME>Thu, 09 Jan 2014 13:35:18 GMT</TIME>
+<ABSTRACT>
+New research indicates that premature birth may be triggered by specific bacteria, BBC News reported.
+</ABSTRACT>
+<TEXT>
+New research indicates that premature birth may be triggered by specific bacteria, BBC News reported.
+Researchers from Duke University School of Medicine found that premature birth—during which a woman’s water breaks too soon—may be caused by certain bacteria that causes the membranes around the baby to thin and tear.
+Almost a third of all premature births are caused by early rupture of membranes.
+In a study published in PLOS ONE, researchers found high numbers of bacteria at the site where membranes rupture.  If bacteria are the cause of early membrane rupture, rather than the consequence of it, it may be possible to develop new treatments or screen for women at risk, the study’s authors said.
+"We then might be able to treat affected women with antibiotics and reduce their risk for [preterm premature rupture of the membranes],” said study author Amy Murtha, associate professor of obstetrics and gynocology at Duke University School of Medicine. "Our research is several steps away from this, but it gives us opportunities to explore potential targeted therapeutic interventions, which we lack in obstetrics."
+Click for more from BBC News.  
+</TEXT>
+</DOC>

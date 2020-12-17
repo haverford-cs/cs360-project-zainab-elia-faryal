@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>1113</DOCNO>
+<URL>http://rss.cnn.com/~r/rss/cnn_health/~3/cH0hvtVX_5E/index.html</URL>
+<TITLE>New guidelines may put 13 million more on statins</TITLE>
+<TIME>Wed, 19 Mar 2014 18:12:19 EDT</TIME>
+<ABSTRACT>
+When the American Heart Association and the American College of Cardiology revised its guidelines on risk factors for heart disease and stroke last November, heart experts were divided over the new advice.
+</ABSTRACT>
+<TEXT>
+(TIME.com) -- When the American Heart Association and the American College of Cardiology revised its guidelines on risk factors for heart disease and stroke last November, heart experts were divided over the new advice.
+By loosening thresholds for treating heart disease risk with cholesterol-lowering medications called statins, the recommendations potentially made millions more Americans eligible for the drugs.
+Now, led by a group at Duke University, researchers have calculated exactly how many more people might find themselves on a prescription under the new guidelines.
+Not on cholesterol meds? New guidelines may change that
+According to the data, which was based on heart disease risk factors and heart disease rates among 3,773 people in the National Health and Nutrition Examination Survey (NHANES) between 2005 and 2010, 56 million Americans between the ages of 40 years and 75 years would be eligible for statins, compared to 43.2 million under the older recommendations -- an increase of nearly 13 million.
+Most of the newly eligible -- 10.4 million — would be those who have not had any history of heart disease, but would be advised to take the drugs to prevent a future heart attack.
+TIME.com: Statins have few side effects, but should more people be taking them?
+But because the new criteria are less specific to plaque buildup in the heart arteries that can lead to heart attacks, the group also includes people who may not be at significantly greater risk of developing heart problems at all, but end up getting overtreated.
+Most of the new prescriptions, say the authors, came from older populations, between the ages of 60 years to 75 years. More than 77% of these people would be eligible for statins, even if they had no history of heart disease.
+Reporting in the New England Journal of Medicine, the scientists even extrapolated their data to calculate how many lives the additional statin prescriptions might save, and figured that giving the cholesterol-lowering drugs to people without heart disease, but who might be at higher risk of the condition, could prevent 475,000 heart events.
+TIME.com: Statin drugs linked to lower risk of cognitive decline
+While the older recommendations relied heavily on the amount of cholesterol circulating in a person's blood, as well as factors such as family history of heart problems, smoking, and hypertension, the new advice placed greater weight on factors such as age, weight, and smoking history to assess a healthy person's risk of developing heart problems.
+Under the new guidelines, if a person's risk of developing heart disease in the next 10 years was 7.5% or higher, then he might benefit from taking a statin.
+The threshold for starting statins in the previous guidelines was a more subjective assessment of heart disease risk in 10 years that included at least two of several major risk factors for heart disease, such as high cholesterol levels, hypertension, family history of heart problems, diabetes, and being overweight.
+Whether the additional statin prescriptions do end up saving half a million lives won't be clear for a few years yet, but researchers will be tracking how many more people are put on statins to prevent heart problems, and how effective that recommendation was in lowering disease and death rates.
+Do you need statins to lower your cholesterol level?
+5 ways to lower your cholesterol
+© 2012 TIME, Inc. TIME is a registered trademark of Time Inc. Used with permission.
+</TEXT>
+</DOC>

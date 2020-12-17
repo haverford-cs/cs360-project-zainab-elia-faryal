@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO>2393</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/l0pE1Cjm26U/</URL>
+<TITLE>Earwax may reveal clues about a person's identity and habits, study shows</TITLE>
+<TIME>Thu, 13 Feb 2014 16:10:39 GMT</TIME>
+<ABSTRACT>
+It turns out clues about a person’s identity and ethnicity can come from a surprising source: earwax.
+</ABSTRACT>
+<TEXT>
+It turns out clues about a person’s identity and ethnicity can come from a surprising source: earwax.
+Researchers from the Monell Chemical Senses Center in Philadelphia decided to analyze earwax as a possible source of personal information based on previous studies in which researchers analyzed underarm odor to unlock clues about a person’s identity.
+"Our previous research has shown that underarm odors can convey a great deal of information about an individual, including personal identity, gender, sexual orientation and health status," study author George Preti, an organic chemist at Monell, said in a press release. "We think it possible that earwax may contain similar information."
+For their study, Preti and his colleagues identified odor-producing compounds contained in earwax obtained from 16 healthy men. Eight of the men were Caucasian while the remainder of the men were of East Asian descent.
+Researchers then heated the earwax samples to prompt them to produce odorous volatile organic compounds (VOCs). Though all of the men’s earwax samples tested positive for VOCs, Caucasian men had greater amounts of 11 out of the 12 VOCs tested compared to the men of East Asian origin.
+"In essence, we could obtain information about a person's ethnicity simply by looking in his ears,” study author Katharine Prokop-Prigge, a Monell chemist, said. “While the types of odorants were similar, the amounts were very different.”
+Furthermore, they suspect earwax may be a source of even more clues about a person’s identity and habits.
+"Odors in earwax may be able to tell us what a person has eaten and where they have been," Preti said. "Earwax is a neglected body secretion whose potential as an information source has yet to be explored."
+</TEXT>
+</DOC>

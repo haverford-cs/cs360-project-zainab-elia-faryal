@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>1528</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/CE8AYjOLpNA/</URL>
+<TITLE>NASA releases first mosaic of lunar north pole</TITLE>
+<TIME>Wed, 19 Mar 2014 00:37:53 GMT</TIME>
+<ABSTRACT>
+Scientists have created the largest high resolution mosaic of the moon's north polar region, NASA announced in a press release Tuesday.
+</ABSTRACT>
+<TEXT>
+March 18, 2014: Scientists, using cameras aboard NASA's Lunar Reconnaissance Orbiter have created the largest high resolution mosaic of our moon’s north polar region.NASA
+Scientists have created the largest high resolution mosaic of the moon's north polar region, NASA announced in a press release Tuesday.
+Constructed from 10,581 pictures, the interactive display allows viewers to zoom in and out and pan around an area.
+"This unique image is a tremendous resource for scientists and the public alike," said John Keller, a Lunar Reconnaissance Orbiter project scientist at NASA's Goddard Space Flight Center in Greenbelt, Md. "It's the latest example of the exciting insights and data products LRO has been providing for nearly five years."
+The mosaic's images were taken with two LRO cameras and measures 931,070 pixels square – nearly 867 billion pixels total, the release said. A complete printout at 300 dots per inch would require a square sheet of paper wider than a professional U.S. football field and almost as long. If the complete mosaic were processed as a single file, it would require approximately 3.3 terabytes of storage space. Instead, the processed mosaic was divided into millions of small, compressed files, making it manageable for users to view and navigate around the image using a web browser.
+The LRO entered lunar orbit in June 2009.
+Click here to see the image.
+</TEXT>
+</DOC>

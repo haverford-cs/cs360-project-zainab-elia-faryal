@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>580</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/internal/travel/mixed/~3/_MQJN-FlBVc/</URL>
+<TITLE>Google to provide hotel guests more photos, maps</TITLE>
+<TIME>Wed, 08 Jan 2014 16:19:25 GMT</TIME>
+<ABSTRACT>
+Google is expanding its hotel business, offering several new ways for travelers to learn about accommodations.
+</ABSTRACT>
+<TEXT>
+Best Western is rolling out photos of its 2,200 North American properties and hopes to have all online by the end of the year.Best Western
+NEW YORK –  Google is expanding its hotel business, offering several new ways for travelers to learn about accommodations.
+The most noticeable change will be the introduction of a series of high-resolution panoramic photos that are stitched together to create a 360-degree experience, similar to that found in the Street View feature in Google maps. These aren't independent photos but they are another resource for travelers.
+cs rolling out photos of its 2,200 North American properties and hopes to have all online by the end of the year.
+Carlson Rezidor Hotel Group said it is also working with Google to get photos up of its 100 of its Radisson and Country Inns & Suites hotels across the U.S. and Canada. Carlson said photos will include the lobby, bars, restaurants and guestrooms. Where applicable, guests are able to tour conference and meeting areas as well as the swimming pool.
+Carlson is also testing a feature in Google Maps that will let guests move through a floor plan of the hotel. So far, it has only been featured at the company's Radisson Blu Mall of America in Minnesota.
+The final move into the hotel world comes through Google Wallet, an online payment application that also stores loyalty program information. So far, Omni Hotels & Resorts and Marriott International are the only hotel companies to participate. Avis car rentals, Amtrak, Alaska Airlines and Orbitz are the others in the travel sphere to so far be offered through Google Wallet.
+</TEXT>
+</DOC>

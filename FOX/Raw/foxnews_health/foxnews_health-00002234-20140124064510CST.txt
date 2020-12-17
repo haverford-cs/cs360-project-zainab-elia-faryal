@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>2234</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/EbfZYZoI-EE/</URL>
+<TITLE>First-time C-sections declining in many US states</TITLE>
+<TIME>Fri, 24 Jan 2014 12:45:10 GMT</TIME>
+<ABSTRACT>
+The percentage of women having first-time cesarean-section deliveries is declining, according to a new government study of 28 U.S.
+</ABSTRACT>
+<TEXT>
+The percentage of women having first-time cesarean section deliveries is declining, according to a new government study of 28 U.S. states.
+Researchers found the rate of first-time C-sections declined to 21.5 percent 2012, from 22.1 percent in 2009. The report is based on data about primary cesarean deliveries from places where this information is recorded on birth certificates, including 28 states and New York City.
+Utah had the lowest rate of C-sections, at 12.5 percent, whereas the highest rate was seen in Florida, with 26.9 percent. [8 Odd Changes That Happen During Pregnancy]
+Some states such as Utah, Delaware, New York, North Dakota and Oregon had declines in their C-section rates as large as 10 to 15 percent between 2009 and 2012, according to the report from the Centers for Disease Control and Prevention.
+However, the overall pace of the decline has slowed, the researchers said. And fewer states showed a decline in rates between 2011 and 2012 compared with the 2009-2010 period.
+The researchers looked at primary cesareans, which means deliveries that were women's first C-sections. About 60 percent of all cesarean deliveries are primary. After a primary cesarean, it's unlikely that a woman will have a vaginal birth in later pregnancies. Therefore, most public health efforts to reduce rates of C-sections focus on primary cesareans.
+C-section rates had been on the rise for several decades, and rose 60 percent between 1996 and 2009, before plateauing, previous reports have shown.
+Another concern related to the high rate of C-sections is using them to deliver babies few weeks before they are full-term. In the new report, looking at the rate of C-sections performed on babies before 39 weeks of pregnancy, the researchers found that overall primary cesarean delivery rates declined for all gestational ages. In most states in the study, cesarean delivery rates at 38 weeks of gestation declined an average of 10 percent between 2009 and 2012.
+C-sections are safer than vaginal births in some situations, such as when a fetus is in an abnormal position, or isn't getting enough oxygen. However, the surgeries also come with risks, such an increased chance of breathing problems in the baby, and infections in the mother.
+The results of the report cannot be generalized to the whole country, according to the researchers, who could get data about primary cesarean deliveries only from states that record such information.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

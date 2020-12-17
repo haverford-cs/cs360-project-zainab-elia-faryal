@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO>2429</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/VSo8pF3HzLw/</URL>
+<TITLE>New treatment may help combat deadliest form of brain cancer</TITLE>
+<TIME>Tue, 18 Feb 2014 14:58:24 GMT</TIME>
+<ABSTRACT>
+Doctors have discovered a way to potentially prevent the spread of glioblastoma – the deadliest form of brain cancer. 
+</ABSTRACT>
+<TEXT>
+Doctors have discovered a way to potentially prevent the spread of glioblastoma – the deadliest form of brain cancer, Medical News Today reported.
+In a study published in the journal Nature Materials, researchers developed special nanofibers, made out of polycaprolactone (PCL) polymer surrounded by a polyurethane.  These nanofibers were meant to mimic the blood vessels and nerve fibers that glioblastoma cells typically travel along within the brain.
+"The cancer cells normally latch onto these natural structures and ride them like a monorail to other parts of the brain," said study author Ravi Bellamkonda, professor and chair of the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University in Atlanta. "By providing an attractive alternative fiber, we can efficiently move the tumors along a different path to a destination that we choose."
+Researchers implanted the nanofibers into the brains of rats infected with human glioblastomas and compared them to a group of rats implanted with nanofibers not made with PCL, according to Medical News Today.
+After 18 days, rats implanted with PCL nanofibers showed significant reductions in tumor size compared to rats treated with non-PCL nanofibers. Instead of travelling along the brain’s blood vessels and nerve fibers to spread to other parts of the brain, the glioblastoma cells travelled along the nanofiber implants into a “tumor collector” that the researchers had implanted outside the brain.  The collector contained a gel toxic to cancer cells and effectively killed the spreading gioblastoma.
+Researchers said they hope this technique may someday provide people an opportunity to live with certain inoperable cancers. However, they noted it could be more than 10 years before the technique is able to be used in a clinical setting.
+"Perhaps with ideas like this, we may be able to live with cancer just as we live with diabetes or high blood pressrue," Bellamkonda said.
+Click for more from Medical News Today.
+</TEXT>
+</DOC>

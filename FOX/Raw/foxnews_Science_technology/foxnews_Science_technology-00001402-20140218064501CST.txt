@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>1402</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/wvXHQgWH5Vs/</URL>
+<TITLE>NASA probe beams Its 1st lunar photos to Earth</TITLE>
+<TIME>Tue, 18 Feb 2014 12:45:01 GMT</TIME>
+<ABSTRACT>
+NASA's newest moon probe has beamed its view of the lunar surface back to Earth for the first time.
+</ABSTRACT>
+<TEXT>
+NASA's Lunar Atmosphere and Dust Environment Explorer (LADEE) observatory successfully downlinked images of the moon and stars taken by onboard camera systems, known as star trackers. The image shown here was acquired on Feb. 8, 2014.NASA Ames
+NASA's Lunar Atmosphere and Dust Environment Explorer (LADEE) observatory successfully downlinked images of the moon and stars taken by onboard camera systems, known as star trackers. The image shown here was acquired on Feb. 8, 2014.NASA Ames
+NASA's Lunar Atmosphere and Dust Environment Explorer (LADEE) observatory successfully downlinked images of the moon and stars taken by onboard camera systems, known as star trackers. The image shown here was acquired on Feb. 8, 2014.NASA Ames
+NASA's newest moon probe has beamed its view of the lunar surface back to Earth for the first time.
+The Lunar Atmosphere and Dust Environment Explorer spacecraft (called LADEE for short) beamed the new moon photos — which NASA released Feb. 13 — to ground controllers on Earth earlier this month. The new images show stars and a pockmarked lunar landscape.
+LADEE's star tracker cameras took the wide-angle photos. The small spacecraft uses these cameras to figure out its orientation in orbit, a very important job. The accuracy of the probe's moon dust researching instruments relies upon knowing where it is located in space, NASA officials said. [See all five new moon photos and more from NASA's LADEE probe]
+"Star tracker cameras are actually not very good at taking ordinary images," Butler Hine LADEE project manager said in a statement. "But they can sometimes provide exciting glimpses of the lunar terrain."
+The five images were taken at one-minute intervals on Feb. 8 and capture slightly different parts of the northern western hemisphere of the moon. The star tracker cameras took the images during lunar day with Earthshine lighting up the moon's surface, NASA officials said.
+The first photo shows the crater Krieger with the crater Toscanelli, in the foreground. The second image shows another crater called Wallaston P close the horizon and part of the moon mountain Mons Herodotus, according to NASA. LADEE's third picture captured the lunar mountain range, Montes Agricola.
+"Image four in the series captures Golgi, about 4 miles in diameter, and 3-mile-wide Zinner," NASA officials said in an announcement. "The final image views craters Lichtenberg A and Schiaparelli E in the smooth mare basalt plains of Western Oceanus Procellarum, west of the Aristarchus plateau."
+LADEE launched into space last September to investigate the moon's thin atmosphere and mysterious lunar dust.
+Scientists are trying to solve a mystery that dates back to the Apollo moon missions and even before. Astronauts observed an odd glow on the moon's horizon before sunrise, and scientists think that it could have been caused by electrically charged dust in the moon's thin atmosphere (called an exosphere). LADEE's instrumentation is designed to investigate if it was dust that caused that light.
+Understanding the moon's exosphere could also help scientists learn more about exospheres on other small bodies in the solar system. Researchers think that exospheres are the most common kinds of atmospheres in the solar system.
+The $280 million LADEE mission began performing science from lunar orbit in November. Originally, the couch-sized spacecraft was only set to conduct 100 days of science, however, NASA officials found that the probe has enough fuel to collect another 28 days worth of data. LADEE is now expected to crash into the moon's surface, ending its mission, on April 21 of this year.
+</TEXT>
+</DOC>

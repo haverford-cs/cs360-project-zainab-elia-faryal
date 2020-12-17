@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>2052</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/DpSB1uouFQU/</URL>
+<TITLE>Scientists discover new way of overcoming human stem cell rejection</TITLE>
+<TIME>Thu, 02 Jan 2014 16:57:48 GMT</TIME>
+<ABSTRACT>
+Researchers from the University of California San Diego may have found an effective way to prevent the rejection of human embryonic stem cells by the immune system, paving the way for the development of more effective human stem cell therapies.
+</ABSTRACT>
+<TEXT>
+Human embryonic stem cells have the capacity to differentiate into a variety of cell types, making them a valuable source of transplantable tissue for the treatment of numerous diseases, such as Parkinson's disease and diabetes.  
+But there’s one major issue: Embryonic stem cells are often rejected by the human immune system.
+Now, researchers from the University of California San Diego may have found an effective way to prevent this rejection in humans.  Utilizing a novel humanized mouse model, the scientists have revealed a unique combination of immune suppressing molecules that stop the immune system from attacking the injected stem cells – without shutting the system down completely.
+This discovery could ultimately help resolve some of the major problems currently limiting the use of embryonic stem cells for certain conditions, paving the way for the development of more effective human stem cell therapies.
+“This is a generic way of immune suppression, so it could potentially be applied not just for stem cells therapies, but for organ transplants as well,” Yang Xu, a professor of biology at UC San Diego and lead author of the study, told FoxNews.com.  “It can be very broad.”
+Embryonic stem cells are different from the other cells in a patient’s body, making them “allogenic.”  This means the immune system will recognize them as foreign agents and attack them.
+One way of overcoming this rejection problem is to give patients immunosuppressant drugs, which suppress the entire immune system.  While short term use of immunosuppressants has been successful for many organ transplants, embryonic stem cell therapies for chronic diseases require long term use of these drugs – which can often be very toxic and increase the risk of cancer.
+“In order for the patient to really use this therapy, they have to decide: Do they want a lifelong use of immunosuppressant drugs, or are they willing to live with the symptoms of their disease,” Xu said.
+To figure out a way of bypassing this issue, researchers needed a relevant model that could closely mimic the human immune system’s response to embryonic stem cell transplantation.  To do this, they took immune deficient lab mice and grafted them with human fetal thymus tissues and hematopoietic stem cells derived from the fetal liver.  
+Essentially, this created a highly specialized mouse model with very robust T cells – capable of effectively rejecting foreign embryonic stem cells just like human T cells.
+“The mouse immune system is very similar to humans but still very different,” Xu said.  “What we learn from mouse models does not really translate to the clinic.  So what we decided to do, rather than relying entirely on the mouse immune system, we tried to do a more human relevant system.  And it’s as close as can be at this moment.”
+With these newly “humanized” mice, Xu and his team then tested various immune suppressing molecules after they had injected the mice with embryonic stem cells.  After some trial and error, they found that a combination of CTLA4-lg – an FDA-approved drug for treating rheumatoid arthritis – and a protein called PD-L1 – which induces immune tolerance in tumors – effectively protected the stem cells from rejection.
+According to Xu, they don’t yet know why this specific combination protects embryonic stem cells, but they believe that both of the molecules may be suppressing the body’s T cells in two very different – and very important – ways.
+“What was surprising was if you have these two together, you get nearly 100 percent local immune suppression and allow the graft to survive. But at the same time, there’s no effect on other parts of the body,” Xu said. “But if you only express one molecule, it has no impact.  That is the cool finding of this study.”
+Since this drug combination was so successful in the humanized mice, the researchers hope to begin testing it on monkeys, before eventually moving on to human clinical trial.
+“I think this is one of the few cases where we can have confidence that this combination would probably work in humans, because the system is so close,” Xu said.  “So the translation potential is very high.”
+The research was published online in the journal Cell Stem Cell.
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO>2345</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/MHAMZIWT3Cg/</URL>
+<TITLE>'Safe' levels of neurotoxin found in seafood may cause kidney damage</TITLE>
+<TIME>Fri, 07 Feb 2014 15:18:53 GMT</TIME>
+<ABSTRACT>
+A chemical commonly found in seafood may lead to kidney damage – even at levels considered safe for human consumption, a new study in mice has revealed.  
+</ABSTRACT>
+<TEXT>
+Mussels in white wine and tomato sauce.REUTERS/Peter Andrews
+A chemical commonly found in seafood may lead to kidney damage – even at levels considered safe for human consumption, a new study in mice has revealed.  
+In light of these findings, researchers are calling for more regulation of the neurotoxin, domoic acid, hoping that officials will reconsider how much is safe to eat.
+Produced by algae in the world’s oceans, domoic acid is a natural toxin that accumulates in bottom feeders such as mussels, clams and scallops.  The Food and Drug Administration (FDA) currently limits the amount of domoic acid that can be consumed by humans, since the chemical is already known to cause brain damage at high concentrations – a condition known as amnesic shellfish poisoning.
+But recently, the neurotoxin is becoming more prominent in coastal regions – likely due to environmental reasons – causing it to show up more frequently in larger sea creatures, such as fish and even dolphins.  According to the study author P. Darwin Bell, the researchers were interested in reexamining domoic acid based on a fellow colleague’s research of the chemical in relation to sea lions.
+“The sea lions get a disease that causes them to have neurological symptoms and actually causes death,” Bell, of the Medical University of South Carolina in Charleston, told FoxNews.com. “So he’s been working … to identify biomarkers for sea lion toxicity of domoic acid,  and he found that the amount of their red blood cells increased.  So there is a little bit of evidence that there might be a kidney component to this disease.”
+Hoping to look further into domoic acid’s effects on the kidneys, Bell and his colleague Jason Funk set up a series of experiments in mice, analyzing how consumption of the chemical affected the rodents’ kidney health.  They found that the domoic acid very quickly damaged the mice’s kidneys, even at very low concentrations.
+“We looked further at lower and lower concentrations of domoic acid, and it actually caused kidney damage at a hundred times lower than what causes injury in the brain,” Bell said.  “The FDA sets the limit of domoic acid that can be consumed by humans at 20 parts per million (ppm)… The government says below this it doesn’t cause any neurologic affects, but the kidney is affected at a hundred times lower than this concentration.”
+According to Bell, domoic acid acts as an analog to glutamate, a neurotransmitter in the brain that delivers important information between the synapses.  Glutamate receptors, which bind to glutamate (and consequently domoic acid), are primarily located in the brain and central nervous system, but they are also found in the kidneys.
+Bell explained that domoic acid doesn’t cross through the blood-brain barrier easily, so it’s the responsibility of the kidney’s glutamate receptors to clear the chemical from the body.  However, this makes the kidneys much more sensitive to buildup of the neurotoxin.
+“The kidney is actually what helps to eliminate domoic acid,” Bell said.  “So when you take it in, the kidney is responsible for getting rid of it.  The kidney actually accumulates domoic acid, and the receptors bind to [it], and they get overwhelmed.”
+Though their study still needs to be verified in humans, Bell and Funk are arguing for increased monitoring of domoic acid levels in all seafood, in case the findings do translate.  Additionally, domoic acid is very heat resistant and cannot be cooked out of food, so FDA regulation is the best way to limit exposure to the chemical from foods.
+“Although we have not looked at this directly, it’s quite possible that individuals who have chronic kidney disease, very young children or the elderly may be more sensitive to domoic acid than healthy individuals,” Bell said.  “So we think folks should be cautious in regards to seafood consumption.”
+The research was published in the most recent issue of the Journal of the American Society of Nephrology.
+</TEXT>
+</DOC>

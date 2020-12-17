@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO>2343</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/CRqYyGGeo2o/</URL>
+<TITLE>CDC: Adult vaccination rates are drastically low</TITLE>
+<TIME>Fri, 07 Feb 2014 18:07:09 GMT</TIME>
+<ABSTRACT>
+Adult immunization rates in the United States remain significantly low, falling well below national targets, according to a new report from the Centers for Disease Control and Prevention (CDC).
+</ABSTRACT>
+<TEXT>
+REUTERS/Brian Snyder
+Adult immunization rates in the United States remain significantly low, falling well below national targets, according to a new report from the Centers for Disease Control and Prevention (CDC).
+For the CDC’s Morbidity and Mortality Weekly Report (MMWR), researchers used data from 2012 National Health Interview Survey to verify the vaccination rates of six different vaccines.
+Although some rates improved slightly since 2011, the report found that many Americans are still neglecting numerous vaccines.  In 2012, only 64.2 percent of adults were up-to-date with their tetanus shots, and only 20 percent of adults at high risk for pneumonia had received the pneumococcal vaccine.  Additionally, a mere 14.2 percent of adults had received the Tdap vaccination, which protects against tetanus, diphtheria and pertussis – also known as whooping cough.
+Hepatitis A vaccination coverage was even lower, with only 12.2 percent of adults between the ages of 19 and 49 receiving immunization.  Fortunately, vaccination for the human papilloma virus (HPV) increased from 29.5 percent in 2011 to 34.5 percent in 2012, and 20.1 percent of adults received the shingles-fighting herpes zoster vaccine in 2012 – up from 15.8 percent in 2011.
+Given the report’s findings, CDC officials are urging American adults to get vaccinated, in order to reduce the spread of preventable diseases to the elderly and children.  
+Furthermore, many health experts believe that poor adherence to vaccination schedules may be to blame for the recent rise in vaccine-preventable diseases in the U.S.  In 2012, 48,277 cases of whooping cough were reported by the CDC – the highest number of cases reported in the United States since 1955.  
+“Vaccination coverage levels among adults are low,” the CDC researchers wrote. “Improvement in adult vaccination is needed to reduce the health consequences of vaccine-preventable diseases among adults and to prevent pertussis morbidity and mortality in infants, who need the protection afforded by the Tdap vaccination during pregnancy recommendation.”
+In the report, the researchers called for better vaccination programs, to more effectively educate potential vaccine recipients and the public, increase access to vaccination services, and remove any barriers to vaccine coverage.
+Click for more on the CDC’s Morbidity and Mortality Weekly Report.
+</TEXT>
+</DOC>

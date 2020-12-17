@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO>1475</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/R_2-DL9ki3E/</URL>
+<TITLE>Hubble captures asteroid's odd death</TITLE>
+<TIME>Fri, 07 Mar 2014 13:08:46 GMT</TIME>
+<ABSTRACT>
+The Hubble Space Telescope continues to wow astronomers.
+</ABSTRACT>
+<TEXT>
+This combination image made available by NASA shows a series of photos from Hubble recording the disintegration of an asteroid from Oct. 29, 2013, to Jan. 14.AP Photo/NASA, ESA, UCLA, D. Jewitt
+The Hubble Space Telescope continues to wow astronomers. NASA today released a series of photographs that the AP calls the "first pictures of a disintegrating asteroid." Hubble zoomed in for a closer look after other telescopes spotted something unusual in the asteroid belt between the orbits of Mars and Jupiter in September.
+Astronomers soon realized they were seeing an asteroid, now named Asteroid P/2013 R3, crumbling before their eyes. Discovery calls it "probably one of the strangest" things ever observed by Hubble.
+Scientists have been puzzled because the asteroid is disintegrating so slowly—they were able to pick out 10 different chunks drifting leisurely apart, at roughly one mile per hour.
+“This is a really bizarre thing to observe," says a scientist at the Max Planck Institute for Solar System Research in Germany. "We’ve never seen anything like it before." It's unlikely that a collision caused the disintegration given the snail's pace at which it is unfolding (the photos were taken over a series of months beginning in late 2013). The best guess is something called the YORP effect, which Universe Today describes as "a subtle effect from sunlight that can change the asteroid’s rotation rate and basically cause a rubbly-type asteroid to spin apart." (Click for another wild find by Hubble.)
+</TEXT>
+</DOC>

@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO>2191</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/XRTuGhVCrNQ/</URL>
+<TITLE>Saliva reveals asthmatic kids' smoke exposure</TITLE>
+<TIME>Mon, 20 Jan 2014 15:02:20 GMT</TIME>
+<ABSTRACT>
+Asthmatic children who are exposed to cigarette smoke are more likely to make repeat trips to the hospital for breathing problems. But researchers say asking parents about kids' smoke exposure may not yield the most reliable information.
+</ABSTRACT>
+<TEXT>
+Asthmatic children who are exposed to cigarette smoke are more likely to make repeat trips to the hospital for breathing problems. But researchers say asking parents about kids' smoke exposure may not yield the most reliable information.
+In a recent study, saliva revealed exposure to tobacco smoke in roughly 80 percent of children brought to the hospital for asthma or breathing problems. But only about a third of parents said their children came in contact with smoke.
+What's more, finding evidence of nicotine, a chemical in tobacco, in children's saliva was a better predictor of whether they would need to come back to the hospital, compared to the information parents gave to doctors.
+"We think saliva is a good and potentially useful test for assessing an important trigger for asthma," Dr. Robert Kahn, the study's senior author, told Reuters Health.
+Previous research has found that being exposed to tobacco can lead to airway problems and poor asthma control among children, Kahn and his colleagues write in the journal Pediatrics.
+By figuring out which children are being exposed to tobacco, doctors may be able to step in and identify and possibly eliminate the exposure, said Kahn, a pediatrician at Cincinnati Children's Hospital Medical Center in Ohio.
+For example, if a parent is still smoking cigarettes and exposing the child to smoke, doctors can offer the parent smoking cessation tools while the child is hospitalized.
+For the new study, the researchers assessed data from 619 children admitted to Cincinnati Children's Hospital Medical Center for asthma or other breathing problems between August 2010 and October 2011. The children were between one and 16 years old.
+During the children's first couple of days in the hospital, researchers asked their parents if the children had any exposure to tobacco - either at home, in the car or in another place the children slept. Nurses also collected blood and saliva samples from the children.
+About 35 percent of parents reported their children having some tobacco exposure.
+However, about 56 percent of the children's blood samples and about 80 percent of their saliva samples tested positive for cotinine, a component of nicotine that's a marker for tobacco exposure.
+The difference in the results of the saliva and blood tests and the parents' reports doesn't necessarily mean the parents lied about their children's exposure to smoke.
+It could also be that the researchers and doctors didn't ask enough or the right questions or that the parents didn't know their children were being exposed to smoke.
+"Sometimes a parent's response to a simple question may not reflect the nuances of life," Dr. James Kreindler said.
+He was not involved with the new study but is an attending pulmonologist at The Children's Hospital of Philadelphia in Pennsylvania.
+One in six children in the study had to be readmitted to the hospital within a year.
+Parents' reports of smoke exposure weren't tied to the likelihood of children returning to the hospital. But Kahn and his colleagues did find that children were more likely to be readmitted if their saliva or blood tested positive for cotinine.
+The researchers write that saliva is an attractive testing option, because it's not hard or invasive to get a sample. It also appeared to be a more sensitive test than blood.
+But Kreindler cautioned that the new results don't mean children should get tested for cotinine in the hospital.
+"The test they are using to determine cotinine levels is a very sophisticated test - not one that would be available to every community hospital," he said. And the treatment for asthma wouldn't necessarily change based on whether a child was exposed to tobacco, he noted.
+Kreindler said a cost analysis would also be needed to look at the expense of testing.
+According to Kahn, a cost analysis would most likely follow a trial of whether smoking cessation after positive saliva tests decreased hospital readmissions among children.
+"The take-home message should always be that exposure to secondhand smoke for both adults and children is a significant health risk factor - particularly for children with asthma and respiratory disorders," Kreindler said. "They should not be exposed to secondhand smoke under any circumstance."
+</TEXT>
+</DOC>

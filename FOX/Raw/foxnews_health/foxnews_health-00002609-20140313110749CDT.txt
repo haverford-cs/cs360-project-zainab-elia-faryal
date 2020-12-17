@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>2609</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/PbnWyFvzlGw/</URL>
+<TITLE>Blood test offers swifter, safer diagnosis of sport brain injury</TITLE>
+<TIME>Thu, 13 Mar 2014 16:07:49 GMT</TIME>
+<ABSTRACT>
+Swedish researchers say they have devised a blood test that could better diagnose sports-related brain injuries and prevent American football, rugby and ice hockey players returning to the field in danger.
+</ABSTRACT>
+<TEXT>
+AP
+Swedish researchers say they have devised a blood test that could better diagnose sports-related brain injuries and prevent American football, rugby and ice hockey players returning to the field in danger.
+In findings from a study of ice hockey players, the researchers said their method can show just an hour after a head injury how severe the concussion is, whether there is a risk of long-term symptoms, and when the player can return to the sport.
+"In ice hockey and other contact sports, repeated concussions are common, where the brain has not finished healing after the first blow," said Henrik Zetterberg of the Sahlgrenska Academy at the University of Gothenburg, who led the study.
+"This kind of injury is particularly dangerous, but there have not been any methods for monitoring how a concussion in an athlete heals."
+A growing body of scientific evidence, much of it from studies of former American football players and boxers, suggests repeated head knocks such as in contact sports can cause chronic traumatic encephalopathy, a brain condition that can lead to loss of cognitive function, dementia, aggression and depression.
+While mild concussions don't generally cause loss of consciousness, they can induce other symptoms such as dizziness, nausea, trouble concentrating, memory problems and headaches. Severe concussions can cause a loss of consciousness. Most concussions get better in days or weeks, but some patients can suffer symptoms more than a year after injury.
+The National Football League in the United States agreed in August to pay $765 million to settle a lawsuit brought by thousands of former players, many suffering from dementia and health problems. They accused the league of hiding the dangers of brain injury while profiting from the sport's violence.
+"Concussions are a growing international problem," said Zetterberg. "The stakes for the individual athlete are high, and the list of players forced to quit with life-long injury is getting ever longer."
+Zetterberg's team examined all the players in the Swedish Hockey League and found that between September and December of the 2012/2013 season alone, 35 of 288 players had had a concussion. In three cases, it was so severe that the player was knocked unconscious.
+For the study, which was published on Thursday in the journal JAMA Neurology, the players who had a concussion were asked to provide repeated blood samples, initially directly after the concussion and then also during the following days.
+The results were compared with the pre-season samples from two full teams, and the scientists found that having raised levels of a nerve cell protein called tau in the blood was a marker of concussion.
+By measuring tau levels in regular tests, the researchers could say how severe the concussion was just one hour after the injury, and could predict with a high level of certainty which players would have long-term symptoms and needed to rest longer.
+Yelverton Tegner, a researcher at Lulea University of Technology and a team doctor for the Swedish national women's football team, who also worked on the study, said the ultimate aim was "to have a working kit that can be used for diagnostics in hospitals, and perhaps also at rink-side or in stadiums", for use immediately after a player is concussed.
+Zetterberg said the same test could also be used in general emergency medical care to diagnose brain damage from concussions, regardless of how they happened.
+</TEXT>
+</DOC>

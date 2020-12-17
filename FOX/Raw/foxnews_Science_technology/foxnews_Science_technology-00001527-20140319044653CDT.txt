@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO>1527</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/scitech/~3/Ci8b-YH-E3k/</URL>
+<TITLE>Pests evolve to eat corn designed to kill them</TITLE>
+<TIME>Wed, 19 Mar 2014 09:46:53 GMT</TIME>
+<ABSTRACT>
+A hungry pest known as the western corn rootworm is gradually developing a resistance to genetically modified crops engineered to kill it, reports Nature.
+</ABSTRACT>
+<TEXT>
+File photo of a cornfield in South Dakota.AP Photo/Aberdeen American News, John Davis, File
+A hungry pest known as the western corn rootworm is gradually developing a resistance to genetically modified crops engineered to kill it, reports Nature. Entomologists say they're discovering more and more of the beetles that show no ill effects after chowing down on fields of Bt corn—so named because it contains a gene called Bacillus thuringiensis that's supposed to be lethal to the pest.
+This could be a major problem because Bt corn accounts for an astounding three-fourths of the nation's corn, reports Wired. The engineered corn first got planted in 1996, and it swiftly gained popularity with US farmers because it wiped out nearly all the rootworms that tried to eat it and eliminated the need for pesticide spraying.
+The key words there being "nearly all." The small percentage of rootworms resistant to the corn has grown, and the scientists lay much of the blame on bad land management.
+The agriculture industry viewed the Bt corn as a cure-all and didn't do things as simple as crop rotation to limit the spread of the pests.
+"Generally, one year of soybeans in a field with resistant western corn rootworms wipes out that population," a University of Nebraska-Lincoln entomologist tells the Farm and Ranch Guide.
+"The beetles will lay eggs that hatch, but when larvae try to feed on soybean plants, they don't find the nutrients they need and they die." The new study urges immediate changes along those lines before the problem gets worse.
+In the meantime, farmers growing the Bt corn will likely have to turn back to pesticides if their crops get infested.
+</TEXT>
+</DOC>

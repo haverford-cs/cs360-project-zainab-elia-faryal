@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO>2105</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/hLFuzd7stv0/</URL>
+<TITLE>Vascular disease may increase symptoms of some autoimmune disorders</TITLE>
+<TIME>Thu, 09 Jan 2014 18:03:06 GMT</TIME>
+<ABSTRACT>
+Hardening arteries are often associated with heart disease and stroke – but new research suggests they may be linked with autoimmune diseases as well.
+</ABSTRACT>
+<TEXT>
+iStock
+Hardening arteries are often associated with heart disease and stroke – but new research suggests they may be linked with autoimmune diseases as well.
+A new study published in the journal Immunity indicates that people who have high blood levels of a molecule known to cause vascular diseases may also experience worsened symptoms of autoimmune disorders like psoriasis or arthritis.
+The study focused on the molecule oxidized low-density lipoprotein (oxLDL), which, when elevated, is known to cause atherosclerosis – the hardening of arteries that can lead to heart attack or stroke. LDL is known to activate the immune system.
+In a mouse study, researchers discovered that elevated levels of oxLDL caused mice with atherosclerosis to also experience an increase in Th17 cells, which resulted in worsened symptoms of autoimmune disorders. When they inhibited the activity of the Th17 cells, autoimmune symptoms improved.
+"The lesson from this study is that immune diseases are not always a matter of immune system alone," senior study author Yeonseok Chung, of the University of Texas Health Science Center at Houston, said in a press release. "With our findings, we have just started to understand how factors in the circulatory system impact the immune system."
+Previous research had also indicated that patients with T cell-mediated autoimmune disorders, such as psoriasis and rheumatoid arthritis, have a higher risk of developing atherosclerosis.
+"Our study suggests that we should consider circulatory factors in current therapeutic approaches for the treatment of autoimmune diseases," Chung says. "For instance, we expect that controlling oxLDL levels in circulation could greatly improve the therapeutic efficacy of immunological or pharmacological treatment of autoimmune diseases."
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO>2198</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/IKOmXAbbgeA/</URL>
+<TITLE>Pluristem stem cell trial to treat muscle injury meets main goal</TITLE>
+<TIME>Tue, 21 Jan 2014 15:35:36 GMT</TIME>
+<ABSTRACT>
+Pluristem Therapeutics Inc said results from its early/mid-stage clinical trial indicated its placenta-derived stem cells for the treatment of muscle injury were safe and provided evidence the cells might be effective in treating orthopedic injuries.
+</ABSTRACT>
+<TEXT>
+Pluristem Therapeutics Inc said results from its early/mid-stage clinical trial indicated its placenta-derived stem cells for the treatment of muscle injury were safe and provided evidence the cells might be effective in treating orthopedic injuries.
+"Patients treated with PLX-PAD had a greater improved change of maximal voluntary muscle contraction force than the placebo group," Israel-based Pluristem said in a statement on Tuesday.
+The trial was conducted at the Orthopedic Clinic of the Charite University Medical School under the auspices of the Paul-Ehrlich-Institute, Germany's health authority.
+"This was a very important study not only for Pluristem but for the cell therapy industry in general," Pluristem chief executive Zami Aberman said. "Based on these results, we intend to move forward with implementing our strategy towards using PLX cells in orthopedic indications and muscle trauma."
+The injured muscle studied was the gluteus medius muscle in the buttock. Total hip replacement surgery via the standard transgluteal approach necessitates injury of the gluteus medius muscle, and post-operative healing is crucial for joint stability and function.
+"The study showed that PLX-PAD cells were safe and well tolerated," the statement said.
+The primary efficacy endpoint of the study was the change in maximal voluntary isometric contraction force of the gluteal muscle six months after surgery.
+Efficacy was shown in two groups treated with the cells, with one group receiving a 150 million cell dose displaying a 500 percent improvement over the placebo group. Patients treated with a 300 million cell dose showed a 300 percent improvement over the placebo.
+An analysis of the gluteal muscle indicated an increase in muscle volume in those patients treated with PLX-PAD cells versus the placebo group.
+</TEXT>
+</DOC>

@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>2331</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/wEtFib9TzrY/</URL>
+<TITLE>Ultrathin, flexible sensor could improve health-monitoring tech</TITLE>
+<TIME>Wed, 05 Feb 2014 13:00:04 GMT</TIME>
+<ABSTRACT>
+An ultrathin, flexible pressure sensor that has touch sensitivity almost like humans' could pave the way for artificial skin
+</ABSTRACT>
+<TEXT>
+A flexible pressure sensor enables monitoring of tiny forces from artery wrist blood pulses and acoustic waves.Wenlong Cheng and Shu Gong
+An ultrathin, flexible pressure sensor that has touch sensitivity almost like humans' could pave the way for artificial skin.
+Pressure sensors are used in all kinds of applications, including touch screens, wearable technology and even in aircraft and cars. Unlike current pressure sensors, which rely on semiconductor material, "this approach is low-cost and doesn't require lithography or expensive equipment, and it does not need a clean room," said study co-author Wenlong Cheng, a nanomaterials researcher at Monash University in Melbourne, Australia. "It's environmentally friendly."
+The new sensor, described Feb. 4 in the journal Nature Communications, could one day be used as artificial skin for heart-rate monitors or other body sensors. [The Best Fitness Trackers]
+Golden threads
+Most pressure sensors typically rely on either capacitors or piezoelectric materials, both of which accumulate electric charge when subject to mechanical stress. But both of these elements require semiconductor material, which is brittle and has to be fabricated in clean rooms, free of dust and contaminants, by people wearing astronautlike suits.
+Cheng and his colleagues had another idea. The team mixed a gold salt with another chemical called oleylamine, and then waited a day or two. The chemical reaction forms miniscule, threadlike nanowires of gold.
+They then soaked a paper-towel-like material in the nanowires, and the golden threads were automatically absorbed into the paper towel. The team then sandwiched the paper-towel material between two thin, synthetic rubber sheets.
+The total thickness was about 0.02 inches, Cheng said.
+When exposed to pressure, the nanowires change how easily electrical current flows through them, and this change in current can then be detected.
+Sensitive and flexible
+The new devices are as sensitive as the best pressure sensors, and can withstand twisting and bending without cracking.
+The device could be used as artificial skin to monitor many mechanical properties of the blood, including heartbeat. The sensor would be placed on top of a person's skin, where it would sense the acoustic and pressure changes from blood flow.
+"You can integrate it into a watch. It's lightweight and cheap," Cheng told Live Science.
+The skin could also be used for flexible displays, which could supplant the hard iPad or phone touch screens that often crack, Cheng said.
+The skin could also hasten the development of cyborg technologies.
+"All plants and animals use soft materials, so from my point of view, in the future, the electronic device needs to be wearable, stretchable and affordable to truly be part of our body," Cheng said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

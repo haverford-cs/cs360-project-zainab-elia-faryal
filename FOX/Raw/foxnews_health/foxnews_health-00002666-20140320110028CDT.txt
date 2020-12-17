@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>2666</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/7zwVxSKfkR0/</URL>
+<TITLE>Early detection of Alzheimer's may be possible through spinal fluid test</TITLE>
+<TIME>Thu, 20 Mar 2014 16:00:28 GMT</TIME>
+<ABSTRACT>
+A new test may be able to spot Alzheimer’s years before the onset of clinical symptoms, giving physicians much more time to save the brain’s neurons from destruction.
+</ABSTRACT>
+<TEXT>
+Timing: It’s what makes Alzheimer’s disease so difficult to treat.
+The only way doctors can know if a patient is suffering from the brain wasting condition is if he or she starts suffering from cognitive and memory problems – but by that point, the brain has already been significantly damaged.
+But now, a new test may be able to spot Alzheimer’s years before the onset of clinical symptoms, giving physicians much more time to save the brain’s neurons from destruction.
+Researchers at the University of Texas Medical School in Houston have developed a new method that can detect tiny, misfolded protein fragments floating in the cerebrospinal fluid of patients.  These fragments – called amyloid beta (Aβ) oligomers – have been implicated as the main culprit in Alzheimer’s disease.
+According to lead researcher Claudio Soto, Aβ oligomers are precursors to the buildup of amyloid plaques in the brain – the main hallmark of Alzheimer’s.
+“What happens is this amyloid protein – a normal protein we all have that circulates in our fluids – starts to change,” Soto, a professor in the department of neurology at the University of Texas Health Science Center at Houston, told FoxNews.com.  “And it makes this protein more prone to interact and aggregate, binding to other amyloid proteins and forming small oligomers; those are proteins bound together – around five, 20 or 50 units of the protein bound together.  These oligomers are moving around the cells in the brain… and are dumped into the spinal fluid.”
+As time passes, the Aβ oligomers continue to grow larger by incorporating more units of amyloid protein.  Eventually they become too massive and stick in the brain, forming big clumps of amyloid plaques and leading to signs of dementia.
+Soto noted that these oligomers could be circulating within the brain and spinal fluid years – if not decades – before Alzheimer’s symptoms begin.
+In order to detect the presence of these protein fragments in the body, Soto and his team utilized technology they had developed years earlier to detect misfolded proteins responsible for prion diseases like mad cow disease. Called protein misfolding cyclic amplification (PMCA), this technology involves taking a sample of spinal fluid from a patient and adding large amounts of amyloid proteins to the solution.  This ultimately “speeds up” the amyloid protein aggregation process.
+“We assimilate this process and make it much more sensitive,” Soto said.  “…We fragment these oligomers and divide them into small units, and we add high quantities of normal protein and see how it’s incorporated into the aggregate.  Then we segment them again and add many more units to increase the amount of total units to the point where we can biochemically detect them.  Then we can say, ‘Here it is. You can see the formation of these aggregates, meaning in this sample, there’s a possibility of Alzheimer’s.’”
+In a proof-of-concept study, the researchers showed that their PMCA technology could detect the presence of Aβ oligomers at very low concentrations in samples of spinal fluid.  Additionally, this testing method was able to distinguish between patients with Alzheimer’s disease and patients with other neurological disorders with extremely high sensitivity and specificity.
+Given the success of their research, Soto hopes to develop a similar test that can detect the presence of oligomers in a patient’s blood sample, since taking samples of spinal fluid can be a difficult process. Recently, researchers from Georgetown University School of Medicine revealed that they too may have found a way to predict Alzheimer’s by analyzing a person’s blood.  However, Soto is much more optimistic about his work, as it involves analyzing the protein directly implicated in dementia.
+“They measure lipids not proteins,” Soto said.  “…It’s an interesting idea, but different than what we do.  We work with the molecule that is supposed to be one of the causes of brain damage; it’s the earliest event in the development of Alzheimer’s.”
+Soto claims the PMCA technology could potentially be used to detect protein buildup found in several other diseases – such as Parkinson’s.  But for now, he is hopeful that this test could fundamentally transform the treatment of Alzheimer’s disease – a condition that affects 5.2 million Americans and has no cure.
+“What we really need in this field is to know [whether a] person is on the way to Alzheimer’s,” Soto said. “Knowing that, we can start safe treatment [early] that will delay progression of the disease, so much so that people will maybe die from other conditions at old age and not from the disease itself.  That’s really the main goal.”
+This study is reported in the Cell Press journal Cell Reports.
+</TEXT>
+</DOC>

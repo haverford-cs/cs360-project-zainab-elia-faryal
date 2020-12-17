@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO>2456</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/fbJ9n8LsIXU/</URL>
+<TITLE>Surgeons reconstruct baby's skull with 3D printing technology</TITLE>
+<TIME>Fri, 21 Feb 2014 15:57:49 GMT</TIME>
+<ABSTRACT>
+Through collaboration with Medical Modeling Inc. in Golden, Colo., surgeons at Stony Brook Univeristy were able to reconstruct a 6-month-old baby's deformed skull, utilizing computer modeling and 3D printing technology.
+</ABSTRACT>
+<TEXT>
+Before and after models of Gabriel's skullAssociated Plastic Surgeons
+3D printed templates utilized during surgery.Associated Plastic Surgeons
+When baby Gabriel was born in August, his dad, Manuel Dela Cruz, said everything initially seemed fine with his new son. It wasn’t until a week after his birth that Gabriel’s parents thought their son’s forehead looked abnormal.
+“We noticed something was wrong with him,” Dela Cruz, of East Quogue, N.Y., told FoxNews.com.  “His eye wasn’t the same, and his right forehead was more protruded than the other one.”
+Worried for their son’s health, the new parents took Gabriel to a pediatrician, who diagnosed the newborn with unilateral coronal synostosis – also known as anterior plagiocephaly.  For babies with this condition, a growth plate fuses prematurely on one side of the skull, causing the forehead to become more and more distorted and form asymmetrically.
+Although the side effects of plagiocephaly are mostly cosmetic, the deformity can grow significantly worse if left untreated – leading many parents to opt for reconstructive surgery.  Knowing what needed to be done, Dela Cruz said it was frightening to have their son undergo an operation at such a young age.
+“You obviously fear the worse, especially because it was in the head,” Dela Cruz said. “Knowing he was going to be opened up…it was very scary on the part of the parent.”
+In order to treat Gabriel, physicians at Stony Brook University decided to try a completely new kind of operation – one that would cut down on the time the infant spent in the operating room.
+Through a collaboration with Medical Modeling Inc. in Golden, Colo., Dr. Michael Egnor and Dr. Elliot Duboys were able to virtually plan the entire surgery beforehand.  Additionally, the company created 3D printed before-and-after models of Gabriel’s skull for the surgeons, so they could accurately predict how the operation’s results would look.
+“The first thing we do, after we make a diagnosis, is a CT scan of the baby’s head… and we sent the CT image to [Medical Modeling],” Egnor, director of pediatric neurosurgery at Stony Brook Children’s Hospital, told FoxNews.com. “Using a computer program, they simulated the baby’s skull with the symmetry and dimensions it should have.  Then the company manufactured these templates and sent them to us, so we had the exact measurements.”
+Knowing exactly how the skull should look after the procedure, 6-month-old Gabriel was brought in for surgery and placed him under anesthesia.  In order to get to the deformed bone, the surgeons made an incision across the top of Gabriel’s forehead, exposing the entire front of the skull and eye sockets.
+Through the use of a special saw, the surgeons removed four pieces of deformed bone and made special cuts in the skull to help reshape and restructure the baby’s head.  In an attempt to make the remodeling more precise, Egnor and Duboys utilized the 3D printed templates provided by Medical Modeling, which helped to highlight where the surgeons needed to make their incisions.
+“They sent us cutting templates, which were pieces of 3D modeling that we were able to place on the child’s skull during surgery,” Duboys, associate professor of surgery  at Stony Brook Medicine, told FoxNews.com. “And then we just traced where the cuts should be on the skull, almost like a stencil… And then we know where to cut.”
+Both Egnor and Duboys said the 3D modeling technology helped to cut down on the length of the procedure, which meant Gabriel spent far less time under anesthesia than during traditional surgery.  They hope more surgeons will utilize this 3D imaging and modeling to perform reconstructive surgeries in the future.
+“I think it’s going to become, over time, acknowledged as the best way to do procedures of this nature,” Egnor said. “I was hopeful that this would work nicely, and it made a believer out of me.”
+As for Gabriel, Dela Cruz said his son will still need to wear a helmet to reshape his forehead.  But overall, he responded extremely well to the surgery and his forehead is not as protruded as it once was.
+“There are no side effects, and he’s a normal baby,” Dela Cruz said. “…Gabriel responded very good to the procedure, and three or four days after, he was joking and playing.  It was great seeing him that way.”
+</TEXT>
+</DOC>

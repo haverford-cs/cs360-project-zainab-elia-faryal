@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2326</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/J7BNW_Ezz14/</URL>
+<TITLE>Simulating blindness can help enhance an individual's hearing</TITLE>
+<TIME>Wed, 05 Feb 2014 17:03:20 GMT</TIME>
+<ABSTRACT>
+A study of mice published in the journal Neuron has revealed that minimizing an individual’s sight for just a week can enhance regions of the brain responsible for processing hearing.
+</ABSTRACT>
+<TEXT>
+Despite their handicap, blind musicians like Ray Charles and Stevie Wonder have established incredible, life-long musical careers – leading many to believe that a lack of sight can actually enhance an individual’s hearing ability.  
+Although that claim is mostly anecdotal, the theory now has science to back it up.  A study of mice published in the journal Neuron has revealed that minimizing an individual’s sight for just a week can enhance regions of the brain responsible for processing hearing.
+“My lab has always been interested in studying how the visual experience is encoded in the brain,” study author Hey-Kyoung Lee, an associate professor of neuroscience and researcher at the Mind/Brain Institute at the Johns Hopkins University, told FoxNews.com. “We actually stumbled onto other areas of the brain to see if those parts of the brains changed when vision is impaired.”
+Lee, along with biologist Patrick Kanold of the University of Maryland, College Park, conducted a series of experiments on mice while monitoring their brain activity.  Specifically, they monitored the interaction between neural connections in areas of the brain that encode vision and hearing.
+In order to simulate blindness, the researchers placed a group of healthy adult mice in a darkened environment for a week. During this time, researchers monitored the mice’s responses to certain sounds while analyzing their brain activity.  These results were then compared to mice that had been living in a normal, well-lit environment for a week.
+Not expecting to see any differences, Lee and her team were surprised to discover substantial changes in the brain circuitry of the “blind” mice group.  Compared to the control group, the vision-impaired mice had alterations in their primary auditory cortex – a brain region that processes auditory information such as pitch and loudness.
+“What we found is that the connections between neurons actually become stronger in the auditory cortex,” Lee said.  “So the information coming from the ears all the way to the auditory area of the brain can actually be processed more effectively.”
+Other than possibly explaining the musical abilities of both Wonder and Charles, Lee argued that their discovery could also have many clinical applications – especially for those struggling with hearing loss.
+“By temporarily blinding [people], you might help people recover their hearing,” Lee said. “There are devices called cochlear implants that you can implant in deaf individuals to recover hearing, but [for adults who’ve] never experienced sound, these patients  still have hard time recovering hearing.  We think that maybe by temporarily blinding [people with cochlear implants], we can maybe enhance the neuronal connections in their auditory cortex.”
+Though the researchers only studied blindness’s effect on hearing, Lee noted that an opposite scenario may also hold true: By restricting an individual’s hearing, it’s possible this will cause his or her vision to improve.
+“Maybe we can do the reverse, and maybe we can recover vision after cataract surgery,” Lee said.   “There are several implications where we can enhance the brain’s ability to process incoming sensory information.”
+Lee said further research into the relationship is necessary, but for now, the old adage has been found to be true.
+“People can actually hear better if they can’t see,” Lee said.
+</TEXT>
+</DOC>

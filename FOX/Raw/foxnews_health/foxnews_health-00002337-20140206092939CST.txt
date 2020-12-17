@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2337</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/jx1IYswEphc/</URL>
+<TITLE>Fate of a fertilized egg: Why some embryos don't implant</TITLE>
+<TIME>Thu, 06 Feb 2014 15:29:39 GMT</TIME>
+<ABSTRACT>
+Some embryos fail to implant in the womb, while others implant successfully, leading to pregnancy, and a new study sheds light on why that's the case
+</ABSTRACT>
+<TEXT>
+IVF treatment.
+Some embryos fail to implant in the womb, while others implant successfully, leading to pregnancy, and a new study sheds light on why that's the case.
+In the study, researchers found that human embryos typically produce a chemical called trypsin, which signals the womb to prepare its lining for implantation.
+But in embryos with significant genetic abnormalities, this chemical signal was altered, and it produced a stress response in the womb that could make implantation unlikely, the researchers said. [9 Conditions That Pregnancy May Bring]
+The researchers likened this process to an "entrance exam" set by the womb an embryo needs to pass this test in order to implant.
+But sometimes, the womb may make this exam too difficult or too easy, which could lead to the rejection of healthy embryos, or the implantation of embryos with development problems, the researchers said.
+The new findings may have implications for fertility treatment, because one of the main reasons fertility treatments like in vitro fertilization (IVF) fail is that embryos don't implant.
+With future research into the factors that govern implantation, it may be possible to identify women at risk for miscarriage or other pregnancy complications by taking a sample of her uterus lining, said Jan Brosens, a professor at the University of Warwick in the United Kingdom.
+Certain drugs may also help the uterus set the stage for implantation, Brosens said.
+"What we're looking at now is how to alter the lining of the womb so it can set this 'entrance exam' at the right level, and prevent implantation failure and miscarriages," Brosens said.
+Human embryos are genetically diverse, and some have mutations that impair normal development. In some cases, these impaired embryos will not implant in the uterus, but often, they implant only to undergo miscarriage later.
+In the study, the researchers used four-day-old human embryos that had been created by IVF. Some of the embryos were later implanted in women, and led to successful pregnancies, while others were not suitable for implantation because of developmental impairments. In both cases, the researchers took some of the liquid in which the embryos were growing, and transferred it to lab dishes containing cells of the uterus lining to conduct their experiments.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

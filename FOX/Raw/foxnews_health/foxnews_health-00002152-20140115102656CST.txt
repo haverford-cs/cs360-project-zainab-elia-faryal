@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>2152</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/21CcCnkARIo/</URL>
+<TITLE>For kids with autism, sights and sounds are disjoined</TITLE>
+<TIME>Wed, 15 Jan 2014 16:26:56 GMT</TIME>
+<ABSTRACT>
+The world for children with autism may resemble watching a movie with the audio out of sync.
+</ABSTRACT>
+<TEXT>
+The world for children with autism may resemble watching a movie with the audio out of sync. New research shows these children have trouble putting together what they see with what they hear, and that these deficits may underlie their speech and communication problems.
+For most people, the signals arriving in the brain from the ears and the eyes within a time window of 100 to 200 milliseconds, are put together, to form one perception. For example, hearing the sound of a word and seeing the movement of lips together creates the perception of a spoken word.
+The new study showed that in children with autism, the time window for binding signals together is wider, meaning that the brain integrates events that happened as much as half a second (500 milliseconds) apart, and should have been perceived as separate events, according to the study. The findings are published today (Jan. 14) in the Journal of Neuroscience.
+"Children with autism have trouble integrating simultaneous information from their eyes and their ears," said study researcher Stephen Camarata, professor of hearing and speech sciences at Vanderbilt University in Nashville, Tenn. "It is like they are watching a foreign movie that was badly dubbed."
+What's more, the researchers found that the wider the time window, the poorer a child's ability to properly bind lip movements to speech an important mechanism in language learning.
+In children with autism, "when audio and visual signals happen during word learning, they don't get linked properly," said Camarata, who works with autistic children on their language and communication skills. "For example, when I point to a cup on my desk and say 'cup', the word gets bound to the image of the cup. But in children with autism, they might be looking at something else, and then the word cup comes and gets bound to the hat they are looking at."
+Illusions
+The new study included 32 typical children and 32 high-functioning children with autism, ages 6 to 18. Researchers used simple auditory and visual stimuli, such as flashes and beeps played on a computer, and also more complex environmental stimuli, such as spoken words and a hammer hitting a nail. Scientists asked the participants to say whether the visual and auditory events happened at the same time.
+In one set of experiments, the researchers used a sound-induced flash illusion, in which hearing two beeps deceives most people into thinking they saw two flashes when only one flash has appeared on a screen. [See video of the sound-induced flash illusion]
+For the illusion to work, the beeps must happen nearly simultaneously with the flash, within a 200-millisecond window. If the beeps and the flash happen further apart, the auditory and visual events remain separated in the mind.
+However, "in autism, if the flashes and the beeps are even as far as half a second apart, people may say there are two flashes," Camarata said.
+Next, the researchers used another well-known illusion, called the McGurk effect. In this audiovisual illusion, when the visual component of one sound is coupled with the auditory component of another sound, people bind these signals together and perceive a third sound. For example, when an actor says "ga-ga," but the audio dubbed over his voice says "ba-ba," people report hearing "da-da." [10 Things You Didn't Know About the Brain]
+In the new study, children with autism were less likely than typical children to bind the information together and report a third sound. Moreover, the poorer their acuity in the first flash-beep task, the lesser was their ability to combine auditory and visual information in the second illusion.
+Building blocks of language
+Insights from the results may help improve therapies for children with autism who have communication difficulties, the researchers said.
+"If we can fix this deficit in early sensory function, then maybe we can see benefits in language and communication and social interactions," said study researcher Mark Wallace, director of the Vanderbilt Brain Institute.
+Possible therapies may include training the brain to narrow the binding window, or, when teaching language, presenting the words in a way that they are very salient, Camarata said. "In other words, when I point to my coffee cup, I might do it over and over again, in a clear environment, increasing the chances that the word cup would get bound to the image of the cup," he said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>

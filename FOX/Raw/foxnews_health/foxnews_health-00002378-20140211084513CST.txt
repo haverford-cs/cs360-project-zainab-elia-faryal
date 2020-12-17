@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO>2378</DOCNO>
+<URL>http://feeds.foxnews.com/~r/foxnews/health/~3/X2J888JiLd0/</URL>
+<TITLE>Hundreds of cancer apps: Do they work?</TITLE>
+<TIME>Tue, 11 Feb 2014 14:45:13 GMT</TIME>
+<ABSTRACT>
+Smartphone apps aimed at preventing cancer, or helping people with the disease to manage it, have the potential to improve people's health, but many of these apps have drawbacks, researchers say
+</ABSTRACT>
+<TEXT>
+Smartphone apps aimed at preventing cancer, or helping people with the disease to manage it, have the potential to improve people's health, but many of these apps have drawbacks, researchers say.
+In a new study, researchers reviewed 295 cancer-focused apps available in the four major smartphone platforms (iPhone, Android, Nokia and BlackBerry). They found that most apps aimed to raise awareness about cancer (32 percent of the apps), followed by apps providing educational information about cancer (nearly 13 percent), and those designed to support fundraising efforts.
+Fewer of the apps aimed to help people with early detection(11.5 percent), prevention (2 percent) or management of cancer (nearly 4 percent), according to the study.
+The researchers found that despite the increasing interest in using mobile phones as platforms to deliver health care, and the apps' ability to provide users with cancer information, they still have limited value in getting people to behave in ways that could lower their risk of cancer, the researchers said. [10 Do's and Don'tsto Reduce Your Risk of Cancer]
+"It is well recognized that information alone is insufficient to change behavior, particularly when complex behavior change is the aim," the researchers wrote in their study. To be effective, health promotion efforts must also teach people the skills to translate that knowledge into effective practices, they said.
+The researchers also found that apps addressed different types of cancers disproportionately. Almost half of the apps targeted breast cancer, even though just 14 percent of new cancer cases in the United States are breast cancer. On the other hand, other common cancers, including of the prostate, lung and colon were underrepresented among apps.
+Because smartphones are almost ubiquitous, apps have the potential to prompt people to change their behavior to lower their risk of cancer, and for those with cancer, to monitor symptomsof disease, conveniently and at low cost, the researchers said.
+There are several strategies that apps can use for delivering health care, the researchers said. For example, apps can track the patient's health information, and provide remote monitoring of symptoms. Or, they can make use of games to motivate people to switch to healthier lifestyles and better manage their health.
+Apps can also provide social support to help patients keep up with a desired behavior, for example, quitting smoking, eating healthier and exercising more.
+However, the apps reviewed in the study didn't fully take advantage of the smartphone's social networking capabilities, the researchers said. Only three apps let users connect with other people to exchange information and support.
+The researchers noted that relying on apps could be detrimental to health. The study found nine apps for early detection of skin cancer, some of which included tools to analyze an image of the user's skin lesions to determine risk for skin cancer melanoma. A previous study of four such apps found that three of them classified 30 percent of melanoma spots on the skin as "unconcerning."
+"These types of apps have the potential to cause distress and harm if they provide the patient with advice that is misleading," the researchers said.
+Copyright 2014 LiveScience, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+</TEXT>
+</DOC>
