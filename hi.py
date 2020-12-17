@@ -10,5 +10,5 @@ example_headline2 = "bla bla bla"
 
 h = Headline(example_headline)
 h2 = Headline(example_headline2)
-#print(h.data)
-#print(h2.data)
+# print(h.data)
+# print(h2.data)

@@ -16,13 +16,14 @@ def main():
     train_data = load_data('headlines_train.csv')
     test_data = load_data('headlines_test.csv')
 
+
+
     alpha = opts.alpha
 
     test_x = []
     test_y = []
     train_x = []
     train_y = []
-
     for x_entry in train_data.X:
         train_x.append(x_entry)
 
