@@ -1,0 +1,29 @@
+LAB NOTEBOOK
+
+Elia:
+
+Zainab:
+
+12/16/2020: (4 hours)
+Fixed nltk, stopwords and encoding errors on machine
+Few refinements like implementing shuffling
+Changed corpus to only consider training set
+Added binary labels storing
+Created feature vectors using corpus and headlines from above
+Split features into training and testing datasets
+Converted into vector format in csv files suitable for Logistic Regression
+
+12/17/2020: (3 hours)
+Attempted to implement Logistic Regression using Lab5 code
+Ran into math computation errors
+Experimented with changing binary classification values and feature values
+Created Lab Notebook and Presentation outline
+
+Faryal:
+
+
+References:
+https://sites.google.com/site/qianmingjie/home/datasets/cnn-and-fox-news
+https://realpython.com/python-csv/
+https://stackoverflow.com/questions/35861482/nltk-lookup-error
+https://stackoverflow.com/questions/3710374/get-encoding-of-a-file-in-windows
