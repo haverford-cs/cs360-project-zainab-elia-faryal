@@ -20,6 +20,15 @@ Experimented with changing binary classification values and feature values
 Created Lab Notebook and Presentation outline
 
 Faryal:
+12/16/20  ~ 2 hours
+Refining and testing code for Logistic Regression and Naive Bayes labs 
+Looked into data sets and pros and cons of each algorithm 
+12/17/20 ~4.5 hours
+Implemented Logistic Regression using lab code on data set
+Implemented and ran into problems using Naive Bayes code, tried to change util file to parse csv
+Research about sklearn and pandas implementation of Naive Bayes and implemented this instead
+Fixed some hardcoding issues in Naive Bayes code, made edits to readme and merged code
+Finished presentation
 
 
 References:
