@@ -2,6 +2,18 @@ LAB NOTEBOOK
 
 Elia:
 
+12/16/2020: (5.5 hours)
+Did pre-processing:
+Made Corpus.py and Headline.py
+Ran into python package importing issues
+Cleaned data (separated txt files)
+Cleaned html files (separated titles)
+Imported nltk and created corpus
+Edited corpus to not include stop words, punctuation and numbers
+Initiated featurization of headlines
+Created dict that stores 0 and 1 values for each word of corpus in Headline.py
+Helped Zainab troubleshoot nltk and encoding errors after passing down the code
+
 Zainab:
 
 12/16/2020: (4 hours)
